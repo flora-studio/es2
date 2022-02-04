@@ -3,7 +3,7 @@ const fs = require('fs')
 
 const BASE_URL = 'https://ensemble-stars.fandom.com'
 
-const name = 'Tomoya_Mashiro' // 角色名
+const name = 'Izumi_Sena' // 角色名
 const database = {} // 角色名 => 卡的数组
 
 const c = new Crawler({
@@ -22,6 +22,7 @@ c.queue({
       const allcards = $('.cardlist a').map((i, item) => {
         const imgElem = $(item).children().first()
         return {
+          i: i,
           title: $(item).attr('title'),
           url: $(item).attr('href'),
           img: imgElem.attr('data-src') || imgElem.attr('src') // lazyload 的要读 data-src
@@ -62,8 +63,8 @@ c.queue({
 
 c.on('drain', () => {
   console.log(database)
-  if (!fs.existsSync(`../cards/${name}/`)) {
-    fs.mkdirSync(`../cards/${name}/`)
+  if (!fs.existsSync(`./cards/${name}/`)) {
+    fs.mkdirSync(`./cards/${name}/`)
   }
-  fs.writeFileSync(`../cards/${name}/index.json`, JSON.stringify(database[name], null, 2))
+  fs.writeFileSync(`./cards/${name}/index.json`, JSON.stringify(database[name], null, 2))
 })

@@ -1,0 +1,418 @@
+{
+  "Shinobu_Sengoku": [
+    {
+      "id": "Shinobu_Sengoku_0",
+      "star": 5,
+      "name": "闇より出づる光",
+      "series": 0
+    },
+    {
+      "id": "Shinobu_Sengoku_2",
+      "star": 5,
+      "name": "変わらぬ子供心",
+      "series": 0
+    },
+    {
+      "id": "Shinobu_Sengoku_4",
+      "star": 5,
+      "name": "忍法・現代ナイズ",
+      "series": 0
+    },
+    {
+      "id": "Shinobu_Sengoku_6",
+      "star": 4,
+      "name": "忍者を愛する者",
+      "series": 0
+    },
+    {
+      "id": "Shinobu_Sengoku_8",
+      "star": 4,
+      "name": "スタプロの隠密",
+      "series": 0
+    },
+    {
+      "id": "Shinobu_Sengoku_10",
+      "star": 4,
+      "name": "献身のモーターショウ",
+      "series": 0
+    },
+    {
+      "id": "Shinobu_Sengoku_12",
+      "star": 4,
+      "name": "ハウライト.S",
+      "series": 0
+    },
+    {
+      "id": "Shinobu_Sengoku_14",
+      "star": 4,
+      "name": "忍者談議",
+      "series": 0
+    },
+    {
+      "id": "Shinobu_Sengoku_16",
+      "star": 4,
+      "name": "忍者ロック",
+      "series": 0
+    },
+    {
+      "id": "Shinobu_Sengoku_18",
+      "star": 3,
+      "name": "練習風景",
+      "series": 0
+    },
+    {
+      "id": "Shinobu_Sengoku_20",
+      "star": 3,
+      "name": "わずかな差",
+      "series": 0
+    },
+    {
+      "id": "Shinobu_Sengoku_22",
+      "star": 3,
+      "name": "庇護とデッドエンド",
+      "series": 0
+    },
+    {
+      "id": "Shinobu_Sengoku_24",
+      "star": 3,
+      "name": "流星とできること",
+      "series": 0
+    },
+    {
+      "id": "Shinobu_Sengoku_26",
+      "star": 3,
+      "name": "瀬踏みサブマリン",
+      "series": 0
+    },
+    {
+      "id": "Shinobu_Sengoku_28",
+      "star": 3,
+      "name": "今だけのもの",
+      "series": 0
+    },
+    {
+      "id": "Shinobu_Sengoku_30",
+      "star": 3,
+      "name": "知識のスフィア",
+      "series": 0
+    },
+    {
+      "id": "Shinobu_Sengoku_36",
+      "star": 5,
+      "name": "山あり谷あり",
+      "series": 0
+    },
+    {
+      "id": "Shinobu_Sengoku_38",
+      "star": 5,
+      "name": "ぎこちない心",
+      "series": 0
+    },
+    {
+      "id": "Shinobu_Sengoku_40",
+      "star": 5,
+      "name": "ベリーモンスター",
+      "series": 0
+    },
+    {
+      "id": "Shinobu_Sengoku_42",
+      "star": 5,
+      "name": "忍者の生きかた",
+      "series": 0
+    },
+    {
+      "id": "Shinobu_Sengoku_44",
+      "star": 5,
+      "name": "シャイ忍者",
+      "series": 0
+    },
+    {
+      "id": "Shinobu_Sengoku_46",
+      "star": 5,
+      "name": "希望の明かり",
+      "series": 0
+    },
+    {
+      "id": "Shinobu_Sengoku_48",
+      "star": 5,
+      "name": "七夕の宣言",
+      "series": 0
+    },
+    {
+      "id": "Shinobu_Sengoku_50",
+      "star": 5,
+      "name": "リスの大冒険",
+      "series": 0
+    },
+    {
+      "id": "Shinobu_Sengoku_52",
+      "star": 5,
+      "name": "封印のナイトレイド",
+      "series": 0
+    },
+    {
+      "id": "Shinobu_Sengoku_54",
+      "star": 5,
+      "name": "流星隊の元気",
+      "series": 0
+    },
+    {
+      "id": "Shinobu_Sengoku_56",
+      "star": 4,
+      "name": "炸裂忍者",
+      "series": 0
+    },
+    {
+      "id": "Shinobu_Sengoku_58",
+      "star": 4,
+      "name": "海上の忍者",
+      "series": 0
+    },
+    {
+      "id": "Shinobu_Sengoku_60",
+      "star": 4,
+      "name": "青春放送局",
+      "series": 0
+    },
+    {
+      "id": "Shinobu_Sengoku_62",
+      "star": 4,
+      "name": "満喫遊園地",
+      "series": 0
+    },
+    {
+      "id": "Shinobu_Sengoku_64",
+      "star": 4,
+      "name": "砂のお城",
+      "series": 0
+    },
+    {
+      "id": "Shinobu_Sengoku_66",
+      "star": 4,
+      "name": "希望を抱いて",
+      "series": 0
+    },
+    {
+      "id": "Shinobu_Sengoku_68",
+      "star": 4,
+      "name": "人見知り一年生",
+      "series": 0
+    },
+    {
+      "id": "Shinobu_Sengoku_70",
+      "star": 4,
+      "name": "軽快セーラー",
+      "series": 0
+    },
+    {
+      "id": "Shinobu_Sengoku_72",
+      "star": 4,
+      "name": "忍ばない流れ星",
+      "series": 0
+    },
+    {
+      "id": "Shinobu_Sengoku_74",
+      "star": 4,
+      "name": "忍者ヒーロー",
+      "series": 0
+    },
+    {
+      "id": "Shinobu_Sengoku_76",
+      "star": 4,
+      "name": "三周年記念",
+      "series": 0
+    },
+    {
+      "id": "Shinobu_Sengoku_78",
+      "star": 4,
+      "name": "パーティの席",
+      "series": 0
+    },
+    {
+      "id": "Shinobu_Sengoku_80",
+      "star": 4,
+      "name": "四周年記念",
+      "series": 0
+    },
+    {
+      "id": "Shinobu_Sengoku_82",
+      "star": 4,
+      "name": "登竜の鯉",
+      "series": 0
+    },
+    {
+      "id": "Shinobu_Sengoku_84",
+      "star": 3,
+      "name": "木の上",
+      "series": 0
+    },
+    {
+      "id": "Shinobu_Sengoku_86",
+      "star": 3,
+      "name": "寂しがりや",
+      "series": 0
+    },
+    {
+      "id": "Shinobu_Sengoku_88",
+      "star": 3,
+      "name": "気がかり",
+      "series": 0
+    },
+    {
+      "id": "Shinobu_Sengoku_90",
+      "star": 3,
+      "name": "人探し",
+      "series": 0
+    },
+    {
+      "id": "Shinobu_Sengoku_92",
+      "star": 3,
+      "name": "希望の黄",
+      "series": 0
+    },
+    {
+      "id": "Shinobu_Sengoku_94",
+      "star": 3,
+      "name": "新しいふれあい",
+      "series": 0
+    },
+    {
+      "id": "Shinobu_Sengoku_96",
+      "star": 3,
+      "name": "イエローサンタ",
+      "series": 0
+    },
+    {
+      "id": "Shinobu_Sengoku_98",
+      "star": 3,
+      "name": "積極的な日",
+      "series": 0
+    },
+    {
+      "id": "Shinobu_Sengoku_100",
+      "star": 3,
+      "name": "お友達のため",
+      "series": 0
+    },
+    {
+      "id": "Shinobu_Sengoku_102",
+      "star": 3,
+      "name": "藍のトレロ",
+      "series": 0
+    },
+    {
+      "id": "Shinobu_Sengoku_104",
+      "star": 3,
+      "name": "軍勢の戦",
+      "series": 0
+    },
+    {
+      "id": "Shinobu_Sengoku_106",
+      "star": 3,
+      "name": "おでかけ",
+      "series": 0
+    },
+    {
+      "id": "Shinobu_Sengoku_108",
+      "star": 3,
+      "name": "投擲の兵",
+      "series": 0
+    },
+    {
+      "id": "Shinobu_Sengoku_110",
+      "star": 3,
+      "name": "注目と花火",
+      "series": 0
+    },
+    {
+      "id": "Shinobu_Sengoku_112",
+      "star": 3,
+      "name": "黄色い流星",
+      "series": 0
+    },
+    {
+      "id": "Shinobu_Sengoku_114",
+      "star": 3,
+      "name": "札探し",
+      "series": 0
+    },
+    {
+      "id": "Shinobu_Sengoku_116",
+      "star": 3,
+      "name": "忍者キョンシー",
+      "series": 0
+    },
+    {
+      "id": "Shinobu_Sengoku_118",
+      "star": 3,
+      "name": "忍ぶ猟師",
+      "series": 0
+    },
+    {
+      "id": "Shinobu_Sengoku_120",
+      "star": 3,
+      "name": "協力プレイ",
+      "series": 0
+    },
+    {
+      "id": "Shinobu_Sengoku_122",
+      "star": 3,
+      "name": "庶民パーティ",
+      "series": 0
+    },
+    {
+      "id": "Shinobu_Sengoku_124",
+      "star": 3,
+      "name": "五人の舞台",
+      "series": 0
+    },
+    {
+      "id": "Shinobu_Sengoku_126",
+      "star": 3,
+      "name": "大切な相棒",
+      "series": 0
+    },
+    {
+      "id": "Shinobu_Sengoku_128",
+      "star": 3,
+      "name": "黒の忍者",
+      "series": 0
+    },
+    {
+      "id": "Shinobu_Sengoku_130",
+      "star": 3,
+      "name": "輝くギフト",
+      "series": 0
+    },
+    {
+      "id": "Shinobu_Sengoku_132",
+      "star": 3,
+      "name": "各々の持ち場",
+      "series": 0
+    },
+    {
+      "id": "Shinobu_Sengoku_134",
+      "star": 3,
+      "name": "青薔薇の暗殺者",
+      "series": 0
+    },
+    {
+      "id": "Shinobu_Sengoku_140",
+      "star": 4,
+      "name": "開心的野營",
+      "series": 0
+    },
+    {
+      "id": "Shinobu_Sengoku_142",
+      "star": 3,
+      "name": "寡言的友情",
+      "series": 0
+    },
+    {
+      "id": "Shinobu_Sengoku_144",
+      "star": 3,
+      "name": "機敏之輝",
+      "series": 0
+    }
+  ]
+}
