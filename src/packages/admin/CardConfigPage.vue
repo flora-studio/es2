@@ -10,9 +10,10 @@
   </div>
 </template>
 <script setup lang="tsx">
-import { NSelect, NDataTable, NInput, NButton, NSpace, NInputNumber, NPopconfirm } from "naive-ui"
+import { NSelect, NDataTable, NInput, NButton, NSpace, NInputNumber, NPopconfirm, NTooltip } from "naive-ui"
 import useCharas from "../../composables/useCharas"
 import useCards, {Card} from "../../composables/useCards"
+import useCardImg from "../../composables/useCardImg"
 import {computed, reactive, ref, h} from "vue"
 
 // 人物选择
@@ -27,6 +28,17 @@ const columns = [
   {
     title: 'id',
     key: 'id',
+    width: 72,
+    render(row: Card) {
+      return (
+        <NTooltip trigger="hover">
+          {{
+            default: () => row.id,
+            trigger: () => <img width={60} src={useCardImg(row.id)} alt={row.id} />
+          }}
+        </NTooltip>
+      )
+    }
   },
   {
     title: '卡面名称',
