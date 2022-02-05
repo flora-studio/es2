@@ -4,7 +4,7 @@
     <n-select v-model:value="currentChara" :options="options" filterable />
     <n-space style="margin: 12px 0 8px">
       <n-button type="primary">新增卡片</n-button>
-      <n-button>导出全部</n-button>
+      <n-button @click="exportJson(allCards, 'card.json')">导出全部</n-button>
     </n-space>
     <n-data-table :columns="columns" :data="currentCards" :row-key="row => row.id" striped max-height="calc(100vh - 240px)" />
   </div>
@@ -12,9 +12,11 @@
 <script setup lang="tsx">
 import { NSelect, NDataTable, NInput, NButton, NSpace, NInputNumber, NPopconfirm, NTooltip } from "naive-ui"
 import useCharas from "../../composables/useCharas"
-import useCards, {Card} from "../../composables/useCards"
+import {Card} from "../../composables/useCards"
 import useCardImg from "../../composables/useCardImg"
-import {computed, reactive, ref, h} from "vue"
+import {computed, ref, h} from "vue"
+import useCardStorage from "./composables/useCardStorage"
+import { exportJson } from "./utils"
 
 // 人物选择
 const allCharacters = useCharas()
@@ -22,7 +24,7 @@ const options = computed(() => allCharacters.map(item => ({ label: item.name, va
 const currentChara = ref(options.value?.[0].value || '')
 
 // 卡片数据
-const allCards = reactive(useCards())
+const allCards = useCardStorage()
 const currentCards = computed(() => allCards[currentChara.value])
 const columns = [
   {
@@ -56,7 +58,7 @@ const columns = [
     },
   },
   {
-    title: '加入的卡池',
+    title: 'UP的卡池',
     key: 'series',
     width: 150,
     render(row: Card, index: number) {
