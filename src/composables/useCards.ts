@@ -7,11 +7,8 @@ export interface Card {
   series: number
 }
 
-export default function useCards(chara?: string): Card[] {
-  if (chara) {
-    return cards[chara] || []
-  } else {
-    // todo
-    return []
-  }
+export type CardsByChara = { [key: string]: Card[] }
+
+export default function useCards(): CardsByChara {
+  return cards
 }

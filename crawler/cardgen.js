@@ -1,6 +1,6 @@
 const fs = require('fs')
 
-const name = 'Shinobu_Sengoku' // 角色名
+const name = 'Tomoya_Mashiro' // 角色名
 
 const database = require('../src/data/card.json')
 const data = require(`./cards/${name}/index.json`)

@@ -1,24 +1,28 @@
 <template>
   <div>
     <div>选择人物：</div>
-    <n-select v-model:value="currentChara" :options="options" />
-    <div style="margin-top: 12px">该人物的所有卡片：</div>
-    <n-data-table :columns="columns" :data="cards" :row-key="row => row.id" striped />
+    <n-select v-model:value="currentChara" :options="options" filterable />
+    <n-space style="margin: 12px 0 8px">
+      <n-button type="primary">新增卡片</n-button>
+      <n-button>导出全部</n-button>
+    </n-space>
+    <n-data-table :columns="columns" :data="currentCards" :row-key="row => row.id" striped max-height="calc(100vh - 240px)" />
   </div>
 </template>
-<script setup>
-import { NSelect, NDataTable, NInput } from "naive-ui"
+<script setup lang="tsx">
+import { NSelect, NDataTable, NInput, NButton, NSpace, NInputNumber, NPopconfirm } from "naive-ui"
 import useCharas from "../../composables/useCharas"
-import useCards from "../../composables/useCards"
-import {computed, ref} from "vue"
+import useCards, {Card} from "../../composables/useCards"
+import {computed, reactive, ref, h} from "vue"
 
 // 人物选择
-const currentChara = ref('')
 const allCharacters = useCharas()
 const options = computed(() => allCharacters.map(item => ({ label: item.name, value: item.key })))
+const currentChara = ref(options.value?.[0].value || '')
 
 // 卡片数据
-const cards = computed(() => useCards(currentChara.value))
+const allCards = reactive(useCards())
+const currentCards = computed(() => allCards[currentChara.value])
 const columns = [
   {
     title: 'id',
@@ -27,18 +31,40 @@ const columns = [
   {
     title: '卡面名称',
     key: 'name',
+    render(row: Card, index: number) {
+      return <NInput value={row.name} onUpdateValue={v => allCards[currentChara.value][index].name = v} />
+    }
   },
   {
     title: '星级',
     key: 'star',
+    width: 100,
+    render(row: Card, index: number) {
+      return <NInputNumber min={1} max={5} value={row.star} onUpdateValue={v => allCards[currentChara.value][index].star = v || 0} />
+    },
   },
   {
     title: '加入的卡池',
-    key: 'series'
+    key: 'series',
+    width: 150,
+    render(row: Card, index: number) {
+      return <NInputNumber min={0} value={row.series} onUpdateValue={v => allCards[currentChara.value][index].series = v || 0} />
+    }
+  },
+  {
+    title: '操作',
+    key: 'action',
+    width: 100,
+    render(row: Card, index: number) {
+      return (
+        <NPopconfirm onPositiveClick={() => allCards[currentChara.value].splice(index, 1)}>
+          {{
+            default: () => '确认删除吗？',
+            trigger: () => <NButton size="small" type="error" secondary>删除</NButton>
+          }}
+        </NPopconfirm>
+      )
+    }
   }
 ]
-
 </script>
-<style scoped>
-
-</style>

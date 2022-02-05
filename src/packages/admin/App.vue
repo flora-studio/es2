@@ -1,16 +1,18 @@
 <template>
-  <div>
-    <div class="page-title">卡片&卡池配置</div>
-    <div class="page-main">
-      <n-menu v-model:value="menu" :options="menuOptions" />
-      <div class="view">
-        <card-config-page v-show="menu === 'Card'" />
+  <n-config-provider :locale="zhCN" :date-locale="dateZhCN">
+    <div>
+      <div class="page-title">卡片&卡池配置</div>
+      <div class="page-main">
+        <n-menu v-model:value="menu" :options="menuOptions" />
+        <div class="view">
+          <card-config-page v-show="menu === 'Card'" />
+        </div>
       </div>
     </div>
-  </div>
+  </n-config-provider>
 </template>
 <script setup lang="ts">
-import { NMenu } from "naive-ui"
+import { NConfigProvider, NMenu, zhCN, dateZhCN } from "naive-ui"
 import {computed, ref} from "vue"
 import CardConfigPage from "./CardConfigPage.vue";
 

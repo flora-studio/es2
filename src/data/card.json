@@ -414,5 +414,385 @@
       "name": "機敏之輝",
       "series": 0
     }
+  ],
+  "Tomoya_Mashiro": [
+    {
+      "id": "Tomoya_Mashiro_0",
+      "star": 5,
+      "name": "兎群のリーダー",
+      "series": 0
+    },
+    {
+      "id": "Tomoya_Mashiro_2",
+      "star": 5,
+      "name": "王道ど真ん中",
+      "series": 0
+    },
+    {
+      "id": "Tomoya_Mashiro_4",
+      "star": 5,
+      "name": "絶体絶命の一撃",
+      "series": 0
+    },
+    {
+      "id": "Tomoya_Mashiro_6",
+      "star": 5,
+      "name": "飛躍サンクチュアリ",
+      "series": 0
+    },
+    {
+      "id": "Tomoya_Mashiro_8",
+      "star": 4,
+      "name": "ラブ・フレンズ",
+      "series": 0
+    },
+    {
+      "id": "Tomoya_Mashiro_10",
+      "star": 4,
+      "name": "リズリンの有望",
+      "series": 0
+    },
+    {
+      "id": "Tomoya_Mashiro_12",
+      "star": 4,
+      "name": "黄黒の案内者",
+      "series": 0
+    },
+    {
+      "id": "Tomoya_Mashiro_14",
+      "star": 4,
+      "name": "地道こそロック",
+      "series": 0
+    },
+    {
+      "id": "Tomoya_Mashiro_16",
+      "star": 4,
+      "name": "ファン心理",
+      "series": 0
+    },
+    {
+      "id": "Tomoya_Mashiro_18",
+      "star": 3,
+      "name": "練習風景",
+      "series": 0
+    },
+    {
+      "id": "Tomoya_Mashiro_20",
+      "star": 3,
+      "name": "悩める演者",
+      "series": 0
+    },
+    {
+      "id": "Tomoya_Mashiro_22",
+      "star": 3,
+      "name": "共同とデッドエンド",
+      "series": 0
+    },
+    {
+      "id": "Tomoya_Mashiro_24",
+      "star": 3,
+      "name": "ジュントウタイム",
+      "series": 0
+    },
+    {
+      "id": "Tomoya_Mashiro_26",
+      "star": 3,
+      "name": "お叱りブラック",
+      "series": 0
+    },
+    {
+      "id": "Tomoya_Mashiro_28",
+      "star": 3,
+      "name": "普遍の悟空",
+      "series": 0
+    },
+    {
+      "id": "Tomoya_Mashiro_34",
+      "star": 5,
+      "name": "自分らしく",
+      "series": 0
+    },
+    {
+      "id": "Tomoya_Mashiro_36",
+      "star": 5,
+      "name": "天才と普通",
+      "series": 0
+    },
+    {
+      "id": "Tomoya_Mashiro_38",
+      "star": 5,
+      "name": "姫と騎士",
+      "series": 0
+    },
+    {
+      "id": "Tomoya_Mashiro_40",
+      "star": 5,
+      "name": "灰かぶり",
+      "series": 0
+    },
+    {
+      "id": "Tomoya_Mashiro_42",
+      "star": 5,
+      "name": "ウィンターサンタ",
+      "series": 0
+    },
+    {
+      "id": "Tomoya_Mashiro_44",
+      "star": 5,
+      "name": "突撃スプラッシュ",
+      "series": 0
+    },
+    {
+      "id": "Tomoya_Mashiro_46",
+      "star": 5,
+      "name": "何色の仮面",
+      "series": 0
+    },
+    {
+      "id": "Tomoya_Mashiro_48",
+      "star": 5,
+      "name": "Ra*bitsのこだわり屋",
+      "series": 0
+    },
+    {
+      "id": "Tomoya_Mashiro_50",
+      "star": 4,
+      "name": "気配り",
+      "series": 0
+    },
+    {
+      "id": "Tomoya_Mashiro_52",
+      "star": 4,
+      "name": "吹き鳴らす春",
+      "series": 0
+    },
+    {
+      "id": "Tomoya_Mashiro_54",
+      "star": 4,
+      "name": "動いた心の先",
+      "series": 0
+    },
+    {
+      "id": "Tomoya_Mashiro_56",
+      "star": 4,
+      "name": "トレーニングの夏",
+      "series": 0
+    },
+    {
+      "id": "Tomoya_Mashiro_58",
+      "star": 4,
+      "name": "ホットショコラ",
+      "series": 0
+    },
+    {
+      "id": "Tomoya_Mashiro_60",
+      "star": 4,
+      "name": "軒先の猫又",
+      "series": 0
+    },
+    {
+      "id": "Tomoya_Mashiro_62",
+      "star": 4,
+      "name": "チャレンジゾンビ",
+      "series": 0
+    },
+    {
+      "id": "Tomoya_Mashiro_64",
+      "star": 4,
+      "name": "成長の姿",
+      "series": 0
+    },
+    {
+      "id": "Tomoya_Mashiro_66",
+      "star": 4,
+      "name": "お年頃ラビッツ",
+      "series": 0
+    },
+    {
+      "id": "Tomoya_Mashiro_68",
+      "star": 4,
+      "name": "新人の公演",
+      "series": 0
+    },
+    {
+      "id": "Tomoya_Mashiro_70",
+      "star": 4,
+      "name": "三周年記念",
+      "series": 0
+    },
+    {
+      "id": "Tomoya_Mashiro_72",
+      "star": 4,
+      "name": "十五夜の想い",
+      "series": 0
+    },
+    {
+      "id": "Tomoya_Mashiro_74",
+      "star": 4,
+      "name": "サニースプリング",
+      "series": 0
+    },
+    {
+      "id": "Tomoya_Mashiro_76",
+      "star": 4,
+      "name": "四周年記念",
+      "series": 0
+    },
+    {
+      "id": "Tomoya_Mashiro_78",
+      "star": 3,
+      "name": "普通",
+      "series": 0
+    },
+    {
+      "id": "Tomoya_Mashiro_80",
+      "star": 3,
+      "name": "思わぬ幸せ",
+      "series": 0
+    },
+    {
+      "id": "Tomoya_Mashiro_82",
+      "star": 3,
+      "name": "脱出",
+      "series": 0
+    },
+    {
+      "id": "Tomoya_Mashiro_84",
+      "star": 3,
+      "name": "憧れの背中",
+      "series": 0
+    },
+    {
+      "id": "Tomoya_Mashiro_86",
+      "star": 3,
+      "name": "熊猫点心",
+      "series": 0
+    },
+    {
+      "id": "Tomoya_Mashiro_88",
+      "star": 3,
+      "name": "最初のレッスン",
+      "series": 0
+    },
+    {
+      "id": "Tomoya_Mashiro_90",
+      "star": 3,
+      "name": "込めた応援",
+      "series": 0
+    },
+    {
+      "id": "Tomoya_Mashiro_92",
+      "star": 3,
+      "name": "普通のあり方",
+      "series": 0
+    },
+    {
+      "id": "Tomoya_Mashiro_94",
+      "star": 3,
+      "name": "体当たり",
+      "series": 0
+    },
+    {
+      "id": "Tomoya_Mashiro_96",
+      "star": 3,
+      "name": "しっかり妖精",
+      "series": 0
+    },
+    {
+      "id": "Tomoya_Mashiro_98",
+      "star": 3,
+      "name": "白のトレロ",
+      "series": 0
+    },
+    {
+      "id": "Tomoya_Mashiro_100",
+      "star": 3,
+      "name": "悪のイメージ",
+      "series": 0
+    },
+    {
+      "id": "Tomoya_Mashiro_102",
+      "star": 3,
+      "name": "スタンダード戦士",
+      "series": 0
+    },
+    {
+      "id": "Tomoya_Mashiro_104",
+      "star": 3,
+      "name": "道端の鳩",
+      "series": 0
+    },
+    {
+      "id": "Tomoya_Mashiro_106",
+      "star": 3,
+      "name": "補佐天使",
+      "series": 0
+    },
+    {
+      "id": "Tomoya_Mashiro_108",
+      "star": 3,
+      "name": "ふわふわウサギ",
+      "series": 0
+    },
+    {
+      "id": "Tomoya_Mashiro_110",
+      "star": 3,
+      "name": "照れ顔ライブ",
+      "series": 0
+    },
+    {
+      "id": "Tomoya_Mashiro_112",
+      "star": 3,
+      "name": "実験実況",
+      "series": 0
+    },
+    {
+      "id": "Tomoya_Mashiro_114",
+      "star": 3,
+      "name": "ハッピーホワイト",
+      "series": 0
+    },
+    {
+      "id": "Tomoya_Mashiro_116",
+      "star": 3,
+      "name": "応援観客",
+      "series": 0
+    },
+    {
+      "id": "Tomoya_Mashiro_118",
+      "star": 3,
+      "name": "漫画交換",
+      "series": 0
+    },
+    {
+      "id": "Tomoya_Mashiro_120",
+      "star": 3,
+      "name": "バイトの仲間",
+      "series": 0
+    },
+    {
+      "id": "Tomoya_Mashiro_122",
+      "star": 3,
+      "name": "試みサマーナイト",
+      "series": 0
+    },
+    {
+      "id": "Tomoya_Mashiro_128",
+      "star": 4,
+      "name": "拳师学徒",
+      "series": 0
+    },
+    {
+      "id": "Tomoya_Mashiro_130",
+      "star": 3,
+      "name": "傳說的繼承者",
+      "series": 0
+    },
+    {
+      "id": "Tomoya_Mashiro_132",
+      "star": 3,
+      "name": "玩耍与照顾",
+      "series": 0
+    }
   ]
 }
