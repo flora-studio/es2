@@ -1,20 +1,50 @@
-<script setup lang="ts">
-// This starter template is using Vue 3 <script setup> SFCs
-// Check out https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup
-// import HelloWorld from './components/HelloWorld.vue'
-</script>
-
 <template>
-  <div>页面2</div>
+  <div>
+    <div class="page-title">卡片&卡池配置</div>
+    <div class="page-main">
+      <n-menu v-model:value="menu" :options="menuOptions" />
+      <div class="view">
+        <card-config-page v-show="menu === 'Card'" />
+      </div>
+    </div>
+  </div>
 </template>
+<script setup lang="ts">
+import { NMenu } from "naive-ui"
+import {computed, ref} from "vue"
+import CardConfigPage from "./CardConfigPage.vue";
 
-<style>
-#app {
-  font-family: Avenir, Helvetica, Arial, sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-  text-align: center;
-  color: #2c3e50;
-  margin-top: 60px;
+const menu = ref('Card')
+const menuOptions = [
+  {
+    label: '卡片配置',
+    key: 'Card',
+  },
+  {
+    label: '卡池配置',
+    key: 'Pool'
+  }
+]
+</script>
+<style scoped>
+.page-title {
+  background-color: black;
+  color: white;
+  padding: 12px;
+}
+
+.page-main {
+  display: flex;
+}
+
+.n-menu {
+  flex: 0 0 125px;
+}
+
+.view {
+  flex-grow: 1;
+  border-left: 1px solid #ddd;
+  min-height: calc(100vh - 80px);
+  padding: 12px;
 }
 </style>
