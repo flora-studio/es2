@@ -1,0 +1,626 @@
+[
+  {
+    "i": 0,
+    "title": "(Leader of Those in Crimson) Keito Hasumi",
+    "url": "/wiki/(Leader_of_Those_in_Crimson)_Keito_Hasumi",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/7/75/%28Leader_of_Those_in_Crimson%29_Keito_Hasumi_M.png/revision/latest/scale-to-width-down/100?cb=20200512140302",
+    "name": " (Leader of Those in Crimson) Keito Hasumi[紅のリーダー] 蓮巳 敬人",
+    "star": 5
+  },
+  {
+    "i": 2,
+    "title": "(Challenge Match) Keito Hasumi",
+    "url": "/wiki/(Challenge_Match)_Keito_Hasumi",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/d/d7/%28Challenge_Match%29_Keito_Hasumi_M.png/revision/latest/scale-to-width-down/100?cb=20200716213915",
+    "name": " (Challenge Match) Keito Hasumi[挑戦の試合] 蓮巳 敬人",
+    "star": 5
+  },
+  {
+    "i": 4,
+    "title": "(Green and Black Gatekeeper) Keito Hasumi",
+    "url": "/wiki/(Green_and_Black_Gatekeeper)_Keito_Hasumi",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/2/27/%28Green_and_Black_Gatekeeper%29_Keito_Hasumi_M.png/revision/latest/scale-to-width-down/100?cb=20201231063607",
+    "name": " (Green and Black Gatekeeper) Keito Hasumi[緑黒の門番] 蓮巳 敬人",
+    "star": 5
+  },
+  {
+    "i": 6,
+    "title": "(Moon of Fresh Blood) Keito Hasumi",
+    "url": "/wiki/(Moon_of_Fresh_Blood)_Keito_Hasumi",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/1/1c/%28Moon_of_Fresh_Blood%29_Keito_Hasumi_M.png/revision/latest/scale-to-width-down/100?cb=20211101031226",
+    "name": "(Moon of Fresh Blood) Keito Hasumi[鮮血の月] 蓮巳 敬人",
+    "star": 5
+  },
+  {
+    "i": 8,
+    "title": "(RhyLin's Representative) Keito Hasumi",
+    "url": "/wiki/(RhyLin%27s_Representative)_Keito_Hasumi",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/e/e5/%28RhyLin%27s_Representative%29_Keito_Hasumi_M.png/revision/latest/scale-to-width-down/100?cb=20200909000604",
+    "name": " (RhyLin's Representative) Keito Hasumi[リズリンの代表] 蓮巳 敬人",
+    "star": 4
+  },
+  {
+    "i": 10,
+    "title": "(Irreplaceable Glasses) Keito Hasumi",
+    "url": "/wiki/(Irreplaceable_Glasses)_Keito_Hasumi",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/6/6a/%28Irreplaceable_Glasses%29_Keito_Hasumi_M.png/revision/latest/scale-to-width-down/100?cb=20200925232026",
+    "name": " (Irreplaceable Glasses) Keito Hasumi[無二の眼鏡] 蓮巳 敬人",
+    "star": 4
+  },
+  {
+    "i": 12,
+    "title": "(Beaming Bouquet) Keito Hasumi",
+    "url": "/wiki/(Beaming_Bouquet)_Keito_Hasumi",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/0/0b/%28Beaming_Bouquet%29_Keito_Hasumi_M.png/revision/latest/scale-to-width-down/100?cb=20210615091518",
+    "name": " (Beaming Bouquet) Keito Hasumi[微笑みのブーケ] 蓮巳 敬人",
+    "star": 4
+  },
+  {
+    "i": 14,
+    "title": "(Unbending Rock) Keito Hasumi",
+    "url": "/wiki/(Unbending_Rock)_Keito_Hasumi",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/d/de/%28Unbending_Rock%29_Keito_Hasumi_M.png/revision/latest/scale-to-width-down/100?cb=20210929035118",
+    "name": "(Unbending Rock) Keito Hasumi[曲げないロック] 蓮巳 敬人",
+    "star": 4
+  },
+  {
+    "i": 16,
+    "title": "(Practicing) Keito Hasumi",
+    "url": "/wiki/(Practicing)_Keito_Hasumi",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/5/53/%28Practicing%29_Keito_Hasumi_M.png/revision/latest/scale-to-width-down/100?cb=20200412144525",
+    "name": " (Practicing) Keito Hasumi[練習風景] 蓮巳 敬人",
+    "star": 3
+  },
+  {
+    "i": 18,
+    "title": "(Merciful Vagabond) Keito Hasumi",
+    "url": "/wiki/(Merciful_Vagabond)_Keito_Hasumi",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/4/42/%28Merciful_Vagabond%29_Keito_Hasumi_M.png/revision/latest/scale-to-width-down/100?cb=20200517015738",
+    "name": " (Merciful Vagabond) Keito Hasumi[情けの風来坊] 蓮巳 敬人",
+    "star": 3
+  },
+  {
+    "i": 20,
+    "title": "(Spy's Strategy) Keito Hasumi",
+    "url": "/wiki/(Spy%27s_Strategy)_Keito_Hasumi",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/4/48/%28Spy%27s_Strategy%29_Keito_Hasumi_M.png/revision/latest/scale-to-width-down/100?cb=20201015210135",
+    "name": " (Spy's Strategy) Keito Hasumi[スパイの作戦] 蓮巳 敬人",
+    "star": 3
+  },
+  {
+    "i": 22,
+    "title": "(Determined Stride) Keito Hasumi",
+    "url": "/wiki/(Determined_Stride)_Keito_Hasumi",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/9/9d/%28Determined_Stride%29_Keito_Hasumi_M.png/revision/latest/scale-to-width-down/100?cb=20210217183450",
+    "name": " (Determined Stride) Keito Hasumi[見極める歩幅] 蓮巳 敬人",
+    "star": 3
+  },
+  {
+    "i": 24,
+    "title": "(Arranging Flowers and the Mind) Keito Hasumi",
+    "url": "/wiki/(Arranging_Flowers_and_the_Mind)_Keito_Hasumi",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/2/28/%28Arranging_Flowers_and_the_Mind%29_Keito_Hasumi_M.png/revision/latest/scale-to-width-down/100?cb=20210311233328",
+    "name": " (Arranging Flowers and the Mind) Keito Hasumi[花と心生け] 蓮巳 敬人",
+    "star": 3
+  },
+  {
+    "i": 26,
+    "title": "(Commanded Submarine) Keito Hasumi",
+    "url": "/wiki/(Commanded_Submarine)_Keito_Hasumi",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/e/e5/%28Commanded_Submarine%29_Keito_Hasumi_M.png/revision/latest/scale-to-width-down/100?cb=20210601074523",
+    "name": " (Commanded Submarine) Keito Hasumi[受命サブマリン] 蓮巳 敬人",
+    "star": 3
+  },
+  {
+    "i": 28,
+    "title": "(Making Plans on a Day Off) Keito Hasumi",
+    "url": "/wiki/(Making_Plans_on_a_Day_Off)_Keito_Hasumi",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/6/6b/%28Making_Plans_on_a_Day_Off%29_Keito_Hasumi_M.png/revision/latest/scale-to-width-down/100?cb=20210626021625",
+    "name": " (Making Plans on a Day Off) Keito Hasumi[休日の予定] 蓮巳 敬人",
+    "star": 3
+  },
+  {
+    "i": 30,
+    "title": "(An Idol) Keito Hasumi",
+    "url": "/wiki/(An_Idol)_Keito_Hasumi",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/7/79/%28An_Idol%29_Keito_Hasumi_M.png/revision/latest/scale-to-width-down/100?cb=20200412133740",
+    "name": " (An Idol) Keito Hasumi[ひとりのアイドル] 蓮巳 敬人",
+    "star": 1
+  },
+  {
+    "i": 32,
+    "title": "(ES Idol) Keito Hasumi",
+    "url": "/wiki/(ES_Idol)_Keito_Hasumi",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/8/88/%28ES_Idol%29_Keito_Hasumi_M.png/revision/latest/scale-to-width-down/100?cb=20200412140922",
+    "name": " (ES Idol) Keito Hasumi[ESのアイドル] 蓮巳 敬人",
+    "star": 2
+  },
+  {
+    "i": 34,
+    "title": "(Aomi's Clothes) Keito Hasumi",
+    "url": "/wiki/(Aomi%27s_Clothes)_Keito_Hasumi",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/a/a7/%28Aomi%27s_Clothes%29_Keito_Hasumi.png/revision/latest/scale-to-width-down/100?cb=20180313061603",
+    "name": "(Aomi's Clothes) Keito Hasumi［青海の衣］蓮巳 敬人",
+    "star": 5
+  },
+  {
+    "i": 36,
+    "title": "(Healing Bonds of Fate) Keito Hasumi",
+    "url": "/wiki/(Healing_Bonds_of_Fate)_Keito_Hasumi",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/1/1c/%28Healing_Bonds_of_Fate%29_Keito_Hasumi.png/revision/latest/scale-to-width-down/100?cb=20181010030100",
+    "name": "(Healing Bonds of Fate) Keito Hasumi［結び直す縁］蓮巳 敬人",
+    "star": 5
+  },
+  {
+    "i": 38,
+    "title": "(Victory Flag) Keito Hasumi",
+    "url": "/wiki/(Victory_Flag)_Keito_Hasumi",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/5/59/%28Victory_Flag%29_Keito_Hasumi.png/revision/latest/scale-to-width-down/100?cb=20160427041941",
+    "name": "(Victory Flag) Keito Hasumi[栄冠の旗] 蓮巳 敬人",
+    "star": 5
+  },
+  {
+    "i": 40,
+    "title": "(Serene Sage) Keito Hasumi",
+    "url": "/wiki/(Serene_Sage)_Keito_Hasumi",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/1/13/%28Serene_Sage%29_Keito_Hasumi.png/revision/latest/scale-to-width-down/100?cb=20161129061801",
+    "name": "(Serene Sage) Keito Hasumi[清閑なる賢者] 蓮巳 敬人",
+    "star": 5
+  },
+  {
+    "i": 42,
+    "title": "(Ambushing New Year) Keito Hasumi",
+    "url": "/wiki/(Ambushing_New_Year)_Keito_Hasumi",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/4/4f/%28Ambushing_New_Year%29_Keito_Hasumi.png/revision/latest/scale-to-width-down/100?cb=20170506140945",
+    "name": "(Ambushing New Year) Keito Hasumi[迎え撃つ春] 蓮巳 敬人",
+    "star": 5
+  },
+  {
+    "i": 44,
+    "title": "(Afterlife's Crossroad) Keito Hasumi",
+    "url": "/wiki/(Afterlife%27s_Crossroad)_Keito_Hasumi",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/3/35/%28Afterlife%27s_Crossroad%29_Keito_Hasumi.png/revision/latest/scale-to-width-down/100?cb=20181227205754",
+    "name": "(Afterlife's Crossroad) Keito Hasumi[幽世の十字路] 蓮巳 敬人",
+    "star": 5
+  },
+  {
+    "i": 46,
+    "title": "(Sweet Red Gift) Keito Hasumi",
+    "url": "/wiki/(Sweet_Red_Gift)_Keito_Hasumi",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/8/86/%28Sweet_Red_Gift%29_Keito_Hasumi.png/revision/latest/scale-to-width-down/100?cb=20180211054318",
+    "name": "(Sweet Red Gift) Keito Hasumi[甘く赤い贈り物] 蓮巳 敬人",
+    "star": 5
+  },
+  {
+    "i": 48,
+    "title": "(Monthly Shoujo Comic) Keito Hasumi",
+    "url": "/wiki/(Monthly_Shoujo_Comic)_Keito_Hasumi",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/e/e1/%28Monthly_Shoujo_Comic%29_Keito_Hasumi.png/revision/latest/scale-to-width-down/100?cb=20180715111853",
+    "name": "(Monthly Shoujo Comic) Keito Hasumi[月刊少女コミック] 蓮巳 敬人",
+    "star": 5
+  },
+  {
+    "i": 50,
+    "title": "(Maple of the Full Moon Night) Keito Hasumi",
+    "url": "/wiki/(Maple_of_the_Full_Moon_Night)_Keito_Hasumi",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/5/57/%28Maple_of_the_Full_Moon_Night%29_Keito_Hasumi.png/revision/latest/scale-to-width-down/100?cb=20180912231024",
+    "name": "(Maple of the Full Moon Night) Keito Hasumi[十五夜の青紅葉] 蓮巳 敬人",
+    "star": 5
+  },
+  {
+    "i": 52,
+    "title": "(Chinatown's Head) Keito Hasumi",
+    "url": "/wiki/(Chinatown%27s_Head)_Keito_Hasumi",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/d/dd/%28Chinatown%27s_Head%29_Keito_Hasumi.png/revision/latest/scale-to-width-down/100?cb=20190610065951",
+    "name": "(Chinatown's Head) Keito Hasumi[チャイナタウンの首領] 蓮巳 敬人",
+    "star": 5
+  },
+  {
+    "i": 54,
+    "title": "(AKATSUKI's Leader) Keito Hasumi",
+    "url": "/wiki/(AKATSUKI%27s_Leader)_Keito_Hasumi",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/9/95/%28AKATSUKI%27s_Leader%29_Keito_Hasumi.png/revision/latest/scale-to-width-down/100?cb=20210713004336",
+    "name": "(AKATSUKI's Leader) Keito Hasumi[紅月の首魁] 蓮巳 敬人",
+    "star": 5
+  },
+  {
+    "i": 56,
+    "title": "(The Strict Leader) Keito Hasumi",
+    "url": "/wiki/(The_Strict_Leader)_Keito_Hasumi",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/d/db/%28The_Strict_Leader%29_Keito_Hasumi.png/revision/latest/scale-to-width-down/100?cb=20150430211055",
+    "name": "(The Strict Leader) Keito Hasumi［厳格な司令塔］蓮巳 敬人",
+    "star": 4
+  },
+  {
+    "i": 58,
+    "title": "(Willpower and Pride) Keito Hasumi",
+    "url": "/wiki/(Willpower_and_Pride)_Keito_Hasumi",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/5/59/%28Willpower_and_Pride%29_Keito_Hasumi.png/revision/latest/scale-to-width-down/100?cb=20151023203901",
+    "name": "(Willpower and Pride) Keito Hasumi［意地とプライド］蓮巳 敬人",
+    "star": 4
+  },
+  {
+    "i": 60,
+    "title": "(Commander's Handling) Keito Hasumi",
+    "url": "/wiki/(Commander%27s_Handling)_Keito_Hasumi",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/3/3d/%28Commander%27s_Handling%29_Keito_Hasumi.png/revision/latest/scale-to-width-down/100?cb=20151214095618",
+    "name": "(Commander's Handling) Keito Hasumi［司令官のハンドリング］蓮巳 敬人",
+    "star": 4
+  },
+  {
+    "i": 62,
+    "title": "(Skilled Strategist's Blade) Keito Hasumi",
+    "url": "/wiki/(Skilled_Strategist%27s_Blade)_Keito_Hasumi",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/a/ab/%28Skilled_Strategist%27s_Blade%29_Keito_Hasumi.png/revision/latest/scale-to-width-down/100?cb=20160125134613",
+    "name": "(Skilled Strategist's Blade) Keito Hasumi［知将の刃］蓮巳 敬人",
+    "star": 4
+  },
+  {
+    "i": 64,
+    "title": "(Busy Work) Keito Hasumi",
+    "url": "/wiki/(Busy_Work)_Keito_Hasumi",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/8/8b/%28Busy_Work%29_Keito_Hasumi.png/revision/latest/scale-to-width-down/100?cb=20160619231700",
+    "name": "(Busy Work) Keito Hasumi[忙中の采配]  蓮巳 敬人",
+    "star": 4
+  },
+  {
+    "i": 66,
+    "title": "(Song of the Evening Moonlight) Keito Hasumi",
+    "url": "/wiki/(Song_of_the_Evening_Moonlight)_Keito_Hasumi",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/8/8a/%28Song_of_the_Evening_Moonlight%29_Keito_Hasumi.png/revision/latest/scale-to-width-down/100?cb=20210525145950",
+    "name": "(Song of the Evening Moonlight) Keito Hasumi［宵の月光歌］蓮巳 敬人",
+    "star": 4
+  },
+  {
+    "i": 68,
+    "title": "(Challenging Opponent) Keito Hasumi",
+    "url": "/wiki/(Challenging_Opponent)_Keito_Hasumi",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/4/41/%28Challenging_Opponent%29_Keito_Hasumi.png/revision/latest/scale-to-width-down/100?cb=20170329205904",
+    "name": "(Challenging Opponent) Keito Hasumi[難しい相手] 蓮巳 敬人",
+    "star": 4
+  },
+  {
+    "i": 70,
+    "title": "(Elder Stepsister) Keito Hasumi",
+    "url": "/wiki/(Elder_Stepsister)_Keito_Hasumi",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/c/cd/%28Elder_Stepsister%29_Keito_Hasumi.png/revision/latest/scale-to-width-down/100?cb=20170525151114",
+    "name": "(Elder Stepsister) Keito Hasumi[上の義姉] 蓮巳 敬人",
+    "star": 4
+  },
+  {
+    "i": 72,
+    "title": "(Librarian) Keito Hasumi",
+    "url": "/wiki/(Librarian)_Keito_Hasumi",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/b/bb/%28Librarian%29_Keito_Hasumi.png/revision/latest/scale-to-width-down/100?cb=20170614075436",
+    "name": "(Librarian) Keito Hasumi[ライブラリアン] 蓮巳 敬人",
+    "star": 4
+  },
+  {
+    "i": 74,
+    "title": "(Hana-Awase) Keito Hasumi",
+    "url": "/wiki/(Hana-Awase)_Keito_Hasumi",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/8/86/%28Hana-Awase%29_Keito_Hasumi.png/revision/latest/scale-to-width-down/100?cb=20171019093805",
+    "name": "(Hana-Awase) Keito Hasumi[花合わせ] 蓮巳 敬人",
+    "star": 4
+  },
+  {
+    "i": 76,
+    "title": "(3rd Anniversary) Keito Hasumi",
+    "url": "/wiki/(3rd_Anniversary)_Keito_Hasumi",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/3/32/%283rd_Anniversary%29_Keito_Hasumi.png/revision/latest/scale-to-width-down/100?cb=20180521235206",
+    "name": "(3rd Anniversary) Keito Hasumi[三周年記念] 蓮巳 敬人",
+    "star": 4
+  },
+  {
+    "i": 78,
+    "title": "(Akatsuki's Brains) Keito Hasumi",
+    "url": "/wiki/(Akatsuki%27s_Brains)_Keito_Hasumi",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/2/24/%28Akatsuki%27s_Brains%29_Keito_Hasumi.png/revision/latest/scale-to-width-down/100?cb=20180615201302",
+    "name": "(Akatsuki's Brains) Keito Hasumi[紅月の頭] 蓮巳 敬人",
+    "star": 4
+  },
+  {
+    "i": 80,
+    "title": "(Elegant Crimson) Keito Hasumi",
+    "url": "/wiki/(Elegant_Crimson)_Keito_Hasumi",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/a/a0/%28Elegant_Crimson%29_Keito_Hasumi.png/revision/latest/scale-to-width-down/100?cb=20180721214110",
+    "name": "(Elegant Crimson) Keito Hasumi[雅なる紅] 蓮巳 敬人",
+    "star": 4
+  },
+  {
+    "i": 82,
+    "title": "(Cat and Train Ticket) Keito Hasumi",
+    "url": "/wiki/(Cat_and_Train_Ticket)_Keito_Hasumi",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/d/d5/%28Cat_and_Train_Ticket%29_Keito_Hasumi.png/revision/latest/scale-to-width-down/100?cb=20190120184741",
+    "name": "(Cat and Train Ticket) Keito Hasumi[猫と乗車券] 蓮巳 敬人",
+    "star": 4
+  },
+  {
+    "i": 84,
+    "title": "(Ogre and Trust) Keito Hasumi",
+    "url": "/wiki/(Ogre_and_Trust)_Keito_Hasumi",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/8/89/%28Ogre_and_Trust%29_Keito_Hasumi.png/revision/latest/scale-to-width-down/100?cb=20190227065618",
+    "name": "(Ogre and Trust) Keito Hasumi[鬼と信頼] 蓮巳 敬人",
+    "star": 4
+  },
+  {
+    "i": 86,
+    "title": "(4th Anniversary) Keito Hasumi",
+    "url": "/wiki/(4th_Anniversary)_Keito_Hasumi",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/8/8d/%284th_Anniversary%29_Keito_Hasumi.png/revision/latest/scale-to-width-down/100?cb=20190513113744",
+    "name": "(4th Anniversary) Keito Hasumi[四周年記念] 蓮巳 敬人",
+    "star": 4
+  },
+  {
+    "i": 88,
+    "title": "(Companions and Summer Night) Keito Hasumi",
+    "url": "/wiki/(Companions_and_Summer_Night)_Keito_Hasumi",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/d/de/%28Companions_and_Summer_Night%29_Keito_Hasumi.png/revision/latest/scale-to-width-down/100?cb=20190812165243",
+    "name": "(Companions and Summer Night) Keito Hasumi[仲間とサマーナイト] 蓮巳 敬人",
+    "star": 4
+  },
+  {
+    "i": 90,
+    "title": "(Tedious Talk) Keito Hasumi",
+    "url": "/wiki/(Tedious_Talk)_Keito_Hasumi",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/c/c7/%28Tedious_Talk%29_Keito_Hasumi.png/revision/latest/scale-to-width-down/100?cb=20150503012354",
+    "name": "(Tedious Talk) Keito Hasumi［長話］蓮巳 敬人",
+    "star": 3
+  },
+  {
+    "i": 92,
+    "title": "(Bento) Keito Hasumi",
+    "url": "/wiki/(Bento)_Keito_Hasumi",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/0/0c/%28Bento%29_Keito_Hasumi.png/revision/latest/scale-to-width-down/100?cb=20190120184223",
+    "name": "(Bento) Keito Hasumi［お弁当］蓮巳 敬人",
+    "star": 3
+  },
+  {
+    "i": 94,
+    "title": "(Glaring) Keito Hasumi",
+    "url": "/wiki/(Glaring)_Keito_Hasumi",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/9/92/%28Glaring%29_Keito_Hasumi.png/revision/latest/scale-to-width-down/100?cb=20180729192433",
+    "name": "(Glaring) Keito Hasumi［鋭い眼光］蓮巳 敬人",
+    "star": 3
+  },
+  {
+    "i": 96,
+    "title": "(Side Support) Keito Hasumi",
+    "url": "/wiki/(Side_Support)_Keito_Hasumi",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/d/da/%28Side_Support%29_Keito_Hasumi.png/revision/latest/scale-to-width-down/100?cb=20150604114836",
+    "name": "(Side Support) Keito Hasumi［サイドサポート］蓮巳 敬人",
+    "star": 3
+  },
+  {
+    "i": 98,
+    "title": "(Worrisome Days) Keito Hasumi",
+    "url": "/wiki/(Worrisome_Days)_Keito_Hasumi",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/c/c3/%28Worrisome_Days%29_Keito_Hasumi.png/revision/latest/scale-to-width-down/100?cb=20181207061338",
+    "name": "(Worrisome Days) Keito Hasumi［気苦労の日々］蓮巳 敬人",
+    "star": 3
+  },
+  {
+    "i": 100,
+    "title": "(Holiday Job) Keito Hasumi",
+    "url": "/wiki/(Holiday_Job)_Keito_Hasumi",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/7/7d/%28Holiday_Job%29_Keito_Hasumi.png/revision/latest/scale-to-width-down/100?cb=20180910075633",
+    "name": "(Holiday Job) Keito Hasumi［休暇の仕事］蓮巳 敬人",
+    "star": 3
+  },
+  {
+    "i": 102,
+    "title": "(Skills From the Past) Keito Hasumi",
+    "url": "/wiki/(Skills_From_the_Past)_Keito_Hasumi",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/f/f2/%28Skills_From_the_Past%29_Keito_Hasumi.png/revision/latest/scale-to-width-down/100?cb=20181010045908",
+    "name": "(Skills From the Past) Keito Hasumi［昔取った杵柄］蓮巳 敬人",
+    "star": 3
+  },
+  {
+    "i": 104,
+    "title": "(Previous Unit) Keito Hasumi",
+    "url": "/wiki/(Previous_Unit)_Keito_Hasumi",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/4/45/%28Previous_Unit%29_Keito_Hasumi.png/revision/latest/scale-to-width-down/100?cb=20160229091048",
+    "name": "(Previous Unit) Keito Hasumi［昔のユニット］蓮巳 敬人",
+    "star": 3
+  },
+  {
+    "i": 106,
+    "title": "(Wait-and-see) Keito Hasumi",
+    "url": "/wiki/(Wait-and-see)_Keito_Hasumi",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/b/b2/%28Wait-and-see%29_Keito_Hasumi.png/revision/latest/scale-to-width-down/100?cb=20190212192746",
+    "name": "(Wait-and-see) Keito Hasumi[様子見] 蓮巳 敬人",
+    "star": 3
+  },
+  {
+    "i": 108,
+    "title": "(Green Arrow) Keito Hasumi",
+    "url": "/wiki/(Green_Arrow)_Keito_Hasumi",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/8/87/%28Green_Arrow%29_Keito_Hasumi.png/revision/latest/scale-to-width-down/100?cb=20160814132417",
+    "name": "(Green Arrow) Keito Hasumi[グリーンアロー] 蓮巳 敬人",
+    "star": 3
+  },
+  {
+    "i": 110,
+    "title": "(Samurai of Advice) Keito Hasumi",
+    "url": "/wiki/(Samurai_of_Advice)_Keito_Hasumi",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/3/3d/%28Samurai_of_Advice%29_Keito_Hasumi.png/revision/latest/scale-to-width-down/100?cb=20161011114026",
+    "name": "(Samurai of Advice) Keito Hasumi[助言の侍] 蓮巳 敬人",
+    "star": 3
+  },
+  {
+    "i": 112,
+    "title": "(Artistic Coach) Keito Hasumi",
+    "url": "/wiki/(Artistic_Coach)_Keito_Hasumi",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/e/e6/%28Artistic_Coach%29_Keito_Hasumi.png/revision/latest/scale-to-width-down/100?cb=20161212053251",
+    "name": "(Artistic Coach) Keito Hasumi[絵心指南] 蓮巳 敬人",
+    "star": 3
+  },
+  {
+    "i": 114,
+    "title": "(Winter's Concern) Keito Hasumi",
+    "url": "/wiki/(Winter%27s_Concern)_Keito_Hasumi",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/2/22/%28Winter%27s_Concern%29_Keito_Hasumi.png/revision/latest/scale-to-width-down/100?cb=20170118015556",
+    "name": "(Winter's Concern) Keito Hasumi[冬の気遣い] 蓮巳 敬人",
+    "star": 3
+  },
+  {
+    "i": 116,
+    "title": "(Bean Dislike) Keito Hasumi",
+    "url": "/wiki/(Bean_Dislike)_Keito_Hasumi",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/5/5f/%28Bean_Dislike%29_Keito_Hasumi.png/revision/latest/scale-to-width-down/100?cb=20170201040830",
+    "name": "(Bean Dislike) Keito Hasumi[豆嫌い]蓮巳 敬人",
+    "star": 3
+  },
+  {
+    "i": 118,
+    "title": "(Trombone) Keito Hasumi",
+    "url": "/wiki/(Trombone)_Keito_Hasumi",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/c/c3/%28Trombone%29_Keito_Hasumi.png/revision/latest/scale-to-width-down/100?cb=20170714070249",
+    "name": "(Trombone) Keito Hasumi[トロンボーン] 蓮巳 敬人",
+    "star": 3
+  },
+  {
+    "i": 120,
+    "title": "(Campus Endeavor) Keito Hasumi",
+    "url": "/wiki/(Campus_Endeavor)_Keito_Hasumi",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/4/41/%28Campus_Endeavor%29_Keito_Hasumi.png/revision/latest/scale-to-width-down/100?cb=20170903221040",
+    "name": "(Campus Endeavor) Keito Hasumi[奔走校庭] 蓮巳 敬人",
+    "star": 3
+  },
+  {
+    "i": 122,
+    "title": "(Hospital Visit and Feelings) Keito Hasumi",
+    "url": "/wiki/(Hospital_Visit_and_Feelings)_Keito_Hasumi",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/8/86/%28Hospital_Visit_and_Feelings%29_Keito_Hasumi.png/revision/latest/scale-to-width-down/100?cb=20180729192114",
+    "name": "(Hospital Visit and Feelings) Keito Hasumi[見舞いと実感] 蓮巳 敬人",
+    "star": 3
+  },
+  {
+    "i": 124,
+    "title": "(Snake of the New Year) Keito Hasumi",
+    "url": "/wiki/(Snake_of_the_New_Year)_Keito_Hasumi",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/2/21/%28Snake_of_the_New_Year%29_Keito_Hasumi.png/revision/latest/scale-to-width-down/100?cb=20180103220437",
+    "name": "(Snake of the New Year) Keito Hasumi[新年の巳] 蓮巳 敬人",
+    "star": 3
+  },
+  {
+    "i": 126,
+    "title": "(Vaisravana's Blade) Keito Hasumi",
+    "url": "/wiki/(Vaisravana%27s_Blade)_Keito_Hasumi",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/6/6c/%28Vaisravana%27s_Blade%29_Keito_Hasumi.png/revision/latest/scale-to-width-down/100?cb=20180129154356",
+    "name": "(Vaisravana's Blade) Keito Hasumi[多聞の刃] 蓮巳 敬人",
+    "star": 3
+  },
+  {
+    "i": 128,
+    "title": "(Easter Plan) Keito Hasumi",
+    "url": "/wiki/(Easter_Plan)_Keito_Hasumi",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/1/1e/%28Easter_Plan%29_Keito_Hasumi.png/revision/latest/scale-to-width-down/100?cb=20180411022026",
+    "name": "(Easter Plan) Keito Hasumi[イースター企画] 蓮巳 敬人",
+    "star": 3
+  },
+  {
+    "i": 130,
+    "title": "(Angel's Observation) Keito Hasumi",
+    "url": "/wiki/(Angel%27s_Observation)_Keito_Hasumi",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/1/11/%28Angel%27s_Observation%29_Keito_Hasumi.png/revision/latest/scale-to-width-down/100?cb=20180501072651",
+    "name": "(Angel's Observation) Keito Hasumi[天使の観察] 蓮巳 敬人",
+    "star": 3
+  },
+  {
+    "i": 132,
+    "title": "(Storage Cleaning) Keito Hasumi",
+    "url": "/wiki/(Storage_Cleaning)_Keito_Hasumi",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/3/30/%28Storage_Cleaning%29_Keito_Hasumi.png/revision/latest/scale-to-width-down/100?cb=20190116183528",
+    "name": "(Storage Cleaning) Keito Hasumi[蔵掃除] 蓮巳 敬人",
+    "star": 3
+  },
+  {
+    "i": 134,
+    "title": "(Scheming Diner) Keito Hasumi",
+    "url": "/wiki/(Scheming_Diner)_Keito_Hasumi",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/f/f6/%28Scheming_Diner%29_Keito_Hasumi.png/revision/latest/scale-to-width-down/100?cb=20190116183741",
+    "name": "(Scheming Diner) Keito Hasumi[企みダイナー] 蓮巳 敬人",
+    "star": 3
+  },
+  {
+    "i": 136,
+    "title": "(Revolution and Sacrifice) Keito Hasumi",
+    "url": "/wiki/(Revolution_and_Sacrifice)_Keito_Hasumi",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/3/33/%28Revolution_and_Sacrifice%29_Keito_Hasumi.png/revision/latest/scale-to-width-down/100?cb=20190403085607",
+    "name": "(Revolution and Sacrifice) Keito Hasumi[革命と犠牲] 蓮巳 敬人",
+    "star": 3
+  },
+  {
+    "i": 138,
+    "title": "(Student Council Duties) Keito Hasumi",
+    "url": "/wiki/(Student_Council_Duties)_Keito_Hasumi",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/2/2f/%28Student_Council_Duties%29_Keito_Hasumi.png/revision/latest/scale-to-width-down/100?cb=20190619000553",
+    "name": "(Student Council Duties) Keito Hasumi[生徒会業務] 蓮巳 敬人",
+    "star": 3
+  },
+  {
+    "i": 140,
+    "title": "(Tools and Doctor) Keito Hasumi",
+    "url": "/wiki/(Tools_and_Doctor)_Keito_Hasumi",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/d/df/%28Tools_and_Doctor%29_Keito_Hasumi.png/revision/latest/scale-to-width-down/100?cb=20191113212953",
+    "name": "(Tools and Doctor) Keito Hasumi[道具と医者] 蓮巳 敬人",
+    "star": 3
+  },
+  {
+    "i": 142,
+    "title": "Keito Hasumi (Card)",
+    "url": "/wiki/Keito_Hasumi_(Card)",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/5/5b/Keito_Hasumi_%28Card%29.png/revision/latest/scale-to-width-down/100?cb=20150430005947",
+    "name": "Keito Hasumi (Card)蓮巳 敬人",
+    "star": 1
+  },
+  {
+    "i": 144,
+    "title": "(Academy Idol) Keito Hasumi",
+    "url": "/wiki/(Academy_Idol)_Keito_Hasumi",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/c/cc/%28Academy_Idol%29_Keito_Hasumi.png/revision/latest/scale-to-width-down/100?cb=20150430174412",
+    "name": "(Academy Idol) Keito Hasumi［学院のアイドル］蓮巳 敬人",
+    "star": 2
+  },
+  {
+    "i": 146,
+    "title": "(Calm Analysis) Keito Hasumi",
+    "url": "/wiki/(Calm_Analysis)_Keito_Hasumi",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/c/c3/%28Calm_Analysis%29_Keito_Hasumi.png/revision/latest/scale-to-width-down/100?cb=20180322230650",
+    "name": "(Calm Analysis) Keito Hasumi[沉着的思考] 莲巳 敬人",
+    "star": 4
+  },
+  {
+    "i": 148,
+    "title": "(Business Project Executor) Keito Hasumi",
+    "url": "/wiki/(Business_Project_Executor)_Keito_Hasumi",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/0/03/%28Business_Project_Executor%29_Keito_Hasumi.png/revision/latest/scale-to-width-down/100?cb=20190119043733",
+    "name": "(Business Project Executor) Keito Hasumi[计划执行人] 莲巳 敬人",
+    "star": 4
+  },
+  {
+    "i": 150,
+    "title": "(Strict Researcher) Keito Hasumi",
+    "url": "/wiki/(Strict_Researcher)_Keito_Hasumi",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/3/3e/%28Strict_Researcher%29_Keito_Hasumi.png/revision/latest/scale-to-width-down/100?cb=20170325144546",
+    "name": "(Strict Researcher) Keito Hasumi[严厉的研究员] 莲巳 敬人",
+    "star": 3
+  },
+  {
+    "i": 152,
+    "title": "(Rose Appreciation) Keito Hasumi",
+    "url": "/wiki/(Rose_Appreciation)_Keito_Hasumi",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/f/f1/%28Rose_Appreciation%29_Keito_Hasumi.png/revision/latest/scale-to-width-down/100?cb=20190413065155",
+    "name": "(Rose Appreciation) Keito Hasumi[蔷薇的品味] 莲巳 敬人",
+    "star": 3
+  },
+  {
+    "i": 154,
+    "title": "(Witty Remarks) Keito Hasumi",
+    "url": "/wiki/(Witty_Remarks)_Keito_Hasumi",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/e/ed/%28Witty_Remarks%29_Keito_Hasumi.png/revision/latest/scale-to-width-down/100?cb=20211012210400",
+    "name": "(Witty Remarks) Keito Hasumi[妙言要道] 莲巳 敬人[妙言要道] 蓮巳 敬人",
+    "star": 3
+  }
+]

@@ -1,0 +1,594 @@
+[
+  {
+    "i": 0,
+    "title": "(Mundane Specialty) Mao Isara",
+    "url": "/wiki/(Mundane_Specialty)_Mao_Isara",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/4/4b/%28Mundane_Specialty%29_Mao_Isara_M.png/revision/latest/scale-to-width-down/100?cb=20200702232916",
+    "name": " (Mundane Specialty) Mao Isara[ありふれた特別] 衣更 真緒",
+    "star": 5
+  },
+  {
+    "i": 2,
+    "title": "(Heartfelt Bouquet) Mao Isara",
+    "url": "/wiki/(Heartfelt_Bouquet)_Mao_Isara",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/1/1d/%28Heartfelt_Bouquet%29_Mao_Isara_M.png/revision/latest/scale-to-width-down/100?cb=20210614073255",
+    "name": " (Heartfelt Bouquet) Mao Isara[想いのブーケ] 衣更 真緒",
+    "star": 5
+  },
+  {
+    "i": 4,
+    "title": "(Reminiscing on the Four Seasons) Mao Isara",
+    "url": "/wiki/(Reminiscing_on_the_Four_Seasons)_Mao_Isara",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/f/fa/%28Reminiscing_on_the_Four_Seasons%29_Mao_Isara_M.png/revision/latest/scale-to-width-down/100?cb=20220116031821",
+    "name": "(Reminiscing on the Four Seasons) Mao Isara[振り返る四季] 衣更 真緒",
+    "star": 5
+  },
+  {
+    "i": 6,
+    "title": "(Helpful Supervisor) Mao Isara",
+    "url": "/wiki/(Helpful_Supervisor)_Mao_Isara",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/0/08/%28Helpful_Supervisor%29_Mao_Isara_M.png/revision/latest/scale-to-width-down/100?cb=20200505215240",
+    "name": " (Helpful Supervisor) Mao Isara[世話焼きな監督者] 衣更 真緒",
+    "star": 4
+  },
+  {
+    "i": 8,
+    "title": "(New Star's Place) Mao Isara",
+    "url": "/wiki/(New_Star%27s_Place)_Mao_Isara",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/f/fb/%28New_Star%27s_Place%29_Mao_Isara_M.png/revision/latest/scale-to-width-down/100?cb=20200406161132",
+    "name": " (New Star's Place) Mao Isara[新星の立場] 衣更 真緒",
+    "star": 4
+  },
+  {
+    "i": 10,
+    "title": "(StarPro's Intermediary) Mao Isara",
+    "url": "/wiki/(StarPro%27s_Intermediary)_Mao_Isara",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/d/d8/%28StarPro%27s_Intermediary%29_Mao_Isara_M.png/revision/latest/scale-to-width-down/100?cb=20200517020719",
+    "name": " (StarPro's Intermediary) Mao Isara[スタプロの橋渡し] 衣更 真緒",
+    "star": 4
+  },
+  {
+    "i": 12,
+    "title": "(Sweets Shooter) Mao Isara",
+    "url": "/wiki/(Sweets_Shooter)_Mao_Isara",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/8/80/%28Sweets_Shooter%29_Mao_Isara_M.png/revision/latest/scale-to-width-down/100?cb=20210215083235",
+    "name": " (Sweets Shooter) Mao Isara[スイーツシューター] 衣更 真緒",
+    "star": 4
+  },
+  {
+    "i": 14,
+    "title": "(Carefree With Even Rock) Mao Isara",
+    "url": "/wiki/(Carefree_With_Even_Rock)_Mao_Isara",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/d/d6/%28Carefree_With_Even_Rock%29_Mao_Isara_M.png/revision/latest/scale-to-width-down/100?cb=20210527093452",
+    "name": " (Carefree With Even Rock) Mao Isara[ロックも気軽に] 衣更 真緒",
+    "star": 4
+  },
+  {
+    "i": 16,
+    "title": "(Intelligent Warlord) Mao Isara",
+    "url": "/wiki/(Intelligent_Warlord)_Mao_Isara",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/d/dc/%28Intelligent_Warlord%29_Mao_Isara_M.png/revision/latest/scale-to-width-down/100?cb=20210914141359",
+    "name": "(Intelligent Warlord) Mao Isara[智の武将] 衣更 真緒",
+    "star": 4
+  },
+  {
+    "i": 18,
+    "title": "(Practicing) Mao Isara",
+    "url": "/wiki/(Practicing)_Mao_Isara",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/2/26/%28Practicing%29_Mao_Isara_M.png/revision/latest/scale-to-width-down/100?cb=20200412145426",
+    "name": " (Practicing) Mao Isara[練習風景] 衣更 真緒",
+    "star": 3
+  },
+  {
+    "i": 20,
+    "title": "(Wasteland and Work) Mao Isara",
+    "url": "/wiki/(Wasteland_and_Work)_Mao_Isara",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/6/64/%28Wasteland_and_Work%29_Mao_Isara_M.png/revision/latest/scale-to-width-down/100?cb=20200830232520",
+    "name": " (Wasteland and Work) Mao Isara[荒野と仕事] 衣更 真緒",
+    "star": 3
+  },
+  {
+    "i": 22,
+    "title": "(Childhood Friend Troubles) Mao Isara",
+    "url": "/wiki/(Childhood_Friend_Troubles)_Mao_Isara",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/6/6d/%28Childhood_Friend_Troubles%29_Mao_Isara_M.png/revision/latest/scale-to-width-down/100?cb=20201002025646",
+    "name": " (Childhood Friend Troubles) Mao Isara[幼なじみの葛藤] 衣更 真緒",
+    "star": 3
+  },
+  {
+    "i": 24,
+    "title": "(An Ordinary Day) Mao Isara",
+    "url": "/wiki/(An_Ordinary_Day)_Mao_Isara",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/e/e1/%28An_Ordinary_Day%29_Mao_Isara_M.png/revision/latest/scale-to-width-down/100?cb=20201212090934",
+    "name": " (An Ordinary Day) Mao Isara[起こる日常] 衣更 真緒",
+    "star": 3
+  },
+  {
+    "i": 26,
+    "title": "(Adapting Satellite) Mao Isara",
+    "url": "/wiki/(Adapting_Satellite)_Mao_Isara",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/9/9d/%28Adapting_Satellite%29_Mao_Isara_M.png/revision/latest/scale-to-width-down/100?cb=20210416043932",
+    "name": " (Adapting Satellite) Mao Isara[適応サテライト] 衣更 真緒",
+    "star": 3
+  },
+  {
+    "i": 28,
+    "title": "(Power of the Moon) Mao Isara",
+    "url": "/wiki/(Power_of_the_Moon)_Mao_Isara",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/0/09/%28Power_of_the_Moon%29_Mao_Isara_M.png/revision/latest/scale-to-width-down/100?cb=20211101031218",
+    "name": "(Power of the Moon) Mao Isara[月の力] 衣更 真緒",
+    "star": 3
+  },
+  {
+    "i": 30,
+    "title": "(An Idol) Mao Isara",
+    "url": "/wiki/(An_Idol)_Mao_Isara",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/4/40/%28An_Idol%29_Mao_Isara_M.png/revision/latest/scale-to-width-down/100?cb=20200412134032",
+    "name": " (An Idol) Mao Isara[ひとりのアイドル] 衣更 真緒",
+    "star": 1
+  },
+  {
+    "i": 32,
+    "title": "(ES Idol) Mao Isara",
+    "url": "/wiki/(ES_Idol)_Mao_Isara",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/f/fe/%28ES_Idol%29_Mao_Isara_M.png/revision/latest/scale-to-width-down/100?cb=20200412141222",
+    "name": " (ES Idol) Mao Isara[ESのアイドル] 衣更 真緒",
+    "star": 2
+  },
+  {
+    "i": 34,
+    "title": "(Savior) Mao Isara",
+    "url": "/wiki/(Savior)_Mao_Isara",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/a/a2/%28Savior%29_Mao_Isara.png/revision/latest/scale-to-width-down/100?cb=20150511045441",
+    "name": "(Savior) Mao Isara［救世主］衣更 真緒",
+    "star": 5
+  },
+  {
+    "i": 36,
+    "title": "(Blossoms in the Night Sky) Mao Isara",
+    "url": "/wiki/(Blossoms_in_the_Night_Sky)_Mao_Isara",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/b/b7/%28Blossoms_in_the_Night_Sky%29_Mao_Isara.png/revision/latest/scale-to-width-down/100?cb=20180909010344",
+    "name": "(Blossoms in the Night Sky) Mao Isara[夜空に咲く華] 衣更 真緒",
+    "star": 5
+  },
+  {
+    "i": 38,
+    "title": "(Ace Agent) Mao Isara",
+    "url": "/wiki/(Ace_Agent)_Mao_Isara",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/f/f1/%28Ace_Agent%29_Mao_Isara.png/revision/latest/scale-to-width-down/100?cb=20151221152610",
+    "name": "(Ace Agent) Mao Isara［エースエージェント］衣更 真緒",
+    "star": 5
+  },
+  {
+    "i": 40,
+    "title": "(Sunlight's Childhood Friend) Mao Isara",
+    "url": "/wiki/(Sunlight%27s_Childhood_Friend)_Mao_Isara",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/4/4a/%28Sunlit_Childhood_Friend%29_Mao_Isara.png/revision/latest/scale-to-width-down/100?cb=20160624091746",
+    "name": "(Sunlit Childhood Friend) Mao Isara[日向の幼馴染] 衣更 真緒",
+    "star": 5
+  },
+  {
+    "i": 42,
+    "title": "(Promise of Progress) Mao Isara",
+    "url": "/wiki/(Promise_of_Progress)_Mao_Isara",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/9/9f/%28Promise_of_Progress%29_Mao_Isara.png/revision/latest/scale-to-width-down/100?cb=20170107162710",
+    "name": "(Promise of Progress) Mao Isara[飛躍を誓って] 衣更 真緒",
+    "star": 5
+  },
+  {
+    "i": 44,
+    "title": "(To The Real Star) Mao Isara",
+    "url": "/wiki/(To_The_Real_Star)_Mao_Isara",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/9/9e/%28To_The_Real_Star%29_Mao_Isara.png/revision/latest/scale-to-width-down/100?cb=20190116182920",
+    "name": "(To The Real Star) Mao Isara[本物の星に] 衣更 真緒",
+    "star": 5
+  },
+  {
+    "i": 46,
+    "title": "(Matching Trickstar) Mao Isara",
+    "url": "/wiki/(Matching_Trickstar)_Mao_Isara",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/7/7d/%28Matching_Trickstar%29_Mao_Isara.png/revision/latest/scale-to-width-down/100?cb=20190429131919",
+    "name": "(Matching Trickstar) Mao Isara[勝負のTrickstar] 衣更 真緒",
+    "star": 5
+  },
+  {
+    "i": 48,
+    "title": "(Visiting Hero) Mao Isara",
+    "url": "/wiki/(Visiting_Hero)_Mao_Isara",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/3/39/%28Visiting_Hero%29_Mao_Isara.png/revision/latest/scale-to-width-down/100?cb=20180901141204",
+    "name": "(Visiting Hero) Mao Isara[豪傑の来訪者] 衣更 真緒",
+    "star": 5
+  },
+  {
+    "i": 50,
+    "title": "(Tanabata Play) Mao Isara",
+    "url": "/wiki/(Tanabata_Play)_Mao_Isara",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/1/1b/%28Tanabata_Play%29_Mao_Isara.png/revision/latest/scale-to-width-down/100?cb=20180714201144",
+    "name": "(Tanabata Play) Mao Isara[七夕の遊戯] 衣更 真緒",
+    "star": 5
+  },
+  {
+    "i": 52,
+    "title": "(Waving Sunflowers) Mao Isara",
+    "url": "/wiki/(Waving_Sunflowers)_Mao_Isara",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/1/13/%28Waving_Sunflowers%29_Mao_Isara.png/revision/latest/scale-to-width-down/100?cb=20190705073729",
+    "name": "(Waving Sunflowers) Mao Isara[波打ちサンフラワー] 衣更 真緒",
+    "star": 5
+  },
+  {
+    "i": 54,
+    "title": "(Trickstar's Intermediary Star) Mao Isara",
+    "url": "/wiki/(Trickstar%27s_Intermediary_Star)_Mao_Isara",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/0/04/%28Trickstar%27s_Intermediary_Star%29_Mao_Isara.png/revision/latest/scale-to-width-down/100?cb=20210713005137",
+    "name": "(Trickstar's Intermediary Star) Mao Isara[Trickstarの中継星] 衣更 真緒",
+    "star": 5
+  },
+  {
+    "i": 56,
+    "title": "(Contradictory Position) Mao Isara",
+    "url": "/wiki/(Contradictory_Position)_Mao_Isara",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/2/20/%28Contradictory_Position%29_Mao_Isara.png/revision/latest/scale-to-width-down/100?cb=20150503033219",
+    "name": "(Contradictory Position) Mao Isara［二律背反の立場］衣更 真緒",
+    "star": 4
+  },
+  {
+    "i": 58,
+    "title": "(One Step Forward) Mao Isara",
+    "url": "/wiki/(One_Step_Forward)_Mao_Isara",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/f/f2/%28One_Step_Forward%29_Mao_Isara.png/revision/latest/scale-to-width-down/100?cb=20181206211716",
+    "name": "(One Step Forward) Mao Isara［踏み出す一歩］衣更 真緒",
+    "star": 4
+  },
+  {
+    "i": 60,
+    "title": "(Sakura in Full Bloom) Mao Isara",
+    "url": "/wiki/(Sakura_in_Full_Bloom)_Mao_Isara",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/c/c2/%28Sakura_in_Full_Bloom%29_Mao_Isara.png/revision/latest/scale-to-width-down/100?cb=20150525140729",
+    "name": "(Sakura in Full Bloom) Mao Isara［満開の桜］衣更 真緒",
+    "star": 4
+  },
+  {
+    "i": 62,
+    "title": "(Masculine) Mao Isara",
+    "url": "/wiki/(Masculine)_Mao_Isara",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/9/9c/%28Masculine%29_Mao_Isara.png/revision/latest/scale-to-width-down/100?cb=20150703012534",
+    "name": "(Masculine) Mao Isara［男らしく］衣更 真緒",
+    "star": 4
+  },
+  {
+    "i": 64,
+    "title": "(Relaxing Fall) Mao Isara",
+    "url": "/wiki/(Relaxing_Fall)_Mao_Isara",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/6/6e/%28Relaxing_Fall%29_Mao_Isara.png/revision/latest/scale-to-width-down/100?cb=20161208063805",
+    "name": "(Relaxing Fall) Mao Isara［寛ぎの秋］衣更 真緒",
+    "star": 4
+  },
+  {
+    "i": 66,
+    "title": "(Unreserved Relationship) Mao Isara",
+    "url": "/wiki/(Unreserved_Relationship)_Mao_Isara",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/d/da/%28Unreserved_Relationship%29_Mao_Isara.png/revision/latest/scale-to-width-down/100?cb=20160210132724",
+    "name": "(Unreserved Relationship) Mao Isara［遠慮のない関係］衣更真緒",
+    "star": 4
+  },
+  {
+    "i": 68,
+    "title": "(Youth Capriccio) Mao Isara",
+    "url": "/wiki/(Youth_Capriccio)_Mao_Isara",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/3/36/%28Youth_Capriccio%29_Mao_Isara.png/revision/latest/scale-to-width-down/100?cb=20181217015241",
+    "name": "(Youth Capriccio) Mao Isara［青春の協奏曲］衣更 真緒",
+    "star": 4
+  },
+  {
+    "i": 70,
+    "title": "(Green Matador) Mao Isara",
+    "url": "/wiki/(Green_Matador)_Mao_Isara",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/7/77/%28Green_Matador%29_Mao_Isara.png/revision/latest/scale-to-width-down/100?cb=20160830165126",
+    "name": "(Green Matador) Mao Isara[碧のマタドール] 衣更 真緒",
+    "star": 4
+  },
+  {
+    "i": 72,
+    "title": "(Advancing Heart) Mao Isara",
+    "url": "/wiki/(Advancing_Heart)_Mao_Isara",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/1/19/%28Advancing_Heart%29_Mao_Isara.png/revision/latest/scale-to-width-down/100?cb=20190116182646",
+    "name": "(Advancing Heart) Mao Isara[動き出す心] 衣更 真緒",
+    "star": 4
+  },
+  {
+    "i": 74,
+    "title": "(Preparation Time) Mao Isara",
+    "url": "/wiki/(Preparation_Time)_Mao_Isara",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/3/3f/%28Preparation_Time%29_Mao_Isara.png/revision/latest/scale-to-width-down/100?cb=20170429221743",
+    "name": "(Preparation Time) Mao Isara[支度の時間] 衣更 真緒",
+    "star": 4
+  },
+  {
+    "i": 76,
+    "title": "(3rd Anniversary) Mao Isara",
+    "url": "/wiki/(3rd_Anniversary)_Mao_Isara",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/2/29/%283rd_Anniversary%29_Mao_Isara.png/revision/latest/scale-to-width-down/100?cb=20180606143301",
+    "name": "(3rd Anniversary) Mao Isara[三周年記念] 衣更 真緒",
+    "star": 4
+  },
+  {
+    "i": 78,
+    "title": "(Homeward Black Cat) Mao Isara",
+    "url": "/wiki/(Homeward_Black_Cat)_Mao_Isara",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/0/0f/%28Homeward_Black_Cat%29_Mao_Isara.png/revision/latest/scale-to-width-down/100?cb=20181130203729",
+    "name": "(Homeward Black Cat) Mao Isara[帰郷の黒猫] 衣更 真緒",
+    "star": 4
+  },
+  {
+    "i": 80,
+    "title": "(Snow's First Dance) Mao Isara",
+    "url": "/wiki/(Snow%27s_First_Dance)_Mao_Isara",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/e/ef/%28Snow%27s_First_Dance%29_Mao_Isara.png/revision/latest/scale-to-width-down/100?cb=20190106201156",
+    "name": "(Snow's First Dance) Mao Isara[雪の初舞] 衣更 真緒",
+    "star": 4
+  },
+  {
+    "i": 82,
+    "title": "(Night of Gratitude for Meetings) Mao Isara",
+    "url": "/wiki/(Night_of_Gratitude_for_Meetings)_Mao_Isara",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/9/90/%28Night_of_Gratitude_for_Meetings%29_Mao_Isara.png/revision/latest/scale-to-width-down/100?cb=20190425130954",
+    "name": "(Night of Gratitude for Meetings) Mao Isara[出会いに感謝の夜] 衣更 真緒",
+    "star": 4
+  },
+  {
+    "i": 84,
+    "title": "(Operetta of Cooperation) Mao Isara",
+    "url": "/wiki/(Operetta_of_Cooperation)_Mao_Isara",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/c/c6/%28Operetta_of_Cooperation%29_Mao_Isara.png/revision/latest/scale-to-width-down/100?cb=20190510191538",
+    "name": "(Operetta of Cooperation) Mao Isara[協力のオペレッタ] 衣更 真緒",
+    "star": 4
+  },
+  {
+    "i": 86,
+    "title": "(4th Anniversary) Mao Isara",
+    "url": "/wiki/(4th_Anniversary)_Mao_Isara",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/2/24/%284th_Anniversary%29_Mao_Isara.png/revision/latest/scale-to-width-down/100?cb=20211021063903",
+    "name": "(4th Anniversary) Mao Isara[四周年記念] 衣更 真緒",
+    "star": 4
+  },
+  {
+    "i": 88,
+    "title": "(Worrywart) Mao Isara",
+    "url": "/wiki/(Worrywart)_Mao_Isara",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/c/ca/%28Worrywart%29_Mao_Isara.png/revision/latest/scale-to-width-down/100?cb=20150429190141",
+    "name": "(Worrywart) Mao Isara［気苦労］衣更 真緒",
+    "star": 3
+  },
+  {
+    "i": 90,
+    "title": "(Manga) Mao Isara",
+    "url": "/wiki/(Manga)_Mao_Isara",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/e/e2/%28Manga%29_Mao_Isara.png/revision/latest/scale-to-width-down/100?cb=20190120054827",
+    "name": "(Manga) Mao Isara［漫画］衣更 真緒",
+    "star": 3
+  },
+  {
+    "i": 92,
+    "title": "(Nervous Temperament) Mao Isara",
+    "url": "/wiki/(Nervous_Temperament)_Mao_Isara",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/f/fd/%28Nervous_Temperament%29_Mao_Isara.png/revision/latest/scale-to-width-down/100?cb=20190102003726",
+    "name": "(Nervous Temperament) Mao Isara［苦労性］衣更 真緒",
+    "star": 3
+  },
+  {
+    "i": 94,
+    "title": "(Helpman) Mao Isara",
+    "url": "/wiki/(Helpman)_Mao_Isara",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/0/0c/%28Helpman%29_Mao_Isara.png/revision/latest/scale-to-width-down/100?cb=20150604115629",
+    "name": "(Helpman) Mao Isara［ヘルプマン］衣更 真緒",
+    "star": 3
+  },
+  {
+    "i": 96,
+    "title": "(Experienced Competition) Mao Isara",
+    "url": "/wiki/(Experienced_Competition)_Mao_Isara",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/0/0d/%28Experienced_Competition%29_Mao_Isara.png/revision/latest/scale-to-width-down/100?cb=20150925134527",
+    "name": "(Experienced Competition) Mao Isara［手慣れた競技］衣更 真緒",
+    "star": 3
+  },
+  {
+    "i": 98,
+    "title": "(Scattering Water) Mao Isara",
+    "url": "/wiki/(Scattering_Water)_Mao_Isara",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/2/22/%28Scattering_Water%29_Mao_Isara.png/revision/latest/scale-to-width-down/100?cb=20180313211125",
+    "name": "(Scattering Water) Mao Isara［水撒き］衣更 真緒",
+    "star": 3
+  },
+  {
+    "i": 100,
+    "title": "(Basketball Practice) Mao Isara",
+    "url": "/wiki/(Basketball_Practice)_Mao_Isara",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/5/5a/%28Basketball_Practice%29_Mao_Isara.png/revision/latest/scale-to-width-down/100?cb=20160127073301",
+    "name": "(Basketball Practice) Mao Isara［バスケ練習］衣更 真緒",
+    "star": 3
+  },
+  {
+    "i": 102,
+    "title": "(Broadcasting Proposal) Mao Isara",
+    "url": "/wiki/(Broadcasting_Proposal)_Mao_Isara",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/2/21/%28Broadcasting_Proposal%29_Mao_Isara.png/revision/latest/scale-to-width-down/100?cb=20160214064149",
+    "name": "(Broadcasting Proposal) Mao Isara［放送提案］衣更 真緒",
+    "star": 3
+  },
+  {
+    "i": 104,
+    "title": "(The Treasurer's Efforts) Mao Isara",
+    "url": "/wiki/(The_Treasurer%27s_Efforts)_Mao_Isara",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/a/a9/%28The_Treasurer%27s_Efforts%29_Mao_Isara.png/revision/latest/scale-to-width-down/100?cb=20160616111829",
+    "name": "(The Treasurer's Efforts) Mao Isara[奔走の会計]  衣更 真緒",
+    "star": 3
+  },
+  {
+    "i": 106,
+    "title": "(Scheduled Maintenance) Mao Isara",
+    "url": "/wiki/(Scheduled_Maintenance)_Mao_Isara",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/3/3f/%28Scheduled_Maintenance%29_Mao_Isara.png/revision/latest/scale-to-width-down/100?cb=20160629061846",
+    "name": "(Scheduled Maintenance) Mao Isara[定期整備] 衣更 真緒",
+    "star": 3
+  },
+  {
+    "i": 108,
+    "title": "(Seaside Mediation) Mao Isara",
+    "url": "/wiki/(Seaside_Mediation)_Mao_Isara",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/6/6a/%28Seaside_Mediation%29_Mao_Isara.png/revision/latest/scale-to-width-down/100?cb=20161002023806",
+    "name": "(Seaside Mediation) Mao Isara[海辺の橋渡し] 衣更 真緒",
+    "star": 3
+  },
+  {
+    "i": 110,
+    "title": "(Rocky Mood) Mao Isara",
+    "url": "/wiki/(Rocky_Mood)_Mao_Isara",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/7/7a/%28Rocky_Mood%29_Mao_Isara.png/revision/latest/scale-to-width-down/100?cb=20161015070927",
+    "name": "(Rocky Mood) Mao Isara[ロックなムード] 衣更 真緒",
+    "star": 3
+  },
+  {
+    "i": 112,
+    "title": "(Headquarters Overrun) Mao Isara",
+    "url": "/wiki/(Headquarters_Overrun)_Mao_Isara",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/2/25/%28Headquarters_Overrun%29_Mao_Isara.png/revision/latest/scale-to-width-down/100?cb=20170201040853",
+    "name": "(Headquarters Overrun) Mao Isara[捕獲本部]  衣更 真緒",
+    "star": 3
+  },
+  {
+    "i": 114,
+    "title": "(Staff Trainee) Mao Isara",
+    "url": "/wiki/(Staff_Trainee)_Mao_Isara",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/2/2f/%28Staff_Trainee%29_Mao_Isara.png/revision/latest/scale-to-width-down/100?cb=20180716214758",
+    "name": "(Staff Trainee) Mao Isara[見習い役員] 衣更 真緒",
+    "star": 3
+  },
+  {
+    "i": 116,
+    "title": "(Hardship and Enjoyment) Mao Isara",
+    "url": "/wiki/(Hardship_and_Enjoyment)_Mao_Isara",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/3/36/%28Hardship_and_Enjoyment%29_Mao_Isara.png/revision/latest/scale-to-width-down/100?cb=20180716225521",
+    "name": "(Hardship and Enjoyment) Mao Isara[苦労と楽しみ] 衣更 真緒",
+    "star": 3
+  },
+  {
+    "i": 118,
+    "title": "(Soumen-Nagashi) Mao Isara",
+    "url": "/wiki/(Soumen-Nagashi)_Mao_Isara",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/c/c5/%28Soumen-Nagashi%29_Mao_Isara.png/revision/latest/scale-to-width-down/100?cb=20170829203445",
+    "name": "(Soumen-Nagashi) Mao Isara[素麺流し] 衣更 真緒",
+    "star": 3
+  },
+  {
+    "i": 120,
+    "title": "(Bright Crimson Star) Mao Isara",
+    "url": "/wiki/(Bright_Crimson_Star)_Mao_Isara",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/e/e9/%28Bright_Crimson_Star%29_Mao_Isara.png/revision/latest/scale-to-width-down/100?cb=20170920003615",
+    "name": "(Bright Crimson Star) Mao Isara[薄紅の星] 衣更 真緒",
+    "star": 3
+  },
+  {
+    "i": 122,
+    "title": "(HAVE A DREAM!) Mao Isara",
+    "url": "/wiki/(HAVE_A_DREAM!)_Mao_Isara",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/5/5c/%28HAVE_A_DREAM%21%29_Mao_Isara.png/revision/latest/scale-to-width-down/100?cb=20180203023058",
+    "name": "(HAVE A DREAM!) Mao Isara[HAVE A DREAM!] 衣更 真緒",
+    "star": 3
+  },
+  {
+    "i": 124,
+    "title": "(Angel's Work) Mao Isara",
+    "url": "/wiki/(Angel%27s_Work)_Mao_Isara",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/9/99/%28Angel%27s_Work%29_Mao_Isara.png/revision/latest/scale-to-width-down/100?cb=20180501072557",
+    "name": "(Angel's Work) Mao Isara[天使の仕事] 衣更 真緒",
+    "star": 3
+  },
+  {
+    "i": 126,
+    "title": "(Light Crimson White Ogre) Mao Isara",
+    "url": "/wiki/(Light_Crimson_White_Ogre)_Mao_Isara",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/9/96/%28Light_Crimson_White_Ogre%29_Mao_Isara.png/revision/latest/scale-to-width-down/100?cb=20181216175613",
+    "name": "(Light Crimson White Ogre) Mao Isara[中紅の白鬼] 衣更 真緒",
+    "star": 3
+  },
+  {
+    "i": 128,
+    "title": "(Melty À La Mode) Mao Isara",
+    "url": "/wiki/(Melty_%C3%80_La_Mode)_Mao_Isara",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/b/b6/%28Melty_%C3%80_La_Mode%29_Mao_Isara.png/revision/latest/scale-to-width-down/100?cb=20190214080340",
+    "name": "(Melty À La Mode) Mao Isara[メルティアラモード] 衣更 真緒",
+    "star": 3
+  },
+  {
+    "i": 130,
+    "title": "(Inheritance) Mao Isara",
+    "url": "/wiki/(Inheritance)_Mao_Isara",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/b/b3/%28Inheritance%29_Mao_Isara.png/revision/latest/scale-to-width-down/100?cb=20190327141638",
+    "name": "(Inheritance) Mao Isara[引き継ぎ] 衣更 真緒",
+    "star": 3
+  },
+  {
+    "i": 132,
+    "title": "(Backup Baseball) Mao Isara",
+    "url": "/wiki/(Backup_Baseball)_Mao_Isara",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/2/2b/%28Backup_Baseball%29_Mao_Isara.png/revision/latest/scale-to-width-down/100?cb=20190327093358",
+    "name": "(Backup Baseball) Mao Isara[支援野球] 衣更 真緒",
+    "star": 3
+  },
+  {
+    "i": 134,
+    "title": "(A Dream Seized Together) Mao Isara",
+    "url": "/wiki/(A_Dream_Seized_Together)_Mao_Isara",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/1/1e/%28A_Dream_Seized_Together%29_Mao_Isara.png/revision/latest/scale-to-width-down/100?cb=20191001021319",
+    "name": "(A Dream Seized Together) Mao Isara[共に掴む夢] 衣更 真緒",
+    "star": 3
+  },
+  {
+    "i": 136,
+    "title": "Mao Isara (Card)",
+    "url": "/wiki/Mao_Isara_(Card)",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/5/5a/Mao_Isara_%28Card%29.png/revision/latest/scale-to-width-down/100?cb=20150430005852",
+    "name": "Mao Isara (Card)衣更 真緒",
+    "star": 1
+  },
+  {
+    "i": 138,
+    "title": "(Academy Idol) Mao Isara",
+    "url": "/wiki/(Academy_Idol)_Mao_Isara",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/9/99/%28Academy_Idol%29_Mao_Isara.png/revision/latest/scale-to-width-down/100?cb=20190105054645",
+    "name": "(Academy Idol) Mao Isara［学院のアイドル］衣更 真緒",
+    "star": 2
+  },
+  {
+    "i": 140,
+    "title": "(Steady and Calm) Mao Isara",
+    "url": "/wiki/(Steady_and_Calm)_Mao_Isara",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/c/c6/%28Steady_and_Calm%29_Mao_Isara.png/revision/latest/scale-to-width-down/100?cb=20171223135202",
+    "name": "(Steady and Calm) Mao Isara【況著與冷静】 衣更真緒【况着与冷静】 衣更真绪",
+    "star": 4
+  },
+  {
+    "i": 142,
+    "title": "(Busy Researcher) Mao Isara",
+    "url": "/wiki/(Busy_Researcher)_Mao_Isara",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/d/d0/%28Busy_Researcher%29_Mao_Isara.png/revision/latest/scale-to-width-down/100?cb=20170216035238",
+    "name": "(Busy Researcher) Mao Isara[忙碌的研究員] 衣更 真緒[忙碌的研究员] 衣更 真绪",
+    "star": 3
+  },
+  {
+    "i": 144,
+    "title": "(Swimming Preparations) Mao Isara",
+    "url": "/wiki/(Swimming_Preparations)_Mao_Isara",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/0/0c/%28Swimming_Preparations%29_Mao_Isara.png/revision/latest/scale-to-width-down/100?cb=20190215200336",
+    "name": "(Swimming Preparations) Mao Isara【游泳準備】 衣更 真緒【游泳准备】 衣更 真绪",
+    "star": 3
+  },
+  {
+    "i": 146,
+    "title": "(Heavily-Armored Swordsman) Mao Isara",
+    "url": "/wiki/(Heavily-Armored_Swordsman)_Mao_Isara",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/a/a2/%28Heavily-Armored_Swordsman%29_Mao_Isara.png/revision/latest/scale-to-width-down/100?cb=20191008191936",
+    "name": "(Heavily-Armored Swordsman) Mao Isara[重裝的劍士] 衣更 真緒[重装的剑士] 衣更 真绪",
+    "star": 3
+  }
+]

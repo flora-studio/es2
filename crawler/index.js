@@ -3,7 +3,60 @@ const fs = require('fs')
 
 const BASE_URL = 'https://ensemble-stars.fandom.com'
 
-const name = 'Izumi_Sena' // 角色名
+const names = [
+  // 'Eichi_Tenshouin',
+  // 'Wataru_Hibiki',
+  // 'Tori_Himemiya',
+  // 'Yuzuru_Fushimi',
+  // 'Hokuto_Hidaka',
+  // 'Subaru_Akehoshi',
+  // 'Makoto_Yuuki',
+  // 'Mao_Isara',
+  // 'Chiaki_Morisawa',
+  // 'Kanata_Shinkai',
+  // 'Tetora_Nagumo',
+  // 'Midori_Takamine',
+  // 'Shinobu_Sengoku',
+  // 'Hiiro_Amagi',
+  // 'Aira_Shiratori',
+  // 'Mayoi_Ayase',
+  // 'Tatsumi_Kazehaya',
+  // 'Nagisa_Ran',
+  // 'Hiyori_Tomoe',
+  // 'Ibara_Saegusa',
+  // 'Jun_Sazanami',
+  // 'Shu_Itsuki',
+  // 'Mika_Kagehira',
+  // 'Hinata_Aoi',
+  // 'Yuta_Aoi',
+  // 'Rinne_Amagi',
+  // 'HiMERU',
+  // 'Kohaku_Oukawa',
+  // 'Niki_Shiina',
+  // 'Rei_Sakuma',
+  // 'Kaoru_Hakaze',
+  // 'Koga_Oogami',
+  // 'Adonis_Otogari',
+  // 'Tomoya_Mashiro',
+  // 'Nazuna_Nito',
+  // 'Mitsuru_Tenma',
+  // 'Hajime_Shino',
+  // 'Keito_Hasumi',
+  // 'Kuro_Kiryu',
+  // 'Souma_Kanzaki',
+  // 'Tsukasa_Suou',
+  // 'Leo_Tsukinaga',
+  // 'Izumi_Sena',
+  // 'Ritsu_Sakuma',
+  // 'Arashi_Narukami',
+  // 'Natsume_Sakasaki',
+  // 'Tsumugi_Aoba',
+  // 'Sora_Harukawa',
+  // 'Madara_Mikejima',
+  // 'Kohaku_Oukawa',
+]
+
+const name = names[0] // 角色名
 const database = {} // 角色名 => 卡的数组
 
 const c = new Crawler({
@@ -62,7 +115,7 @@ c.queue({
 })
 
 c.on('drain', () => {
-  console.log(database)
+  // console.log(database)
   if (!fs.existsSync(`./cards/${name}/`)) {
     fs.mkdirSync(`./cards/${name}/`)
   }

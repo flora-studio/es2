@@ -1,10 +1,202 @@
 [
   {
+    "key": "Eichi_Tenshouin",
+    "name": "天祥院 英智"
+  },
+  {
+    "key": "Wataru_Hibiki",
+    "name": "日々樹 渉"
+  },
+  {
+    "key": "Tori_Himemiya",
+    "name": "姫宮 桃李"
+  },
+  {
+    "key": "Yuzuru_Fushimi",
+    "name": "伏見 弓弦"
+  },
+  {
+    "key": "Hokuto_Hidaka",
+    "name": "氷鷹 北斗"
+  },
+  {
+    "key": "Subaru_Akehoshi",
+    "name": "明星 スバル"
+  },
+  {
+    "key": "Makoto_Yuuki",
+    "name": "遊木 真"
+  },
+  {
+    "key": "Mao_Isara",
+    "name": "衣更 真緒"
+  },
+  {
+    "key": "Chiaki_Morisawa",
+    "name": "守沢 千秋"
+  },
+  {
+    "key": "Kanata_Shinkai",
+    "name": "深海 奏汰"
+  },
+  {
+    "key": "Tetora_Nagumo",
+    "name": "南雲 鉄虎"
+  },
+  {
+    "key": "Midori_Takamine",
+    "name": "高峯 翠"
+  },
+  {
     "key": "Shinobu_Sengoku",
     "name": "仙石 忍"
   },
   {
+    "key": "Hiiro_Amagi",
+    "name": "天城 一彩"
+  },
+  {
+    "key": "Aira_Shiratori",
+    "name": "白鳥 藍良"
+  },
+  {
+    "key": "Mayoi_Ayase",
+    "name": "礼瀬 マヨイ"
+  },
+  {
+    "key": "Tatsumi_Kazehaya",
+    "name": "風早 巽"
+  },
+  {
+    "key": "Nagisa_Ran",
+    "name": "乱 凪砂"
+  },
+  {
+    "key": "Hiyori_Tomoe",
+    "name": "巴 日和"
+  },
+  {
+    "key": "Ibara_Saegusa",
+    "name": "七種 茨"
+  },
+  {
+    "key": "Jun_Sazanami",
+    "name": "漣 ジュン"
+  },
+  {
+    "key": "Shu_Itsuki",
+    "name": "斎宮 宗"
+  },
+  {
+    "key": "Mika_Kagehira",
+    "name": "影片 みか"
+  },
+  {
+    "key": "Hinata_Aoi",
+    "name": "葵 ひなた"
+  },
+  {
+    "key": "Yuta_Aoi",
+    "name": "葵 ゆうた"
+  },
+  {
+    "key": "Rinne_Amagi",
+    "name": "天城 燐音"
+  },
+  {
+    "key": "HiMERU",
+    "name": "HiMERU"
+  },
+  {
+    "key": "Kohaku_Oukawa",
+    "name": "桜河 こはく"
+  },
+  {
+    "key": "Niki_Shiina",
+    "name": "椎名 ニキ"
+  },
+  {
+    "key": "Rei_Sakuma",
+    "name": "朔間 零"
+  },
+  {
+    "key": "Kaoru_Hakaze",
+    "name": "羽風 薫"
+  },
+  {
+    "key": "Koga_Oogami",
+    "name": "大神 晃牙"
+  },
+  {
+    "key": "Adonis_Otogari",
+    "name": "乙狩 アドニス"
+  },
+  {
     "key": "Tomoya_Mashiro",
     "name": "真白 友也"
+  },
+  {
+    "key": "Nazuna_Nito",
+    "name": "仁兎 なずな"
+  },
+  {
+    "key": "Mitsuru_Tenma",
+    "name": "天満 光"
+  },
+  {
+    "key": "Hajime_Shino",
+    "name": "紫之 創"
+  },
+  {
+    "key": "Keito_Hasumi",
+    "name": "蓮巳 敬人"
+  },
+  {
+    "key": "Kuro_Kiryu",
+    "name": "鬼龍 紅郎"
+  },
+  {
+    "key": "Souma_Kanzaki",
+    "name": "神崎 颯馬"
+  },
+  {
+    "key": "Tsukasa_Suou",
+    "name": "朱桜 司"
+  },
+  {
+    "key": "Leo_Tsukinaga",
+    "name": "月永 レオ"
+  },
+  {
+    "key": "Izumi_Sena",
+    "name": "瀬名 泉"
+  },
+  {
+    "key": "Ritsu_Sakuma",
+    "name": "朔間 凛月"
+  },
+  {
+    "key": "Arashi_Narukami",
+    "name": "鳴上 嵐"
+  },
+  {
+    "key": "Natsume_Sakasaki",
+    "name": "逆先 夏目"
+  },
+  {
+    "key": "Tsumugi_Aoba",
+    "name": "青葉 つむぎ"
+  },
+  {
+    "key": "Sora_Harukawa",
+    "name": "春川 宙"
+  },
+  {
+    "key": "Madara_Mikejima",
+    "name": "三毛縞 斑"
+  },
+  {
+    "key": "Kohaku_Oukawa",
+    "name": "桜河 こはく"
   }
 ]

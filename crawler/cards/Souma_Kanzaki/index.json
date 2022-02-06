@@ -1,0 +1,578 @@
+[
+  {
+    "i": 0,
+    "title": "(An Oath to the Gods of Heaven and Earth) Souma Kanzaki",
+    "url": "/wiki/(An_Oath_to_the_Gods_of_Heaven_and_Earth)_Souma_Kanzaki",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/d/d1/%28An_Oath_to_the_Gods_of_Heaven_and_Earth%29_Souma_Kanzaki_M.png/revision/latest/scale-to-width-down/100?cb=20200828235707",
+    "name": " (An Oath to the Gods of Heaven and Earth) Souma Kanzaki[天地神明の誓い] 神崎 颯馬",
+    "star": 5
+  },
+  {
+    "i": 2,
+    "title": "(Submarine and Duty) Souma Kanzaki",
+    "url": "/wiki/(Submarine_and_Duty)_Souma_Kanzaki",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/e/e1/%28Submarine_and_Duty%29_Souma_Kanzaki_M.png/revision/latest/scale-to-width-down/100?cb=20210601074639",
+    "name": " (Submarine and Duty) Souma Kanzaki[サブマリンとお役目] 神崎 颯馬",
+    "star": 5
+  },
+  {
+    "i": 4,
+    "title": "(Valiant Warlord) Souma Kanzaki",
+    "url": "/wiki/(Valiant_Warlord)_Souma_Kanzaki",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/4/40/%28Valiant_Warlord%29_Souma_Kanzaki_M.png/revision/latest/scale-to-width-down/100?cb=20210914140524",
+    "name": "(Valiant Warlord) Souma Kanzaki[猛き武将] 神崎 颯馬",
+    "star": 5
+  },
+  {
+    "i": 6,
+    "title": "(Old-Fashioned Warrior) Souma Kanzaki",
+    "url": "/wiki/(Old-Fashioned_Warrior)_Souma_Kanzaki",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/3/3d/%28Old-Fashioned_Warrior%29_Souma_Kanzaki_M.png/revision/latest/scale-to-width-down/100?cb=20200422182624",
+    "name": " (Old-Fashioned Warrior) Souma Kanzaki[古風な武士] 神崎 颯馬",
+    "star": 4
+  },
+  {
+    "i": 8,
+    "title": "(Skilled Vagabond) Souma Kanzaki",
+    "url": "/wiki/(Skilled_Vagabond)_Souma_Kanzaki",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/e/eb/%28Skilled_Vagabond%29_Souma_Kanzaki_M.png/revision/latest/scale-to-width-down/100?cb=20200517015656",
+    "name": " (Skilled Vagabond) Souma Kanzaki[捌きの風来坊] 神崎 颯馬",
+    "star": 4
+  },
+  {
+    "i": 10,
+    "title": "(RhyLin's Elegance) Souma Kanzaki",
+    "url": "/wiki/(RhyLin%27s_Elegance)_Souma_Kanzaki",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/4/4c/%28RhyLin%27s_Elegance%29_Souma_Kanzaki_M.png/revision/latest/scale-to-width-down/100?cb=20200830004611",
+    "name": " (RhyLin's Elegance) Souma Kanzaki[リズリンの風雅] 神崎 颯馬",
+    "star": 4
+  },
+  {
+    "i": 12,
+    "title": "(Soirée at 9 O'Clock) Souma Kanzaki",
+    "url": "/wiki/(Soir%C3%A9e_at_9_O%27Clock)_Souma_Kanzaki",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/d/dc/%28Soir%C3%A9e_at_9_O%27Clock%29_Souma_Kanzaki_M.png/revision/latest/scale-to-width-down/100?cb=20201201112417",
+    "name": " (Soirée at 9 O'Clock) Souma Kanzaki[九時のソワレ] 神崎 颯馬",
+    "star": 4
+  },
+  {
+    "i": 14,
+    "title": "(Advancing With Our Hearts as One) Souma Kanzaki",
+    "url": "/wiki/(Advancing_With_Our_Hearts_as_One)_Souma_Kanzaki",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/7/7f/%28Advancing_With_Our_Hearts_as_One%29_Souma_Kanzaki_M.png/revision/latest/scale-to-width-down/100?cb=20210217183446",
+    "name": " (Advancing With Our Hearts as One) Souma Kanzaki[心重ね進める歩] 神崎 颯馬",
+    "star": 4
+  },
+  {
+    "i": 16,
+    "title": "(Rock and Roll Warrior) Souma Kanzaki",
+    "url": "/wiki/(Rock_and_Roll_Warrior)_Souma_Kanzaki",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/f/fc/%28Rock_and_Roll_Warrior%29_Souma_Kanzaki_M.png/revision/latest/scale-to-width-down/100?cb=20211013122002",
+    "name": "(Rock and Roll Warrior) Souma Kanzaki[武士ロック] 神崎 颯馬",
+    "star": 4
+  },
+  {
+    "i": 18,
+    "title": "(Hot Blood of the Moon) Souma Kanzaki",
+    "url": "/wiki/(Hot_Blood_of_the_Moon)_Souma_Kanzaki",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/e/e3/%28Hot_Blood_of_the_Moon%29_Souma_Kanzaki_M.png/revision/latest/scale-to-width-down/100?cb=20211101031223",
+    "name": "(Hot Blood of the Moon) Souma Kanzaki[月の血潮] 神崎 颯馬",
+    "star": 4
+  },
+  {
+    "i": 20,
+    "title": "(Practicing) Souma Kanzaki",
+    "url": "/wiki/(Practicing)_Souma_Kanzaki",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/a/a3/%28Practicing%29_Souma_Kanzaki_M.png/revision/latest/scale-to-width-down/100?cb=20200412150827",
+    "name": " (Practicing) Souma Kanzaki[練習風景] 神崎 颯馬",
+    "star": 3
+  },
+  {
+    "i": 22,
+    "title": "(Sword-bearing Match) Souma Kanzaki",
+    "url": "/wiki/(Sword-bearing_Match)_Souma_Kanzaki",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/a/a8/%28Sword-bearing_Match%29_Souma_Kanzaki_M.png/revision/latest/scale-to-width-down/100?cb=20200716214154",
+    "name": " (Sword-bearing Match) Souma Kanzaki[剣技の試合] 神崎 颯馬",
+    "star": 3
+  },
+  {
+    "i": 24,
+    "title": "(Coincidental Contractor) Souma Kanzaki",
+    "url": "/wiki/(Coincidental_Contractor)_Souma_Kanzaki",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/5/56/%28Coincidental_Contractor%29_Souma_Kanzaki_M.png/revision/latest/scale-to-width-down/100?cb=20200802161522",
+    "name": " (Coincidental Contractor) Souma Kanzaki[奇縁の請負人] 神崎 颯馬",
+    "star": 3
+  },
+  {
+    "i": 26,
+    "title": "(The Taste of Memories) Souma Kanzaki",
+    "url": "/wiki/(The_Taste_of_Memories)_Souma_Kanzaki",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/b/b1/%28The_Taste_of_Memories%29_Souma_Kanzaki_M.png/revision/latest/scale-to-width-down/100?cb=20210311233354",
+    "name": " (The Taste of Memories) Souma Kanzaki[思い出の味] 神崎 颯馬",
+    "star": 3
+  },
+  {
+    "i": 28,
+    "title": "(Beginner Skater) Souma Kanzaki",
+    "url": "/wiki/(Beginner_Skater)_Souma_Kanzaki",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/7/7a/%28Beginner_Skater%29_Souma_Kanzaki_M.png/revision/latest/scale-to-width-down/100?cb=20210516105410",
+    "name": " (Beginner Skater) Souma Kanzaki[入門スケーター] 神崎 颯馬",
+    "star": 3
+  },
+  {
+    "i": 30,
+    "title": "(An Idol) Souma Kanzaki",
+    "url": "/wiki/(An_Idol)_Souma_Kanzaki",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/b/b0/%28An_Idol%29_Souma_Kanzaki_M.png/revision/latest/scale-to-width-down/100?cb=20200412134740",
+    "name": " (An Idol) Souma Kanzaki[ひとりのアイドル] 神崎 颯馬",
+    "star": 1
+  },
+  {
+    "i": 32,
+    "title": "(ES Idol) Souma Kanzaki",
+    "url": "/wiki/(ES_Idol)_Souma_Kanzaki",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/f/f1/%28ES_Idol%29_Souma_Kanzaki_M.png/revision/latest/scale-to-width-down/100?cb=20200412142231",
+    "name": " (ES Idol) Souma Kanzaki[ESのアイドル] 神崎 颯馬",
+    "star": 2
+  },
+  {
+    "i": 34,
+    "title": "(Master Swordsman's Dance) Souma Kanzaki",
+    "url": "/wiki/(Master_Swordsman%27s_Dance)_Souma_Kanzaki",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/e/e5/%28Master_Swordsman%27s_Dance%29_Souma_Kanzaki.png/revision/latest/scale-to-width-down/100?cb=20190817153408",
+    "name": "(Master Swordsman's Dance) Souma Kanzaki［剣豪の舞］神崎 颯馬",
+    "star": 5
+  },
+  {
+    "i": 36,
+    "title": "(Flower Dance of Apollo) Souma Kanzaki",
+    "url": "/wiki/(Flower_Dance_of_Apollo)_Souma_Kanzaki",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/4/40/%28Flower_Dance_of_Apollo%29_Souma_Kanzaki.png/revision/latest/scale-to-width-down/100?cb=20151129081856",
+    "name": "(Flower Dance of Apollo) Souma Kanzaki［アポロンの花舞い］神崎 颯馬",
+    "star": 5
+  },
+  {
+    "i": 38,
+    "title": "(Paradise of the Sea) Souma Kanzaki",
+    "url": "/wiki/(Paradise_of_the_Sea)_Souma_Kanzaki",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/8/86/%28Paradise_of_the_Sea%29_Souma_Kanzaki.png/revision/latest/scale-to-width-down/100?cb=20190601002135",
+    "name": "(Paradise of the Sea) Souma Kanzaki[水底の楽園] 神崎 颯馬",
+    "star": 5
+  },
+  {
+    "i": 40,
+    "title": "(Samurai's Big Moment) Souma Kanzaki",
+    "url": "/wiki/(Samurai%27s_Big_Moment)_Souma_Kanzaki",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/9/9e/%28Samurai%27s_Big_Moment%29_Souma_Kanzaki.png/revision/latest/scale-to-width-down/100?cb=20161006215901",
+    "name": "(Samurai's Big Moment) Souma Kanzaki［武士の晴れ舞台］神崎 颯馬",
+    "star": 5
+  },
+  {
+    "i": 42,
+    "title": "(Showdown with Friend) Souma Kanzaki",
+    "url": "/wiki/(Showdown_with_Friend)_Souma_Kanzaki",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/5/55/%28Showdown_with_Friend%29_Souma_Kanzaki.png/revision/latest/scale-to-width-down/100?cb=20170325225307",
+    "name": "(Showdown with Friend) Souma Kanzaki[友との勝負] 神崎 颯馬",
+    "star": 5
+  },
+  {
+    "i": 44,
+    "title": "(Hanafuda) Souma Kanzaki",
+    "url": "/wiki/(Hanafuda)_Souma_Kanzaki",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/4/4c/%28Hanafuda%29_Souma_Kanzaki.png/revision/latest/scale-to-width-down/100?cb=20171019093723",
+    "name": "(Hanafuda) Souma Kanzaki[花の色札] 神崎 颯馬",
+    "star": 5
+  },
+  {
+    "i": 46,
+    "title": "(Class Performance of Friendship) Souma Kanzaki",
+    "url": "/wiki/(Class_Performance_of_Friendship)_Souma_Kanzaki",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/b/b2/%28Class_Performance_of_Friendship%29_Souma_Kanzaki.png/revision/latest/scale-to-width-down/100?cb=20200512122913",
+    "name": "(Class Performance of Friendship) Souma Kanzaki[友情のクラスライブ] 神崎 颯馬",
+    "star": 5
+  },
+  {
+    "i": 48,
+    "title": "(Cat and Train Conductor) Souma Kanzaki",
+    "url": "/wiki/(Cat_and_Train_Conductor)_Souma_Kanzaki",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/7/75/%28Cat_and_Train_Conductor%29_Souma_Kanzaki.png/revision/latest/scale-to-width-down/100?cb=20181228203712",
+    "name": "(Cat and Train Conductor) Souma Kanzaki[猫と車掌] 神崎 颯馬",
+    "star": 5
+  },
+  {
+    "i": 50,
+    "title": "(Illuminated Summer Night) Souma Kanzaki",
+    "url": "/wiki/(Illuminated_Summer_Night)_Souma_Kanzaki",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/e/e1/%28Illuminated_Summer_Night%29_Souma_Kanzaki.png/revision/latest/scale-to-width-down/100?cb=20190812165704",
+    "name": "(Illuminated Summer Night) Souma Kanzaki[明かりとサマーナイト] 神崎 颯馬",
+    "star": 5
+  },
+  {
+    "i": 52,
+    "title": "(AKATSUKI's Blade) Souma Kanzaki",
+    "url": "/wiki/(AKATSUKI%27s_Blade)_Souma_Kanzaki",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/0/08/%28AKATSUKI%27s_Blade%29_Souma_Kanzaki.png/revision/latest/scale-to-width-down/100?cb=20210713004300",
+    "name": "(AKATSUKI's Blade) Souma Kanzaki[紅月の刃] 神崎 颯馬",
+    "star": 5
+  },
+  {
+    "i": 54,
+    "title": "(The Faithful Samurai) Souma Kanzaki",
+    "url": "/wiki/(The_Faithful_Samurai)_Souma_Kanzaki",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/e/e4/%28The_Faithful_Samurai%29_Souma_Kanzaki.png/revision/latest/scale-to-width-down/100?cb=20150429185032",
+    "name": "(The Faithful Samurai) Souma Kanzaki［追従する侍］神崎 颯馬",
+    "star": 4
+  },
+  {
+    "i": 56,
+    "title": "(Satsuki's Clothes) Souma Kanzaki",
+    "url": "/wiki/(Satsuki%27s_Clothes)_Souma_Kanzaki",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/f/f8/%28Satsuki%27s_Clothes%29_Souma_Kanzaki.png/revision/latest/scale-to-width-down/100?cb=20150624014837",
+    "name": "(Satsuki's Clothes) Souma Kanzaki［皐月の衣］神崎 颯馬",
+    "star": 4
+  },
+  {
+    "i": 58,
+    "title": "(Samurai Quarrel) Souma Kanzaki",
+    "url": "/wiki/(Samurai_Quarrel)_Souma_Kanzaki",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/4/43/%28Samurai_Quarrel%29_Souma_Kanzaki.png/revision/latest/scale-to-width-down/100?cb=20210216020528",
+    "name": "(Samurai Quarrel) Souma Kanzaki［喧嘩侍］神崎 颯馬",
+    "star": 4
+  },
+  {
+    "i": 60,
+    "title": "(Heart of Samurai) Souma Kanzaki",
+    "url": "/wiki/(Heart_of_Samurai)_Souma_Kanzaki",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/5/58/%28Heart_of_Samurai%29_Souma_Kanzaki.png/revision/latest/scale-to-width-down/100?cb=20161208063814",
+    "name": "(Heart of Samurai) Souma Kanzaki［もののふの心］神崎 颯馬",
+    "star": 4
+  },
+  {
+    "i": 62,
+    "title": "(For the Sake of the Lord) Souma Kanzaki",
+    "url": "/wiki/(For_the_Sake_of_the_Lord)_Souma_Kanzaki",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/3/3e/%28For_the_Sake_of_the_Lord%29_Souma_Kanzaki.png/revision/latest/scale-to-width-down/100?cb=20160625212449",
+    "name": "(For the Sake of the Lord) Souma Kanzaki［主のために］神崎 颯馬",
+    "star": 4
+  },
+  {
+    "i": 64,
+    "title": "(Sharp Blade's Edge) Souma Kanzaki",
+    "url": "/wiki/(Sharp_Blade%27s_Edge)_Souma_Kanzaki",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/8/8e/%28Sharp_Blade%27s_Edge%29_Souma_Kanzaki.png/revision/latest/scale-to-width-down/100?cb=20170128013544",
+    "name": "(Sharp Blade's Edge) Souma Kanzaki[鋭刃の一筋] 神崎 颯馬",
+    "star": 3
+  },
+  {
+    "i": 66,
+    "title": "(Courageous Yoshitsune) Souma Kanzaki",
+    "url": "/wiki/(Courageous_Yoshitsune)_Souma_Kanzaki",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/1/18/%28Courageous_Yoshitsune%29_Souma_Kanzaki.png/revision/latest/scale-to-width-down/100?cb=20190120202657",
+    "name": "(Courageous Yoshitsune) Souma Kanzaki[勇み義経] 神崎 颯馬",
+    "star": 4
+  },
+  {
+    "i": 68,
+    "title": "(Bonds Born From the Sea) Souma Kanzaki",
+    "url": "/wiki/(Bonds_Born_From_the_Sea)_Souma_Kanzaki",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/6/6f/%28Bonds_Born_From_the_Sea%29_Souma_Kanzaki.png/revision/latest/scale-to-width-down/100?cb=20170926041818",
+    "name": "(Bonds Born From the Sea) Souma Kanzaki[海で繋がる絆] 神崎 颯馬",
+    "star": 4
+  },
+  {
+    "i": 70,
+    "title": "(3rd Anniversary) Souma Kanzaki",
+    "url": "/wiki/(3rd_Anniversary)_Souma_Kanzaki",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/2/26/%283rd_Anniversary%29_Souma_Kanzaki.png/revision/latest/scale-to-width-down/100?cb=20191014210100",
+    "name": "(3rd Anniversary) Souma Kanzaki[三周年記念] 神崎 颯馬",
+    "star": 4
+  },
+  {
+    "i": 72,
+    "title": "(Akatsuki's Master Fencer) Souma Kanzaki",
+    "url": "/wiki/(Akatsuki%27s_Master_Fencer)_Souma_Kanzaki",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/4/44/%28Akatsuki%27s_Master_Fencer%29_Souma_Kanzaki.png/revision/latest/scale-to-width-down/100?cb=20180615202033",
+    "name": "(Akatsuki's Master Fencer) Souma Kanzaki[紅月の剣豪] 神崎 颯馬",
+    "star": 4
+  },
+  {
+    "i": 74,
+    "title": "(Traditional Crimson) Souma Kanzaki",
+    "url": "/wiki/(Traditional_Crimson)_Souma_Kanzaki",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/4/43/%28Traditional_Crimson%29_Souma_Kanzaki.png/revision/latest/scale-to-width-down/100?cb=20190601004542",
+    "name": "(Traditional Crimson) Souma Kanzaki[伝統の紅] 神崎 颯馬",
+    "star": 4
+  },
+  {
+    "i": 76,
+    "title": "(Dancing Under the Full Moon Night) Souma Kanzaki",
+    "url": "/wiki/(Dancing_Under_the_Full_Moon_Night)_Souma_Kanzaki",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/c/c4/%28Dancing_Under_the_Full_Moon_Night%29_Souma_Kanzaki.png/revision/latest/scale-to-width-down/100?cb=20190106111019",
+    "name": "(Dancing Under the Full Moon Night) Souma Kanzaki[十五夜の舞踊] 神崎 颯馬",
+    "star": 4
+  },
+  {
+    "i": 78,
+    "title": "(Words of Deities Delivered by the Wind) Souma Kanzaki",
+    "url": "/wiki/(Words_of_Deities_Delivered_by_the_Wind)_Souma_Kanzaki",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/3/37/%28Words_of_Deities_Delivered_by_the_Wind%29_Souma_Kanzaki.png/revision/latest/scale-to-width-down/100?cb=20190601005735",
+    "name": "(Words of Deities Delivered by the Wind) Souma Kanzaki[神告げの颯] 神崎 颯馬",
+    "star": 4
+  },
+  {
+    "i": 80,
+    "title": "(New Year Trick) Souma Kanzaki",
+    "url": "/wiki/(New_Year_Trick)_Souma_Kanzaki",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/b/b8/%28New_Year_Trick%29_Souma_Kanzaki.png/revision/latest/scale-to-width-down/100?cb=20190426062132",
+    "name": "(New Year Trick) Souma Kanzaki[新春の芸当] 神崎 颯馬",
+    "star": 4
+  },
+  {
+    "i": 82,
+    "title": "(4th Anniversary) Souma Kanzaki",
+    "url": "/wiki/(4th_Anniversary)_Souma_Kanzaki",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/a/a3/%284th_Anniversary%29_Souma_Kanzaki.png/revision/latest/scale-to-width-down/100?cb=20190527090350",
+    "name": "(4th Anniversary) Souma Kanzaki[四周年記念] 神崎 颯馬",
+    "star": 4
+  },
+  {
+    "i": 84,
+    "title": "(Moonlit Doctor) Souma Kanzaki",
+    "url": "/wiki/(Moonlit_Doctor)_Souma_Kanzaki",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/8/85/%28Moonlit_Doctor%29_Souma_Kanzaki.png/revision/latest/scale-to-width-down/100?cb=20191103201446",
+    "name": "(Moonlit Doctor) Souma Kanzaki[月光ドクトア] 神崎 颯馬",
+    "star": 4
+  },
+  {
+    "i": 86,
+    "title": "(Lesson) Souma Kanzaki",
+    "url": "/wiki/(Lesson)_Souma_Kanzaki",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/7/77/%28Lesson%29_Souma_Kanzaki.png/revision/latest/scale-to-width-down/100?cb=20190531234317",
+    "name": "(Lesson) Souma Kanzaki［れっすん］神崎 颯馬",
+    "star": 3
+  },
+  {
+    "i": 88,
+    "title": "(Refreshments) Souma Kanzaki",
+    "url": "/wiki/(Refreshments)_Souma_Kanzaki",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/8/88/%28Refreshments%29_Souma_Kanzaki.png/revision/latest/scale-to-width-down/100?cb=20150517023208",
+    "name": "(Refreshments) Souma Kanzaki［差し入れ］神崎 颯馬",
+    "star": 3
+  },
+  {
+    "i": 90,
+    "title": "(Field Trip) Souma Kanzaki",
+    "url": "/wiki/(Field_Trip)_Souma_Kanzaki",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/4/49/%28Field_Trip%29_Souma_Kanzaki.png/revision/latest/scale-to-width-down/100?cb=20190531234001",
+    "name": "(Field Trip) Souma Kanzaki［見学］神崎 颯馬",
+    "star": 3
+  },
+  {
+    "i": 92,
+    "title": "(Flower Viewing Bento) Souma Kanzaki",
+    "url": "/wiki/(Flower_Viewing_Bento)_Souma_Kanzaki",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/6/66/%28Flower_Viewing_Bento%29_Souma_Kanzaki.png/revision/latest/scale-to-width-down/100?cb=20150615082223",
+    "name": "(Flower Viewing Bento) Souma Kanzaki［花見弁当］神崎 颯馬",
+    "star": 3
+  },
+  {
+    "i": 94,
+    "title": "(Beach Volleyball) Souma Kanzaki",
+    "url": "/wiki/(Beach_Volleyball)_Souma_Kanzaki",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/7/77/%28Beach_Volleyball%29_Souma_Kanzaki.png/revision/latest/scale-to-width-down/100?cb=20190424200335",
+    "name": "(Beach Volleyball) Souma Kanzaki［ビーチバレー］神崎 颯馬",
+    "star": 3
+  },
+  {
+    "i": 96,
+    "title": "(A Member's Proof) Souma Kanzaki",
+    "url": "/wiki/(A_Member%27s_Proof)_Souma_Kanzaki",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/6/69/%28A_Member%27s_Proof%29_Souma_Kanzaki.png/revision/latest/scale-to-width-down/100?cb=20181010034624",
+    "name": "(A Member's Proof) Souma Kanzaki［隊員の証］神崎 颯馬",
+    "star": 3
+  },
+  {
+    "i": 98,
+    "title": "(Night Watch's Sword) Souma Kanzaki",
+    "url": "/wiki/(Night_Watch%27s_Sword)_Souma_Kanzaki",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/b/b3/%28Night_Watch%27s_Sword%29_Souma_Kanzaki.png/revision/latest/scale-to-width-down/100?cb=20160125135134",
+    "name": "(Night Watch's Sword) Souma Kanzaki［夜警の刀］神崎 颯馬",
+    "star": 3
+  },
+  {
+    "i": 100,
+    "title": "(Eulogy of Spring) Souma Kanzaki",
+    "url": "/wiki/(Eulogy_of_Spring)_Souma_Kanzaki",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/d/dc/%28Eulogy_of_Spring%29_Souma_Kanzaki.png/revision/latest/scale-to-width-down/100?cb=20160427042010",
+    "name": "(Eulogy of Spring) Souma Kanzaki[春の賛歌] 神崎 颯馬",
+    "star": 3
+  },
+  {
+    "i": 102,
+    "title": "(Taste of the Ocean) Souma Kanzaki",
+    "url": "/wiki/(Taste_of_the_Ocean)_Souma_Kanzaki",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/8/84/%28Taste_of_the_Ocean%29_Souma_Kanzaki.png/revision/latest/scale-to-width-down/100?cb=20170117070700",
+    "name": "(Taste of the Ocean) Souma Kanzaki[海の味] 神崎 颯馬",
+    "star": 3
+  },
+  {
+    "i": 104,
+    "title": "(Sidekick Paint) Souma Kanzaki",
+    "url": "/wiki/(Sidekick_Paint)_Souma_Kanzaki",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/b/b5/%28Sidekick_Paint%29_Souma_Kanzaki.png/revision/latest/scale-to-width-down/100?cb=20190601003137",
+    "name": "(Sidekick Paint) Souma Kanzaki[助太刀ペイント] 神崎 颯馬",
+    "star": 3
+  },
+  {
+    "i": 106,
+    "title": "(Toy Vendor) Souma Kanzaki",
+    "url": "/wiki/(Toy_Vendor)_Souma_Kanzaki",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/b/b9/%28Toy_Vendor%29_Souma_Kanzaki.png/revision/latest/scale-to-width-down/100?cb=20170702082616",
+    "name": "(Toy Vendor) Souma Kanzaki[おもちゃ物販] 神崎 颯馬",
+    "star": 3
+  },
+  {
+    "i": 108,
+    "title": "(Talented in Acrobatics) Souma Kanzaki",
+    "url": "/wiki/(Talented_in_Acrobatics)_Souma_Kanzaki",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/f/f8/%28Talented_in_Acrobatics%29_Souma_Kanzaki.png/revision/latest/scale-to-width-down/100?cb=20161231111955",
+    "name": "(Talented in Acrobatics) Souma Kanzaki[得意の曲芸] 神崎 颯馬",
+    "star": 3
+  },
+  {
+    "i": 110,
+    "title": "(Younger Stepsister) Souma Kanzaki",
+    "url": "/wiki/(Younger_Stepsister)_Souma_Kanzaki",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/d/df/%28Younger_Stepsister%29_Souma_Kanzaki.png/revision/latest/scale-to-width-down/100?cb=20170703124308",
+    "name": "(Younger Stepsister) Souma Kanzaki[下の義姉] 神崎 颯馬",
+    "star": 3
+  },
+  {
+    "i": 112,
+    "title": "(Way of the Katana) Souma Kanzaki",
+    "url": "/wiki/(Way_of_the_Katana)_Souma_Kanzaki",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/6/60/%28Way_of_the_Katana%29_Souma_Kanzaki.png/revision/latest/scale-to-width-down/100?cb=20170630224205",
+    "name": "(Way of the Katana) Souma Kanzaki[刀の使い方] 神崎 颯馬",
+    "star": 3
+  },
+  {
+    "i": 114,
+    "title": "(Vindication and Advocacy) Souma Kanzaki",
+    "url": "/wiki/(Vindication_and_Advocacy)_Souma_Kanzaki",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/9/95/%28Vindication_and_Advocacy%29_Souma_Kanzaki.png/revision/latest/scale-to-width-down/100?cb=20170929070006",
+    "name": "(Vindication and Advocacy) Souma Kanzaki[釈明と主張] 神崎 颯馬",
+    "star": 3
+  },
+  {
+    "i": 116,
+    "title": "(Blade Hunter) Souma Kanzaki",
+    "url": "/wiki/(Blade_Hunter)_Souma_Kanzaki",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/a/a3/%28Blade_Hunter%29_Souma_Kanzaki.png/revision/latest/scale-to-width-down/100?cb=20180129153126",
+    "name": "(Blade Hunter) Souma Kanzaki[刃の猟師] 神崎 颯馬",
+    "star": 3
+  },
+  {
+    "i": 118,
+    "title": "(Yaksha's Blade) Souma Kanzaki",
+    "url": "/wiki/(Yaksha%27s_Blade)_Souma_Kanzaki",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/8/83/%28Yaksha%27s_Blade%29_Souma_Kanzaki.png/revision/latest/scale-to-width-down/100?cb=20180129154505",
+    "name": "(Yaksha's Blade) Souma Kanzaki[夜叉の刃] 神崎 颯馬",
+    "star": 3
+  },
+  {
+    "i": 120,
+    "title": "(Elegant Chocolate) Souma Kanzaki",
+    "url": "/wiki/(Elegant_Chocolate)_Souma_Kanzaki",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/f/f0/%28Elegant_Chocolate%29_Souma_Kanzaki.png/revision/latest/scale-to-width-down/100?cb=20180227141814",
+    "name": "(Elegant Chocolate) Souma Kanzaki[雅チョコ] 神崎 颯馬",
+    "star": 3
+  },
+  {
+    "i": 122,
+    "title": "(Resurrection Sunday Practice) Souma Kanzaki",
+    "url": "/wiki/(Resurrection_Sunday_Practice)_Souma_Kanzaki",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/6/67/%28Resurrection_Sunday_Practice%29_Souma_Kanzaki.png/revision/latest/scale-to-width-down/100?cb=20180411022040",
+    "name": "(Resurrection Sunday Practice) Souma Kanzaki[イースター練習] 神崎 颯馬",
+    "star": 3
+  },
+  {
+    "i": 124,
+    "title": "(Pool Battle) Souma Kanzaki",
+    "url": "/wiki/(Pool_Battle)_Souma_Kanzaki",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/9/91/%28Pool_Battle%29_Souma_Kanzaki.png/revision/latest/scale-to-width-down/100?cb=20180716112336",
+    "name": "(Pool Battle) Souma Kanzaki[プール合戦] 神崎 颯馬",
+    "star": 3
+  },
+  {
+    "i": 126,
+    "title": "(Experiment Showdown) Souma Kanzaki",
+    "url": "/wiki/(Experiment_Showdown)_Souma_Kanzaki",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/7/70/%28Experiment_Showdown%29_Souma_Kanzaki.png/revision/latest/scale-to-width-down/100?cb=20181216173544",
+    "name": "(Experiment Showdown) Souma Kanzaki[実験対決] 神崎 颯馬",
+    "star": 3
+  },
+  {
+    "i": 128,
+    "title": "(Ogre and Reverence) Souma Kanzaki",
+    "url": "/wiki/(Ogre_and_Reverence)_Souma_Kanzaki",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/c/c3/%28Ogre_and_Reverence%29_Souma_Kanzaki.png/revision/latest/scale-to-width-down/100?cb=20190531235018",
+    "name": "(Ogre and Reverence) Souma Kanzaki[鬼と尊信] 神崎 颯馬",
+    "star": 3
+  },
+  {
+    "i": 130,
+    "title": "(Wholehearted Battle) Souma Kanzaki",
+    "url": "/wiki/(Wholehearted_Battle)_Souma_Kanzaki",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/e/e4/%28Wholehearted_Battle%29_Souma_Kanzaki.png/revision/latest/scale-to-width-down/100?cb=20190412231037",
+    "name": "(Wholehearted Battle) Souma Kanzaki[真剣勝負] 神崎 颯馬",
+    "star": 3
+  },
+  {
+    "i": 132,
+    "title": "(Bowlards) Souma Kanzaki",
+    "url": "/wiki/(Bowlards)_Souma_Kanzaki",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/d/dd/%28Bowlards%29_Souma_Kanzaki.png/revision/latest/scale-to-width-down/100?cb=20190520183729",
+    "name": "(Bowlards) Souma Kanzaki[ボウラード] 神崎 颯馬",
+    "star": 3
+  },
+  {
+    "i": 134,
+    "title": "Souma Kanzaki (Card)",
+    "url": "/wiki/Souma_Kanzaki_(Card)",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/8/8f/Souma_Kanzaki_%28Card%29.png/revision/latest/scale-to-width-down/100?cb=20150429184705",
+    "name": "Souma Kanzaki (Card)神崎 颯馬",
+    "star": 1
+  },
+  {
+    "i": 136,
+    "title": "(Academy Idol) Souma Kanzaki",
+    "url": "/wiki/(Academy_Idol)_Souma_Kanzaki",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/1/16/%28Academy_Idol%29_Souma_Kanzaki.png/revision/latest/scale-to-width-down/100?cb=20150429045537",
+    "name": "(Academy Idol) Souma Kanzaki［学院のアイドル］神崎 颯馬",
+    "star": 2
+  },
+  {
+    "i": 138,
+    "title": "(Panda Checkup) Souma Kanzaki",
+    "url": "/wiki/(Panda_Checkup)_Souma_Kanzaki",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/6/6e/%28Panda_Checkup%29_Souma_Kanzaki.png/revision/latest/scale-to-width-down/100?cb=20190706033623",
+    "name": "(Panda Checkup) Souma Kanzaki[熊猫体检] 神崎 飒马",
+    "star": 4
+  },
+  {
+    "i": 140,
+    "title": "(The Elegance of Traditional Art) Souma Kanzaki",
+    "url": "/wiki/(The_Elegance_of_Traditional_Art)_Souma_Kanzaki",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/f/f6/%28The_Elegance_of_Traditional_Art%29_Souma_Kanzaki.png/revision/latest/scale-to-width-down/100?cb=20200610032142",
+    "name": "(The Elegance of Traditional Art) Souma Kanzaki[古艺之雅] 神崎 飒马",
+    "star": 4
+  },
+  {
+    "i": 142,
+    "title": "(Firefly Viewing Warrior) Souma Kanzaki",
+    "url": "/wiki/(Firefly_Viewing_Warrior)_Souma_Kanzaki",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/0/05/%28Firefly_Viewing_Warrior%29_Souma_Kanzaki.png/revision/latest/scale-to-width-down/100?cb=20180323031041",
+    "name": "(Firefly Viewing Warrior) Souma Kanzaki[賞螢武士] 神崎 颯馬",
+    "star": 3
+  }
+]

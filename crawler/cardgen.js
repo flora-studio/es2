@@ -13,9 +13,8 @@ database[name] = data
     id: `${name}_${item.i}`,
     star: item.star,
     name: item.name.match(/[［【\[](.+?)[］】\]]/)?.[1] || item.name,
+    img: item.img,
     series: 0
   }))
 
 fs.writeFileSync('../src/data/card.json', JSON.stringify(database, null, 2))
-
-// todo 根据 id 复制图片到 assets 文件夹下，后面再说？

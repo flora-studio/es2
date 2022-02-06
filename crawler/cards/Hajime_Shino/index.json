@@ -1,0 +1,578 @@
+[
+  {
+    "i": 0,
+    "title": "(Lost Gretel) Hajime Shino",
+    "url": "/wiki/(Lost_Gretel)_Hajime_Shino",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/1/18/%28Lost_Gretel%29_Hajime_Shino_M.png/revision/latest/scale-to-width-down/100?cb=20200531221224",
+    "name": " (Lost Gretel) Hajime Shino[迷子のグレーテル] 紫之 創",
+    "star": 5
+  },
+  {
+    "i": 2,
+    "title": "(Airheaded Struggle Time) Hajime Shino",
+    "url": "/wiki/(Airheaded_Struggle_Time)_Hajime_Shino",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/d/dd/%28Airheaded_Struggle_Time%29_Hajime_Shino_M.png/revision/latest/scale-to-width-down/100?cb=20201115114417",
+    "name": " (Airheaded Struggle Time) Hajime Shino[天然フントウタイム] 紫之 創",
+    "star": 5
+  },
+  {
+    "i": 4,
+    "title": "(The Best Hospitality) Hajime Shino",
+    "url": "/wiki/(The_Best_Hospitality)_Hajime_Shino",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/b/b0/%28The_Best_Hospitality%29_Hajime_Shino_M.png/revision/latest/scale-to-width-down/100?cb=20220126153431",
+    "name": "(The Best Hospitality) Hajime Shino[最高のおもてなし] 紫之 創",
+    "star": 5
+  },
+  {
+    "i": 6,
+    "title": "(Sweet Flower) Hajime Shino",
+    "url": "/wiki/(Sweet_Flower)_Hajime_Shino",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/6/66/%28Sweet_Flower%29_Hajime_Shino_M.png/revision/latest/scale-to-width-down/100?cb=20200427125254",
+    "name": " (Sweet Flower) Hajime Shino[可憐な花] 紫之 創",
+    "star": 4
+  },
+  {
+    "i": 8,
+    "title": "(RhyLin's Serenity) Hajime Shino",
+    "url": "/wiki/(RhyLin%27s_Serenity)_Hajime_Shino",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/3/38/%28RhyLin%27s_Serenity%29_Hajime_Shino_M.png/revision/latest/scale-to-width-down/100?cb=20200909000523",
+    "name": " (RhyLin's Serenity) Hajime Shino[リズリンの安らぎ] 紫之 創",
+    "star": 4
+  },
+  {
+    "i": 10,
+    "title": "(Violet Crystals) Hajime Shino",
+    "url": "/wiki/(Violet_Crystals)_Hajime_Shino",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/6/69/%28Violet_Crystals%29_Hajime_Shino_M.png/revision/latest/scale-to-width-down/100?cb=20201214064925",
+    "name": " (Violet Crystals) Hajime Shino[紫色の結晶] 紫之 創",
+    "star": 4
+  },
+  {
+    "i": 12,
+    "title": "(Flustered Black) Hajime Shino",
+    "url": "/wiki/(Flustered_Black)_Hajime_Shino",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/d/de/%28Flustered_Black%29_Hajime_Shino_M.png/revision/latest/scale-to-width-down/100?cb=20210502091210",
+    "name": " (Flustered Black) Hajime Shino[慌ててブラック] 紫之 創",
+    "star": 4
+  },
+  {
+    "i": 14,
+    "title": "(A Gentle Style of Rock) Hajime Shino",
+    "url": "/wiki/(A_Gentle_Style_of_Rock)_Hajime_Shino",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/f/fd/%28A_Gentle_Style_of_Rock%29_Hajime_Shino_M.png/revision/latest/scale-to-width-down/100?cb=20210521112403",
+    "name": " (A Gentle Style of Rock) Hajime Shino[優しさにロック] 紫之 創",
+    "star": 4
+  },
+  {
+    "i": 16,
+    "title": "(A Day off with Friends) Hajime Shino",
+    "url": "/wiki/(A_Day_off_with_Friends)_Hajime_Shino",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/f/f3/%28A_Day_off_with_Friends%29_Hajime_Shino_M.png/revision/latest/scale-to-width-down/100?cb=20210810224539",
+    "name": "(A Day off with Friends) Hajime Shino[休日の友達] 紫之 創",
+    "star": 4
+  },
+  {
+    "i": 18,
+    "title": "(Practicing) Hajime Shino",
+    "url": "/wiki/(Practicing)_Hajime_Shino",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/d/d5/%28Practicing%29_Hajime_Shino_M.png/revision/latest/scale-to-width-down/100?cb=20200412143528",
+    "name": " (Practicing) Hajime Shino[練習風景] 紫之 創",
+    "star": 3
+  },
+  {
+    "i": 20,
+    "title": "(Enjoyable Scene) Hajime Shino",
+    "url": "/wiki/(Enjoyable_Scene)_Hajime_Shino",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/d/dd/%28Enjoyable_Scene%29_Hajime_Shino_M.png/revision/latest/scale-to-width-down/100?cb=20200413005655",
+    "name": " (Enjoyable Scene) Hajime Shino[楽しい現場] 紫之 創",
+    "star": 3
+  },
+  {
+    "i": 22,
+    "title": "(Love Song) Hajime Shino",
+    "url": "/wiki/(Love_Song)_Hajime_Shino",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/e/e7/%28Love_Song%29_Hajime_Shino_M.png/revision/latest/scale-to-width-down/100?cb=20200702234857",
+    "name": " (Love Song) Hajime Shino[ラブ・ソング] 紫之 創",
+    "star": 3
+  },
+  {
+    "i": 24,
+    "title": "(Spring's Warmth) Hajime Shino",
+    "url": "/wiki/(Spring%27s_Warmth)_Hajime_Shino",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/5/51/%28Spring%27s_Warmth%29_Hajime_Shino_M.png/revision/latest/scale-to-width-down/100?cb=20210314131437",
+    "name": " (Spring's Warmth) Hajime Shino[春の陽気] 紫之 創",
+    "star": 3
+  },
+  {
+    "i": 26,
+    "title": "(Quiet Library) Hajime Shino",
+    "url": "/wiki/(Quiet_Library)_Hajime_Shino",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/a/a1/%28Quiet_Library%29_Hajime_Shino_M.png/revision/latest/scale-to-width-down/100?cb=20210610113543",
+    "name": " (Quiet Library) Hajime Shino[静かな図書室] 紫之 創",
+    "star": 3
+  },
+  {
+    "i": 28,
+    "title": "(Sanctuary of Honest Effort) Hajime Shino",
+    "url": "/wiki/(Sanctuary_of_Honest_Effort)_Hajime_Shino",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/d/d3/%28Sanctuary_of_Honest_Effort%29_Hajime_Shino_M.png/revision/latest/scale-to-width-down/100?cb=20210915152502",
+    "name": "(Sanctuary of Honest Effort) Hajime Shino[地道サンクチュアリ] 紫之 創",
+    "star": 3
+  },
+  {
+    "i": 30,
+    "title": "(An Idol) Hajime Shino",
+    "url": "/wiki/(An_Idol)_Hajime_Shino",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/8/8b/%28An_Idol%29_Hajime_Shino_M.png/revision/latest/scale-to-width-down/100?cb=20200412133237",
+    "name": " (An Idol) Hajime Shino[ひとりのアイドル] 紫之 創",
+    "star": 1
+  },
+  {
+    "i": 32,
+    "title": "(ES Idol) Hajime Shino",
+    "url": "/wiki/(ES_Idol)_Hajime_Shino",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/7/79/%28ES_Idol%29_Hajime_Shino_M.png/revision/latest/scale-to-width-down/100?cb=20200412140119",
+    "name": " (ES Idol) Hajime Shino[ESのアイドル] 紫之 創",
+    "star": 2
+  },
+  {
+    "i": 34,
+    "title": "(Rainbow Prism) Hajime Shino",
+    "url": "/wiki/(Rainbow_Prism)_Hajime_Shino",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/6/6f/%28Rainbow_Prism%29_Hajime_Shino.png/revision/latest/scale-to-width-down/100?cb=20160423095645",
+    "name": "(Rainbow Prism) Hajime Shino[虹色のプリズム] 紫之 創",
+    "star": 5
+  },
+  {
+    "i": 36,
+    "title": "(Cherubic Eyes) Hajime Shino",
+    "url": "/wiki/(Cherubic_Eyes)_Hajime_Shino",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/9/9a/%28Cherubic_Eyes%29_Hajime_Shino.png/revision/latest/scale-to-width-down/100?cb=20180729041903",
+    "name": "(Cherubic Eyes) Hajime Shino［あどけない瞳］紫之 創",
+    "star": 5
+  },
+  {
+    "i": 38,
+    "title": "(Flower Blossoming Smile) Hajime Shino",
+    "url": "/wiki/(Flower_Blossoming_Smile)_Hajime_Shino",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/e/ec/%28Flower_Blossoming_Smile%29_Hajime_Shino.png/revision/latest/scale-to-width-down/100?cb=20160410032459",
+    "name": "(Flower Blossoming Smile) Hajime Shino[花咲く笑顔] 紫之 創",
+    "star": 5
+  },
+  {
+    "i": 40,
+    "title": "(Cheer in the Sun) Hajime Shino",
+    "url": "/wiki/(Cheer_in_the_Sun)_Hajime_Shino",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/f/f2/%28Cheer_in_the_Sun%29_Hajime_Shino.png/revision/latest/scale-to-width-down/100?cb=20160925215504",
+    "name": "(Cheer in the Sun) Hajime Shino[日向のチア] 紫之 創",
+    "star": 5
+  },
+  {
+    "i": 42,
+    "title": "(Jasmine Tea) Hajime Shino",
+    "url": "/wiki/(Jasmine_Tea)_Hajime_Shino",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/4/44/%28Jasmine_Tea%29_Hajime_Shino.png/revision/latest/scale-to-width-down/100?cb=20170130103841",
+    "name": "(Jasmine Tea) Hajime Shino[ジャスミンティー] 紫之 創",
+    "star": 5
+  },
+  {
+    "i": 44,
+    "title": "(Honey Zombie) Hajime Shino",
+    "url": "/wiki/(Honey_Zombie)_Hajime_Shino",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/8/80/%28Honey_Zombie%29_Hajime_Shino.png/revision/latest/scale-to-width-down/100?cb=20171109023612",
+    "name": "(Honey Zombie) Hajime Shino[ハニーゾンビ] 紫之 創",
+    "star": 5
+  },
+  {
+    "i": 46,
+    "title": "(Rabbit's Live Party) Hajime Shino",
+    "url": "/wiki/(Rabbit%27s_Live_Party)_Hajime_Shino",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/1/1c/%28Rabbit%27s_Live_Party%29_Hajime_Shino.png/revision/latest/scale-to-width-down/100?cb=20190425180521",
+    "name": "(Rabbit's Live Party) Hajime Shino[ウサギのライブパーティ] 紫之 創",
+    "star": 5
+  },
+  {
+    "i": 48,
+    "title": "(White Breath) Hajime Shino",
+    "url": "/wiki/(White_Breath)_Hajime_Shino",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/4/46/%28White_Breath%29_Hajime_Shino.png/revision/latest/scale-to-width-down/100?cb=20181212034641",
+    "name": "(White Breath) Hajime Shino[ホワイトブレス] 紫之 創",
+    "star": 5
+  },
+  {
+    "i": 50,
+    "title": "(Fireflies and Summer Night) Hajime Shino",
+    "url": "/wiki/(Fireflies_and_Summer_Night)_Hajime_Shino",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/8/84/%28Fireflies_and_Summer_Night%29_Hajime_Shino.png/revision/latest/scale-to-width-down/100?cb=20200510035706",
+    "name": "(Fireflies and Summer Night) Hajime Shino[蛍とサマーナイト] 紫之 創",
+    "star": 5
+  },
+  {
+    "i": 52,
+    "title": "(Ra*bits' Serenity) Hajime Shino",
+    "url": "/wiki/(Ra*bits%27_Serenity)_Hajime_Shino",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/e/e9/%28Ra%2Abits%27_Serenity%29_Hajime_Shino.png/revision/latest/scale-to-width-down/100?cb=20210713010125",
+    "name": "(Ra*bits' Serenity) Hajime Shino[Ra*bitsののんびり屋] 紫之 創",
+    "star": 5
+  },
+  {
+    "i": 54,
+    "title": "(Hospitality) Hajime Shino",
+    "url": "/wiki/(Hospitality)_Hajime_Shino",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/1/1e/%28Hospitality%29_Hajime_Shino.png/revision/latest/scale-to-width-down/100?cb=20150505151254",
+    "name": "(Hospitality) Hajime Shino［おもてなし］紫之 創",
+    "star": 4
+  },
+  {
+    "i": 56,
+    "title": "(Persevering) Hajime Shino",
+    "url": "/wiki/(Persevering)_Hajime_Shino",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/d/d3/%28Persevering%29_Hajime_Shino.png/revision/latest/scale-to-width-down/100?cb=20151117101513",
+    "name": "(Persevering) Hajime Shino［がんばり屋］紫之 創",
+    "star": 4
+  },
+  {
+    "i": 58,
+    "title": "(Song of Sincerity) Hajime Shino",
+    "url": "/wiki/(Song_of_Sincerity)_Hajime_Shino",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/9/94/%28Song_of_Sincerity%29_Hajime_Shino.png/revision/latest/scale-to-width-down/100?cb=20151204065509",
+    "name": "(Song of Sincerity) Hajime Shino［まごころの歌］紫之 創",
+    "star": 4
+  },
+  {
+    "i": 60,
+    "title": "(TanTan) Hajime Shino",
+    "url": "/wiki/(TanTan)_Hajime_Shino",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/d/db/%28TanTan%29_Hajime_Shino.png/revision/latest/scale-to-width-down/100?cb=20151228073515",
+    "name": "(TanTan) Hajime Shino［タンタン］紫之 創",
+    "star": 4
+  },
+  {
+    "i": 62,
+    "title": "(Sky-Colored Bubbles) Hajime Shino",
+    "url": "/wiki/(Sky-Colored_Bubbles)_Hajime_Shino",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/7/79/%28Sky-Colored_Bubbles%29_Hajime_Shino.png/revision/latest/scale-to-width-down/100?cb=20160804033532",
+    "name": "(Sky-Colored Bubbles) Hajime Shino[空色のあぶく] 紫之 創",
+    "star": 4
+  },
+  {
+    "i": 64,
+    "title": "(Angel and Singing Voice) Hajime Shino",
+    "url": "/wiki/(Angel_and_Singing_Voice)_Hajime_Shino",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/5/54/%28Angel_and_Singing_Voice%29_Hajime_Shino.png/revision/latest/scale-to-width-down/100?cb=20170918021856",
+    "name": "(Angel and Singing Voice) Hajime Shino[天使と歌声] 紫之 創",
+    "star": 4
+  },
+  {
+    "i": 66,
+    "title": "(Letter of Support) Hajime Shino",
+    "url": "/wiki/(Letter_of_Support)_Hajime_Shino",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/0/04/%28Letter_of_Support%29_Hajime_Shino.png/revision/latest/scale-to-width-down/100?cb=20180411021916",
+    "name": "(Letter of Support) Hajime Shino[応援の手紙] 紫之 創",
+    "star": 4
+  },
+  {
+    "i": 68,
+    "title": "(Gentle Rabbits) Hajime Shino",
+    "url": "/wiki/(Gentle_Rabbits)_Hajime_Shino",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/1/14/%28Gentle_Rabbits%29_Hajime_Shino.png/revision/latest/scale-to-width-down/100?cb=20180428052559",
+    "name": "(Gentle Rabbits) Hajime Shino[優しさラビッツ] 紫之 創",
+    "star": 4
+  },
+  {
+    "i": 70,
+    "title": "(3rd Anniversary) Hajime Shino",
+    "url": "/wiki/(3rd_Anniversary)_Hajime_Shino",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/0/01/%283rd_Anniversary%29_Hajime_Shino.png/revision/latest/scale-to-width-down/100?cb=20180715131941",
+    "name": "(3rd Anniversary) Hajime Shino[三周年記念] 紫之 創",
+    "star": 4
+  },
+  {
+    "i": 72,
+    "title": "(Merry Spring) Hajime Shino",
+    "url": "/wiki/(Merry_Spring)_Hajime_Shino",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/a/ac/%28Merry_Spring%29_Hajime_Shino.png/revision/latest/scale-to-width-down/100?cb=20190418194921",
+    "name": "(Merry Spring) Hajime Shino[メリースプリング] 紫之 創",
+    "star": 4
+  },
+  {
+    "i": 74,
+    "title": "(4th Anniversary) Hajime Shino",
+    "url": "/wiki/(4th_Anniversary)_Hajime_Shino",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/c/c5/%284th_Anniversary%29_Hajime_Shino.png/revision/latest/scale-to-width-down/100?cb=20190610062509",
+    "name": "(4th Anniversary) Hajime Shino[四周年記念] 紫之 創",
+    "star": 4
+  },
+  {
+    "i": 76,
+    "title": "(Devoted) Hajime Shino",
+    "url": "/wiki/(Devoted)_Hajime_Shino",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/6/6a/%28Devoted%29_Hajime_Shino.png/revision/latest/scale-to-width-down/100?cb=20180716202834",
+    "name": "(Devoted) Hajime Shino［献身的］紫之 創",
+    "star": 3
+  },
+  {
+    "i": 78,
+    "title": "(Sketch) Hajime Shino",
+    "url": "/wiki/(Sketch)_Hajime_Shino",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/c/c1/%28Sketch%29_Hajime_Shino.png/revision/latest/scale-to-width-down/100?cb=20150502021306",
+    "name": "(Sketch) Hajime Shino［スケッチ］紫之 創",
+    "star": 3
+  },
+  {
+    "i": 80,
+    "title": "(Goal) Hajime Shino",
+    "url": "/wiki/(Goal)_Hajime_Shino",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/c/c4/%28Goal%29_Hajime_Shino.png/revision/latest/scale-to-width-down/100?cb=20150503012228",
+    "name": "(Goal) Hajime Shino［目標］紫之 創",
+    "star": 3
+  },
+  {
+    "i": 82,
+    "title": "(Flute) Hajime Shino",
+    "url": "/wiki/(Flute)_Hajime_Shino",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/a/ab/%28Flute%29_Hajime_Shino.png/revision/latest/scale-to-width-down/100?cb=20150522165810",
+    "name": "(Flute) Hajime Shino［フルート］紫之 創",
+    "star": 3
+  },
+  {
+    "i": 84,
+    "title": "(Needlework) Hajime Shino",
+    "url": "/wiki/(Needlework)_Hajime_Shino",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/4/40/%28Needlework%29_Hajime_Shino.png/revision/latest/scale-to-width-down/100?cb=20150618035246",
+    "name": "(Needlework) Hajime Shino［針仕事］紫之 創",
+    "star": 3
+  },
+  {
+    "i": 86,
+    "title": "(Charmingly) Hajime Shino",
+    "url": "/wiki/(Charmingly)_Hajime_Shino",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/2/2f/%28Charmingly%29_Hajime_Shino.png/revision/latest/scale-to-width-down/100?cb=20151017060742",
+    "name": "(Charmingly) Hajime Shino［愛くるしく］紫之 創",
+    "star": 3
+  },
+  {
+    "i": 88,
+    "title": "(Black Tea Detective) Hajime Shino",
+    "url": "/wiki/(Black_Tea_Detective)_Hajime_Shino",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/d/d4/%28Black_Tea_Detective%29_Hajime_Shino.png/revision/latest/scale-to-width-down/100?cb=20151231143800",
+    "name": "(Black Tea Detective) Hajime Shino［紅茶探偵］紫之 創",
+    "star": 3
+  },
+  {
+    "i": 90,
+    "title": "(Lost Alice) Hajime Shino",
+    "url": "/wiki/(Lost_Alice)_Hajime_Shino",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/3/3c/%28Lost_Alice%29_Hajime_Shino.png/revision/latest/scale-to-width-down/100?cb=20160130164910",
+    "name": "(Lost Alice) Hajime Shino［迷いアリス］紫之 創",
+    "star": 3
+  },
+  {
+    "i": 92,
+    "title": "(Determined Will) Hajime Shino",
+    "url": "/wiki/(Determined_Will)_Hajime_Shino",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/8/81/%28Determined_Will%29_Hajime_Shino.png/revision/latest/scale-to-width-down/100?cb=20160410143539",
+    "name": "(Determined Will) Hajime Shino[決めた志] 紫之 創",
+    "star": 3
+  },
+  {
+    "i": 94,
+    "title": "(Gentle Faerie) Hajime Shino",
+    "url": "/wiki/(Gentle_Faerie)_Hajime_Shino",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/3/3c/%28Gentle_Faerie%29_Hajime_Shino.png/revision/latest/scale-to-width-down/100?cb=20160516001842",
+    "name": "(Gentle Faerie) Hajime Shino[おっとり妖精] 紫之 創",
+    "star": 3
+  },
+  {
+    "i": 96,
+    "title": "(Camping Cuisine) Hajime Shino",
+    "url": "/wiki/(Camping_Cuisine)_Hajime_Shino",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/e/e9/%28Camping_Cuisine%29_Hajime_Shino.png/revision/latest/scale-to-width-down/100?cb=20160716092648",
+    "name": "(Camping Cuisine) Hajime Shino[キャンプの炊事]  紫之 創",
+    "star": 3
+  },
+  {
+    "i": 98,
+    "title": "(Completely Bad) Hajime Shino",
+    "url": "/wiki/(Completely_Bad)_Hajime_Shino",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/4/42/%28Completely_Bad%29_Hajime_Shino.png/revision/latest/scale-to-width-down/100?cb=20161211052504",
+    "name": "(Completely Bad) Hajime Shino[悪になりきり] 紫之 創",
+    "star": 3
+  },
+  {
+    "i": 100,
+    "title": "(Lamp's Gravekeeper) Hajime Shino",
+    "url": "/wiki/(Lamp%27s_Gravekeeper)_Hajime_Shino",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/a/a0/%28Lamp%27s_Gravekeeper%29_Hajime_Shino.png/revision/latest/scale-to-width-down/100?cb=20161214102849",
+    "name": "(Lamp's Gravekeeper) Hajime Shino[灯りの墓守] 紫之 創",
+    "star": 3
+  },
+  {
+    "i": 102,
+    "title": "(Town Stroll) Hajime Shino",
+    "url": "/wiki/(Town_Stroll)_Hajime_Shino",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/7/76/%28Town_Stroll%29_Hajime_Shino.png/revision/latest/scale-to-width-down/100?cb=20170118015607",
+    "name": "(Town Stroll) Hajime Shino[街歩き] 紫之 創",
+    "star": 3
+  },
+  {
+    "i": 104,
+    "title": "(Happy Smile) Hajime Shino",
+    "url": "/wiki/(Happy_Smile)_Hajime_Shino",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/8/89/%28Happy_Smile%29_Hajime_Shino.png/revision/latest/scale-to-width-down/100?cb=20170311232744",
+    "name": "(Happy Smile) Hajime Shino[幸せの笑顔] 紫之 創",
+    "star": 3
+  },
+  {
+    "i": 106,
+    "title": "(Admired Person) Hajime Shino",
+    "url": "/wiki/(Admired_Person)_Hajime_Shino",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/1/15/%28Admired_Person%29_Hajime_Shino.png/revision/latest/scale-to-width-down/100?cb=20170330083029",
+    "name": "(Admired Person) Hajime Shino[憧れの人] 紫之 創",
+    "star": 3
+  },
+  {
+    "i": 108,
+    "title": "(Book and Bookmark) Hajime Shino",
+    "url": "/wiki/(Book_and_Bookmark)_Hajime_Shino",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/a/a0/%28Book_and_Bookmark%29_Hajime_Shino.png/revision/latest/scale-to-width-down/100?cb=20170614185654",
+    "name": "(Book and Bookmark) Hajime Shino[本と栞] 紫之 創",
+    "star": 3
+  },
+  {
+    "i": 110,
+    "title": "(Star of the Sky) Hajime Shino",
+    "url": "/wiki/(Star_of_the_Sky)_Hajime_Shino",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/3/3a/%28Star_of_the_Sky%29_Hajime_Shino.png/revision/latest/scale-to-width-down/100?cb=20170815132751",
+    "name": "(Star of the Sky) Hajime Shino[空の星] 紫 之創",
+    "star": 3
+  },
+  {
+    "i": 112,
+    "title": "(Lonely Junior) Hajime Shino",
+    "url": "/wiki/(Lonely_Junior)_Hajime_Shino",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/7/7e/%28Lonely_Junior%29_Hajime_Shino.png/revision/latest/scale-to-width-down/100?cb=20171208062352",
+    "name": "(Lonely Junior) Hajime Shino[寂しい後輩] 紫之 創",
+    "star": 3
+  },
+  {
+    "i": 114,
+    "title": "(Step Up) Hajime Shino",
+    "url": "/wiki/(Step_Up)_Hajime_Shino",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/c/cd/%28Step_Up%29_Hajime_Shino.png/revision/latest/scale-to-width-down/100?cb=20190429140904",
+    "name": "(Step Up) Hajime Shino[ステップアップ] 紫之 創",
+    "star": 3
+  },
+  {
+    "i": 116,
+    "title": "(Holy Santa) Hajime Shino",
+    "url": "/wiki/(Holy_Santa)_Hajime_Shino",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/1/14/%28Holy_Santa%29_Hajime_Shino.png/revision/latest/scale-to-width-down/100?cb=20180715131911",
+    "name": "(Holy Santa) Hajime Shino[ホーリーサンタ] 紫之 創",
+    "star": 3
+  },
+  {
+    "i": 118,
+    "title": "(Heart Throbbing Rabbit) Hajime Shino",
+    "url": "/wiki/(Heart_Throbbing_Rabbit)_Hajime_Shino",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/6/60/%28Heart_Throbbing_Rabbit%29_Hajime_Shino.png/revision/latest/scale-to-width-down/100?cb=20190429192547",
+    "name": "(Heart Throbbing Rabbit) Hajime Shino[どきどきウサギ] 紫之 創",
+    "star": 3
+  },
+  {
+    "i": 120,
+    "title": "(Things I Want to Tell You) Hajime Shino",
+    "url": "/wiki/(Things_I_Want_to_Tell_You)_Hajime_Shino",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/c/cf/%28Things_I_Want_to_Tell_You%29_Hajime_Shino.png/revision/latest/scale-to-width-down/100?cb=20190429121404",
+    "name": "(Things I Want to Tell You) Hajime Shino[伝えたいこと] 紫之 創",
+    "star": 3
+  },
+  {
+    "i": 122,
+    "title": "(Sea and Gondola) Hajime Shino",
+    "url": "/wiki/(Sea_and_Gondola)_Hajime_Shino",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/c/ce/%28Sea_and_Gondola%29_Hajime_Shino.png/revision/latest/scale-to-width-down/100?cb=20181223010505",
+    "name": "(Sea and Gondola) Hajime Shino[海とゴンドラ] 紫之 創",
+    "star": 3
+  },
+  {
+    "i": 124,
+    "title": "(Growth and the Full Moon Night) Hajime Shino",
+    "url": "/wiki/(Growth_and_the_Full_Moon_Night)_Hajime_Shino",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/6/61/%28Growth_and_the_Full_Moon_Night%29_Hajime_Shino.png/revision/latest/scale-to-width-down/100?cb=20181216164501",
+    "name": "(Growth and the Full Moon Night) Hajime Shino[十五夜と成長] 紫之 創",
+    "star": 3
+  },
+  {
+    "i": 126,
+    "title": "(Ceylon) Hajime Shino",
+    "url": "/wiki/(Ceylon)_Hajime_Shino",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/e/ef/%28Ceylon%29_Hajime_Shino.png/revision/latest/scale-to-width-down/100?cb=20181216174548",
+    "name": "(Ceylon) Hajime Shino[セイロン] 紫之 創",
+    "star": 3
+  },
+  {
+    "i": 128,
+    "title": "(Fortunate Spectator) Hajime Shino",
+    "url": "/wiki/(Fortunate_Spectator)_Hajime_Shino",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/0/0e/%28Fortunate_Spectator%29_Hajime_Shino.png/revision/latest/scale-to-width-down/100?cb=20190327094221",
+    "name": "(Fortunate Spectator) Hajime Shino[幸運観客] 紫之 創",
+    "star": 3
+  },
+  {
+    "i": 130,
+    "title": "(Priest of Blue Roses) Hajime Shino",
+    "url": "/wiki/(Priest_of_Blue_Roses)_Hajime_Shino",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/c/cb/%28Priest_of_Blue_Roses%29_Hajime_Shino.png/revision/latest/scale-to-width-down/100?cb=20191029172047",
+    "name": "(Priest of Blue Roses) Hajime Shino[青薔薇の司祭] 紫之 創",
+    "star": 3
+  },
+  {
+    "i": 132,
+    "title": "(Snow and Humidity) Hajime Shino",
+    "url": "/wiki/(Snow_and_Humidity)_Hajime_Shino",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/7/72/%28Snow_and_Humidity%29_Hajime_Shino.png/revision/latest/scale-to-width-down/100?cb=20191213224601",
+    "name": "(Snow and Humidity) Hajime Shino[雪と湿度] 紫之 創",
+    "star": 3
+  },
+  {
+    "i": 134,
+    "title": "Hajime Shino (Card)",
+    "url": "/wiki/Hajime_Shino_(Card)",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/0/0c/Hajime_Shino_%28Card%29.png/revision/latest/scale-to-width-down/100?cb=20150429172040",
+    "name": "Hajime Shino (Card)紫之 創",
+    "star": 1
+  },
+  {
+    "i": 136,
+    "title": "(Academy Idol) Hajime Shino",
+    "url": "/wiki/(Academy_Idol)_Hajime_Shino",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/8/87/%28Academy_Idol%29_Hajime_Shino.png/revision/latest/scale-to-width-down/100?cb=20150501204038",
+    "name": "(Academy Idol) Hajime Shino［学院のアイドル］紫之 創",
+    "star": 2
+  },
+  {
+    "i": 138,
+    "title": "(Mottled Sunlight) Hajime Shino",
+    "url": "/wiki/(Mottled_Sunlight)_Hajime_Shino",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/f/fd/%28Mottled_Sunlight%29_Hajime_Shino.png/revision/latest/scale-to-width-down/100?cb=20170114055102",
+    "name": "(Mottled Sunlight) Hajime Shino【斑驳的日光】紫之 创",
+    "star": 5
+  },
+  {
+    "i": 140,
+    "title": "(Cozy Time) Hajime Shino",
+    "url": "/wiki/(Cozy_Time)_Hajime_Shino",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/c/cb/%28Cozy_Time%29_Hajime_Shino.png/revision/latest/scale-to-width-down/100?cb=20220105140335",
+    "name": "[Cozy Time]",
+    "star": 5
+  },
+  {
+    "i": 142,
+    "title": "(Assistant Commander) Hajime Shino",
+    "url": "/wiki/(Assistant_Commander)_Hajime_Shino",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/9/93/%28Assistant_Commander%29_Hajime_Shino.png/revision/latest/scale-to-width-down/100?cb=20180322233237",
+    "name": "(Assistant Commander) Hajime Shino【舰长辅佐】紫之 創",
+    "star": 3
+  }
+]

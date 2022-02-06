@@ -1,0 +1,578 @@
+[
+  {
+    "i": 0,
+    "title": "(Cat and Knight) Ritsu Sakuma",
+    "url": "/wiki/(Cat_and_Knight)_Ritsu_Sakuma",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/3/34/%28Cat_and_Knight%29_Ritsu_Sakuma_M.png/revision/latest/scale-to-width-down/100?cb=20200413004619",
+    "name": " (Cat and Knight) Ritsu Sakuma[猫と騎士] 朔間凛月",
+    "star": 5
+  },
+  {
+    "i": 2,
+    "title": "(Having a Blissful Dream) Ritsu Sakuma",
+    "url": "/wiki/(Having_a_Blissful_Dream)_Ritsu_Sakuma",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/1/1d/%28Having_a_Blissful_Dream%29_Ritsu_Sakuma_M.png/revision/latest/scale-to-width-down/100?cb=20210303194431",
+    "name": " (Having a Blissful Dream) Ritsu Sakuma[幸せな夢を見て] 朔間 凛月",
+    "star": 5
+  },
+  {
+    "i": 4,
+    "title": "(Eternal Reaper) Ritsu Sakuma",
+    "url": "/wiki/(Eternal_Reaper)_Ritsu_Sakuma",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/7/79/%28Eternal_Reaper%29_Ritsu_Sakuma_M.png/revision/latest/scale-to-width-down/100?cb=20211215124956",
+    "name": "(Eternal Reaper) Ritsu Sakuma[悠久の死神] 朔間 凛月",
+    "star": 5
+  },
+  {
+    "i": 6,
+    "title": "(Capricious Observer) Ritsu Sakuma",
+    "url": "/wiki/(Capricious_Observer)_Ritsu_Sakuma",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/6/61/%28Capricious_Observer%29_Ritsu_Sakuma_M.png/revision/latest/scale-to-width-down/100?cb=20200413131844",
+    "name": " (Capricious Observer) Ritsu Sakuma[気ままな観察者] 朔間 凛月",
+    "star": 4
+  },
+  {
+    "i": 8,
+    "title": "(NewDi's Brain) Ritsu Sakuma",
+    "url": "/wiki/(NewDi%27s_Brain)_Ritsu_Sakuma",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/9/99/%28NewDi%27s_Brain%29_Ritsu_Sakuma_M.png/revision/latest/scale-to-width-down/100?cb=20201110123254",
+    "name": " (NewDi's Brain) Ritsu Sakuma[ニューディのブレーン] 朔間 凛月",
+    "star": 4
+  },
+  {
+    "i": 10,
+    "title": "(Before Practice) Ritsu Sakuma",
+    "url": "/wiki/(Before_Practice)_Ritsu_Sakuma",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/d/d8/%28Before_Practice%29_Ritsu_Sakuma_M.png/revision/latest/scale-to-width-down/100?cb=20201030215813",
+    "name": " (Before Practice) Ritsu Sakuma[レッスンの前に] 朔間 凛月",
+    "star": 4
+  },
+  {
+    "i": 12,
+    "title": "(Refined Fragrance) Ritsu Sakuma",
+    "url": "/wiki/(Refined_Fragrance)_Ritsu_Sakuma",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/a/a2/%28Refined_Fragrance%29_Ritsu_Sakuma_M.png/revision/latest/scale-to-width-down/100?cb=20210715162144",
+    "name": " (Refined Fragrance) Ritsu Sakuma[優美フレグランス] 朔間 凛月",
+    "star": 4
+  },
+  {
+    "i": 14,
+    "title": "(Lax Rock) Ritsu Sakuma",
+    "url": "/wiki/(Lax_Rock)_Ritsu_Sakuma",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/5/51/%28Lax_Rock%29_Ritsu_Sakuma_M.png/revision/latest/scale-to-width-down/100?cb=20211021183443",
+    "name": "(Lax Rock) Ritsu Sakuma[緩やかロック] 朔間 凛月",
+    "star": 4
+  },
+  {
+    "i": 16,
+    "title": "(Practicing) Ritsu Sakuma",
+    "url": "/wiki/(Practicing)_Ritsu_Sakuma",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/b/bd/%28Practicing%29_Ritsu_Sakuma_M.png/revision/latest/scale-to-width-down/100?cb=20200412150225",
+    "name": " (Practicing) Ritsu Sakuma[練習風景] 朔間 凛月",
+    "star": 3
+  },
+  {
+    "i": 18,
+    "title": "(Tempting Sweets) Ritsu Sakuma",
+    "url": "/wiki/(Tempting_Sweets)_Ritsu_Sakuma",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/4/4a/%28Tempting_Sweets%29_Ritsu_Sakuma_M.png/revision/latest/scale-to-width-down/100?cb=20200531221408",
+    "name": " (Tempting Sweets) Ritsu Sakuma[お菓子の誘い] 朔間 凛月",
+    "star": 3
+  },
+  {
+    "i": 20,
+    "title": "(Double-Checking the Path) Ritsu Sakuma",
+    "url": "/wiki/(Double-Checking_the_Path)_Ritsu_Sakuma",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/2/2f/%28Double-Checking_the_Path%29_Ritsu_Sakuma_M.png/revision/latest/scale-to-width-down/100?cb=20200822174903",
+    "name": " (Double-Checking the Path) Ritsu Sakuma[道の読み直し] 朔間 凛月",
+    "star": 3
+  },
+  {
+    "i": 22,
+    "title": "(Sweets Maker) Ritsu Sakuma",
+    "url": "/wiki/(Sweets_Maker)_Ritsu_Sakuma",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/c/cf/%28Sweets_Maker%29_Ritsu_Sakuma_M.png/revision/latest/scale-to-width-down/100?cb=20210215083227",
+    "name": " (Sweets Maker) Ritsu Sakuma[スイーツクラフト] 朔間 凛月",
+    "star": 3
+  },
+  {
+    "i": 24,
+    "title": "(Club Activity Report) Ritsu Sakuma",
+    "url": "/wiki/(Club_Activity_Report)_Ritsu_Sakuma",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/f/f7/%28Club_Activity_Report%29_Ritsu_Sakuma_M.png/revision/latest/scale-to-width-down/100?cb=20210326001902",
+    "name": " (Club Activity Report) Ritsu Sakuma[部活動報告] 朔間 凛月",
+    "star": 3
+  },
+  {
+    "i": 26,
+    "title": "(Sudden Death Strategy) Ritsu Sakuma",
+    "url": "/wiki/(Sudden_Death_Strategy)_Ritsu_Sakuma",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/b/b1/%28Sudden_Death_Strategy%29_Ritsu_Sakuma_M.png/revision/latest/scale-to-width-down/100?cb=20211016191316",
+    "name": "(Sudden Death Strategy) Ritsu Sakuma[画策サドンデス] 朔間 凛月",
+    "star": 3
+  },
+  {
+    "i": 28,
+    "title": "(An Idol) Ritsu Sakuma",
+    "url": "/wiki/(An_Idol)_Ritsu_Sakuma",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/2/2f/%28An_Idol%29_Ritsu_Sakuma_M.png/revision/latest/scale-to-width-down/100?cb=20200412134549",
+    "name": " (An Idol) Ritsu Sakuma[ひとりのアイドル] 朔間 凛月",
+    "star": 1
+  },
+  {
+    "i": 30,
+    "title": "(ES Idol) Ritsu Sakuma",
+    "url": "/wiki/(ES_Idol)_Ritsu_Sakuma",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/3/36/%28ES_Idol%29_Ritsu_Sakuma_M.png/revision/latest/scale-to-width-down/100?cb=20200412142038",
+    "name": " (ES Idol) Ritsu Sakuma[ESのアイドル] 朔間 凛月",
+    "star": 2
+  },
+  {
+    "i": 32,
+    "title": "(King of Sweetness) Ritsu Sakuma",
+    "url": "/wiki/(King_of_Sweetness)_Ritsu_Sakuma",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/0/0b/%28King_of_Sweetness%29_Ritsu_Sakuma.png/revision/latest/scale-to-width-down/100?cb=20150608004629",
+    "name": "(King of Sweetness) Ritsu Sakuma［甘味の王者］朔間 凛月",
+    "star": 5
+  },
+  {
+    "i": 34,
+    "title": "(Moonlight Vampire) Ritsu Sakuma",
+    "url": "/wiki/(Moonlight_Vampire)_Ritsu_Sakuma",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/6/61/%28Moonlight_Vampire%29_Ritsu_Sakuma.png/revision/latest/scale-to-width-down/100?cb=20151110144824",
+    "name": "(Moonlight Vampire) Ritsu Sakuma［ムーンライトヴァンプ］朔間 凛月",
+    "star": 5
+  },
+  {
+    "i": 36,
+    "title": "(Moonlit Childhood Friend) Ritsu Sakuma",
+    "url": "/wiki/(Moonlit_Childhood_Friend)_Ritsu_Sakuma",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/2/2a/%28Moonlit_Childhood_Friend%29_Ritsu_Sakuma.png/revision/latest/scale-to-width-down/100?cb=20160507053916",
+    "name": "(Moonlit Childhood Friend) Ritsu Sakuma[月光の幼馴染] 朔間 凛月",
+    "star": 5
+  },
+  {
+    "i": 38,
+    "title": "(Cheer in the Shade) Ritsu Sakuma",
+    "url": "/wiki/(Cheer_in_the_Shade)_Ritsu_Sakuma",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/6/62/%28Cheer_in_the_Shade%29_Ritsu_Sakuma.png/revision/latest/scale-to-width-down/100?cb=20191014063949",
+    "name": "(Cheer in the Shade) Ritsu Sakuma[日陰のチア] 朔間 凛月",
+    "star": 5
+  },
+  {
+    "i": 40,
+    "title": "(Dreaming Hours) Ritsu Sakuma",
+    "url": "/wiki/(Dreaming_Hours)_Ritsu_Sakuma",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/1/1d/%28Dreaming_Hours%29_Ritsu_Sakuma.png/revision/latest/scale-to-width-down/100?cb=20170429221730",
+    "name": "(Dreaming Hours) Ritsu Sakuma[夢見心地の時間] 朔間 凛月",
+    "star": 5
+  },
+  {
+    "i": 42,
+    "title": "(Drifting Sky Flower) Ritsu Sakuma",
+    "url": "/wiki/(Drifting_Sky_Flower)_Ritsu_Sakuma",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/5/5d/%28Drifting_Sky_Flower%29_Ritsu_Sakuma.png/revision/latest/scale-to-width-down/100?cb=20171011061951",
+    "name": "(Drifting Sky Flower) Ritsu Sakuma[淡空の花] 朔間 凛月",
+    "star": 5
+  },
+  {
+    "i": 44,
+    "title": "(Earl Grey) Ritsu Sakuma",
+    "url": "/wiki/(Earl_Grey)_Ritsu_Sakuma",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/2/27/%28Earl_Grey%29_Ritsu_Sakuma.png/revision/latest/scale-to-width-down/100?cb=20181014074806",
+    "name": "(Earl Grey) Ritsu Sakuma[アールグレイ] 朔間 凛月",
+    "star": 5
+  },
+  {
+    "i": 46,
+    "title": "(Operetta of Sunlight) Ritsu Sakuma",
+    "url": "/wiki/(Operetta_of_Sunlight)_Ritsu_Sakuma",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/f/fc/%28Operetta_of_Sunlight%29_Ritsu_Sakuma.png/revision/latest/scale-to-width-down/100?cb=20190510134508",
+    "name": "(Operetta of Sunlight) Ritsu Sakuma[日向のオペレッタ] 朔間 凛月",
+    "star": 5
+  },
+  {
+    "i": 48,
+    "title": "(Knights' Intellect) Ritsu Sakuma",
+    "url": "/wiki/(Knights%27_Intellect)_Ritsu_Sakuma",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/d/da/%28Knights%27_Intellect%29_Ritsu_Sakuma.png/revision/latest/scale-to-width-down/100?cb=20210713004726",
+    "name": "(Knights' Intellect) Ritsu Sakuma[Knightsの知性] 朔間 凛月",
+    "star": 5
+  },
+  {
+    "i": 50,
+    "title": "(Strategist) Ritsu Sakuma",
+    "url": "/wiki/(Strategist)_Ritsu_Sakuma",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/6/61/%28Strategist%29_Ritsu_Sakuma.png/revision/latest/scale-to-width-down/100?cb=20180719102240",
+    "name": "(Strategist) Ritsu Sakuma［策略家］朔間 凛月",
+    "star": 4
+  },
+  {
+    "i": 52,
+    "title": "(Half Asleep) Ritsu Sakuma",
+    "url": "/wiki/(Half_Asleep)_Ritsu_Sakuma",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/e/e8/%28Half_Asleep%29_Ritsu_Sakuma.png/revision/latest/scale-to-width-down/100?cb=20180922024224",
+    "name": "(Half Asleep) Ritsu Sakuma［夢うつつ］朔間 凛月",
+    "star": 4
+  },
+  {
+    "i": 54,
+    "title": "(Yearning for the World) Ritsu Sakuma",
+    "url": "/wiki/(Yearning_for_the_World)_Ritsu_Sakuma",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/2/2a/%28Yearning_for_the_World%29_Ritsu_Sakuma.png/revision/latest/scale-to-width-down/100?cb=20151017060909",
+    "name": "［焦がれる世界］朔間 凛月",
+    "star": 4
+  },
+  {
+    "i": 56,
+    "title": "(Cheshire's Early Afternoon) Ritsu Sakuma",
+    "url": "/wiki/(Cheshire%27s_Early_Afternoon)_Ritsu_Sakuma",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/a/a8/%28Cheshire%27s_Early_Afternoon%29_Ritsu_Sakuma.png/revision/latest/scale-to-width-down/100?cb=20160130163356",
+    "name": "(Cheshire's Early Afternoon) Ritsu Sakuma［昼下がりのチェシャ猫］朔間 凛月",
+    "star": 4
+  },
+  {
+    "i": 58,
+    "title": "(Night Theatre) Ritsu Sakuma",
+    "url": "/wiki/(Night_Theatre)_Ritsu_Sakuma",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/b/bf/%28Night_Theatre%29_Ritsu_Sakuma.png/revision/latest/scale-to-width-down/100?cb=20161226095840",
+    "name": "(Night Theatre) Ritsu Sakuma[夜の舞台] 朔間 凛月",
+    "star": 4
+  },
+  {
+    "i": 60,
+    "title": "(Demon of the Twelfth Lunar Month) Ritsu Sakuma",
+    "url": "/wiki/(Demon_of_the_Twelfth_Lunar_Month)_Ritsu_Sakuma",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/2/26/%28Demon_of_the_Twelfth_Lunar_Month%29_Ritsu_Sakuma.png/revision/latest/scale-to-width-down/100?cb=20170201040909",
+    "name": "(Demon of the Twelfth Lunar Month) Ritsu Sakuma[春待ちの鬼]  朔間 凛月",
+    "star": 4
+  },
+  {
+    "i": 62,
+    "title": "(Mischief and Stage) Ritsu Sakuma",
+    "url": "/wiki/(Mischief_and_Stage)_Ritsu_Sakuma",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/0/01/%28Mischief_and_Stage%29_Ritsu_Sakuma.png/revision/latest/scale-to-width-down/100?cb=20180129162825",
+    "name": "(Mischief and Stage) Ritsu Sakuma[悪戯と舞台] 朔間 凛月",
+    "star": 4
+  },
+  {
+    "i": 64,
+    "title": "(Half-Beast Visitor) Ritsu Sakuma",
+    "url": "/wiki/(Half-Beast_Visitor)_Ritsu_Sakuma",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/b/b0/%28Half-Beast_Visitor%29_Ritsu_Sakuma.png/revision/latest/scale-to-width-down/100?cb=20180901141642",
+    "name": "(Half-Beast Visitor) Ritsu Sakuma[獣人の来訪者] 朔間 凛月",
+    "star": 4
+  },
+  {
+    "i": 66,
+    "title": "(Devil's Temptation) Ritsu Sakuma",
+    "url": "/wiki/(Devil%27s_Temptation)_Ritsu_Sakuma",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/5/57/%28Devil%27s_Temptation%29_Ritsu_Sakuma.png/revision/latest/scale-to-width-down/100?cb=20180529071858",
+    "name": "(Devil's Temptation) Ritsu Sakuma[悪魔の誘惑] 朔間 凛月",
+    "star": 4
+  },
+  {
+    "i": 68,
+    "title": "(Vampire and the Chivalric Order) Ritsu Sakuma",
+    "url": "/wiki/(Vampire_and_the_Chivalric_Order)_Ritsu_Sakuma",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/0/03/%28Vampire_and_the_Chivalric_Order%29_Ritsu_Sakuma.png/revision/latest/scale-to-width-down/100?cb=20180610002550",
+    "name": "(Vampire and the Chivalric Order) Ritsu Sakuma[吸血鬼と騎士団] 朔間 凛月",
+    "star": 4
+  },
+  {
+    "i": 70,
+    "title": "(3rd Anniversary) Ritsu Sakuma",
+    "url": "/wiki/(3rd_Anniversary)_Ritsu_Sakuma",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/5/50/%283rd_Anniversary%29_Ritsu_Sakuma.png/revision/latest/scale-to-width-down/100?cb=20180606211151",
+    "name": "(3rd Anniversary) Ritsu Sakuma[三周年記念] 朔間凛月",
+    "star": 4
+  },
+  {
+    "i": 72,
+    "title": "(Horse Riding and Calm) Ritsu Sakuma",
+    "url": "/wiki/(Horse_Riding_and_Calm)_Ritsu_Sakuma",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/4/43/%28Horse_Riding_and_Calm%29_Ritsu_Sakuma.png/revision/latest/scale-to-width-down/100?cb=20180827170101",
+    "name": "(Horse Riding and Calm) Ritsu Sakuma[乗馬と余裕] 朔間 凛月",
+    "star": 4
+  },
+  {
+    "i": 74,
+    "title": "(Watchful Gentleness) Ritsu Sakuma",
+    "url": "/wiki/(Watchful_Gentleness)_Ritsu_Sakuma",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/6/65/%28Watchful_Gentleness%29_Ritsu_Sakuma.png/revision/latest/scale-to-width-down/100?cb=20190303124807",
+    "name": "(Watchful Gentleness) Ritsu Sakuma[見守る優しさ] 朔間 凛月",
+    "star": 4
+  },
+  {
+    "i": 76,
+    "title": "(Crown and Bonds) Ritsu Sakuma",
+    "url": "/wiki/(Crown_and_Bonds)_Ritsu_Sakuma",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/e/e9/%28Crown_and_Bonds%29_Ritsu_Sakuma.png/revision/latest/scale-to-width-down/100?cb=20190314074450",
+    "name": "(Crown and Bonds) Ritsu Sakuma[王冠と絆] 朔間 凛月",
+    "star": 4
+  },
+  {
+    "i": 78,
+    "title": "(4th Anniversary) Ritsu Sakuma",
+    "url": "/wiki/(4th_Anniversary)_Ritsu_Sakuma",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/b/b8/%284th_Anniversary%29_Ritsu_Sakuma.png/revision/latest/scale-to-width-down/100?cb=20190610065723",
+    "name": "(4th Anniversary) Ritsu Sakuma[四周年記念] 朔間 凛月",
+    "star": 4
+  },
+  {
+    "i": 80,
+    "title": "(Canary's True Thoughts) Ritsu Sakuma",
+    "url": "/wiki/(Canary%27s_True_Thoughts)_Ritsu_Sakuma",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/9/92/%28Canary%27s_True_Thoughts%29_Ritsu_Sakuma.png/revision/latest/scale-to-width-down/100?cb=20190914172536",
+    "name": "(Canary's True Thoughts) Ritsu Sakuma[金糸雀の意中] 朔間 凛月",
+    "star": 4
+  },
+  {
+    "i": 82,
+    "title": "(Sleepy) Ritsu Sakuma",
+    "url": "/wiki/(Sleepy)_Ritsu_Sakuma",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/4/48/%28Sleepy%29_Ritsu_Sakuma.png/revision/latest/scale-to-width-down/100?cb=20150501230204",
+    "name": "(Sleepy) Ritsu Sakuma［眠気］朔間 凛月",
+    "star": 3
+  },
+  {
+    "i": 84,
+    "title": "(Soda) Ritsu Sakuma",
+    "url": "/wiki/(Soda)_Ritsu_Sakuma",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/7/71/%28Soda%29_Ritsu_Sakuma.png/revision/latest/scale-to-width-down/100?cb=20150501160131",
+    "name": "(Soda) Ritsu Sakuma［炭酸］朔間 凛月",
+    "star": 3
+  },
+  {
+    "i": 86,
+    "title": "(Cramped Costume) Ritsu Sakuma",
+    "url": "/wiki/(Cramped_Costume)_Ritsu_Sakuma",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/8/8f/%28Cramped_Costume%29_Ritsu_Sakuma.png/revision/latest/scale-to-width-down/100?cb=20150503145724",
+    "name": "(Cramped Costume) Ritsu Sakuma［窮屈な衣装］朔間 凛月",
+    "star": 3
+  },
+  {
+    "i": 88,
+    "title": "(Tasting) Ritsu Sakuma",
+    "url": "/wiki/(Tasting)_Ritsu_Sakuma",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/d/da/%28Tasting%29_Ritsu_Sakuma.png/revision/latest/scale-to-width-down/100?cb=20180921221428",
+    "name": "(Tasting) Ritsu Sakuma［味見］朔間 凛月",
+    "star": 3
+  },
+  {
+    "i": 90,
+    "title": "(Shuten Doji) Ritsu Sakuma",
+    "url": "/wiki/(Shuten_Doji)_Ritsu_Sakuma",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/5/5c/%28Shuten_Doji%29_Ritsu_Sakuma.png/revision/latest/scale-to-width-down/100?cb=20181216173006",
+    "name": "(Shuten Doji) Ritsu Sakuma［酒呑童子］朔間 凛月",
+    "star": 3
+  },
+  {
+    "i": 92,
+    "title": "(Autumn Night Inn) Ritsu Sakuma",
+    "url": "/wiki/(Autumn_Night_Inn)_Ritsu_Sakuma",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/4/4c/%28Autumn_Night_Inn%29_Ritsu_Sakuma.png/revision/latest/scale-to-width-down/100?cb=20151125142819",
+    "name": "(Autumn Night Inn) Ritsu Sakuma［秋夜の宿］朔間 凛月",
+    "star": 3
+  },
+  {
+    "i": 94,
+    "title": "(Sleepy Phantom Thief) Ritsu Sakuma",
+    "url": "/wiki/(Sleepy_Phantom_Thief)_Ritsu_Sakuma",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/0/0c/%28Sleepy_Phantom_Thief%29_Ritsu_Sakuma.png/revision/latest/scale-to-width-down/100?cb=20151231143753",
+    "name": "(Sleepy Phantom Thief) Ritsu Sakuma［眠たげ怪盗］朔間 凛月",
+    "star": 3
+  },
+  {
+    "i": 96,
+    "title": "(Falcon) Ritsu Sakuma",
+    "url": "/wiki/(Falcon)_Ritsu_Sakuma",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/2/28/%28Falcon%29_Ritsu_Sakuma.png/revision/latest/scale-to-width-down/100?cb=20160228093810",
+    "name": "(Falcon) Ritsu Sakuma［ハヤブサ］朔間 凛月",
+    "star": 3
+  },
+  {
+    "i": 98,
+    "title": "(Early Spring Crib) Ritsu Sakuma",
+    "url": "/wiki/(Early_Spring_Crib)_Ritsu_Sakuma",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/7/78/%28Early_Spring_Crib%29_Ritsu_Sakuma.png/revision/latest/scale-to-width-down/100?cb=20160410033816",
+    "name": "(Early Spring Crib) Ritsu Sakuma[春先の寝床] 朔間 凛月",
+    "star": 3
+  },
+  {
+    "i": 100,
+    "title": "(Naturally Relaxed) Ritsu Sakuma",
+    "url": "/wiki/(Naturally_Relaxed)_Ritsu_Sakuma",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/9/9f/%28Naturally_Relaxed%29_Ritsu_Sakuma.png/revision/latest/scale-to-width-down/100?cb=20160516001805",
+    "name": "(Naturally Relaxed) Ritsu Sakuma[自然体のまま] 朔間 凛月",
+    "star": 3
+  },
+  {
+    "i": 102,
+    "title": "(Willful of Summer) Ritsu Sakuma",
+    "url": "/wiki/(Willful_of_Summer)_Ritsu_Sakuma",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/f/f3/%28Willful_of_Summer%29_Ritsu_Sakuma.png/revision/latest/scale-to-width-down/100?cb=20161002023716",
+    "name": "(Willful of Summer) Ritsu Sakuma[夏の気まま] 朔間 凛月",
+    "star": 3
+  },
+  {
+    "i": 104,
+    "title": "(Flower Garden Slumber) Ritsu Sakuma",
+    "url": "/wiki/(Flower_Garden_Slumber)_Ritsu_Sakuma",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/b/b8/%28Flower_Garden_Slumber%29_Ritsu_Sakuma.png/revision/latest/scale-to-width-down/100?cb=20161212054316",
+    "name": "(Flower Garden Slumber) Ritsu Sakuma[花園の眠り]  朔間 凛月",
+    "star": 3
+  },
+  {
+    "i": 106,
+    "title": "(Vampire's Gift Exchange) Ritsu Sakuma",
+    "url": "/wiki/(Vampire%27s_Gift_Exchange)_Ritsu_Sakuma",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/5/53/%28Vampire%27s_Gift_Exchange%29_Ritsu_Sakuma.png/revision/latest/scale-to-width-down/100?cb=20161212072436",
+    "name": "(Vampire's Gift Exchange) Ritsu Sakuma[吸血鬼の贈答] 朔間 凛月",
+    "star": 3
+  },
+  {
+    "i": 108,
+    "title": "(Sweet Service) Ritsu Sakuma",
+    "url": "/wiki/(Sweet_Service)_Ritsu_Sakuma",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/b/b6/%28Sweet_Service%29_Ritsu_Sakuma.png/revision/latest/scale-to-width-down/100?cb=20170311232655",
+    "name": "(Sweet Service) Ritsu Sakuma[甘いサービス]  朔間 凛月",
+    "star": 3
+  },
+  {
+    "i": 110,
+    "title": "(Senior Classmate) Ritsu Sakuma",
+    "url": "/wiki/(Senior_Classmate)_Ritsu_Sakuma",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/a/a4/%28Senior_Classmate%29_Ritsu_Sakuma.png/revision/latest/scale-to-width-down/100?cb=20170509063007",
+    "name": "(Senior Classmate) Ritsu Sakuma[年上同級生] 朔間 凛月",
+    "star": 3
+  },
+  {
+    "i": 112,
+    "title": "(Gathered Knight) Ritsu Sakuma",
+    "url": "/wiki/(Gathered_Knight)_Ritsu_Sakuma",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/4/45/%28Gathered_Knight%29_Ritsu_Sakuma.png/revision/latest/scale-to-width-down/100?cb=20170703121338",
+    "name": "(Gathered Knight) Ritsu Sakuma[拾われ騎士] 朔間 凛月",
+    "star": 3
+  },
+  {
+    "i": 114,
+    "title": "(Everyday Activities) Ritsu Sakuma",
+    "url": "/wiki/(Everyday_Activities)_Ritsu_Sakuma",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/4/40/%28Everyday_Activities%29_Ritsu_Sakuma.png/revision/latest/scale-to-width-down/100?cb=20170829203554",
+    "name": "(Everyday Activities) Ritsu Sakuma[日常の活動] 朔間 凛月",
+    "star": 3
+  },
+  {
+    "i": 116,
+    "title": "(Beautiful Knight) Ritsu Sakuma",
+    "url": "/wiki/(Beautiful_Knight)_Ritsu_Sakuma",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/9/9d/%28Beautiful_Knight%29_Ritsu_Sakuma.png/revision/latest/scale-to-width-down/100?cb=20180729184913",
+    "name": "(Beautiful Knight) Ritsu Sakuma[麗しきナイト] 朔間 凛月",
+    "star": 3
+  },
+  {
+    "i": 118,
+    "title": "(SS Reinforcement) Ritsu Sakuma",
+    "url": "/wiki/(SS_Reinforcement)_Ritsu_Sakuma",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/7/76/%28SS_Reinforcement%29_Ritsu_Sakuma.png/revision/latest/scale-to-width-down/100?cb=20190429132007",
+    "name": "(SS Reinforcement) Ritsu Sakuma[『SS』応援] 朔間 凛月",
+    "star": 3
+  },
+  {
+    "i": 120,
+    "title": "(Dangerous Fang) Ritsu Sakuma",
+    "url": "/wiki/(Dangerous_Fang)_Ritsu_Sakuma",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/c/c9/%28Dangerous_Fang%29_Ritsu_Sakuma.png/revision/latest/scale-to-width-down/100?cb=20180719102257",
+    "name": "(Dangerous Fang) Ritsu Sakuma[危険な牙] 朔間 凛月",
+    "star": 3
+  },
+  {
+    "i": 122,
+    "title": "(Books and a Tree's Shade) Ritsu Sakuma",
+    "url": "/wiki/(Books_and_a_Tree%27s_Shade)_Ritsu_Sakuma",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/7/7e/%28Books_and_a_Tree%27s_Shade%29_Ritsu_Sakuma.png/revision/latest/scale-to-width-down/100?cb=20180427074435",
+    "name": "(Books and a Tree's Shade) Ritsu Sakuma[本と木陰] 朔間 凛月",
+    "star": 3
+  },
+  {
+    "i": 124,
+    "title": "(Delinquent Comic) Ritsu Sakuma",
+    "url": "/wiki/(Delinquent_Comic)_Ritsu_Sakuma",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/4/43/%28Delinquent_Comic%29_Ritsu_Sakuma.png/revision/latest/scale-to-width-down/100?cb=20180715112117",
+    "name": "(Delinquent Comic) Ritsu Sakuma[不良コミック] 朔間 凛月",
+    "star": 3
+  },
+  {
+    "i": 126,
+    "title": "(Moonlight Shinigami) Ritsu Sakuma",
+    "url": "/wiki/(Moonlight_Shinigami)_Ritsu_Sakuma",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/5/59/%28Moonlight_Shinigami%29_Ritsu_Sakuma.png/revision/latest/scale-to-width-down/100?cb=20181130203600",
+    "name": "(Moonlight Shinigami) Ritsu Sakuma[月光の死神] 朔間 凛月",
+    "star": 3
+  },
+  {
+    "i": 128,
+    "title": "(Butterfly of Misdirection) Ritsu Sakuma",
+    "url": "/wiki/(Butterfly_of_Misdirection)_Ritsu_Sakuma",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/d/dd/%28Butterfly_of_Misdirection%29_Ritsu_Sakuma.png/revision/latest/scale-to-width-down/100?cb=20181215110430",
+    "name": "(Butterfly of Misdirection) Ritsu Sakuma[惑わしの蝶] 朔間 凛月",
+    "star": 3
+  },
+  {
+    "i": 130,
+    "title": "(Sea Breeze and Photos) Ritsu Sakuma",
+    "url": "/wiki/(Sea_Breeze_and_Photos)_Ritsu_Sakuma",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/1/1d/%28Sea_Breeze_and_Photos%29_Ritsu_Sakuma.png/revision/latest/scale-to-width-down/100?cb=20190702140737",
+    "name": "(Sea Breeze and Photos) Ritsu Sakuma[潮風と写真] 朔間 凛月",
+    "star": 3
+  },
+  {
+    "i": 132,
+    "title": "Ritsu Sakuma (Card)",
+    "url": "/wiki/Ritsu_Sakuma_(Card)",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/f/f9/Ritsu_Sakuma_%28Card%29.png/revision/latest/scale-to-width-down/100?cb=20150430005810",
+    "name": "Ritsu Sakuma (Card)朔間 凛月",
+    "star": 1
+  },
+  {
+    "i": 134,
+    "title": "(Academy Idol) Ritsu Sakuma",
+    "url": "/wiki/(Academy_Idol)_Ritsu_Sakuma",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/0/0c/%28Academy_Idol%29_Ritsu_Sakuma.png/revision/latest/scale-to-width-down/100?cb=20150430174534",
+    "name": "(Academy Idol) Ritsu Sakuma［学院のアイドル］朔間 凛月",
+    "star": 2
+  },
+  {
+    "i": 136,
+    "title": "(Firefly's Return) Ritsu Sakuma",
+    "url": "/wiki/(Firefly%27s_Return)_Ritsu_Sakuma",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/3/3f/%28Firefly%27s_Return%29_Ritsu_Sakuma.png/revision/latest/scale-to-width-down/100?cb=20170121225528",
+    "name": "(Firefly's Return) Ritsu Sakuma【萤火的归处】朔间 凛月",
+    "star": 5
+  },
+  {
+    "i": 138,
+    "title": "(Bloody Banquet) Ritsu Sakuma",
+    "url": "/wiki/(Bloody_Banquet)_Ritsu_Sakuma",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/9/95/%28Bloody_Banquet%29_Ritsu_Sakuma.png/revision/latest/scale-to-width-down/100?cb=20191008191927",
+    "name": "(Bloody Banquet) Ritsu Sakuma[鲜血宴会] 朔間 凛月",
+    "star": 5
+  },
+  {
+    "i": 140,
+    "title": "(Life of Leisure) Ritsu Sakuma",
+    "url": "/wiki/(Life_of_Leisure)_Ritsu_Sakuma",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/f/f3/%28Life_of_Leisure%29_Ritsu_Sakuma.png/revision/latest/scale-to-width-down/100?cb=20180322230902",
+    "name": "(Life of Leisure) Ritsu Sakuma[悠然生活] 朔间 凛月",
+    "star": 3
+  },
+  {
+    "i": 142,
+    "title": "(Elegant Tian Gang) Ritsu Sakuma",
+    "url": "/wiki/(Elegant_Tian_Gang)_Ritsu_Sakuma",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/d/d7/%28Elegant_Tian_Gang%29_Ritsu_Sakuma.png/revision/latest/scale-to-width-down/100?cb=20181123073412",
+    "name": "(Elegant Tian Gang) Ritsu Sakuma[飘逸天罡] 朔间 凛月",
+    "star": 3
+  }
+]

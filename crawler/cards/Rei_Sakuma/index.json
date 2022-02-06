@@ -1,0 +1,594 @@
+[
+  {
+    "i": 0,
+    "title": "(Leader of the Demons) Rei Sakuma",
+    "url": "/wiki/(Leader_of_the_Demons)_Rei_Sakuma",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/7/7f/%28Leader_of_the_Demons%29_Rei_Sakuma_M.png/revision/latest/scale-to-width-down/100?cb=20200326160012",
+    "name": " (Leader of the Demons) Rei Sakuma[魔物のリーダー] 朔間 零",
+    "star": 5
+  },
+  {
+    "i": 2,
+    "title": "(Succession Match) Rei Sakuma",
+    "url": "/wiki/(Succession_Match)_Rei_Sakuma",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/4/40/%28Succession_Match%29_Rei_Sakuma_M.png/revision/latest/scale-to-width-down/100?cb=20200716213844",
+    "name": " (Succession Match) Rei Sakuma[継承の試合] 朔間 零",
+    "star": 5
+  },
+  {
+    "i": 4,
+    "title": "(Guide of Chaos and Love) Rei Sakuma",
+    "url": "/wiki/(Guide_of_Chaos_and_Love)_Rei_Sakuma",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/3/37/%28Guide_of_Chaos_and_Love%29_Rei_Sakuma_M.png/revision/latest/scale-to-width-down/100?cb=20210326001930",
+    "name": " (Guide of Chaos and Love) Rei Sakuma[混沌と愛の先導者] 朔間 零",
+    "star": 5
+  },
+  {
+    "i": 6,
+    "title": "(Reaper of Condemnation) Rei Sakuma",
+    "url": "/wiki/(Reaper_of_Condemnation)_Rei_Sakuma",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/3/39/%28Reaper_of_Condemnation%29_Rei_Sakuma_M.png/revision/latest/scale-to-width-down/100?cb=20211215125004",
+    "name": "(Reaper of Condemnation) Rei Sakuma[断罪の死神] 朔間 零",
+    "star": 5
+  },
+  {
+    "i": 8,
+    "title": "(RhyLin's Vampire) Rei Sakuma",
+    "url": "/wiki/(RhyLin%27s_Vampire)_Rei_Sakuma",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/b/bb/%28RhyLin%27s_Vampire%29_Rei_Sakuma_M.png/revision/latest/scale-to-width-down/100?cb=20200830004415",
+    "name": " (RhyLin's Vampire) Rei Sakuma[リズリンの吸血鬼] 朔間 零",
+    "star": 4
+  },
+  {
+    "i": 10,
+    "title": "(Nostalgic Room) Rei Sakuma",
+    "url": "/wiki/(Nostalgic_Room)_Rei_Sakuma",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/0/00/%28Nostalgic_Room%29_Rei_Sakuma_M.png/revision/latest/scale-to-width-down/100?cb=20201110114120",
+    "name": " (Nostalgic Room) Rei Sakuma[懐かしの部室] 朔間 零",
+    "star": 4
+  },
+  {
+    "i": 12,
+    "title": "(Making a Plan Blossom) Rei Sakuma",
+    "url": "/wiki/(Making_a_Plan_Blossom)_Rei_Sakuma",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/2/28/%28Making_a_Plan_Blossom%29_Rei_Sakuma_M.png/revision/latest/scale-to-width-down/100?cb=20210530234342",
+    "name": " (Making a Plan Blossom) Rei Sakuma[ひと花咲かせて] 朔間 零",
+    "star": 4
+  },
+  {
+    "i": 14,
+    "title": "(Restricted Sandstorm) Rei Sakuma",
+    "url": "/wiki/(Restricted_Sandstorm)_Rei_Sakuma",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/d/d9/%28Restricted_Sandstorm%29_Rei_Sakuma_M.png/revision/latest/scale-to-width-down/100?cb=20210815130541",
+    "name": "(Restricted Sandstorm) Rei Sakuma[制限サンドストーム] 朔間 零",
+    "star": 4
+  },
+  {
+    "i": 16,
+    "title": "(Rock Instincts) Rei Sakuma",
+    "url": "/wiki/(Rock_Instincts)_Rei_Sakuma",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/5/51/%28Rock_Instincts%29_Rei_Sakuma_M.png/revision/latest/scale-to-width-down/100?cb=20210929035105",
+    "name": "(Rock Instincts) Rei Sakuma[ロックな本能] 朔間 零",
+    "star": 4
+  },
+  {
+    "i": 18,
+    "title": "(Practicing) Rei Sakuma",
+    "url": "/wiki/(Practicing)_Rei_Sakuma",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/d/d9/%28Practicing%29_Rei_Sakuma_M.png/revision/latest/scale-to-width-down/100?cb=20200412150125",
+    "name": " (Practicing) Rei Sakuma[練習風景] 朔間 零",
+    "star": 3
+  },
+  {
+    "i": 20,
+    "title": "(Idol Radio) Rei Sakuma",
+    "url": "/wiki/(Idol_Radio)_Rei_Sakuma",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/5/54/%28Idol_Radio%29_Rei_Sakuma_M.png/revision/latest/scale-to-width-down/100?cb=20200517015131",
+    "name": " (Idol Radio) Rei Sakuma[アイドルラジオ] 朔間 零",
+    "star": 3
+  },
+  {
+    "i": 22,
+    "title": "(A Summer Spent With Friends) Rei Sakuma",
+    "url": "/wiki/(A_Summer_Spent_With_Friends)_Rei_Sakuma",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/3/3c/%28A_Summer_Spent_With_Friends%29_Rei_Sakuma_M.png/revision/latest/scale-to-width-down/100?cb=20200822174252",
+    "name": " (A Summer Spent With Friends) Rei Sakuma[仲間のサマー] 朔間 零",
+    "star": 3
+  },
+  {
+    "i": 24,
+    "title": "(Veteran Rock n Roll) Rei Sakuma",
+    "url": "/wiki/(Veteran_Rock_n_Roll)_Rei_Sakuma",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/2/2b/%28Veteran_Rock_n_Roll%29_Rei_Sakuma_M.png/revision/latest/scale-to-width-down/100?cb=20201031110833",
+    "name": " (Veteran Rock n Roll) Rei Sakuma[ベテランロック] 朔間 零",
+    "star": 3
+  },
+  {
+    "i": 26,
+    "title": "(Jet Black Ox Spirit) Rei Sakuma",
+    "url": "/wiki/(Jet_Black_Ox_Spirit)_Rei_Sakuma",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/c/c0/%28Jet_Black_Ox_Spirit%29_Rei_Sakuma_M.png/revision/latest/scale-to-width-down/100?cb=20201231063612",
+    "name": " (Jet Black Ox Spirit) Rei Sakuma[漆黒の丑使い] 朔間 零",
+    "star": 3
+  },
+  {
+    "i": 28,
+    "title": "(Beast and Doctor) Rei Sakuma",
+    "url": "/wiki/(Beast_and_Doctor)_Rei_Sakuma",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/2/2a/%28Beast_and_Doctor%29_Rei_Sakuma_M.png/revision/latest/scale-to-width-down/100?cb=20211115074614",
+    "name": "(Beast and Doctor) Rei Sakuma[獣と医者] 朔間 零",
+    "star": 3
+  },
+  {
+    "i": 30,
+    "title": "(An Idol) Rei Sakuma",
+    "url": "/wiki/(An_Idol)_Rei_Sakuma",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/0/0b/%28An_Idol%29_Rei_Sakuma_M.png/revision/latest/scale-to-width-down/100?cb=20200412134502",
+    "name": " (An Idol) Rei Sakuma[ひとりのアイドル] 朔間 零",
+    "star": 1
+  },
+  {
+    "i": 32,
+    "title": "(ES Idol) Rei Sakuma",
+    "url": "/wiki/(ES_Idol)_Rei_Sakuma",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/a/ad/%28ES_Idol%29_Rei_Sakuma_M.png/revision/latest/scale-to-width-down/100?cb=20200412141816",
+    "name": " (ES Idol) Rei Sakuma[ESのアイドル] 朔間 零",
+    "star": 2
+  },
+  {
+    "i": 34,
+    "title": "(At Twilight) Rei Sakuma",
+    "url": "/wiki/(At_Twilight)_Rei_Sakuma",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/c/ca/%28At_Twilight%29_Rei_Sakuma.png/revision/latest/scale-to-width-down/100?cb=20150625030535",
+    "name": "(At Twilight) Rei Sakuma[黄昏の時] 朔間 零",
+    "star": 5
+  },
+  {
+    "i": 36,
+    "title": "(Nightly Voyage) Rei Sakuma",
+    "url": "/wiki/(Nightly_Voyage)_Rei_Sakuma",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/d/d2/%28Nightly_Voyage%29_Rei_Sakuma.png/revision/latest/scale-to-width-down/100?cb=20170509025342",
+    "name": "(Nightly Voyage) Rei Sakuma[夜の航海] 朔間 零",
+    "star": 5
+  },
+  {
+    "i": 38,
+    "title": "(Recollection of Mundane Days) Rei Sakuma",
+    "url": "/wiki/(Recollection_of_Mundane_Days)_Rei_Sakuma",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/d/db/%28Recollection_of_Mundane_Days%29_Rei_Sakuma.png/revision/latest/scale-to-width-down/100?cb=20160308023345",
+    "name": "(Recollection of Mundane Days) Rei Sakuma［過ぎし日の回顧］朔間 零",
+    "star": 5
+  },
+  {
+    "i": 40,
+    "title": "(Hydrangea) Rei Sakuma",
+    "url": "/wiki/(Hydrangea)_Rei_Sakuma",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/9/99/%28Hydrangea%29_Rei_Sakuma.png/revision/latest/scale-to-width-down/100?cb=20160530070937",
+    "name": "(Hydrangea) Rei Sakuma[紫陽花の頃] 朔間 零",
+    "star": 5
+  },
+  {
+    "i": 42,
+    "title": "(Watchful Demon) Rei Sakuma",
+    "url": "/wiki/(Watchful_Demon)_Rei_Sakuma",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/1/12/%28Watchful_Demon%29_Rei_Sakuma.png/revision/latest/scale-to-width-down/100?cb=20170210141900",
+    "name": "(Watchful Demon) Rei Sakuma[見守る鬼] 朔間 零",
+    "star": 5
+  },
+  {
+    "i": 44,
+    "title": "(Crossroad Vampire) Rei Sakuma",
+    "url": "/wiki/(Crossroad_Vampire)_Rei_Sakuma",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/b/b3/%28Crossroad_Vampire%29_Rei_Sakuma.png/revision/latest/scale-to-width-down/100?cb=20170802053922",
+    "name": "(Crossroad Vampire) Rei Sakuma[十字路の吸血鬼] 朔間 零",
+    "star": 5
+  },
+  {
+    "i": 46,
+    "title": "(Bloodsucker's Resurrection Sunday) Rei Sakuma",
+    "url": "/wiki/(Bloodsucker%27s_Resurrection_Sunday)_Rei_Sakuma",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/8/80/%28Bloodsucker%27s_Resurrection_Sunday%29_Rei_Sakuma.png/revision/latest/scale-to-width-down/100?cb=20180403231123",
+    "name": "(Bloodsucker's Resurrection Sunday) Rei Sakuma[吸血の復活祭] 朔間 零",
+    "star": 5
+  },
+  {
+    "i": 48,
+    "title": "(Devil's Tactics) Rei Sakuma",
+    "url": "/wiki/(Devil%27s_Tactics)_Rei_Sakuma",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/6/6c/%28Devil%27s_Tactics%29_Rei_Sakuma.png/revision/latest/scale-to-width-down/100?cb=20180514231957",
+    "name": "(Devil's Tactics) Rei Sakuma[悪魔の駆け引き] 朔間 零",
+    "star": 5
+  },
+  {
+    "i": 50,
+    "title": "(White Vampire) Rei Sakuma",
+    "url": "/wiki/(White_Vampire)_Rei_Sakuma",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/f/fe/%28White_Vampire%29_Rei_Sakuma.png/revision/latest/scale-to-width-down/100?cb=20180923025630",
+    "name": "(White Vampire) Rei Sakuma[白の吸血鬼] 朔間 零",
+    "star": 5
+  },
+  {
+    "i": 52,
+    "title": "(Hawk's First Dance) Rei Sakuma",
+    "url": "/wiki/(Hawk%27s_First_Dance)_Rei_Sakuma",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/a/a8/%28Hawk%27s_First_Dance%29_Rei_Sakuma.png/revision/latest/scale-to-width-down/100?cb=20190101054211",
+    "name": "(Hawk's First Dance) Rei Sakuma[鷹の初舞] 朔間 零",
+    "star": 5
+  },
+  {
+    "i": 54,
+    "title": "(Operetta of Shadows) Rei Sakuma",
+    "url": "/wiki/(Operetta_of_Shadows)_Rei_Sakuma",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/d/d3/%28Operetta_of_Shadows%29_Rei_Sakuma.png/revision/latest/scale-to-width-down/100?cb=20190502153142",
+    "name": "(Operetta of Shadows) Rei Sakuma[日陰のオペレッタ] 朔間 零",
+    "star": 5
+  },
+  {
+    "i": 56,
+    "title": "(UNDEAD's Intellect) Rei Sakuma",
+    "url": "/wiki/(UNDEAD%27s_Intellect)_Rei_Sakuma",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/a/ad/%28UNDEAD%27s_Intellect%29_Rei_Sakuma.png/revision/latest/scale-to-width-down/100?cb=20210713005237",
+    "name": "(UNDEAD's Intellect) Rei Sakuma[UNDEADの知性] 朔間 零",
+    "star": 5
+  },
+  {
+    "i": 58,
+    "title": "(Awakening Vampire) Rei Sakuma",
+    "url": "/wiki/(Awakening_Vampire)_Rei_Sakuma",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/a/a5/%28Awakening_Vampire%29_Rei_Sakuma.png/revision/latest/scale-to-width-down/100?cb=20150503032120",
+    "name": "(Awakening Vampire) Rei Sakuma［目覚めの吸血鬼］朔間 零",
+    "star": 4
+  },
+  {
+    "i": 60,
+    "title": "(Kind Butler) Rei Sakuma",
+    "url": "/wiki/(Kind_Butler)_Rei_Sakuma",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/9/9c/%28Kind_Butler%29_Rei_Sakuma.png/revision/latest/scale-to-width-down/100?cb=20150618034500",
+    "name": "(Kind Butler) Rei Sakuma［優しい執事］朔間 零",
+    "star": 4
+  },
+  {
+    "i": 62,
+    "title": "(Phantom Vampire) Rei Sakuma",
+    "url": "/wiki/(Phantom_Vampire)_Rei_Sakuma",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/2/29/%28Phantom_Vampire%29_Rei_Sakuma.png/revision/latest/scale-to-width-down/100?cb=20151110200612",
+    "name": "(Phantom Vampire) Rei Sakuma［ファントムヴァンプ］朔間 零",
+    "star": 4
+  },
+  {
+    "i": 64,
+    "title": "(Tone of Darkness) Rei Sakuma",
+    "url": "/wiki/(Tone_of_Darkness)_Rei_Sakuma",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/f/fb/%28Tone_of_Darkness%29_Rei_Sakuma.png/revision/latest/scale-to-width-down/100?cb=20151030204841",
+    "name": "(Tone of Darkness) Rei Sakuma［夜闇の音色］朔間 零",
+    "star": 4
+  },
+  {
+    "i": 66,
+    "title": "(Entering the Stage) Rei Sakuma",
+    "url": "/wiki/(Entering_the_Stage)_Rei_Sakuma",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/f/f6/%28Entering_the_Stage%29_Rei_Sakuma.png/revision/latest/scale-to-width-down/100?cb=20160430190929",
+    "name": "(Entering the Stage) Rei Sakuma［舞台に上がる時］朔間 零",
+    "star": 4
+  },
+  {
+    "i": 68,
+    "title": "(Vigilant Lifestyle) Rei Sakuma",
+    "url": "/wiki/(Vigilant_Lifestyle)_Rei_Sakuma",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/f/fe/%28Vigilant_Lifestyle%29_Rei_Sakuma.png/revision/latest/scale-to-width-down/100?cb=20161025141445",
+    "name": "(Vigilant Lifestyle) Rei Sakuma[見守る行方] 朔間 零",
+    "star": 4
+  },
+  {
+    "i": 70,
+    "title": "(Old Friend's Unique Performance) Rei Sakuma",
+    "url": "/wiki/(Old_Friend%27s_Unique_Performance)_Rei_Sakuma",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/b/b8/%28Old_Friend%27s_Unique_Performance%29_Rei_Sakuma.png/revision/latest/scale-to-width-down/100?cb=20161230081338",
+    "name": "(Old Friend's Unique Performance) Rei Sakuma[旧友だけの舞台] 朔間 零",
+    "star": 4
+  },
+  {
+    "i": 72,
+    "title": "(Boutique Owner) Rei Sakuma",
+    "url": "/wiki/(Boutique_Owner)_Rei_Sakuma",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/a/a5/%28Boutique_Owner%29_Rei_Sakuma.png/revision/latest/scale-to-width-down/100?cb=20171109005146",
+    "name": "(Boutique Owner) Rei Sakuma[ブティックオーナー] 朔間 零",
+    "star": 4
+  },
+  {
+    "i": 74,
+    "title": "(Afternoon Start-Up) Rei Sakuma",
+    "url": "/wiki/(Afternoon_Start-Up)_Rei_Sakuma",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/9/96/%28Afternoon_Start-Up%29_Rei_Sakuma.png/revision/latest/scale-to-width-down/100?cb=20180127043724",
+    "name": "(Afternoon Start-Up) Rei Sakuma[午後の始動] 朔間 零",
+    "star": 4
+  },
+  {
+    "i": 76,
+    "title": "(3rd Anniversary) Rei Sakuma",
+    "url": "/wiki/(3rd_Anniversary)_Rei_Sakuma",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/0/08/%283rd_Anniversary%29_Rei_Sakuma.png/revision/latest/scale-to-width-down/100?cb=20180528224904",
+    "name": "(3rd Anniversary) Rei Sakuma[三周年記念] 朔間 零",
+    "star": 4
+  },
+  {
+    "i": 78,
+    "title": "(Extreme Vacation) Rei Sakuma",
+    "url": "/wiki/(Extreme_Vacation)_Rei_Sakuma",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/9/94/%28Extreme_Vacation%29_Rei_Sakuma.png/revision/latest/scale-to-width-down/100?cb=20180803130852",
+    "name": "(Extreme Vacation) Rei Sakuma[過激なバカンス] 朔間 零",
+    "star": 4
+  },
+  {
+    "i": 80,
+    "title": "(The Ruling Undead) Rei Sakuma",
+    "url": "/wiki/(The_Ruling_Undead)_Rei_Sakuma",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/2/21/%28The_Ruling_Undead%29_Rei_Sakuma.png/revision/latest/scale-to-width-down/100?cb=20180830184338",
+    "name": "(The Ruling Undead) Rei Sakuma[統べる不死者] 朔間 零",
+    "star": 4
+  },
+  {
+    "i": 82,
+    "title": "(Eccentric Night) Rei Sakuma",
+    "url": "/wiki/(Eccentric_Night)_Rei_Sakuma",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/6/6b/%28Eccentric_Night%29_Rei_Sakuma.png/revision/latest/scale-to-width-down/100?cb=20180926215814",
+    "name": "(Eccentric Night) Rei Sakuma[Eccentric Night] 朔間 零",
+    "star": 4
+  },
+  {
+    "i": 84,
+    "title": "(Black Eve) Rei Sakuma",
+    "url": "/wiki/(Black_Eve)_Rei_Sakuma",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/4/4d/%28Black_Eve%29_Rei_Sakuma.png/revision/latest/scale-to-width-down/100?cb=20181212034733",
+    "name": "(Black Eve) Rei Sakuma[ブラックイブ] 朔間 零",
+    "star": 4
+  },
+  {
+    "i": 86,
+    "title": "(4th Anniversary) Rei Sakuma",
+    "url": "/wiki/(4th_Anniversary)_Rei_Sakuma",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/8/8c/%284th_Anniversary%29_Rei_Sakuma.png/revision/latest/scale-to-width-down/100?cb=20190520184539",
+    "name": "(4th Anniversary) Rei Sakuma[四周年記念] 朔間 零",
+    "star": 4
+  },
+  {
+    "i": 88,
+    "title": "(Wind-Reading Surfer) Rei Sakuma",
+    "url": "/wiki/(Wind-Reading_Surfer)_Rei_Sakuma",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/0/0e/%28Wind-Reading_Surfer%29_Rei_Sakuma.png/revision/latest/scale-to-width-down/100?cb=20190703020718",
+    "name": "(Wind-Reading Surfer) Rei Sakuma[風読みサーファー] 朔間 零",
+    "star": 4
+  },
+  {
+    "i": 90,
+    "title": "(Anemia) Rei Sakuma",
+    "url": "/wiki/(Anemia)_Rei_Sakuma",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/1/17/%28Anemia%29_Rei_Sakuma.png/revision/latest/scale-to-width-down/100?cb=20150502213134",
+    "name": "(Anemia) Rei Sakuma［貧血］朔間 零",
+    "star": 3
+  },
+  {
+    "i": 92,
+    "title": "(Strolling) Rei Sakuma",
+    "url": "/wiki/(Strolling)_Rei_Sakuma",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/6/65/%28Strolling%29_Rei_Sakuma.png/revision/latest/scale-to-width-down/100?cb=20161114172205",
+    "name": "(Strolling) Rei Sakuma［散歩］朔間 零",
+    "star": 3
+  },
+  {
+    "i": 94,
+    "title": "(Words from a Senior) Rei Sakuma",
+    "url": "/wiki/(Words_from_a_Senior)_Rei_Sakuma",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/5/59/%28Words_from_a_Senior%29_Rei_Sakuma.png/revision/latest/scale-to-width-down/100?cb=20150430010636",
+    "name": "(Words from a Senior) Rei Sakuma［先達の言葉］朔間 零",
+    "star": 3
+  },
+  {
+    "i": 96,
+    "title": "(Man-to-Man) Rei Sakuma",
+    "url": "/wiki/(Man-to-Man)_Rei_Sakuma",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/c/c5/%28Man-to-Man%29_Rei_Sakuma.png/revision/latest/scale-to-width-down/100?cb=20150614143715",
+    "name": "(Man-to-Man) Rei Sakuma［マンツーマン］朔間 零",
+    "star": 3
+  },
+  {
+    "i": 98,
+    "title": "(Vampire's Rest Day) Rei Sakuma",
+    "url": "/wiki/(Vampire%27s_Rest_Day)_Rei_Sakuma",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/c/cd/%28Vampire%27s_Rest_Day%29_Rei_Sakuma.png/revision/latest/scale-to-width-down/100?cb=20180729042312",
+    "name": "(Vampire's Rest Day) Rei Sakuma［休日の吸血鬼］朔間 零",
+    "star": 3
+  },
+  {
+    "i": 100,
+    "title": "(Older Brother's Love) Rei Sakuma",
+    "url": "/wiki/(Older_Brother%27s_Love)_Rei_Sakuma",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/3/35/%28Older_Brother%27s_Love%29_Rei_Sakuma.png/revision/latest/scale-to-width-down/100?cb=20190220135837",
+    "name": "(Older Brother's Love) Rei Sakuma［兄の愛］朔間 零",
+    "star": 3
+  },
+  {
+    "i": 102,
+    "title": "(Amusement Park Enjoyment) Rei Sakuma",
+    "url": "/wiki/(Amusement_Park_Enjoyment)_Rei_Sakuma",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/b/bc/%28Amusement_Park_Enjoyment%29_Rei_Sakuma.png/revision/latest/scale-to-width-down/100?cb=20160114170605",
+    "name": "(Amusement Park Enjoyment) Rei Sakuma［満喫遊園地］朔間 零",
+    "star": 3
+  },
+  {
+    "i": 104,
+    "title": "(Charming Drums) Rei Sakuma",
+    "url": "/wiki/(Charming_Drums)_Rei_Sakuma",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/c/c2/%28Charming_Drums%29_Rei_Sakuma.png/revision/latest/scale-to-width-down/100?cb=20160430111021",
+    "name": "(Charming Drums) Rei Sakuma[魅惑のドラムス] 朔間 零",
+    "star": 3
+  },
+  {
+    "i": 106,
+    "title": "(Nemesis Summer) Rei Sakuma",
+    "url": "/wiki/(Nemesis_Summer)_Rei_Sakuma",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/d/dc/%28Nemesis_Summer%29_Rei_Sakuma.png/revision/latest/scale-to-width-down/100?cb=20160716002327",
+    "name": "(Nemesis Summer) Rei Sakuma[大敵の夏] 朔間 零",
+    "star": 3
+  },
+  {
+    "i": 108,
+    "title": "(Best Friend's Helping Hand) Rei Sakuma",
+    "url": "/wiki/(Best_Friend%27s_Helping_Hand)_Rei_Sakuma",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/0/0f/%28Best_Friend%27s_Helping_Hand%29_Rei_Sakuma.png/revision/latest/scale-to-width-down/100?cb=20160815072722",
+    "name": "(Best Friend's Helping Hand) Rei Sakuma[友人の手伝い] 朔間 零",
+    "star": 3
+  },
+  {
+    "i": 110,
+    "title": "(Powerful Person) Rei Sakuma",
+    "url": "/wiki/(Powerful_Person)_Rei_Sakuma",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/3/30/%28Powerful_Person%29_Rei_Sakuma.png/revision/latest/scale-to-width-down/100?cb=20160926153258",
+    "name": "(Powerful Person) Rei Sakuma[権力者] 朔間 零",
+    "star": 3
+  },
+  {
+    "i": 112,
+    "title": "(Fragile Companion) Rei Sakuma",
+    "url": "/wiki/(Fragile_Companion)_Rei_Sakuma",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/3/3b/%28Fragile_Companion%29_Rei_Sakuma.png/revision/latest/scale-to-width-down/100?cb=20170627102322",
+    "name": "(Fragile Companion) Rei Sakuma[砂上の相手] 朔間 零",
+    "star": 3
+  },
+  {
+    "i": 114,
+    "title": "(Slumber Seat) Rei Sakuma",
+    "url": "/wiki/(Slumber_Seat)_Rei_Sakuma",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/d/d0/%28Slumber_Seat%29_Rei_Sakuma.png/revision/latest/scale-to-width-down/100?cb=20161226231951",
+    "name": "(Slumber Seat) Rei Sakuma[まどろみの席] 朔間 零",
+    "star": 3
+  },
+  {
+    "i": 116,
+    "title": "(Sense of Distance) Rei Sakuma",
+    "url": "/wiki/(Sense_of_Distance)_Rei_Sakuma",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/8/87/%28Sense_of_Distance%29_Rei_Sakuma.png/revision/latest/scale-to-width-down/100?cb=20170329180323",
+    "name": "(Sense of Distance) Rei Sakuma[距離感] 朔間 零",
+    "star": 3
+  },
+  {
+    "i": 118,
+    "title": "(String Telephone) Rei Sakuma",
+    "url": "/wiki/(String_Telephone)_Rei_Sakuma",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/6/69/%28String_Telephone%29_Rei_Sakuma.png/revision/latest/scale-to-width-down/100?cb=20170630224224",
+    "name": "(String Telephone) Rei Sakuma[糸電話] 朔間 零",
+    "star": 3
+  },
+  {
+    "i": 120,
+    "title": "(Live Supervision) Rei Sakuma",
+    "url": "/wiki/(Live_Supervision)_Rei_Sakuma",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/6/6d/%28Live_Supervision%29_Rei_Sakuma.png/revision/latest/scale-to-width-down/100?cb=20171109002620",
+    "name": "(Live Supervision) Rei Sakuma[静観のライブ] 朔間 零",
+    "star": 3
+  },
+  {
+    "i": 122,
+    "title": "(Water and the Vampire) Rei Sakuma",
+    "url": "/wiki/(Water_and_the_Vampire)_Rei_Sakuma",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/9/98/%28Water_and_the_Vampire%29_Rei_Sakuma.png/revision/latest/scale-to-width-down/100?cb=20170919050500",
+    "name": "(Water and the Vampire) Rei Sakuma[水と吸血鬼] 朔間 零",
+    "star": 3
+  },
+  {
+    "i": 124,
+    "title": "(Little Brother and Flowers) Rei Sakuma",
+    "url": "/wiki/(Little_Brother_and_Flowers)_Rei_Sakuma",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/b/b4/%28Little_Brother_and_Flowers%29_Rei_Sakuma.png/revision/latest/scale-to-width-down/100?cb=20171019084622",
+    "name": "(Little Brother and Flowers) Rei Sakuma[弟と花] 朔間 零",
+    "star": 3
+  },
+  {
+    "i": 126,
+    "title": "(Demon King) Rei Sakuma",
+    "url": "/wiki/(Demon_King)_Rei_Sakuma",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/9/96/%28Demon_King%29_Rei_Sakuma.png/revision/latest/scale-to-width-down/100?cb=20171202062705",
+    "name": "(Demon King) Rei Sakuma[魔物の王] 朔間 零",
+    "star": 3
+  },
+  {
+    "i": 128,
+    "title": "(Encouraging Chocolate) Rei Sakuma",
+    "url": "/wiki/(Encouraging_Chocolate)_Rei_Sakuma",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/3/37/%28Encouraging_Chocolate%29_Rei_Sakuma.png/revision/latest/scale-to-width-down/100?cb=20180211054740",
+    "name": "(Encouraging Chocolate) Rei Sakuma[刺激チョコ] 朔間 零",
+    "star": 3
+  },
+  {
+    "i": 130,
+    "title": "(Night and Gondola) Rei Sakuma",
+    "url": "/wiki/(Night_and_Gondola)_Rei_Sakuma",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/1/1e/%28Night_and_Gondola%29_Rei_Sakuma.png/revision/latest/scale-to-width-down/100?cb=20190114065908",
+    "name": "(Night and Gondola) Rei Sakuma[夜とゴンドラ] 朔間 零",
+    "star": 3
+  },
+  {
+    "i": 132,
+    "title": "(Banquet Spirit) Rei Sakuma",
+    "url": "/wiki/(Banquet_Spirit)_Rei_Sakuma",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/e/e8/%28Banquet_Spirit%29_Rei_Sakuma.png/revision/latest/scale-to-width-down/100?cb=20181027012542",
+    "name": "(Banquet Spirit) Rei Sakuma[晩餐会の真髄] 朔間 零",
+    "star": 3
+  },
+  {
+    "i": 134,
+    "title": "(Practice Match) Rei Sakuma",
+    "url": "/wiki/(Practice_Match)_Rei_Sakuma",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/c/cc/%28Practice_Match%29_Rei_Sakuma.png/revision/latest/scale-to-width-down/100?cb=20190926195943",
+    "name": "(Practice Match) Rei Sakuma[手慣らし勝負] 朔間 零",
+    "star": 3
+  },
+  {
+    "i": 136,
+    "title": "Rei Sakuma (Card)",
+    "url": "/wiki/Rei_Sakuma_(Card)",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/8/89/Rei_Sakuma_%28Card%29.png/revision/latest/scale-to-width-down/100?cb=20150430010233",
+    "name": "Rei Sakuma (Card)朔間 零",
+    "star": 1
+  },
+  {
+    "i": 138,
+    "title": "(Academy Idol) Rei Sakuma",
+    "url": "/wiki/(Academy_Idol)_Rei_Sakuma",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/8/88/%28Academy_Idol%29_Rei_Sakuma.png/revision/latest/scale-to-width-down/100?cb=20190101235622",
+    "name": "(Academy Idol) Rei Sakuma［学院のアイドル］朔間 零",
+    "star": 2
+  },
+  {
+    "i": 140,
+    "title": "(The Dust Settles) Rei Sakuma",
+    "url": "/wiki/(The_Dust_Settles)_Rei_Sakuma",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/9/99/%28The_Dust_Settles%29_Rei_Sakuma.png/revision/latest/scale-to-width-down/100?cb=20201114044000",
+    "name": "(The Dust Settles) Rei Sakuma【塵埃落定】朔間 零【尘埃落定】朔间 零",
+    "star": 5
+  },
+  {
+    "i": 142,
+    "title": "(Noble Vampire) Rei Sakuma",
+    "url": "/wiki/(Noble_Vampire)_Rei_Sakuma",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/0/02/%28Noble_Vampire%29_Rei_Sakuma.png/revision/latest/scale-to-width-down/100?cb=20180702100322",
+    "name": "(Noble Vampire) Rei Sakuma【高貴吸血鬼】朔間 零【高贵吸血鬼】朔间 零",
+    "star": 5
+  },
+  {
+    "i": 144,
+    "title": "(Unearthly Doctor) Rei Sakuma",
+    "url": "/wiki/(Unearthly_Doctor)_Rei_Sakuma",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/7/74/%28Unearthly_Doctor%29_Rei_Sakuma.png/revision/latest/scale-to-width-down/100?cb=20170325144636",
+    "name": "(Unearthly Doctor) Rei Sakuma[怪異的博士] 朔間 零[怪异的博士] 朔间 零",
+    "star": 3
+  },
+  {
+    "i": 146,
+    "title": "(Passerby of Dawn) Rei Sakuma",
+    "url": "/wiki/(Passerby_of_Dawn)_Rei_Sakuma",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/1/10/%28Passerby_of_Dawn%29_Rei_Sakuma.png/revision/latest/scale-to-width-down/100?cb=20180323032946",
+    "name": "(Passerby of Dawn) Rei Sakuma【黎明的行人】 朔間 零【黎明的行人】 朔间 零",
+    "star": 3
+  }
+]

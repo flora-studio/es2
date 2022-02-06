@@ -1,0 +1,618 @@
+[
+  {
+    "i": 0,
+    "title": "(Old Vagabond) Kuro Kiryu",
+    "url": "/wiki/(Old_Vagabond)_Kuro_Kiryu",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/4/4d/%28Old_Vagabond%29_Kuro_Kiryu_M.png/revision/latest/scale-to-width-down/100?cb=20200517015613",
+    "name": " (Old Vagabond) Kuro Kiryu[在りし日の風来坊] 鬼龍 紅郎",
+    "star": 5
+  },
+  {
+    "i": 2,
+    "title": "(Uncertain Step) Kuro Kiryu",
+    "url": "/wiki/(Uncertain_Step)_Kuro_Kiryu",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/5/5f/%28Uncertain_Step%29_Kuro_Kiryu_M.png/revision/latest/scale-to-width-down/100?cb=20210217183500",
+    "name": " (Uncertain Step) Kuro Kiryu[迷いながらの一歩] 鬼龍 紅郎",
+    "star": 5
+  },
+  {
+    "i": 4,
+    "title": "(Skilled Fighter) Kuro Kiryu",
+    "url": "/wiki/(Skilled_Fighter)_Kuro_Kiryu",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/b/b0/%28Skilled_Fighter%29_Kuro_Kiryu_M.png/revision/latest/scale-to-width-down/100?cb=20200427125154",
+    "name": " (Skilled Fighter) Kuro Kiryu[器用な猛者] 鬼龍 紅郎",
+    "star": 4
+  },
+  {
+    "i": 6,
+    "title": "(Quarrel Match) Kuro Kiryu",
+    "url": "/wiki/(Quarrel_Match)_Kuro_Kiryu",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/0/06/%28Quarrel_Match%29_Kuro_Kiryu_M.png/revision/latest/scale-to-width-down/100?cb=20200716214050",
+    "name": " (Quarrel Match) Kuro Kiryu[喧嘩の試合] 鬼龍 紅郎",
+    "star": 4
+  },
+  {
+    "i": 8,
+    "title": "(RhyLin's Valor) Kuro Kiryu",
+    "url": "/wiki/(RhyLin%27s_Valor)_Kuro_Kiryu",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/f/f0/%28RhyLin%27s_Valor%29_Kuro_Kiryu_M.png/revision/latest/scale-to-width-down/100?cb=20200830004545",
+    "name": " (RhyLin's Valor) Kuro Kiryu[リズリンの男気] 鬼龍 紅郎",
+    "star": 4
+  },
+  {
+    "i": 10,
+    "title": "(Deceptive Spy) Kuro Kiryu",
+    "url": "/wiki/(Deceptive_Spy)_Kuro_Kiryu",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/f/fe/%28Deceptive_Spy%29_Kuro_Kiryu_M.png/revision/latest/scale-to-width-down/100?cb=20201015210047",
+    "name": " (Deceptive Spy) Kuro Kiryu[欺くスパイ] 鬼龍 紅郎",
+    "star": 4
+  },
+  {
+    "i": 12,
+    "title": "(Submarine and Shipwreck) Kuro Kiryu",
+    "url": "/wiki/(Submarine_and_Shipwreck)_Kuro_Kiryu",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/9/95/%28Submarine_and_Shipwreck%29_Kuro_Kiryu_M.png/revision/latest/scale-to-width-down/100?cb=20210601074708",
+    "name": " (Submarine and Shipwreck) Kuro Kiryu[サブマリンと海難] 鬼龍 紅郎",
+    "star": 4
+  },
+  {
+    "i": 14,
+    "title": "(Having Each Other's Back) Kuro Kiryu",
+    "url": "/wiki/(Having_Each_Other%27s_Back)_Kuro_Kiryu",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/e/ee/%28Having_Each_Other%27s_Back%29_Kuro_Kiryu_M.png/revision/latest/scale-to-width-down/100?cb=20210912215634",
+    "name": "(Having Each Other's Back) Kuro Kiryu[もたれ合い] 鬼龍 紅郎",
+    "star": 4
+  },
+  {
+    "i": 16,
+    "title": "(Invigorating Rock) Kuro Kiryu",
+    "url": "/wiki/(Invigorating_Rock)_Kuro_Kiryu",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/c/ca/%28Invigorating_Rock%29_Kuro_Kiryu_M.png/revision/latest/scale-to-width-down/100?cb=20211007080328",
+    "name": "(Invigorating Rock) Kuro Kiryu[勇ましロック] 鬼龍 紅郎",
+    "star": 4
+  },
+  {
+    "i": 18,
+    "title": "(Practicing) Kuro Kiryu",
+    "url": "/wiki/(Practicing)_Kuro_Kiryu",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/c/c0/%28Practicing%29_Kuro_Kiryu_M.png/revision/latest/scale-to-width-down/100?cb=20200412144826",
+    "name": " (Practicing) Kuro Kiryu[練習風景] 鬼龍 紅郎",
+    "star": 3
+  },
+  {
+    "i": 20,
+    "title": "(Time Spent Apart) Kuro Kiryu",
+    "url": "/wiki/(Time_Spent_Apart)_Kuro_Kiryu",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/4/42/%28Time_Spent_Apart%29_Kuro_Kiryu_M.png/revision/latest/scale-to-width-down/100?cb=20200813223908",
+    "name": " (Time Spent Apart) Kuro Kiryu[会えない分] 鬼龍 紅郎",
+    "star": 3
+  },
+  {
+    "i": 22,
+    "title": "(Crimson and Black Ox Spirit) Kuro Kiryu",
+    "url": "/wiki/(Crimson_and_Black_Ox_Spirit)_Kuro_Kiryu",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/c/c0/%28Crimson_and_Black_Ox_Spirit%29_Kuro_Kiryu_M.png/revision/latest/scale-to-width-down/100?cb=20201231063600",
+    "name": " (Crimson and Black Ox Spirit) Kuro Kiryu[朱黒の丑使い] 鬼龍 紅郎",
+    "star": 3
+  },
+  {
+    "i": 24,
+    "title": "(World History Class) Kuro Kiryu",
+    "url": "/wiki/(World_History_Class)_Kuro_Kiryu",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/9/95/%28World_History_Class%29_Kuro_Kiryu_M.png/revision/latest/scale-to-width-down/100?cb=20210426071627",
+    "name": " (World History Class) Kuro Kiryu[世界史の授業] 鬼龍 紅郎",
+    "star": 3
+  },
+  {
+    "i": 26,
+    "title": "(Crimson Blood and the Moon) Kuro Kiryu",
+    "url": "/wiki/(Crimson_Blood_and_the_Moon)_Kuro_Kiryu",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/2/26/%28Crimson_Blood_and_the_Moon%29_Kuro_Kiryu_M.png/revision/latest/scale-to-width-down/100?cb=20211101031221",
+    "name": "(Crimson Blood and the Moon) Kuro Kiryu[紅血と月] 鬼龍 紅郎",
+    "star": 3
+  },
+  {
+    "i": 28,
+    "title": "(Flying Astraea) Kuro Kiryu",
+    "url": "/wiki/(Flying_Astraea)_Kuro_Kiryu",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/3/39/%28Flying_Astraea%29_Kuro_Kiryu_M.png/revision/latest/scale-to-width-down/100?cb=20220131151439",
+    "name": "(Flying Astraea) Kuro Kiryu[飛行アストレア] 鬼龍 紅郎",
+    "star": 3
+  },
+  {
+    "i": 30,
+    "title": "(An Idol) Kuro Kiryu",
+    "url": "/wiki/(An_Idol)_Kuro_Kiryu",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/2/25/%28An_Idol%29_Kuro_Kiryu_M.png/revision/latest/scale-to-width-down/100?cb=20200412133854",
+    "name": " (An Idol) Kuro Kiryu[ひとりのアイドル] 鬼龍 紅郎",
+    "star": 1
+  },
+  {
+    "i": 32,
+    "title": "(ES Idol) Kuro Kiryu",
+    "url": "/wiki/(ES_Idol)_Kuro_Kiryu",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/1/16/%28ES_Idol%29_Kuro_Kiryu_M.png/revision/latest/scale-to-width-down/100?cb=20200412141028",
+    "name": " (ES Idol) Kuro Kiryu[ESのアイドル] 鬼龍 紅郎",
+    "star": 2
+  },
+  {
+    "i": 34,
+    "title": "(Burning Spirit) Kuro Kiryu",
+    "url": "/wiki/(Burning_Spirit)_Kuro_Kiryu",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/9/92/%28Burning_Spirit%29_Kuro_Kiryu.png/revision/latest/scale-to-width-down/100?cb=20181205015620",
+    "name": "(Burning Spirit) Kuro Kiryu［燃える鬼］鬼龍 紅郎",
+    "star": 5
+  },
+  {
+    "i": 36,
+    "title": "(Manly Back) Kuro Kiryu",
+    "url": "/wiki/(Manly_Back)_Kuro_Kiryu",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/e/e7/%28Manly_Back%29_Kuro_Kiryu.png/revision/latest/scale-to-width-down/100?cb=20190221222324",
+    "name": "(Manly Back) Kuro Kiryu［漢の背中］鬼龍 紅郎",
+    "star": 5
+  },
+  {
+    "i": 38,
+    "title": "(Crimson Night Watch) Kuro Kiryu",
+    "url": "/wiki/(Crimson_Night_Watch)_Kuro_Kiryu",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/d/d5/%28Crimson_Night_Watch%29_Kuro_Kiryu.png/revision/latest/scale-to-width-down/100?cb=20160117172140",
+    "name": "(Crimson Night Watch) Kuro Kiryu［深紅の夜警］鬼龍 紅郎",
+    "star": 5
+  },
+  {
+    "i": 40,
+    "title": "(Lion's Sleep) Kuro Kiryu",
+    "url": "/wiki/(Lion%27s_Sleep)_Kuro_Kiryu",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/7/7f/%28Lion%27s_Sleep%29_Kuro_Kiryu.png/revision/latest/scale-to-width-down/100?cb=20200512131727",
+    "name": "(Lion's Sleep) Kuro Kiryu[獅子の眠り]  鬼龍 紅郎",
+    "star": 5
+  },
+  {
+    "i": 42,
+    "title": "(Second Prince) Kuro Kiryu",
+    "url": "/wiki/(Second_Prince)_Kuro_Kiryu",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/8/84/%28Second_Prince%29_Kuro_Kiryu.png/revision/latest/scale-to-width-down/100?cb=20170523044943",
+    "name": "(Second Prince) Kuro Kiryu[第二王子] 鬼龍 紅郎",
+    "star": 5
+  },
+  {
+    "i": 44,
+    "title": "(Moonlight's Red Wolf) Kuro Kiryu",
+    "url": "/wiki/(Moonlight%27s_Red_Wolf)_Kuro_Kiryu",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/1/1d/%28Moonlight%27s_Red_Wolf%29_Kuro_Kiryu.png/revision/latest/scale-to-width-down/100?cb=20180129144729",
+    "name": "(Moonlight's Red Wolf) Kuro Kiryu[月光の紅い狼] 鬼龍 紅郎",
+    "star": 5
+  },
+  {
+    "i": 46,
+    "title": "(Akatsuki's Ogre) Kuro Kiryu",
+    "url": "/wiki/(Akatsuki%27s_Ogre)_Kuro_Kiryu",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/5/58/%28Akatsuki%27s_Ogre%29_Kuro_Kiryu.png/revision/latest/scale-to-width-down/100?cb=20180616000745",
+    "name": "(Akatsuki's Ogre) Kuro Kiryu[紅月の鬼] 鬼龍 紅郎",
+    "star": 5
+  },
+  {
+    "i": 48,
+    "title": "(Lantern and Cat) Kuro Kiryu",
+    "url": "/wiki/(Lantern_and_Cat)_Kuro_Kiryu",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/8/8d/%28Lantern_and_Cat%29_Kuro_Kiryu.png/revision/latest/scale-to-width-down/100?cb=20181226210051",
+    "name": "(Lantern and Cat) Kuro Kiryu[カンテラと猫] 鬼龍 紅郎",
+    "star": 5
+  },
+  {
+    "i": 50,
+    "title": "(Island Where Ogres Dwell) Kuro Kiryu",
+    "url": "/wiki/(Island_Where_Ogres_Dwell)_Kuro_Kiryu",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/7/78/%28Island_Where_Ogres_Dwell%29_Kuro_Kiryu.png/revision/latest/scale-to-width-down/100?cb=20190629142232",
+    "name": "(Island Where Ogres Dwell) Kuro Kiryu[鬼がいる島] 鬼龍 紅郎",
+    "star": 5
+  },
+  {
+    "i": 52,
+    "title": "(AKATSUKI's Fist) Kuro Kiryu",
+    "url": "/wiki/(AKATSUKI%27s_Fist)_Kuro_Kiryu",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/5/55/%28AKATSUKI%27s_Fist%29_Kuro_Kiryu.png/revision/latest/scale-to-width-down/100?cb=20210713004322",
+    "name": "(AKATSUKI's Fist) Kuro Kiryu[紅月の拳] 鬼龍 紅郎",
+    "star": 5
+  },
+  {
+    "i": 54,
+    "title": "(Underdoctor) Kuro Kiryu",
+    "url": "/wiki/(Underdoctor)_Kuro_Kiryu",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/a/af/%28Underdoctor%29_Kuro_Kiryu.png/revision/latest/scale-to-width-down/100?cb=20191101172257",
+    "name": "(Underdoctor) Kuro Kiryu[アンダードクトア] 鬼龍 紅郎",
+    "star": 5
+  },
+  {
+    "i": 56,
+    "title": "(Returning) Kuro Kiryu",
+    "url": "/wiki/(Returning)_Kuro_Kiryu",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/2/22/%28Returning%29_Kuro_Kiryu.png/revision/latest/scale-to-width-down/100?cb=20150506232141",
+    "name": "(Returning) Kuro Kiryu［お返し］鬼龍 紅郎",
+    "star": 4
+  },
+  {
+    "i": 58,
+    "title": "(Watching Duty) Kuro Kiryu",
+    "url": "/wiki/(Watching_Duty)_Kuro_Kiryu",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/6/6f/%28Watching_Duty%29_Kuro_Kiryu.png/revision/latest/scale-to-width-down/100?cb=20151117102015",
+    "name": "(Watching Duty) Kuro Kiryu［見守り役］鬼龍 紅郎",
+    "star": 4
+  },
+  {
+    "i": 60,
+    "title": "(Festival Commander) Kuro Kiryu",
+    "url": "/wiki/(Festival_Commander)_Kuro_Kiryu",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/c/c1/%28Festival_Commander%29_Kuro_Kiryu.png/revision/latest/scale-to-width-down/100?cb=20210216020517",
+    "name": "(Festival Commander) Kuro Kiryu［祭り大将］鬼龍 紅郎",
+    "star": 4
+  },
+  {
+    "i": 62,
+    "title": "(School Store War) Kuro Kiryu",
+    "url": "/wiki/(School_Store_War)_Kuro_Kiryu",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/5/55/%28School_Store_War%29_Kuro_Kiryu.png/revision/latest/scale-to-width-down/100?cb=20170330095409",
+    "name": "(School Store War) Kuro Kiryu[購買戦争] 鬼龍紅郎",
+    "star": 4
+  },
+  {
+    "i": 64,
+    "title": "(Lantern Gravekeeper) Kuro Kiryu",
+    "url": "/wiki/(Lantern_Gravekeeper)_Kuro_Kiryu",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/5/5d/%28Lantern_Gravekeeper%29_Kuro_Kiryu.png/revision/latest/scale-to-width-down/100?cb=20161214102917",
+    "name": "(Lantern Gravekeeper) Kuro Kiryu[ランタンの墓守] 鬼龍 紅郎",
+    "star": 4
+  },
+  {
+    "i": 66,
+    "title": "(New Year's Fighting Spirit) Kuro Kiryu",
+    "url": "/wiki/(New_Year%27s_Fighting_Spirit)_Kuro_Kiryu",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/f/f6/%28New_Year%27s_Fighting_Spirit%29_Kuro_Kiryu.png/revision/latest/scale-to-width-down/100?cb=20170111100606",
+    "name": "(New Year's Fighting Spirit) Kuro Kiryu[新年の気合い] 鬼龍 紅郎",
+    "star": 4
+  },
+  {
+    "i": 68,
+    "title": "(Awaiting Azure Dragon) Kuro Kiryu",
+    "url": "/wiki/(Awaiting_Azure_Dragon)_Kuro_Kiryu",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/6/69/%28Awaiting_Azure_Dragon%29_Kuro_Kiryu.png/revision/latest/scale-to-width-down/100?cb=20170214142735",
+    "name": "(Awaiting Azure Dragon) Kuro Kiryu[待ち受ける青龍] 鬼龍 紅郎",
+    "star": 4
+  },
+  {
+    "i": 70,
+    "title": "(Crossroad's Onwards) Kuro Kiryu",
+    "url": "/wiki/(Crossroad%27s_Onwards)_Kuro_Kiryu",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/0/07/%28Crossroad%27s_Onwards%29_Kuro_Kiryu.png/revision/latest/scale-to-width-down/100?cb=20170922024127",
+    "name": "(Crossroad's Onwards) Kuro Kiryu[十字路の先] 鬼龍 紅郎",
+    "star": 4
+  },
+  {
+    "i": 72,
+    "title": "(Gift of Fighting Spirit) Kuro Kiryu",
+    "url": "/wiki/(Gift_of_Fighting_Spirit)_Kuro_Kiryu",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/a/aa/%28Gift_of_Fighting_Spirit%29_Kuro_Kiryu.png/revision/latest/scale-to-width-down/100?cb=20180211054953",
+    "name": "(Gift of Fighting Spirit) Kuro Kiryu[気合いの贈り物] 鬼龍 紅郎",
+    "star": 4
+  },
+  {
+    "i": 74,
+    "title": "(Rough Nature) Kuro Kiryu",
+    "url": "/wiki/(Rough_Nature)_Kuro_Kiryu",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/0/09/%28Rough_Nature%29_Kuro_Kiryu.png/revision/latest/scale-to-width-down/100?cb=20180415072227",
+    "name": "(Rough Nature) Kuro Kiryu[荒くれの性] 鬼龍 紅郎",
+    "star": 4
+  },
+  {
+    "i": 76,
+    "title": "(3rd Anniversary) Kuro Kiryu",
+    "url": "/wiki/(3rd_Anniversary)_Kuro_Kiryu",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/8/81/%283rd_Anniversary%29_Kuro_Kiryu.png/revision/latest/scale-to-width-down/100?cb=20180528225925",
+    "name": "(3rd Anniversary) Kuro Kiryu[三周年記念] 鬼龍 紅郎",
+    "star": 4
+  },
+  {
+    "i": 78,
+    "title": "(Rough Crimson) Kuro Kiryu",
+    "url": "/wiki/(Rough_Crimson)_Kuro_Kiryu",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/f/f7/%28Rough_Crimson%29_Kuro_Kiryu.png/revision/latest/scale-to-width-down/100?cb=20181123101819",
+    "name": "(Rough Crimson) Kuro Kiryu[バンカラ紅] 鬼龍 紅郎",
+    "star": 4
+  },
+  {
+    "i": 80,
+    "title": "(Light of a Fragmented Moon) Kuro Kiryu",
+    "url": "/wiki/(Light_of_a_Fragmented_Moon)_Kuro_Kiryu",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/f/fc/%28Light_of_a_Fragmented_Moon%29_Kuro_Kiryu.png/revision/latest/scale-to-width-down/100?cb=20190410133756",
+    "name": "(Light of a Fragmented Moon) Kuro Kiryu[片割月の明かり] 鬼龍 紅郎",
+    "star": 4
+  },
+  {
+    "i": 82,
+    "title": "(4th Anniversary) Kuro Kiryu",
+    "url": "/wiki/(4th_Anniversary)_Kuro_Kiryu",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/b/b0/%284th_Anniversary%29_Kuro_Kiryu.png/revision/latest/scale-to-width-down/100?cb=20190520212024",
+    "name": "(4th Anniversary) Kuro Kiryu[四周年記念] 鬼龍 紅郎",
+    "star": 4
+  },
+  {
+    "i": 84,
+    "title": "(Movie Watching) Kuro Kiryu",
+    "url": "/wiki/(Movie_Watching)_Kuro_Kiryu",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/5/54/%28Movie_Watching%29_Kuro_Kiryu.png/revision/latest/scale-to-width-down/100?cb=20190629170045",
+    "name": "(Movie Watching) Kuro Kiryu［鑑賞会］鬼龍 紅郎",
+    "star": 3
+  },
+  {
+    "i": 86,
+    "title": "(Sewing Expert) Kuro Kiryu",
+    "url": "/wiki/(Sewing_Expert)_Kuro_Kiryu",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/2/29/%28Sewing_Expert%29_Kuro_Kiryu.png/revision/latest/scale-to-width-down/100?cb=20150625012232",
+    "name": "(Sewing Expert) Kuro Kiryu［裁縫上手］鬼龍 紅郎",
+    "star": 3
+  },
+  {
+    "i": 88,
+    "title": "(Trigger) Kuro Kiryu",
+    "url": "/wiki/(Trigger)_Kuro_Kiryu",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/6/66/%28Trigger%29_Kuro_Kiryu.png/revision/latest/scale-to-width-down/100?cb=20190601200504",
+    "name": "(Trigger) Kuro Kiryu［きっかけ］鬼龍 紅郎",
+    "star": 3
+  },
+  {
+    "i": 90,
+    "title": "(Lack of Sleep) Kuro Kiryu",
+    "url": "/wiki/(Lack_of_Sleep)_Kuro_Kiryu",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/4/45/%28Lack_of_Sleep%29_Kuro_Kiryu.png/revision/latest/scale-to-width-down/100?cb=20190629165807",
+    "name": "(Lack of Sleep) Kuro Kiryu［寝不足］鬼龍 紅郎",
+    "star": 3
+  },
+  {
+    "i": 92,
+    "title": "(Aching Soul) Kuro Kiryu",
+    "url": "/wiki/(Aching_Soul)_Kuro_Kiryu",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/7/77/%28Aching_Soul%29_Kuro_Kiryu.png/revision/latest/scale-to-width-down/100?cb=20181205074416",
+    "name": "(Aching Soul) Kuro Kiryu[うずく魂] 鬼龍 紅郎",
+    "star": 3
+  },
+  {
+    "i": 94,
+    "title": "(Costume Artisan) Kuro Kiryu",
+    "url": "/wiki/(Costume_Artisan)_Kuro_Kiryu",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/8/85/%28Costume_Artisan%29_Kuro_Kiryu.png/revision/latest/scale-to-width-down/100?cb=20190629131652",
+    "name": "(Costume Artisan) Kuro Kiryu[衣装職人]  鬼龍 紅郎",
+    "star": 3
+  },
+  {
+    "i": 96,
+    "title": "(Friendly Support) Kuro Kiryu",
+    "url": "/wiki/(Friendly_Support)_Kuro_Kiryu",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/2/20/%28Friendly_Support%29_Kuro_Kiryu.png/revision/latest/scale-to-width-down/100?cb=20160229092221",
+    "name": "(Friendly Support) Kuro Kiryu［よしみの助っ人］鬼龍 紅郎",
+    "star": 3
+  },
+  {
+    "i": 98,
+    "title": "(Dutiful Advice) Kuro Kiryu",
+    "url": "/wiki/(Dutiful_Advice)_Kuro_Kiryu",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/a/a0/%28Dutiful_Advice%29_Kuro_Kiryu.png/revision/latest/scale-to-width-down/100?cb=20160315191317",
+    "name": "(Dutiful Advice) Kuro Kiryu[義理の忠告]  鬼龍 紅郎",
+    "star": 3
+  },
+  {
+    "i": 100,
+    "title": "(Spring Beckoning Enka) Kuro Kiryu",
+    "url": "/wiki/(Spring_Beckoning_Enka)_Kuro_Kiryu",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/2/2a/%28Spring_Beckoning_Enka%29_Kuro_Kiryu.png/revision/latest/scale-to-width-down/100?cb=20160415132626",
+    "name": "(Spring Beckoning Enka) Kuro Kiryu[春始めの艶歌]  鬼龍 紅郎",
+    "star": 3
+  },
+  {
+    "i": 102,
+    "title": "(Outfit Support) Kuro Kiryu",
+    "url": "/wiki/(Outfit_Support)_Kuro_Kiryu",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/a/a1/%28Outfit_Support%29_Kuro_Kiryu.png/revision/latest/scale-to-width-down/100?cb=20160531171419",
+    "name": "(Outfit Support) Kuro Kiryu[衣装の助っ人]  鬼龍 紅郎",
+    "star": 3
+  },
+  {
+    "i": 104,
+    "title": "(Tanabata Contest) Kuro Kiryu",
+    "url": "/wiki/(Tanabata_Contest)_Kuro_Kiryu",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/d/da/%28Tanabata_Contest%29_Kuro_Kiryu.png/revision/latest/scale-to-width-down/100?cb=20160630171100",
+    "name": "(Tanabata Contest) Kuro Kiryu[七夕の競争]  鬼龍 紅郎",
+    "star": 3
+  },
+  {
+    "i": 106,
+    "title": "(Strolling Samurai) Kuro Kiryu",
+    "url": "/wiki/(Strolling_Samurai)_Kuro_Kiryu",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/d/db/%28Strolling_Samurai%29_Kuro_Kiryu.png/revision/latest/scale-to-width-down/100?cb=20161011151321",
+    "name": "(Strolling Samurai) Kuro Kiryu[立ち回り侍] 鬼龍 紅郎",
+    "star": 3
+  },
+  {
+    "i": 108,
+    "title": "(Playful Mood) Kuro Kiryu",
+    "url": "/wiki/(Playful_Mood)_Kuro_Kiryu",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/a/a8/%28Playful_Mood%29_Kuro_Kiryu.png/revision/latest/scale-to-width-down/100?cb=20170329205953",
+    "name": "(Playful Mood) Kuro Kiryu[気の緩み] 鬼龍 紅郎",
+    "star": 3
+  },
+  {
+    "i": 110,
+    "title": "(Summer Festival Attractions) Kuro Kiryu",
+    "url": "/wiki/(Summer_Festival_Attractions)_Kuro_Kiryu",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/e/e4/%28Summer_Festival_Attractions%29_Kuro_Kiryu.png/revision/latest/scale-to-width-down/100?cb=20170922024726",
+    "name": "(Summer Festival Attractions) Kuro Kiryu[夏祭り見物] 鬼龍 紅郎",
+    "star": 3
+  },
+  {
+    "i": 112,
+    "title": "(Power Cook) Kuro Kiryu",
+    "url": "/wiki/(Power_Cook)_Kuro_Kiryu",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/1/17/%28Power_Cook%29_Kuro_Kiryu.png/revision/latest/scale-to-width-down/100?cb=20170830191148",
+    "name": "(Power Cook) Kuro Kiryu[パワーコック] 鬼龍 紅郎",
+    "star": 3
+  },
+  {
+    "i": 114,
+    "title": "(Karuta) Kuro Kiryu",
+    "url": "/wiki/(Karuta)_Kuro_Kiryu",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/f/fd/%28Karuta%29_Kuro_Kiryu.png/revision/latest/scale-to-width-down/100?cb=20171019093831",
+    "name": "(Karuta) Kuro Kiryu[花カルタ] 鬼龍 紅郎",
+    "star": 3
+  },
+  {
+    "i": 116,
+    "title": "(Lunch Break) Kuro Kiryu",
+    "url": "/wiki/(Lunch_Break)_Kuro_Kiryu",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/e/e8/%28Lunch_Break%29_Kuro_Kiryu.png/revision/latest/scale-to-width-down/100?cb=20180227112526",
+    "name": "(Lunch Break) Kuro Kiryu[昼休み] 鬼龍 紅郎",
+    "star": 3
+  },
+  {
+    "i": 118,
+    "title": "(Boar of the New Year) Kuro Kiryu",
+    "url": "/wiki/(Boar_of_the_New_Year)_Kuro_Kiryu",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/2/27/%28Boar_of_the_New_Year%29_Kuro_Kiryu.png/revision/latest/scale-to-width-down/100?cb=20180103220354",
+    "name": "(Boar of the New Year) Kuro Kiryu[新年の亥] 鬼龍 紅郎",
+    "star": 3
+  },
+  {
+    "i": 120,
+    "title": "(Rakshasa's Blade) Kuro Kiryu",
+    "url": "/wiki/(Rakshasa%27s_Blade)_Kuro_Kiryu",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/9/90/%28Rakshasa%27s_Blade%29_Kuro_Kiryu.png/revision/latest/scale-to-width-down/100?cb=20180103230538",
+    "name": "(Rakshasa's Blade) Kuro Kiryu[羅刹の刃] 鬼龍 紅郎",
+    "star": 3
+  },
+  {
+    "i": 122,
+    "title": "(Worry and Effort) Kuro Kiryu",
+    "url": "/wiki/(Worry_and_Effort)_Kuro_Kiryu",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/d/dc/%28Worry_and_Effort%29_Kuro_Kiryu.png/revision/latest/scale-to-width-down/100?cb=20190429121325",
+    "name": "(Worry and Effort) Kuro Kiryu[心配と奔走] 鬼龍 紅郎",
+    "star": 3
+  },
+  {
+    "i": 124,
+    "title": "(Performance Advice) Kuro Kiryu",
+    "url": "/wiki/(Performance_Advice)_Kuro_Kiryu",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/4/4b/%28Performance_Advice%29_Kuro_Kiryu.png/revision/latest/scale-to-width-down/100?cb=20190426094637",
+    "name": "(Performance Advice) Kuro Kiryu[出し物相談] 鬼龍 紅郎",
+    "star": 3
+  },
+  {
+    "i": 126,
+    "title": "(Bicycle and Assistance) Kuro Kiryu",
+    "url": "/wiki/(Bicycle_and_Assistance)_Kuro_Kiryu",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/5/5c/%28Bicycle_and_Assistance%29_Kuro_Kiryu.png/revision/latest/scale-to-width-down/100?cb=20180623175229",
+    "name": "(Bicycle and Assistance) Kuro Kiryu[自転車と補助] 鬼龍 紅郎",
+    "star": 3
+  },
+  {
+    "i": 128,
+    "title": "(Seinen Comic) Kuro Kiryu",
+    "url": "/wiki/(Seinen_Comic)_Kuro_Kiryu",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/5/55/%28Seinen_Comic%29_Kuro_Kiryu.png/revision/latest/scale-to-width-down/100?cb=20190629170327",
+    "name": "(Seinen Comic) Kuro Kiryu[青年コミック] 鬼龍 紅郎",
+    "star": 3
+  },
+  {
+    "i": 130,
+    "title": "(Full Moon Night's Grace) Kuro Kiryu",
+    "url": "/wiki/(Full_Moon_Night%27s_Grace)_Kuro_Kiryu",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/0/07/%28Full_Moon_Night%27s_Grace%29_Kuro_Kiryu.png/revision/latest/scale-to-width-down/100?cb=20181216164558",
+    "name": "(Full Moon Night's Grace) Kuro Kiryu[十五夜の優美] 鬼龍 紅郎",
+    "star": 3
+  },
+  {
+    "i": 132,
+    "title": "(Full House Diner) Kuro Kiryu",
+    "url": "/wiki/(Full_House_Diner)_Kuro_Kiryu",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/7/79/%28Full_House_Diner%29_Kuro_Kiryu.png/revision/latest/scale-to-width-down/100?cb=20190203225435",
+    "name": "(Full House Diner) Kuro Kiryu[大入りダイナー] 鬼龍 紅郎",
+    "star": 3
+  },
+  {
+    "i": 134,
+    "title": "(Teaching Fundamentals) Kuro Kiryu",
+    "url": "/wiki/(Teaching_Fundamentals)_Kuro_Kiryu",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/0/0a/%28Teaching_Fundamentals%29_Kuro_Kiryu.png/revision/latest/scale-to-width-down/100?cb=20190424204320",
+    "name": "(Teaching Fundamentals) Kuro Kiryu[いろは指導] 鬼龍 紅郎",
+    "star": 3
+  },
+  {
+    "i": 136,
+    "title": "(Labyrinth Support) Kuro Kiryu",
+    "url": "/wiki/(Labyrinth_Support)_Kuro_Kiryu",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/b/b2/%28Labyrinth_Support%29_Kuro_Kiryu.png/revision/latest/scale-to-width-down/100?cb=20190429062428",
+    "name": "(Labyrinth Support) Kuro Kiryu[迷宮補助] 鬼龍 紅郎",
+    "star": 3
+  },
+  {
+    "i": 138,
+    "title": "(Carrot's Relations) Kuro Kiryu",
+    "url": "/wiki/(Carrot%27s_Relations)_Kuro_Kiryu",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/3/36/%28Carrot%27s_Relations%29_Kuro_Kiryu.png/revision/latest/scale-to-width-down/100?cb=20190726062426",
+    "name": "(Carrot's Relations) Kuro Kiryu[にんじんの縁] 鬼龍 紅郎",
+    "star": 3
+  },
+  {
+    "i": 140,
+    "title": "(Sewing Summer Night) Kuro Kiryu",
+    "url": "/wiki/(Sewing_Summer_Night)_Kuro_Kiryu",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/9/9b/%28Sewing_Summer_Night%29_Kuro_Kiryu.png/revision/latest/scale-to-width-down/100?cb=20190812170349",
+    "name": "(Sewing Summer Night) Kuro Kiryu[縫製サマーナイト] 鬼龍 紅郎",
+    "star": 3
+  },
+  {
+    "i": 142,
+    "title": "Kuro Kiryu (Card)",
+    "url": "/wiki/Kuro_Kiryu_(Card)",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/d/df/Kuro_Kiryu_%28Card%29.png/revision/latest/scale-to-width-down/100?cb=20150430010116",
+    "name": "Kuro Kiryu (Card)鬼龍 紅郎",
+    "star": 1
+  },
+  {
+    "i": 144,
+    "title": "(Academy Idol) Kuro Kiryu",
+    "url": "/wiki/(Academy_Idol)_Kuro_Kiryu",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/7/73/%28Academy_Idol%29_Kuro_Kiryu.png/revision/latest/scale-to-width-down/100?cb=20150430174441",
+    "name": "(Academy Idol) Kuro Kiryu［学院のアイドル］鬼龍 紅郎",
+    "star": 2
+  },
+  {
+    "i": 146,
+    "title": "(Courageous and Unprecedented) Kuro Kiryu",
+    "url": "/wiki/(Courageous_and_Unprecedented)_Kuro_Kiryu",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/5/5b/%28Courageous_and_Unprecedented%29_Kuro_Kiryu.png/revision/latest/scale-to-width-down/100?cb=20171223134838",
+    "name": "(Courageous and Unprecedented) Kuro Kiryu【奮勇與無前】 鬼龍 紅郎",
+    "star": 5
+  },
+  {
+    "i": 148,
+    "title": "(Protector of the Legend) Kuro Kiryu",
+    "url": "/wiki/(Protector_of_the_Legend)_Kuro_Kiryu",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/b/b2/%28Protector_of_the_Legend%29_Kuro_Kiryu.png/revision/latest/scale-to-width-down/100?cb=20170325013825",
+    "name": "(Protector of the Legend) Kuro Kiryu[傳說的保護者] 鬼龍 紅郎",
+    "star": 3
+  },
+  {
+    "i": 150,
+    "title": "(Gifting Roses) Kuro Kiryu",
+    "url": "/wiki/(Gifting_Roses)_Kuro_Kiryu",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/1/1e/%28Gifting_Roses%29_Kuro_Kiryu.png/revision/latest/scale-to-width-down/100?cb=20190413065131",
+    "name": "(Gifting Roses) Kuro Kiryu[蔷薇的馈赠] 鬼龍 紅郎",
+    "star": 3
+  },
+  {
+    "i": 152,
+    "title": "(Lucky Plushie) Kuro Kiryu",
+    "url": "/wiki/(Lucky_Plushie)_Kuro_Kiryu",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/6/66/%28Lucky_Plushie%29_Kuro_Kiryu.png/revision/latest/scale-to-width-down/100?cb=20210306233400",
+    "name": " (Lucky Plushie) Kuro Kiryu[幸運玩偶] 鬼龍 紅郎",
+    "star": 3
+  }
+]

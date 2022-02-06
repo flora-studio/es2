@@ -36,7 +36,8 @@ const columns = [
         <NTooltip trigger="hover">
           {{
             default: () => row.id,
-            trigger: () => <img width={60} src={useCardImg(row.id)} alt={row.id} />
+            // @ts-ignore to directly use img from wiki
+            trigger: () => <img width={60} src={row.img} alt={row.id} referrerpolicy="no-referrer" />
           }}
         </NTooltip>
       )

@@ -1,0 +1,578 @@
+[
+  {
+    "i": 0,
+    "title": "(Moon Viewing and Memories) Adonis Otogari",
+    "url": "/wiki/(Moon_Viewing_and_Memories)_Adonis_Otogari",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/8/8e/%28Moon_Viewing_and_Memories%29_Adonis_Otogari_M.png/revision/latest/scale-to-width-down/100?cb=20200915224703",
+    "name": " (Moon Viewing and Memories) Adonis Otogari[月見と思い出] 乙狩 アドニス",
+    "star": 5
+  },
+  {
+    "i": 2,
+    "title": "(He Who Cloaks Himself in the Winds of His Homeland) Adonis Otogari",
+    "url": "/wiki/(He_Who_Cloaks_Himself_in_the_Winds_of_His_Homeland)_Adonis_Otogari",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/5/52/%28He_Who_Cloaks_Himself_in_the_Winds_of_His_Homeland%29_Adonis_Otogari_M.png/revision/latest/scale-to-width-down/100?cb=20210426071608",
+    "name": " (He Who Cloaks Himself in the Winds of His Homeland) Adonis Otogari[故郷の風を纏う者] 乙狩 アドニス",
+    "star": 5
+  },
+  {
+    "i": 4,
+    "title": "(Beast and Ambassador) Adonis Otogari",
+    "url": "/wiki/(Beast_and_Ambassador)_Adonis_Otogari",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/6/65/%28Beast_and_Ambassador%29_Adonis_Otogari_M.png/revision/latest/scale-to-width-down/100?cb=20211115074601",
+    "name": "(Beast and Ambassador) Adonis Otogari[獣と外交官] 乙狩 アドニス",
+    "star": 5
+  },
+  {
+    "i": 6,
+    "title": "(Virtuous and Silent) Adonis Otogari",
+    "url": "/wiki/(Virtuous_and_Silent)_Adonis_Otogari",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/1/19/%28Virtuous_and_Silent%29_Adonis_Otogari_M.png/revision/latest/scale-to-width-down/100?cb=20200427125339",
+    "name": " (Virtuous and Silent) Adonis Otogari[寡黙な善人] 乙狩 アドニス",
+    "star": 4
+  },
+  {
+    "i": 8,
+    "title": "(Contest Match) Adonis Otogari",
+    "url": "/wiki/(Contest_Match)_Adonis_Otogari",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/3/38/%28Contest_Match%29_Adonis_Otogari_M.png/revision/latest/scale-to-width-down/100?cb=20200716214004",
+    "name": " (Contest Match) Adonis Otogari[勝負の試合] 乙狩 アドニス",
+    "star": 4
+  },
+  {
+    "i": 10,
+    "title": "(RhyLin's Compassion) Adonis Otogari",
+    "url": "/wiki/(RhyLin%27s_Compassion)_Adonis_Otogari",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/e/e0/%28RhyLin%27s_Compassion%29_Adonis_Otogari_M.png/revision/latest/scale-to-width-down/100?cb=20200830004438",
+    "name": " (RhyLin's Compassion) Adonis Otogari[リズリンの慈愛] 乙狩 アドニス",
+    "star": 4
+  },
+  {
+    "i": 12,
+    "title": "(Gentle Pride in Your Strength) Adonis Otogari",
+    "url": "/wiki/(Gentle_Pride_in_Your_Strength)_Adonis_Otogari",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/9/90/%28Gentle_Pride_in_Your_Strength%29_Adonis_Otogari_M.png/revision/latest/scale-to-width-down/100?cb=20201212090942",
+    "name": " (Gentle Pride in Your Strength) Adonis Otogari[力自慢の優しさ] 乙狩 アドニス",
+    "star": 4
+  },
+  {
+    "i": 14,
+    "title": "(Rejoicing at the Harvest) Adonis Otogari",
+    "url": "/wiki/(Rejoicing_at_the_Harvest)_Adonis_Otogari",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/7/7c/%28Rejoicing_at_the_Harvest%29_Adonis_Otogari_M.png/revision/latest/scale-to-width-down/100?cb=20210929124331",
+    "name": "(Rejoicing at the Harvest) Adonis Otogari[実りを喜びて] 乙狩 アドニス",
+    "star": 4
+  },
+  {
+    "i": 16,
+    "title": "(Resonating Rock) Adonis Otogari",
+    "url": "/wiki/(Resonating_Rock)_Adonis_Otogari",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/e/e1/%28Resonating_Rock%29_Adonis_Otogari_M.png/revision/latest/scale-to-width-down/100?cb=20211021183439",
+    "name": "(Resonating Rock) Adonis Otogari[共鳴ロック] 乙狩 アドニス",
+    "star": 4
+  },
+  {
+    "i": 18,
+    "title": "(Practicing) Adonis Otogari",
+    "url": "/wiki/(Practicing)_Adonis_Otogari",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/2/2a/%28Practicing%29_Adonis_Otogari_M.png/revision/latest/scale-to-width-down/100?cb=20200412143225",
+    "name": " (Practicing) Adonis Otogari[練習風景] 乙狩 アドニス",
+    "star": 3
+  },
+  {
+    "i": 20,
+    "title": "(Thoughtful Gift) Adonis Otogari",
+    "url": "/wiki/(Thoughtful_Gift)_Adonis_Otogari",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/2/21/%28Thoughtful_Gift%29_Adonis_Otogari_M.png/revision/latest/scale-to-width-down/100?cb=20200517013345",
+    "name": " (Thoughtful Gift) Adonis Otogari[想いの贈り物] 乙狩 アドニス",
+    "star": 3
+  },
+  {
+    "i": 22,
+    "title": "(Companion Rock n Roll) Adonis Otogari",
+    "url": "/wiki/(Companion_Rock_n_Roll)_Adonis_Otogari",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/8/80/%28Companion_Rock_n_Roll%29_Adonis_Otogari_M.png/revision/latest/scale-to-width-down/100?cb=20201031110824",
+    "name": " (Companion Rock n Roll) Adonis Otogari[ドウホウロック] 乙狩 アドニス",
+    "star": 3
+  },
+  {
+    "i": 24,
+    "title": "(Newly Sprouting Skater) Adonis Otogari",
+    "url": "/wiki/(Newly_Sprouting_Skater)_Adonis_Otogari",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/a/a5/%28Newly_Sprouting_Skater%29_Adonis_Otogari_M.png/revision/latest/scale-to-width-down/100?cb=20210516105429",
+    "name": " (Newly Sprouting Skater) Adonis Otogari[若葉スケーター] 乙狩 アドニス",
+    "star": 3
+  },
+  {
+    "i": 26,
+    "title": "(Considerate Sandstorm) Adonis Otogari",
+    "url": "/wiki/(Considerate_Sandstorm)_Adonis_Otogari",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/2/29/%28Considerate_Sandstorm%29_Adonis_Otogari_M.png/revision/latest/scale-to-width-down/100?cb=20210815133856",
+    "name": "(Considerate Sandstorm) Adonis Otogari[配慮サンドストーム] 乙狩 アドニス",
+    "star": 3
+  },
+  {
+    "i": 28,
+    "title": "(Hesitant Tiger) Adonis Otogari",
+    "url": "/wiki/(Hesitant_Tiger)_Adonis_Otogari",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/1/15/%28Hesitant_Tiger%29_Adonis_Otogari_M.png/revision/latest/scale-to-width-down/100?cb=20211231014834",
+    "name": "(Hesitant Tiger) Adonis Otogari[迷いの寅] 乙狩 アドニス",
+    "star": 3
+  },
+  {
+    "i": 30,
+    "title": "(An Idol) Adonis Otogari",
+    "url": "/wiki/(An_Idol)_Adonis_Otogari",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/f/fe/%28An_Idol%29_Adonis_Otogari_M.png/revision/latest/scale-to-width-down/100?cb=20200412132633",
+    "name": " (An Idol) Adonis Otogari[ひとりのアイドル] 乙狩 アドニス",
+    "star": 1
+  },
+  {
+    "i": 32,
+    "title": "(ES Idol) Adonis Otogari",
+    "url": "/wiki/(ES_Idol)_Adonis_Otogari",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/3/3c/%28ES_Idol%29_Adonis_Otogari_M.png/revision/latest/scale-to-width-down/100?cb=20200412135835",
+    "name": " (ES Idol) Adonis Otogari[ESのアイドル] 乙狩 アドニス",
+    "star": 2
+  },
+  {
+    "i": 34,
+    "title": "(Thoughtful of Friends) Adonis Otogari",
+    "url": "/wiki/(Thoughtful_of_Friends)_Adonis_Otogari",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/6/6e/%28Thoughtful_of_Friends%29_Adonis_Otogari.png/revision/latest/scale-to-width-down/100?cb=20190120202700",
+    "name": "(Thoughtful of Friends) Adonis Otogari［仲間思い］乙狩 アドニス",
+    "star": 5
+  },
+  {
+    "i": 36,
+    "title": "(Strength to Protect) Adonis Otogari",
+    "url": "/wiki/(Strength_to_Protect)_Adonis_Otogari",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/7/79/%28Strength_to_Protect%29_Adonis_Otogari.png/revision/latest/scale-to-width-down/100?cb=20150813025617",
+    "name": "(Strength to Protect) Adonis Otogari［守れる力］乙狩 アドニス",
+    "star": 5
+  },
+  {
+    "i": 38,
+    "title": "(War at the Crossroads) Adonis Otogari",
+    "url": "/wiki/(War_at_the_Crossroads)_Adonis_Otogari",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/0/03/%28War_at_the_Crossroads%29_Adonis_Otogari.png/revision/latest/scale-to-width-down/100?cb=20160201062430",
+    "name": "(War at the Crossroads) Adonis Otogari［十字路の交戦］乙狩 アドニス",
+    "star": 5
+  },
+  {
+    "i": 40,
+    "title": "(Summer Colored Sunshine) Adonis Otogari",
+    "url": "/wiki/(Summer_Colored_Sunshine)_Adonis_Otogari",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/5/50/%28Summer_Colored_Sunshine%29_Adonis_Otogari.png/revision/latest/scale-to-width-down/100?cb=20160726104913",
+    "name": "(Summer Colored Sunshine) Adonis Otogari[夏色の日差し]  乙狩 アドニス",
+    "star": 5
+  },
+  {
+    "i": 42,
+    "title": "(Paradise Lion's Dream) Adonis Otogari",
+    "url": "/wiki/(Paradise_Lion%27s_Dream)_Adonis_Otogari",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/d/d1/%28Paradise_Lion%27s_Dream%29_Adonis_Otogari.png/revision/latest/scale-to-width-down/100?cb=20160914151704",
+    "name": "(Paradise Lion's Dream) Adonis Otogari[楽園の獅子の夢] 乙狩 アドニス",
+    "star": 5
+  },
+  {
+    "i": 44,
+    "title": "(Fun Match) Adonis Otogari",
+    "url": "/wiki/(Fun_Match)_Adonis_Otogari",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/e/ed/%28Fun_Match%29_Adonis_Otogari.png/revision/latest/scale-to-width-down/100?cb=20170320193323",
+    "name": "(Fun Match) Adonis Otogari[楽しい勝負] 乙狩 アドニス",
+    "star": 5
+  },
+  {
+    "i": 46,
+    "title": "(Gift to Deliver) Adonis Otogari",
+    "url": "/wiki/(Gift_to_Deliver)_Adonis_Otogari",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/4/42/%28Gift_to_Deliver%29_Adonis_Otogari.png/revision/latest/scale-to-width-down/100?cb=20180211054058",
+    "name": "(Gift to Deliver) Adonis Otogari[届けたい贈り物] 乙狩 アドニス",
+    "star": 5
+  },
+  {
+    "i": 48,
+    "title": "(Fire Vacation) Adonis Otogari",
+    "url": "/wiki/(Fire_Vacation)_Adonis_Otogari",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/a/a7/%28Fire_Vacation%29_Adonis_Otogari.png/revision/latest/scale-to-width-down/100?cb=20180801105929",
+    "name": "(Fire Vacation) Adonis Otogari[ファイヤーバカンス] 乙狩 アドニス",
+    "star": 5
+  },
+  {
+    "i": 50,
+    "title": "(Folding Fan's First Dance) Adonis Otogari",
+    "url": "/wiki/(Folding_Fan%27s_First_Dance)_Adonis_Otogari",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/3/3a/%28Folding_Fan%27s_First_Dance%29_Adonis_Otogari.png/revision/latest/scale-to-width-down/100?cb=20190115145839",
+    "name": "(Folding Fan's First Dance) Adonis Otogari[扇の初舞] 乙狩 アドニス",
+    "star": 5
+  },
+  {
+    "i": 52,
+    "title": "(Strong-Hearted Star) Adonis Otogari",
+    "url": "/wiki/(Strong-Hearted_Star)_Adonis_Otogari",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/0/00/%28Strong-Hearted_Star%29_Adonis_Otogari.png/revision/latest/scale-to-width-down/100?cb=20190703021005",
+    "name": "(Strong-Hearted Star) Adonis Otogari[強き心のスター] 乙狩 アドニス",
+    "star": 5
+  },
+  {
+    "i": 54,
+    "title": "(UNDEAD's Compassion) Adonis Otogari",
+    "url": "/wiki/(UNDEAD%27s_Compassion)_Adonis_Otogari",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/7/72/%28UNDEAD%27s_Compassion%29_Adonis_Otogari.png/revision/latest/scale-to-width-down/100?cb=20210713005210",
+    "name": "(UNDEAD's Compassion) Adonis Otogari[UNDEADの慈愛] 乙狩 アドニス",
+    "star": 5
+  },
+  {
+    "i": 56,
+    "title": "(Silent Beast) Adonis Otogari",
+    "url": "/wiki/(Silent_Beast)_Adonis_Otogari",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/e/e3/%28Silent_Beast%29_Adonis_Otogari.png/revision/latest/scale-to-width-down/100?cb=20150503030534",
+    "name": "",
+    "star": 0
+  },
+  {
+    "i": 58,
+    "title": "(Obedient Butler) Adonis Otogari",
+    "url": "/wiki/(Obedient_Butler)_Adonis_Otogari",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/e/ee/%28Obedient_Butler%29_Adonis_Otogari.png/revision/latest/scale-to-width-down/100?cb=20190120203812",
+    "name": "(Obedient Butler) Adonis Otogari［従順な執事］乙狩 アドニス",
+    "star": 4
+  },
+  {
+    "i": 60,
+    "title": "(Stride of Ares) Adonis Otogari",
+    "url": "/wiki/(Stride_of_Ares)_Adonis_Otogari",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/4/43/%28Stride_of_Ares%29_Adonis_Otogari.png/revision/latest/scale-to-width-down/100?cb=20160315035529",
+    "name": "(Stride of Ares) Adonis Otogari［アレスの闊歩］ 乙狩 アドニス",
+    "star": 4
+  },
+  {
+    "i": 62,
+    "title": "(Harmonica's Companion) Adonis Otogari",
+    "url": "/wiki/(Harmonica%27s_Companion)_Adonis_Otogari",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/2/20/%28Harmonica%27s_Companion%29_Adonis_Otogari.png/revision/latest/scale-to-width-down/100?cb=20160504171121",
+    "name": "(Harmonica's Companion) Adonis Otogari[友のハーモニカ] 乙狩 アドニス",
+    "star": 4
+  },
+  {
+    "i": 64,
+    "title": "(Special Parfait) Adonis Otogari",
+    "url": "/wiki/(Special_Parfait)_Adonis_Otogari",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/e/ec/%28Special_Parfait%29_Adonis_Otogari.png/revision/latest/scale-to-width-down/100?cb=20170527081950",
+    "name": "(Special Parfait) Adonis Otogari[特別パフェ] 乙狩 アドニス",
+    "star": 4
+  },
+  {
+    "i": 66,
+    "title": "(Wild Cook) Adonis Otogari",
+    "url": "/wiki/(Wild_Cook)_Adonis_Otogari",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/6/69/%28Wild_Cook%29_Adonis_Otogari.png/revision/latest/scale-to-width-down/100?cb=20170830141023",
+    "name": "(Wild Cook) Adonis Otogari[ワイルドコック] 乙狩 アドニス",
+    "star": 4
+  },
+  {
+    "i": 68,
+    "title": "(Both Sides of the Back) Adonis Otogari",
+    "url": "/wiki/(Both_Sides_of_the_Back)_Adonis_Otogari",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/3/3a/%28Both_Sides_of_the_Back%29_Adonis_Otogari.png/revision/latest/scale-to-width-down/100?cb=20171123031400",
+    "name": "(Both Sides of the Back) Adonis Otogari[両脇の背中] 乙狩 アドニス",
+    "star": 4
+  },
+  {
+    "i": 70,
+    "title": "(Altruist's Resurrection Sunday) Adonis Otogari",
+    "url": "/wiki/(Altruist%27s_Resurrection_Sunday)_Adonis_Otogari",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/2/27/%28Altruist%27s_Resurrection_Sunday%29_Adonis_Otogari.png/revision/latest/scale-to-width-down/100?cb=20180403231351",
+    "name": "(Altruist's Resurrection Sunday) Adonis Otogari[奉仕の復活祭] 乙狩 アドニス",
+    "star": 4
+  },
+  {
+    "i": 72,
+    "title": "(3rd Anniversary) Adonis Otogari",
+    "url": "/wiki/(3rd_Anniversary)_Adonis_Otogari",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/1/1d/%283rd_Anniversary%29_Adonis_Otogari.png/revision/latest/scale-to-width-down/100?cb=20191014205927",
+    "name": "(3rd Anniversary) Adonis Otogari[三周年記念] 乙狩 アドニス",
+    "star": 4
+  },
+  {
+    "i": 74,
+    "title": "(The Gentle Undead) Adonis Otogari",
+    "url": "/wiki/(The_Gentle_Undead)_Adonis_Otogari",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/4/4c/%28The_Gentle_Undead%29_Adonis_Otogari.png/revision/latest/scale-to-width-down/100?cb=20180830184410",
+    "name": "(The Gentle Undead) Adonis Otogari[優しい不死者] 乙狩 アドニス",
+    "star": 4
+  },
+  {
+    "i": 76,
+    "title": "(Banquet Protector) Adonis Otogari",
+    "url": "/wiki/(Banquet_Protector)_Adonis_Otogari",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/f/f8/%28Banquet_Protector%29_Adonis_Otogari.png/revision/latest/scale-to-width-down/100?cb=20181027012217",
+    "name": "(Banquet Protector) Adonis Otogari[バンケットの守り人] 乙狩 アドニス",
+    "star": 5
+  },
+  {
+    "i": 78,
+    "title": "(4th Anniversary) Adonis Otogari",
+    "url": "/wiki/(4th_Anniversary)_Adonis_Otogari",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/a/af/%284th_Anniversary%29_Adonis_Otogari.png/revision/latest/scale-to-width-down/100?cb=20190527090331",
+    "name": "(4th Anniversary) Adonis Otogari[四周年記念] 乙狩 アドニス",
+    "star": 4
+  },
+  {
+    "i": 80,
+    "title": "(Meat Diet) Adonis Otogari",
+    "url": "/wiki/(Meat_Diet)_Adonis_Otogari",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/4/46/%28Meat_Diet%29_Adonis_Otogari.png/revision/latest/scale-to-width-down/100?cb=20150615052000",
+    "name": "(Meat Diet) Adonis Otogari［肉食］乙狩 アドニス",
+    "star": 3
+  },
+  {
+    "i": 82,
+    "title": "(Anpan) Adonis Otogari",
+    "url": "/wiki/(Anpan)_Adonis_Otogari",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/5/5a/%28Anpan%29_Adonis_Otogari.png/revision/latest/scale-to-width-down/100?cb=20150429054346",
+    "name": "(Anpan) Adonis Otogari［あんパン］乙狩 アドニス",
+    "star": 3
+  },
+  {
+    "i": 84,
+    "title": "(Agony over his Clothes) Adonis Otogari",
+    "url": "/wiki/(Agony_over_his_Clothes)_Adonis_Otogari",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/6/63/%28Agony_over_his_Clothes%29_Adonis_Otogari.png/revision/latest/scale-to-width-down/100?cb=20160217003655",
+    "name": "(Agony over his Clothes) Adonis Otogari[衣装の悩み] 乙狩 アドニス",
+    "star": 3
+  },
+  {
+    "i": 86,
+    "title": "(Flower Viewing and Dumplings) Adonis Otogari",
+    "url": "/wiki/(Flower_Viewing_and_Dumplings)_Adonis_Otogari",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/6/64/%28Flower_Viewing_and_Dumplings%29_Adonis_Otogari.png/revision/latest/scale-to-width-down/100?cb=20150521062432",
+    "name": "(Flower Viewing and Dumplings) Adonis Otogari［花見と団子］乙狩 アドニス",
+    "star": 3
+  },
+  {
+    "i": 88,
+    "title": "(Running Laps) Adonis Otogari",
+    "url": "/wiki/(Running_Laps)_Adonis_Otogari",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/9/9e/%28Running_Laps%29_Adonis_Otogari.png/revision/latest/scale-to-width-down/100?cb=20190120204606",
+    "name": "(Running Laps) Adonis Otogari［走り込み］乙狩 アドニス",
+    "star": 3
+  },
+  {
+    "i": 90,
+    "title": "(Display of Skill) Adonis Otogari",
+    "url": "/wiki/(Display_of_Skill)_Adonis_Otogari",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/a/a2/%28Display_of_Skill%29_Adonis_Otogari.png/revision/latest/scale-to-width-down/100?cb=20190120204142",
+    "name": "(Display of Skill) Adonis Otogari［特技の発揮］乙狩 アドニス",
+    "star": 3
+  },
+  {
+    "i": 92,
+    "title": "(Patchwork Frankenstein) Adonis Otogari",
+    "url": "/wiki/(Patchwork_Frankenstein)_Adonis_Otogari",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/f/f1/%28Patchwork_Frankenstein%29_Adonis_Otogari.png/revision/latest/scale-to-width-down/100?cb=20151102023056",
+    "name": "(Patchwork Frankenstein) Adonis Otogari［つぎはぎフランケン］乙狩 アドニス",
+    "star": 3
+  },
+  {
+    "i": 94,
+    "title": "(Show Mascot) Adonis Otogari",
+    "url": "/wiki/(Show_Mascot)_Adonis_Otogari",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/8/80/%28Show_Mascot%29_Adonis_Otogari.png/revision/latest/scale-to-width-down/100?cb=20160114164128",
+    "name": "(Show Mascot) Adonis Otogari［ショーマスコット］乙狩 アドニス",
+    "star": 3
+  },
+  {
+    "i": 96,
+    "title": "(Spices of Feelings) Adonis Otogari",
+    "url": "/wiki/(Spices_of_Feelings)_Adonis_Otogari",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/4/4a/%28Spices_of_Feelings%29_Adonis_Otogari.png/revision/latest/scale-to-width-down/100?cb=20191014063359",
+    "name": "(Spices of Feelings) Adonis Otogari［気持ちのスパイス］ 乙狩 アドニス",
+    "star": 3
+  },
+  {
+    "i": 98,
+    "title": "(Repayment Gift) Adonis Otogari",
+    "url": "/wiki/(Repayment_Gift)_Adonis_Otogari",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/2/21/%28Repayment_Gift%29_Adonis_Otogari.png/revision/latest/scale-to-width-down/100?cb=20160229101116",
+    "name": "(Repayment Gift) Adonis Otogari［返礼するもの］乙狩 アドニス",
+    "star": 3
+  },
+  {
+    "i": 100,
+    "title": "(Small Item) Adonis Otogari",
+    "url": "/wiki/(Small_Item)_Adonis_Otogari",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/7/76/%28Small_Item%29_Adonis_Otogari.png/revision/latest/scale-to-width-down/100?cb=20160416025832",
+    "name": "(Small Item) Adonis Otogari[ちいさきもの]  乙狩 アドニス",
+    "star": 3
+  },
+  {
+    "i": 102,
+    "title": "(Happy Stage) Adonis Otogari",
+    "url": "/wiki/(Happy_Stage)_Adonis_Otogari",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/9/91/%28Happy_Stage%29_Adonis_Otogari.png/revision/latest/scale-to-width-down/100?cb=20161025141137",
+    "name": "(Happy Stage) Adonis Otogari[嬉しいステージ] 乙狩 アドニス",
+    "star": 3
+  },
+  {
+    "i": 104,
+    "title": "(Main Banquet) Adonis Otogari",
+    "url": "/wiki/(Main_Banquet)_Adonis_Otogari",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/7/7c/%28Main_Banquet%29_Adonis_Otogari.png/revision/latest/scale-to-width-down/100?cb=20161222132220",
+    "name": "(Main Banquet) Adonis Otogari[宴のメイン] 乙狩 アドニス",
+    "star": 3
+  },
+  {
+    "i": 106,
+    "title": "(Strong Person) Adonis Otogari",
+    "url": "/wiki/(Strong_Person)_Adonis_Otogari",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/d/df/%28Strong_Person%29_Adonis_Otogari.png/revision/latest/scale-to-width-down/100?cb=20161227215100",
+    "name": "(Strong Person) Adonis Otogari[強きもの] 乙狩 アドニス",
+    "star": 3
+  },
+  {
+    "i": 108,
+    "title": "(Japanese Propriety) Adonis Otogari",
+    "url": "/wiki/(Japanese_Propriety)_Adonis_Otogari",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/a/a1/%28Japanese_Propriety%29_Adonis_Otogari.png/revision/latest/scale-to-width-down/100?cb=20170505093722",
+    "name": "(Japanese Propriety) Adonis Otogari[和風の作法] 乙狩 アドニス",
+    "star": 3
+  },
+  {
+    "i": 110,
+    "title": "(Lost Child) Adonis Otogari",
+    "url": "/wiki/(Lost_Child)_Adonis_Otogari",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/8/85/%28Lost_Child%29_Adonis_Otogari.png/revision/latest/scale-to-width-down/100?cb=20170929070401",
+    "name": "(Lost Child) Adonis Otogari[迷い子] 乙狩 アドニス",
+    "star": 3
+  },
+  {
+    "i": 112,
+    "title": "(Hungry Morning) Adonis Otogari",
+    "url": "/wiki/(Hungry_Morning)_Adonis_Otogari",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/a/a0/%28Hungry_Morning%29_Adonis_Otogari.png/revision/latest/scale-to-width-down/100?cb=20190109024630",
+    "name": "(Hungry Morning) Adonis Otogari[空腹の朝] 乙狩 アドニス",
+    "star": 3
+  },
+  {
+    "i": 114,
+    "title": "(Sleep Bear) Adonis Otogari",
+    "url": "/wiki/(Sleep_Bear)_Adonis_Otogari",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/5/57/%28Sleep_Bear%29_Adonis_Otogari.png/revision/latest/scale-to-width-down/100?cb=20180129144122",
+    "name": "(Sleep Bear) Adonis Otogari[スリープベア] 乙狩 アドニス",
+    "star": 3
+  },
+  {
+    "i": 116,
+    "title": "(Demon's Strength) Adonis Otogari",
+    "url": "/wiki/(Demon%27s_Strength)_Adonis_Otogari",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/1/1f/%28Demon%27s_Strength%29_Adonis_Otogari.png/revision/latest/scale-to-width-down/100?cb=20171212174000",
+    "name": "(Demon's Strength) Adonis Otogari[怪腕の魔物] 乙狩 アドニス",
+    "star": 3
+  },
+  {
+    "i": 118,
+    "title": "(Performance with Friend) Adonis Otogari",
+    "url": "/wiki/(Performance_with_Friend)_Adonis_Otogari",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/3/3f/%28Performance_with_Friend%29_Adonis_Otogari.png/revision/latest/scale-to-width-down/100?cb=20180326021146",
+    "name": "(Performance with Friend) Adonis Otogari[友とのステージ] 乙狩 アドニス",
+    "star": 3
+  },
+  {
+    "i": 120,
+    "title": "(Stage Producer) Adonis Otogari",
+    "url": "/wiki/(Stage_Producer)_Adonis_Otogari",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/0/05/%28Stage_Producer%29_Adonis_Otogari.png/revision/latest/scale-to-width-down/100?cb=20190427103600",
+    "name": "(Stage Producer) Adonis Otogari[大道具作成] 乙狩 アドニス",
+    "star": 3
+  },
+  {
+    "i": 122,
+    "title": "(Pool Hunt) Adonis Otogari",
+    "url": "/wiki/(Pool_Hunt)_Adonis_Otogari",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/1/17/%28Pool_Hunt%29_Adonis_Otogari.png/revision/latest/scale-to-width-down/100?cb=20180716112329",
+    "name": "(Pool Hunt) Adonis Otogari[プールハント] 乙狩 アドニス",
+    "star": 3
+  },
+  {
+    "i": 124,
+    "title": "(Regal Purple Black Ogre) Adonis Otogari",
+    "url": "/wiki/(Regal_Purple_Black_Ogre)_Adonis_Otogari",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/2/27/%28Regal_Purple_Black_Ogre%29_Adonis_Otogari.png/revision/latest/scale-to-width-down/100?cb=20190212192452",
+    "name": "(Regal Purple Black Ogre) Adonis Otogari[二藍の黒鬼] 乙狩 アドニス",
+    "star": 3
+  },
+  {
+    "i": 126,
+    "title": "(Black Melody) Adonis Otogari",
+    "url": "/wiki/(Black_Melody)_Adonis_Otogari",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/b/b2/%28Black_Melody%29_Adonis_Otogari.png/revision/latest/scale-to-width-down/100?cb=20181212035659",
+    "name": "(Black Melody) Adonis Otogari[ブラックメロディ] 乙狩 アドニス",
+    "star": 3
+  },
+  {
+    "i": 128,
+    "title": "(Tranquil Flower Garden) Adonis Otogari",
+    "url": "/wiki/(Tranquil_Flower_Garden)_Adonis_Otogari",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/2/2f/%28Tranquil_Flower_Garden%29_Adonis_Otogari.png/revision/latest/scale-to-width-down/100?cb=20190511212913",
+    "name": "(Tranquil Flower Garden) Adonis Otogari[平穏の花園] 乙狩 アドニス",
+    "star": 3
+  },
+  {
+    "i": 130,
+    "title": "(Challenging Surfer) Adonis Otogari",
+    "url": "/wiki/(Challenging_Surfer)_Adonis_Otogari",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/3/3f/%28Challenging_Surfer%29_Adonis_Otogari.png/revision/latest/scale-to-width-down/100?cb=20190708040303",
+    "name": "(Challenging Surfer) Adonis Otogari[挑戦サーファー] 乙狩 アドニス",
+    "star": 3
+  },
+  {
+    "i": 132,
+    "title": "Adonis Otogari (Card)",
+    "url": "/wiki/Adonis_Otogari_(Card)",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/d/dc/Adonis_Otogari_%28Card%29.png/revision/latest/scale-to-width-down/100?cb=20150429042852",
+    "name": "Adonis Otogari (Card)乙狩 アドニス",
+    "star": 1
+  },
+  {
+    "i": 134,
+    "title": "(Academy Idol) Adonis Otogari",
+    "url": "/wiki/(Academy_Idol)_Adonis_Otogari",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/c/cf/%28Academy_Idol%29_Adonis_Otogari.png/revision/latest/scale-to-width-down/100?cb=20150429043057",
+    "name": "(Academy Idol) Adonis Otogari［学院のアイドル］乙狩 アドニス",
+    "star": 2
+  },
+  {
+    "i": 136,
+    "title": "(Summer Feelings) Adonis Otogari",
+    "url": "/wiki/(Summer_Feelings)_Adonis_Otogari",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/f/f1/%28Summer_Feelings%29_Adonis_Otogari.png/revision/latest/scale-to-width-down/100?cb=20210426152256",
+    "name": "(Summer Feelings) Adonis Otogari【夏日的思緒】乙狩 阿多尼斯",
+    "star": 4
+  },
+  {
+    "i": 138,
+    "title": "(Good-Natured Instructor) Adonis Otogari",
+    "url": "/wiki/(Good-Natured_Instructor)_Adonis_Otogari",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/5/5e/%28Good-Natured_Instructor%29_Adonis_Otogari.png/revision/latest/scale-to-width-down/100?cb=20190602230459",
+    "name": "(Good-Natured Instructor) Adonis Otogari【温厚的教官】乙狩 阿多尼斯",
+    "star": 3
+  },
+  {
+    "i": 140,
+    "title": "(Gunfire Hiderigami) Adonis Otogari",
+    "url": "/wiki/(Gunfire_Hiderigami)_Adonis_Otogari",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/d/db/%28Gunfire_Hiderigami%29_Adonis_Otogari.png/revision/latest/scale-to-width-down/100?cb=20190219102554",
+    "name": "(Gunfire Hiderigami) Adonis Otogari【枪火旱魃】乙狩 阿多尼斯",
+    "star": 3
+  },
+  {
+    "i": 142,
+    "title": "(Baxia's Resolute Soul) Adonis Otogari",
+    "url": "/wiki/(Baxia%27s_Resolute_Soul)_Adonis_Otogari",
+    "img": "https://static.wikia.nocookie.net/ensemble-stars/images/b/b9/%28Baxia%27s_Resolute_Soul%29_Adonis_Otogari.png/revision/latest/scale-to-width-down/100?cb=20200307022909",
+    "name": "(Baxia's Resolute Soul) Adonis Otogari[霸下坚魂] 乙狩 阿多尼斯",
+    "star": 3
+  }
+]
