@@ -76,7 +76,9 @@ const columns = [
 // up卡片选择器相关逻辑
 const selectPool = ref<PoolConf | null>(null)
 const selectUpCards = computed(() => selectPool.value?._upIds || [])
-const updateUpCards = (value: string[]) => selectPool.value && (selectPool.value._upIds = value)
+const updateUpCards = (value: string[]) => {
+  selectPool.value && (selectPool.value._upIds = value)
+}
 
 // 新增卡池
 const addPool = () => allPools.unshift({ _id: ++poolIdCounter, name: '', series: 0, limited: false, _upIds: [], _comment: '' })

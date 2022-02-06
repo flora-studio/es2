@@ -32,10 +32,10 @@ import {computed, ref} from 'vue'
 import useCharas from '../../composables/useCharas'
 import useCards from '../../composables/useCards'
 
-const props = defineProps<{ show: Boolean, value: String[] }>()
+const props = defineProps<{ show: boolean, value: string[] }>()
 const emit = defineEmits<{
-  (e: 'update:show', show: Boolean): void,
-  (e: 'update:value', value: String[]): void
+  (e: 'update:show', show: boolean): void,
+  (e: 'update:value', value: string[]): void
 }>()
 
 const selectedDisplay = computed(() => props.value.join('，'))
@@ -51,7 +51,6 @@ const currentCards = computed(() => allCards[currentChara.value])
 
 // 选择
 const toggleSelect = (card: string) => {
-  console.log(card)
   const indexOfCard = props.value.indexOf(card)
   if (indexOfCard >= 0) {
     props.value.splice(indexOfCard, 1)
