@@ -78,14 +78,7 @@ const columns = [
     key: 'action',
     width: 100,
     render(row: Card, index: number) {
-      return (
-        <NPopconfirm onPositiveClick={() => allCards[currentChara.value].splice(index, 1)}>
-          {{
-            default: () => '确认删除吗？',
-            trigger: () => <NButton size="small" type="error" secondary>删除</NButton>
-          }}
-        </NPopconfirm>
-      )
+      return <NButton size="small" type="error" secondary onClick={() => allCards[currentChara.value].splice(index, 1)}>删除</NButton>
     }
   }
 ]

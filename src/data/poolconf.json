@@ -1,10 +1,23 @@
 [
   {
-    "_id": 1,
-    "name": "常驻",
-    "series": -1,
+    "_id": 3,
+    "name": "ritsu活动池",
+    "series": 2,
     "limited": false,
     "_upIds": [],
+    "_comment": "猫栗"
+  },
+  {
+    "_id": 1,
+    "name": "mika个人池",
+    "series": 1,
+    "limited": false,
+    "_upIds": [
+      "Mika_Kagehira_0",
+      "Kanata_Shinkai_8",
+      "Hajime_Shino_20",
+      "Tomoya_Mashiro_20"
+    ],
     "_comment": ""
   },
   {
