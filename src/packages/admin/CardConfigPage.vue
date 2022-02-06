@@ -10,7 +10,7 @@
   </div>
 </template>
 <script setup lang="tsx">
-import { NSelect, NDataTable, NInput, NButton, NSpace, NInputNumber, NPopconfirm, NTooltip } from "naive-ui"
+import { NSelect, NDataTable, NInput, NButton, NSpace, NInputNumber, NPopconfirm, NTooltip, NCheckbox } from "naive-ui"
 import useCharas from "../../composables/useCharas"
 import {Card} from "../../composables/useCards"
 import useCardImg from "../../composables/useCardImg"
@@ -20,7 +20,7 @@ import { exportJson } from "./utils"
 
 // 人物选择
 const allCharacters = useCharas()
-const options = computed(() => allCharacters.map(item => ({ label: item.name, value: item.key })))
+const options = computed(() => allCharacters.map(item => ({ label: `${item.name}\u3000(${item.key})`, value: item.key })))
 const currentChara = ref(options.value?.[0].value || '')
 
 // 卡片数据
@@ -64,6 +64,14 @@ const columns = [
     width: 150,
     render(row: Card, index: number) {
       return <NInputNumber min={0} value={row.series} onUpdateValue={v => allCards[currentChara.value][index].series = v || 0} />
+    }
+  },
+  {
+    title: '是否限定',
+    key: 'limited',
+    width: 60,
+    render(row: Card, index: number) {
+      return <NCheckbox checked={row.limited} onUpdateChecked={v => allCards[currentChara.value][index].limited = v} />
     }
   },
   {
