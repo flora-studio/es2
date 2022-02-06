@@ -4,7 +4,8 @@
   "description": "",
   "scripts": {
     "dev": "vite",
-    "build": "vue-tsc --noEmit && vite build"
+    "build": "vue-tsc --noEmit && vite build",
+    "preview": "vite preview --host"
   },
   "author": "",
   "license": "ISC",

@@ -6,6 +6,7 @@
         <n-menu v-model:value="menu" :options="menuOptions" />
         <div class="view">
           <card-config-page v-show="menu === 'Card'" />
+          <pool-config-page v-show="menu === 'Pool'" />
         </div>
       </div>
     </div>
@@ -14,9 +15,10 @@
 <script setup lang="ts">
 import { NConfigProvider, NMenu, zhCN, dateZhCN } from "naive-ui"
 import {computed, ref} from "vue"
-import CardConfigPage from "./CardConfigPage.vue";
+import CardConfigPage from "./CardConfigPage.vue"
+import PoolConfigPage from "./PoolConfigPage.vue"
 
-const menu = ref('Card')
+const menu = ref('Pool')
 const menuOptions = [
   {
     label: '卡片配置',

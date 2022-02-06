@@ -13,7 +13,6 @@
 import { NSelect, NDataTable, NInput, NButton, NSpace, NInputNumber, NPopconfirm, NTooltip, NCheckbox } from "naive-ui"
 import useCharas from "../../composables/useCharas"
 import {Card} from "../../composables/useCards"
-import useCardImg from "../../composables/useCardImg"
 import {computed, ref, h} from "vue"
 import useCardStorage from "./composables/useCardStorage"
 import { exportJson } from "./utils"
@@ -21,7 +20,7 @@ import { exportJson } from "./utils"
 // 人物选择
 const allCharacters = useCharas()
 const options = computed(() => allCharacters.map(item => ({ label: `${item.name}\u3000(${item.key})`, value: item.key })))
-const currentChara = ref(options.value?.[0].value || '')
+const currentChara = ref('')
 
 // 卡片数据
 const allCards = useCardStorage()
@@ -58,22 +57,22 @@ const columns = [
       return <NInputNumber min={1} max={5} value={row.star} onUpdateValue={v => allCards[currentChara.value][index].star = v || 0} />
     },
   },
-  {
-    title: 'UP的卡池',
-    key: 'series',
-    width: 150,
-    render(row: Card, index: number) {
-      return <NInputNumber min={0} value={row.series} onUpdateValue={v => allCards[currentChara.value][index].series = v || 0} />
-    }
-  },
-  {
-    title: '是否限定',
-    key: 'limited',
-    width: 60,
-    render(row: Card, index: number) {
-      return <NCheckbox checked={row.limited} onUpdateChecked={v => allCards[currentChara.value][index].limited = v} />
-    }
-  },
+  // {
+  //   title: 'UP的卡池',
+  //   key: 'series',
+  //   width: 150,
+  //   render(row: Card, index: number) {
+  //     return <NInputNumber min={0} value={row.series} onUpdateValue={v => allCards[currentChara.value][index].series = v || 0} />
+  //   }
+  // },
+  // {
+  //   title: '是否限定',
+  //   key: 'limited',
+  //   width: 60,
+  //   render(row: Card, index: number) {
+  //     return <NCheckbox checked={row.limited} onUpdateChecked={v => allCards[currentChara.value][index].limited = v} />
+  //   }
+  // },
   {
     title: '操作',
     key: 'action',
