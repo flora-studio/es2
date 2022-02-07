@@ -1,11 +1,13 @@
 <template>
   <div class="container">
     <thumb-pools v-model:value="selectPool" />
+    <gacha-button />
   </div>
 </template>
 <script setup lang="ts">
 import ThumbPools from './ThumbPools.vue'
 import {ref} from 'vue'
+import GachaButton from './GachaButton.vue'
 
 // 当前选择的池子
 const selectPool = ref(0)
@@ -16,6 +18,7 @@ const selectPool = ref(0)
   background: url("/src/assets/pool/default.jpg") no-repeat;
   background-size: contain;
   margin: 0 auto;
+  position: relative;
 }
 
 @media (min-aspect-ratio: 16/9){
