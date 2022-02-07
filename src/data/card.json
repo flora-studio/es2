@@ -639,7 +639,7 @@
       "star": 3,
       "name": "悩める演者",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/6/6a/%28Troubled_Performer%29_Tomoya_Mashiro_M.png/revision/latest/scale-to-width-down/100?cb=20200413005720",
-      "series": 0,
+      "series": 1,
       "limited": false
     },
     {
@@ -5963,7 +5963,7 @@
       "star": 4,
       "name": "みずといきもの",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/f/ff/%28Water_and_Life%29_Kanata_Shinkai_M.png/revision/latest/scale-to-width-down/100?cb=20200413005104",
-      "series": 0,
+      "series": 1,
       "limited": false
     },
     {
@@ -9235,7 +9235,7 @@
       "star": 5,
       "name": "暗闇の君",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/9/9b/%28Ruler_of_the_Dark%29_Mika_Kagehira_M.png/revision/latest/scale-to-width-down/100?cb=20200413004941",
-      "series": 0,
+      "series": 1,
       "limited": false
     },
     {
@@ -14565,7 +14565,7 @@
       "star": 3,
       "name": "楽しい現場",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/d/dd/%28Enjoyable_Scene%29_Hajime_Shino_M.png/revision/latest/scale-to-width-down/100?cb=20200413005655",
-      "series": 0,
+      "series": 1,
       "limited": false
     },
     {
