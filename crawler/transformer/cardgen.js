@@ -1,5 +1,5 @@
 const fs = require('fs')
-const database = require("../src/data/card.json");
+const database = require("../../src/data/card.json");
 
 const names = [
   'Eichi_Tenshouin',
@@ -63,7 +63,7 @@ const names = [
 names.forEach(name => {
   // const name = 'Tomoya_Mashiro' // 角色名
 
-  const data = require(`./cards/${name}/index.json`)
+  const data = require(`../cards/${name}/index.json`)
 
   // console.log(data)
 
@@ -81,4 +81,4 @@ names.forEach(name => {
 })
 
 
-fs.writeFileSync('../src/data/card.json', JSON.stringify(database, null, 2))
+fs.writeFileSync('../../src/data/card.json', JSON.stringify(database, null, 2))

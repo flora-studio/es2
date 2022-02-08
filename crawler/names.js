@@ -3,6 +3,7 @@ const fs = require('fs')
 
 const BASE_URL = 'https://ensemble-stars.fandom.com'
 
+// 手动跑 jq 出来的
 const names = [
   'Eichi_Tenshouin',
   'Wataru_Hibiki',

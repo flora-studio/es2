@@ -1,0 +1,1524 @@
+{
+  "event": [
+    {
+      "type": "event",
+      "url": "/wiki/Category:Dance_of_the_White_Tiger",
+      "banner": "https://static.wikia.nocookie.net/ensemble-stars/images/5/56/Dance_of_the_White_Tiger_Banner.png/revision/latest/scale-to-width-down/220?cb=20220114201541",
+      "name": "Dance of the White Tiger",
+      "start": "01/14/2021",
+      "end": "01/30/2022",
+      "upCardUrls": [
+        "/wiki/(Tranquility_and_White_Tiger)_Rinne_Amagi",
+        "/wiki/(Hope_and_White_Tiger)_Subaru_Akehoshi",
+        "/wiki/(Clever_White_Tiger)_Koga_Oogami",
+        "/wiki/(Meticulous_White_Tiger)_Tsukasa_Suou"
+      ],
+      "cg": "https://static.wikia.nocookie.net/ensemble-stars/images/f/f6/%28Tranquility_and_White_Tiger%29_Rinne_Amagi_CG2.png/revision/latest/scale-to-width-down/142?cb=20220114233958"
+    },
+    {
+      "type": "event",
+      "url": "/wiki/Category:Tiger_of_the_Fifth_Earth_Star",
+      "banner": "https://static.wikia.nocookie.net/ensemble-stars/images/6/6c/Tiger_of_the_Fifth_Earth_Star_Banner.png/revision/latest/scale-to-width-down/220?cb=20211230191742",
+      "name": "Tiger of the Fifth Earth Star",
+      "start": "12/30/2021",
+      "end": "01/14/2022",
+      "upCardUrls": [
+        "/wiki/(Free_Tiger)_Leo_Tsukinaga",
+        "/wiki/(Foreknowing_Tiger)_Natsume_Sakasaki",
+        "/wiki/(Alluding_Tiger)_Tetora_Nagumo",
+        "/wiki/(Hesitant_Tiger)_Adonis_Otogari"
+      ],
+      "cg": "https://static.wikia.nocookie.net/ensemble-stars/images/b/b3/%28Free_Tiger%29_Leo_Tsukinaga_CG2.png/revision/latest/scale-to-width-down/142?cb=20211231000548"
+    },
+    {
+      "type": "event",
+      "url": "/wiki/Category:La_Mort",
+      "banner": "https://static.wikia.nocookie.net/ensemble-stars/images/8/8b/La_Mort_Banner.png/revision/latest/scale-to-width-down/220?cb=20211215130610",
+      "name": "La Mort",
+      "start": "12/14/2021",
+      "end": "12/30/2021",
+      "upCardUrls": [
+        "/wiki/(Reaper_of_Condemnation)_Rei_Sakuma",
+        "/wiki/(Gravekeeping_Reaper)_Nagisa_Ran"
+      ],
+      "cg": "https://static.wikia.nocookie.net/ensemble-stars/images/c/cd/%28Reaper_of_Condemnation%29_Rei_Sakuma_CG2.png/revision/latest/scale-to-width-down/142?cb=20211215122453"
+    },
+    {
+      "type": "event",
+      "url": "/wiki/Category:Hot_Winter",
+      "banner": "https://static.wikia.nocookie.net/ensemble-stars/images/a/a2/Hot_Winter_Banner.png/revision/latest/scale-to-width-down/220?cb=20211129190034",
+      "name": "Hot Winter",
+      "start": "11/29/2021",
+      "end": "12/14/2021",
+      "upCardUrls": [
+        "/wiki/(Light_Illuminating_Winter)_Wataru_Hibiki",
+        "/wiki/(Passionate_Gaze_of_Winter)_Madara_Mikejima",
+        "/wiki/(Mystery_of_Winter)_Tatsumi_Kazehaya",
+        "/wiki/(Winter_and_Performance)_Izumi_Sena"
+      ],
+      "cg": "https://static.wikia.nocookie.net/ensemble-stars/images/f/f2/%28Light_Illuminating_Winter%29_Wataru_Hibiki_CG2.png/revision/latest/scale-to-width-down/142?cb=20211129162655"
+    },
+    {
+      "type": "event",
+      "url": "/wiki/Category:Detective_DANCE_(Decadance)",
+      "banner": "https://static.wikia.nocookie.net/ensemble-stars/images/f/f6/Detective_DANCE_%28Decadance%29_Banner.png/revision/latest/scale-to-width-down/220?cb=20211114074542",
+      "name": "Detective DANCE (Decadance)",
+      "start": "11/14/2021",
+      "end": "11/29/2021",
+      "upCardUrls": [
+        "/wiki/(Dainty_High_School_Detective)_Mika_Kagehira",
+        "/wiki/(Genius_High_School_Detective)_Makoto_Yuuki",
+        "/wiki/(Head_Detective)_Ibara_Saegusa",
+        "/wiki/(Senior_Detective)_HiMERU"
+      ],
+      "cg": "https://static.wikia.nocookie.net/ensemble-stars/images/8/8c/%28Dainty_High_School_Detective%29_Mika_Kagehira_CG2.png/revision/latest/scale-to-width-down/142?cb=20211114184057"
+    },
+    {
+      "type": "event",
+      "url": "/wiki/Category:Soleil",
+      "banner": "https://static.wikia.nocookie.net/ensemble-stars/images/9/93/Soleil_Banner.png/revision/latest/scale-to-width-down/220?cb=20211030123508",
+      "name": "Soleil",
+      "start": "10/30/2021",
+      "end": "11/14/2021",
+      "upCardUrls": [
+        "/wiki/(Brimming_Sun)_Mitsuru_Tenma",
+        "/wiki/(Sun_of_White_Light)_Aira_Shiratori",
+        "/wiki/(Assistance_of_the_Sun)_Shu_Itsuki",
+        "/wiki/(Plans_of_the_Sun)_Tsumugi_Aoba"
+      ],
+      "cg": "https://static.wikia.nocookie.net/ensemble-stars/images/e/ee/%28Brimming_Sun%29_Mitsuru_Tenma_CG2.png/revision/latest/scale-to-width-down/142?cb=20211031161628"
+    },
+    {
+      "type": "event",
+      "url": "/wiki/Category:Dramatica_(Scout)",
+      "banner": "https://static.wikia.nocookie.net/ensemble-stars/images/5/57/Dramatica_%28Scout%29_Banner.png/revision/latest/scale-to-width-down/220?cb=20211015033054",
+      "name": "Dramatica",
+      "start": "10/14/21",
+      "end": "10/30/21",
+      "upCardUrls": [
+        "/wiki/(Wukong_In_My_Own_Style)_Hokuto_Hidaka",
+        "/wiki/(Aesthetic_Wukong)_Shu_Itsuki",
+        "/wiki/(Surprising_Wukong)_Wataru_Hibiki",
+        "/wiki/(Normal_Wukong)_Tomoya_Mashiro"
+      ],
+      "cg": "https://static.wikia.nocookie.net/ensemble-stars/images/8/86/%28Wukong_In_My_Own_Style%29_Hokuto_Hidaka_CG2.png/revision/latest/scale-to-width-down/142?cb=20211014181812"
+    },
+    {
+      "type": "event",
+      "url": "/wiki/Category:Fruitful_OCTOBER",
+      "banner": "https://static.wikia.nocookie.net/ensemble-stars/images/4/49/Fruitful_OCTOBER_Banner.png/revision/latest/scale-to-width-down/220?cb=20210929121834",
+      "name": "Fruitful OCTOBER",
+      "start": "9/29/21",
+      "end": "10/14/21",
+      "upCardUrls": [
+        "/wiki/(Awaiting_the_Day_of_Harvest)_Yuta_Aoi",
+        "/wiki/(Rejoicing_at_the_Harvest)_Adonis_Otogari",
+        "/wiki/(Harvest_and_Work)_Kohaku_Oukawa",
+        "/wiki/(Harvest_and_Doubt)_Kaoru_Hakaze"
+      ],
+      "cg": "https://static.wikia.nocookie.net/ensemble-stars/images/6/67/%28Awaiting_the_Day_of_Harvest%29_Yuta_Aoi_CG2.png/revision/latest/scale-to-width-down/142?cb=20210929122027"
+    },
+    {
+      "type": "event",
+      "url": "/wiki/Category:One-Man_Army",
+      "banner": "https://static.wikia.nocookie.net/ensemble-stars/images/6/6b/One-Man_Army_Banner.png/revision/latest/scale-to-width-down/220?cb=20210914230113",
+      "name": "One-Man Army",
+      "start": "9/14/21",
+      "end": "9/29/21",
+      "upCardUrls": [
+        "/wiki/(Valiant_Warlord)_Souma_Kanzaki",
+        "/wiki/(Intelligent_Warlord)_Mao_Isara",
+        "/wiki/(Brave_Warlord)_Subaru_Akehoshi",
+        "/wiki/(Young_Warlord)_Hiiro_Amagi"
+      ],
+      "cg": "https://static.wikia.nocookie.net/ensemble-stars/images/9/9d/%28Valiant_Warlord%29_Souma_Kanzaki_CG2.png/revision/latest/scale-to-width-down/142?cb=20210914140948"
+    },
+    {
+      "type": "event",
+      "url": "/wiki/Category:Getto_Spectacle",
+      "banner": "https://static.wikia.nocookie.net/ensemble-stars/images/8/89/Getto_Spectacle_Banner.png/revision/latest/scale-to-width-down/220?cb=20210830194817",
+      "name": "Getto Spectacle",
+      "start": "8/30/21",
+      "end": "9/14/21",
+      "upCardUrls": [
+        "/wiki/(Moon_Capital_Night)_Tatsumi_Kazehaya",
+        "/wiki/(Moon_Capital_Fan)_Arashi_Narukami"
+      ],
+      "cg": "https://static.wikia.nocookie.net/ensemble-stars/images/b/b3/%28Moon_Capital_Night%29_Tatsumi_Kazehaya_CG2.png/revision/latest/scale-to-width-down/142?cb=20210830135055"
+    },
+    {
+      "type": "event",
+      "url": "/wiki/Category:Roaring_Sea_Marina",
+      "banner": "https://static.wikia.nocookie.net/ensemble-stars/images/5/57/Roaring_Sea_Marina_Banner.png/revision/latest/scale-to-width-down/220?cb=20210814132448",
+      "name": "Roaring Sea Marina",
+      "start": "8/14/21",
+      "end": "8/30/21",
+      "upCardUrls": [
+        "/wiki/(Surging_Heart_of_the_Roaring_Waves)_Izumi_Sena",
+        "/wiki/(Wind_Currents_of_the_Roaring_Waves)_HiMERU",
+        "/wiki/(Drawing_of_the_Roaring_Waves)_Yuzuru_Fushimi",
+        "/wiki/(Interactions_of_the_Roaring_Waves)_Midori_Takamine"
+      ],
+      "cg": "https://static.wikia.nocookie.net/ensemble-stars/images/4/4a/%28Surging_Heart_of_the_Roaring_Waves%29_Izumi_Sena_CG2.png/revision/latest/scale-to-width-down/142?cb=20210814155326"
+    },
+    {
+      "type": "event",
+      "url": "/wiki/Category:Frontline_Watchdogs",
+      "banner": "https://static.wikia.nocookie.net/ensemble-stars/images/4/40/Frontline_Watchdogs_Banner.png/revision/latest/scale-to-width-down/220?cb=20210730225745",
+      "name": "Frontline Watchdogs",
+      "start": "7/30/21",
+      "end": "8/14/21",
+      "upCardUrls": [
+        "/wiki/(Frontline_Watchdog)_Ibara_Saegusa",
+        "/wiki/(Frontline_Hunting_Dog)_Yuzuru_Fushimi",
+        "/wiki/(Frontline_Fighting_Dog)_Nagisa_Ran",
+        "/wiki/(Frontline_Faithful_Dog)_Tsukasa_Suou"
+      ],
+      "cg": "https://static.wikia.nocookie.net/ensemble-stars/images/0/0f/%28Frontline_Watchdog%29_Ibara_Saegusa_CG2.png/revision/latest/scale-to-width-down/142?cb=20210730230353"
+    },
+    {
+      "type": "event",
+      "url": "/wiki/Category:Prison_Breakers",
+      "banner": "https://static.wikia.nocookie.net/ensemble-stars/images/9/9a/Prison_Breakers_Banner.png/revision/latest/scale-to-width-down/220?cb=20210914230124",
+      "name": "Prison Breakers",
+      "start": "7/14/21",
+      "end": "7/30/21",
+      "upCardUrls": [
+        "/wiki/(Conformity_Breaker)_Koga_Oogami",
+        "/wiki/(Hideout_Breaker)_Mayoi_Ayase",
+        "/wiki/(Encirclement_Breaker)_Tori_Himemiya",
+        "/wiki/(Tactics_Breaker)_Makoto_Yuuki"
+      ],
+      "cg": "https://static.wikia.nocookie.net/ensemble-stars/images/0/0d/%28Conformity_Breaker%29_Koga_Oogami_CG2.png/revision/latest/scale-to-width-down/142?cb=20210714132727"
+    },
+    {
+      "type": "event",
+      "url": "/wiki/Category:GemSphere",
+      "banner": "https://static.wikia.nocookie.net/ensemble-stars/images/9/95/GemSphere_Banner.png/revision/latest/scale-to-width-down/220?cb=20210629081610",
+      "name": "GemSphere",
+      "start": "6/29/21",
+      "end": "7/14/21",
+      "upCardUrls": [
+        "/wiki/(Sphere_of_Azure_Mystery)_Nazuna_Nito",
+        "/wiki/(Sphere_of_Eternity)_Tetora_Nagumo",
+        "/wiki/(Sphere_of_Antiquity)_Mitsuru_Tenma",
+        "/wiki/(Sphere_of_Knowledge)_Shinobu_Sengoku"
+      ],
+      "cg": "https://static.wikia.nocookie.net/ensemble-stars/images/5/5a/%28Sphere_of_Azure_Mystery%29_Nazuna_Nito_CG2.png/revision/latest/scale-to-width-down/142?cb=20210629081244"
+    },
+    {
+      "type": "event",
+      "url": "/wiki/Category:Ring.A.Bell",
+      "banner": "https://static.wikia.nocookie.net/ensemble-stars/images/d/d7/Ring.A.Bell_Banner.png/revision/latest/scale-to-width-down/220?cb=20210614064412",
+      "name": "Ring.A.Bell",
+      "start": "6/14/21",
+      "end": "6/29/21",
+      "upCardUrls": [
+        "/wiki/(Heartfelt_Bouquet)_Mao_Isara",
+        "/wiki/(Blessed_Bouquet)_Eichi_Tenshouin"
+      ],
+      "cg": "https://static.wikia.nocookie.net/ensemble-stars/images/c/ce/%28Heartfelt_Bouquet%29_Mao_Isara_CG2.png/revision/latest/scale-to-width-down/142?cb=20210614073244"
+    },
+    {
+      "type": "event",
+      "url": "/wiki/Category:Burning_Azaleas",
+      "banner": "https://static.wikia.nocookie.net/ensemble-stars/images/c/cc/Burning_Azaleas_Banner.png/revision/latest/scale-to-width-down/220?cb=20210530233028",
+      "name": "Burning Azaleas",
+      "start": "5/30/21",
+      "end": "6/14/21",
+      "upCardUrls": [
+        "/wiki/(Painting_Blooming_Flowers)_Tsumugi_Aoba",
+        "/wiki/(Making_a_Plan_Blossom)_Rei_Sakuma",
+        "/wiki/(Flower-Filled_Stage)_Wataru_Hibiki",
+        "/wiki/(Flower%27s_Resolution)_Hokuto_Hidaka"
+      ],
+      "cg": "https://static.wikia.nocookie.net/ensemble-stars/images/9/93/%28Painting_Blooming_Flowers%29_Tsumugi_Aoba_CG2.png/revision/latest/scale-to-width-down/142?cb=20210530234351"
+    },
+    {
+      "type": "event",
+      "url": "/wiki/Category:Budding_Spring%E2%86%92Ride_ON!",
+      "banner": "https://static.wikia.nocookie.net/ensemble-stars/images/0/0b/Budding_Spring%E2%86%92Ride_ON%21_Banner.png/revision/latest/scale-to-width-down/220?cb=20210516103724",
+      "name": "Budding Spring→Ride ON!",
+      "start": "5/14/21",
+      "end": "5/30/21",
+      "upCardUrls": [
+        "/wiki/(Rookie_Skater)_Tsukasa_Suou",
+        "/wiki/(Leading_Skater)_Kaoru_Hakaze",
+        "/wiki/(Newly_Sprouting_Skater)_Adonis_Otogari",
+        "/wiki/(Beginner_Skater)_Souma_Kanzaki"
+      ],
+      "cg": "https://static.wikia.nocookie.net/ensemble-stars/images/b/bc/%28Rookie_Skater%29_Tsukasa_Suou_CG2.png/revision/latest/scale-to-width-down/142?cb=20210516105434"
+    },
+    {
+      "type": "event",
+      "url": "/wiki/Category:Pretty_5_(Scout)",
+      "banner": "https://static.wikia.nocookie.net/ensemble-stars/images/8/8b/Pretty_5_Banner.png/revision/latest/scale-to-width-down/220?cb=20210430053236",
+      "name": "Pretty 5",
+      "start": "4/29/21",
+      "end": "5/14/21",
+      "upCardUrls": [
+        "/wiki/(Student_of_Glimmering,_Dappled_Sunlight)_Arashi_Narukami",
+        "/wiki/(Ingratiating_Student)_Tori_Himemiya",
+        "/wiki/(Student_of_Heartpounding_Smiles)_Aira_Shiratori",
+        "/wiki/(Student_Cloaked_in_a_Breeze)_Hiyori_Tomoe",
+        "/wiki/(Student_With_Sparkling,_Mysterious_Eyes)_Mika_Kagehira"
+      ],
+      "cg": "https://static.wikia.nocookie.net/ensemble-stars/images/c/c0/%28Student_of_Glimmering%2C_Dappled_Sunlight%29_Arashi_Narukami_CG2.png/revision/latest/scale-to-width-down/142?cb=20210430055016"
+    },
+    {
+      "type": "event",
+      "url": "/wiki/Category:ASOBI_Club_(Scout)",
+      "banner": "https://static.wikia.nocookie.net/ensemble-stars/images/7/79/ASOBI_Club_Banner.png/revision/latest/scale-to-width-down/220?cb=20210415064658",
+      "name": "ASOBI Club",
+      "start": "4/14/21",
+      "end": "4/29/21",
+      "upCardUrls": [
+        "/wiki/(Always_a_Child_at_Heart)_Shinobu_Sengoku",
+        "/wiki/(Children%27s_Companion)_Rinne_Amagi",
+        "/wiki/(Mingling_with_the_Children)_Jun_Sazanami",
+        "/wiki/(Challenging_the_Children)_Yuta_Aoi",
+        "/wiki/(Collaborating_with_the_Children)_Sora_Harukawa"
+      ],
+      "cg": "https://static.wikia.nocookie.net/ensemble-stars/images/8/8c/%28Always_a_Child_at_Heart%29_Shinobu_Sengoku_CG2.png/revision/latest/scale-to-width-down/142?cb=20210415070146"
+    },
+    {
+      "type": "event",
+      "url": "/wiki/Category:RELOADED",
+      "banner": "https://static.wikia.nocookie.net/ensemble-stars/images/e/e3/RELOADED_Banner.png/revision/latest/scale-to-width-down/220?cb=20210331070648",
+      "name": "RELOADED",
+      "start": "3/30/21",
+      "end": "4/14/21",
+      "upCardUrls": [
+        "/wiki/(Desperate_Blow)_Tomoya_Mashiro",
+        "/wiki/(Saving_Blow)_Izumi_Sena",
+        "/wiki/(Finishing_Blow)_Kanata_Shinkai",
+        "/wiki/(Retaliatory_Blow)_Nazuna_Nito"
+      ],
+      "cg": "https://static.wikia.nocookie.net/ensemble-stars/images/5/5b/%28Desperate_Blow%29_Tomoya_Mashiro_CG2.png/revision/latest/scale-to-width-down/142?cb=20210331071928"
+    },
+    {
+      "type": "event",
+      "url": "/wiki/Category:Spring_Bed",
+      "banner": "https://static.wikia.nocookie.net/ensemble-stars/images/e/e9/Spring_Bed_Banner.png/revision/latest/scale-to-width-down/220?cb=20210314131015",
+      "name": "Spring Bed",
+      "start": "3/14/21",
+      "end": "3/30/21",
+      "upCardUrls": [
+        "/wiki/(Gloriously_Blooming_Spring)_Subaru_Akehoshi",
+        "/wiki/(Beautiful_Spring)_Tetora_Nagumo",
+        "/wiki/(Spring%27s_Warmth)_Hajime_Shino",
+        "/wiki/(Words_like_Spring_Mist)_Natsume_Sakasaki"
+      ],
+      "cg": "https://static.wikia.nocookie.net/ensemble-stars/images/3/3a/%28Gloriously_Blooming_Spring%29_Subaru_Akehoshi_CG2.png/revision/latest/scale-to-width-down/142?cb=20210314131426"
+    },
+    {
+      "type": "event",
+      "url": "/wiki/Category:Fake_Phantom_Thieves",
+      "banner": "https://static.wikia.nocookie.net/ensemble-stars/images/b/b0/Fake_Phantom_Thieves_Banner.png/revision/latest/scale-to-width-down/220?cb=20210227214233",
+      "name": "Fake Phantom Thieves",
+      "start": "2/27/21",
+      "end": "3/14/21",
+      "upCardUrls": [
+        "/wiki/(Corundum.K)_Kaoru_Hakaze",
+        "/wiki/(Howlite.S)_Shinobu_Sengoku",
+        "/wiki/(Ammolite.M)_Mika_Kagehira",
+        "/wiki/(Zirconia.H)_Hinata_Aoi"
+      ],
+      "cg": "https://static.wikia.nocookie.net/ensemble-stars/images/6/60/%28Corundum.K%29_Kaoru_Hakaze_CG2.png/revision/latest/scale-to-width-down/142?cb=20210227230718"
+    },
+    {
+      "type": "event",
+      "url": "/wiki/Category:Sweet_Hunt",
+      "banner": "https://static.wikia.nocookie.net/ensemble-stars/images/1/19/Sweet_Hunt_Banner.png/revision/latest/scale-to-width-down/220?cb=20210217213120",
+      "name": "Sweet Hunt",
+      "start": "2/14/21",
+      "end": "2/27/21",
+      "upCardUrls": [
+        "/wiki/(Sweets_Hunter)_Niki_Shiina",
+        "/wiki/(Sweets_Shooter)_Mao_Isara",
+        "/wiki/(Sweets_Sensor)_Rinne_Amagi",
+        "/wiki/(Sweets_Maker)_Ritsu_Sakuma"
+      ],
+      "cg": "https://static.wikia.nocookie.net/ensemble-stars/images/2/25/%28Sweets_Hunter%29_Niki_Shiina_CG2.png/revision/latest/scale-to-width-down/142?cb=20210216003459"
+    },
+    {
+      "type": "event",
+      "url": "/wiki/Category:White_Lily",
+      "banner": "https://static.wikia.nocookie.net/ensemble-stars/images/c/cf/White_Lily_Banner.png/revision/latest/scale-to-width-down/220?cb=20210130130811",
+      "name": "White Lily",
+      "start": "1/30/21",
+      "end": "2/14/21",
+      "upCardUrls": [
+        "/wiki/(Innocent_Prince)_Hiiro_Amagi",
+        "/wiki/(Pure_Prince)_Hokuto_Hidaka",
+        "/wiki/(Absolute_Prince)_Eichi_Tenshouin",
+        "/wiki/(Naive_Prince)_Kanata_Shinkai"
+      ],
+      "cg": "https://static.wikia.nocookie.net/ensemble-stars/images/7/76/%28Innocent_Prince%29_Hiiro_Amagi_CG2.png/revision/latest/scale-to-width-down/142?cb=20210130151528"
+    },
+    {
+      "type": "event",
+      "url": "/wiki/Category:Ushimairi_(Part_Two)",
+      "banner": "https://static.wikia.nocookie.net/ensemble-stars/images/3/37/Ushimairi_%28Part_Two%29_Banner.png/revision/latest/scale-to-width-down/220?cb=20210117034511",
+      "name": "Ushimairi (Part Two)",
+      "start": "1/14/21",
+      "end": "1/30/21",
+      "upCardUrls": [
+        "/wiki/(Red-Flamed_Judge)_Yuzuru_Fushimi",
+        "/wiki/(Red-Fuming_Prophet)_Tatsumi_Kazehaya",
+        "/wiki/(Dark_Red_Ox_Envoy)_Chiaki_Morisawa",
+        "/wiki/(Light_Red_Ox_Envoy)_Tori_Himemiya"
+      ],
+      "cg": "https://static.wikia.nocookie.net/ensemble-stars/images/d/d2/%28Red-Flamed_Judge%29_Yuzuru_Fushimi_CG2.png/revision/latest/scale-to-width-down/142?cb=20210117163602"
+    },
+    {
+      "type": "event",
+      "url": "/wiki/Category:Ushimairi_(Part_One)",
+      "banner": "https://static.wikia.nocookie.net/ensemble-stars/images/c/cd/Ushimairi_%28Part_One%29_Banner.png/revision/latest/scale-to-width-down/220?cb=20210217213209",
+      "name": "Ushimairi (Part One)",
+      "start": "12/30/20",
+      "end": "1/14/21",
+      "upCardUrls": [
+        "/wiki/(Green_and_Black_Gatekeeper)_Keito_Hasumi",
+        "/wiki/(Yellow_and_Black_Guide)_Tomoya_Mashiro",
+        "/wiki/(Jet_Black_Ox_Spirit)_Rei_Sakuma",
+        "/wiki/(Crimson_and_Black_Ox_Spirit)_Kuro_Kiryu"
+      ],
+      "cg": "https://static.wikia.nocookie.net/ensemble-stars/images/6/6e/%28Green_and_Black_Gatekeeper%29_Keito_Hasumi_CG2.png/revision/latest/scale-to-width-down/142?cb=20201231202719"
+    },
+    {
+      "type": "event",
+      "url": "/wiki/Category:Branco",
+      "banner": "https://static.wikia.nocookie.net/ensemble-stars/images/8/85/Branco_Banner.png/revision/latest/scale-to-width-down/220?cb=20201214064636",
+      "name": "Branco",
+      "start": "12/14/20",
+      "end": "12/30/20",
+      "upCardUrls": [
+        "/wiki/(Indigo_Crystals)_Aira_Shiratori",
+        "/wiki/(Violet_Crystals)_Hajime_Shino"
+      ],
+      "cg": "https://static.wikia.nocookie.net/ensemble-stars/images/a/ab/%28Indigo_Crystals%29_Aira_Shiratori_CG2.png/revision/latest/scale-to-width-down/142?cb=20201217174359"
+    },
+    {
+      "type": "event",
+      "url": "/wiki/Category:XXVeil",
+      "banner": "https://static.wikia.nocookie.net/ensemble-stars/images/4/44/XXVeil_Banner.png/revision/latest/scale-to-width-down/220?cb=20201130080446",
+      "name": "XXVeil",
+      "start": "11/29/20",
+      "end": "12/14/20",
+      "upCardUrls": [
+        "/wiki/(Nuit_at_12_O%27Clock)_Makoto_Yuuki",
+        "/wiki/(Soir%C3%A9e_at_9_O%27Clock)_Souma_Kanzaki"
+      ],
+      "cg": "https://static.wikia.nocookie.net/ensemble-stars/images/a/a7/%28Nuit_at_12_O%27Clock%29_Makoto_Yuuki_CG2.png/revision/latest/scale-to-width-down/142?cb=20201202005932"
+    },
+    {
+      "type": "event",
+      "url": "/wiki/Category:Turn_of_the_Century_Wars",
+      "banner": "https://static.wikia.nocookie.net/ensemble-stars/images/f/fc/Turn_of_the_Century_Wars_Banner.png/revision/latest/scale-to-width-down/220?cb=20201114145050",
+      "name": "Turn of the Century Wars",
+      "start": "11/14/20",
+      "end": "11/29/20",
+      "upCardUrls": [
+        "/wiki/(Survival_and_Guts)_Tetora_Nagumo",
+        "/wiki/(Survival_and_Combat)_Koga_Oogami",
+        "/wiki/(Survival_and_Observation)_Yuta_Aoi",
+        "/wiki/(Survival_and_Support)_Sora_Harukawa"
+      ],
+      "cg": "https://static.wikia.nocookie.net/ensemble-stars/images/1/1a/%28Survival_and_Guts%29_Tetora_Nagumo_CG2.png/revision/latest/scale-to-width-down/142?cb=20201114170058"
+    },
+    {
+      "type": "event",
+      "url": "/wiki/Category:Halloween_BOX",
+      "banner": "https://static.wikia.nocookie.net/ensemble-stars/images/9/94/Halloween_BOX_Banner.png/revision/latest/scale-to-width-down/220?cb=20210217213326",
+      "name": "Halloween BOX",
+      "start": "10/30/20",
+      "end": "11/14/20",
+      "upCardUrls": [
+        "/wiki/(Unsweet_Sweets)_Hinata_Aoi",
+        "/wiki/(Captivating_Sweets)_Hiiro_Amagi",
+        "/wiki/(Making_Sweets)_Tetora_Nagumo",
+        "/wiki/(Sweets_Classroom)_Niki_Shiina"
+      ],
+      "cg": "https://static.wikia.nocookie.net/ensemble-stars/images/6/69/%28Unsweet_Sweets%29_Hinata_Aoi_CG2.png/revision/latest/scale-to-width-down/142?cb=20201030084628"
+    },
+    {
+      "type": "event",
+      "url": "/wiki/Category:Spy_THE_Mission",
+      "banner": "https://static.wikia.nocookie.net/ensemble-stars/images/2/2c/Spy_THE_Mission_Banner.png/revision/latest/scale-to-width-down/220?cb=20210217213401",
+      "name": "Spy THE Mission",
+      "start": "10/14/20",
+      "end": "10/30/20",
+      "upCardUrls": [
+        "/wiki/(Daring_Spy)_Eichi_Tenshouin",
+        "/wiki/(Deceptive_Spy)_Kuro_Kiryu",
+        "/wiki/(Spy%27s_Task)_Madara_Mikejima",
+        "/wiki/(Spy%27s_Strategy)_Keito_Hasumi"
+      ],
+      "cg": "https://static.wikia.nocookie.net/ensemble-stars/images/2/2d/%28Daring_Spy%29_Eichi_Tenshouin_CG2.png/revision/latest/scale-to-width-down/142?cb=20201015203458"
+    },
+    {
+      "type": "event",
+      "url": "/wiki/Category:Werewolf",
+      "banner": "https://static.wikia.nocookie.net/ensemble-stars/images/9/90/Werewolf_Banner.png/revision/latest/scale-to-width-down/220?cb=20200929061306",
+      "name": "Werewolf",
+      "start": "9/29/20",
+      "end": "10/14/20",
+      "upCardUrls": [
+        "/wiki/(Liar_Game)_Natsume_Sakasaki",
+        "/wiki/(Deduction_Game)_Hiyori_Tomoe",
+        "/wiki/(Game_Master)_Sora_Harukawa",
+        "/wiki/(Game_Player)_Jun_Sazanami"
+      ],
+      "cg": "https://static.wikia.nocookie.net/ensemble-stars/images/2/28/%28Liar_Game%29_Natsume_Sakasaki_CG.png/revision/latest/scale-to-width-down/142?cb=20200930203442"
+    },
+    {
+      "type": "event",
+      "url": "/wiki/Category:Tsukimigatari",
+      "banner": "https://static.wikia.nocookie.net/ensemble-stars/images/b/b3/Tsukimigatari_Banner.png/revision/latest/scale-to-width-down/220?cb=20200914074118",
+      "name": "Tsukimigatari",
+      "start": "9/14/20",
+      "end": "9/29/20",
+      "upCardUrls": [
+        "/wiki/(Moon_Viewing_and_Memories)_Adonis_Otogari",
+        "/wiki/(Moon_Viewing_and_Stories)_Nazuna_Nito",
+        "/wiki/(Moon_Rabbit)_Makoto_Yuuki",
+        "/wiki/(Moon_and_Staging)_Koga_Oogami"
+      ],
+      "cg": "https://static.wikia.nocookie.net/ensemble-stars/images/d/d2/%28Moon_Viewing_and_Memories%29_Adonis_Otogari_CG2.png/revision/latest/scale-to-width-down/142?cb=20200915090817"
+    },
+    {
+      "type": "event",
+      "url": "/wiki/Category:Flowers_of_the_Wasteland",
+      "banner": "https://static.wikia.nocookie.net/ensemble-stars/images/d/d7/Flowers_of_the_Wasteland_Banner.png/revision/latest/scale-to-width-down/220?cb=20200830071622",
+      "name": "Flowers of the Wasteland",
+      "start": "8/30/20",
+      "end": "9/14/20",
+      "upCardUrls": [
+        "/wiki/(Dream_of_the_Wasteland)_Nagisa_Ran",
+        "/wiki/(Blooming_in_the_Wasteland)_Subaru_Akehoshi",
+        "/wiki/(Wasteland_and_Work)_Mao_Isara",
+        "/wiki/(Wasteland_and_Trial)_Midori_Takamine"
+      ],
+      "cg": "https://static.wikia.nocookie.net/ensemble-stars/images/b/b4/%28Dream_of_the_Wasteland%29_Nagisa_Ran_CG2.png/revision/latest/scale-to-width-down/142?cb=20200830231922"
+    },
+    {
+      "type": "event",
+      "url": "/wiki/Category:Summer_Snow",
+      "banner": "https://static.wikia.nocookie.net/ensemble-stars/images/5/5f/Summer_Snow_Banner.png/revision/latest/scale-to-width-down/220?cb=20200814142522",
+      "name": "Summer Snow",
+      "start": "8/14/20",
+      "end": "8/30/20",
+      "upCardUrls": [
+        "/wiki/(Allied_Summer)_Kanata_Shinkai",
+        "/wiki/(Profitable_Summer)_Ibara_Saegusa",
+        "/wiki/(Summer_Studying)_Hinata_Aoi",
+        "/wiki/(A_Summer_Spent_With_Friends)_Rei_Sakuma"
+      ],
+      "cg": "https://static.wikia.nocookie.net/ensemble-stars/images/2/22/%28Allied_Summer%29_Kanata_Shinkai_CG2.png/revision/latest/scale-to-width-down/142?cb=20200816061405"
+    },
+    {
+      "type": "event",
+      "url": "/wiki/Category:Dead_End_Land",
+      "banner": "https://static.wikia.nocookie.net/ensemble-stars/images/c/c1/Dead_End_Land_Banner.png/revision/latest/scale-to-width-down/220?cb=20200730070912",
+      "name": "Dead End Land",
+      "start": "7/30/20",
+      "end": "8/14/20",
+      "upCardUrls": [
+        "/wiki/(Coward%27s_Dead_End)_Mayoi_Ayase",
+        "/wiki/(Entertainer%27s_Dead_End)_Wataru_Hibiki",
+        "/wiki/(Collaboration_and_a_Dead_End)_Tomoya_Mashiro",
+        "/wiki/(Protection_and_a_Dead_End)_Shinobu_Sengoku"
+      ],
+      "cg": "https://static.wikia.nocookie.net/ensemble-stars/images/1/1f/%28Coward%27s_Dead_End%29_Mayoi_Ayase_CG2.png/revision/latest/scale-to-width-down/142?cb=20200730084707"
+    },
+    {
+      "type": "event",
+      "url": "/wiki/Category:Dollhouse",
+      "banner": "https://static.wikia.nocookie.net/ensemble-stars/images/a/a2/Dollhouse_Banner.png/revision/latest/scale-to-width-down/220?cb=20200714071847",
+      "name": "Dollhouse",
+      "start": "7/14/20",
+      "end": "7/30/20",
+      "upCardUrls": [
+        "/wiki/(Fantasy_Dollhouse)_Midori_Takamine",
+        "/wiki/(Fanciful_Dollhouse)_Mika_Kagehira",
+        "/wiki/(Dollhouse_Invasion)_Chiaki_Morisawa",
+        "/wiki/(Dollhouse_Rescue)_Tsumugi_Aoba"
+      ],
+      "cg": "https://static.wikia.nocookie.net/ensemble-stars/images/3/34/%28Fantasy_Dollhouse%29_Midori_Takamine_CG2.png/revision/latest/scale-to-width-down/142?cb=20200716182253"
+    },
+    {
+      "type": "event",
+      "url": "/wiki/Category:Beast_Survival",
+      "banner": "https://static.wikia.nocookie.net/ensemble-stars/images/b/b3/Beast_Survival_Banner.png/revision/latest/scale-to-width-down/220?cb=20200629063727",
+      "name": "Beast Survival",
+      "start": "6/29/20",
+      "end": "7/14/20",
+      "upCardUrls": [
+        "/wiki/(Striped_Hyena%27s_Hunt)_Jun_Sazanami",
+        "/wiki/(Serval%27s_Nap)_Aira_Shiratori",
+        "/wiki/(Fennec_Fox_Encounter)_Leo_Tsukinaga",
+        "/wiki/(African_Wild_Dog_Companion)_Tatsumi_Kazehaya"
+      ],
+      "cg": "https://static.wikia.nocookie.net/ensemble-stars/images/e/e9/%28Striped_Hyena%27s_Hunt%29_Jun_Sazanami_CG2.png/revision/latest/scale-to-width-down/142?cb=20200701073400"
+    },
+    {
+      "type": "event",
+      "url": "/wiki/Category:King_of_Thieves",
+      "banner": "https://static.wikia.nocookie.net/ensemble-stars/images/6/66/King_of_Thieves_Banner.png/revision/latest/scale-to-width-down/220?cb=20210217213441",
+      "name": "King of Thieves",
+      "start": "6/14/20",
+      "end": "6/29/20",
+      "upCardUrls": [
+        "/wiki/(Loyal_Thief)_Sora_Harukawa",
+        "/wiki/(Wise_Thief)_Tsumugi_Aoba",
+        "/wiki/(Calculating_Thief)_Natsume_Sakasaki",
+        "/wiki/(Hidden_Thief)_Mayoi_Ayase"
+      ],
+      "cg": "https://static.wikia.nocookie.net/ensemble-stars/images/7/78/%28Loyal_Thief%29_Sora_Harukawa_CG.png/revision/latest/scale-to-width-down/142?cb=20200615034334"
+    },
+    {
+      "type": "event",
+      "url": "/wiki/Category:Gingerbread_House",
+      "banner": "https://static.wikia.nocookie.net/ensemble-stars/images/a/a4/Gingerbread_House_Banner.png/revision/latest/scale-to-width-down/220?cb=20210217213529",
+      "name": "Gingerbread House",
+      "start": "5/30/20",
+      "end": "6/14/20",
+      "upCardUrls": [
+        "/wiki/(Lost_Gretel)_Hajime_Shino",
+        "/wiki/(Guiding_Hansel)_Arashi_Narukami",
+        "/wiki/(Candy_Trap)_Subaru_Akehoshi",
+        "/wiki/(Tempting_Sweets)_Ritsu_Sakuma"
+      ],
+      "cg": "https://static.wikia.nocookie.net/ensemble-stars/images/c/ca/%28Lost_Gretel%29_Hajime_Shino_CG.png/revision/latest/scale-to-width-down/142?cb=20200530191310"
+    },
+    {
+      "type": "event",
+      "url": "/wiki/Category:Vagabond",
+      "banner": "https://static.wikia.nocookie.net/ensemble-stars/images/5/54/Vagabond_Banner.png/revision/latest/scale-to-width-down/220?cb=20210217213602",
+      "name": "Vagabond",
+      "start": "5/14/20",
+      "end": "5/30/20",
+      "upCardUrls": [
+        "/wiki/(Old_Vagabond)_Kuro_Kiryu",
+        "/wiki/(Skilled_Vagabond)_Souma_Kanzaki",
+        "/wiki/(Merciful_Vagabond)_Keito_Hasumi",
+        "/wiki/(Drifting_Vagabond)_Hiiro_Amagi"
+      ],
+      "cg": "https://static.wikia.nocookie.net/ensemble-stars/images/c/cc/%28Old_Vagabond%29_Kuro_Kiryu_CG.png/revision/latest/scale-to-width-down/142?cb=20200515040015"
+    },
+    {
+      "type": "event",
+      "url": "/wiki/Category:Honey_Bee",
+      "banner": "https://static.wikia.nocookie.net/ensemble-stars/images/8/82/Honey_Bee_Banner.png/revision/latest/scale-to-width-down/220?cb=20210217213631",
+      "name": "Honey Bee",
+      "start": "4/29/20",
+      "end": "5/14/20",
+      "upCardUrls": [
+        "/wiki/(Hard-Working_Honey_Bee)_Kohaku_Oukawa",
+        "/wiki/(Lazy_Honey_Bee)_Rinne_Amagi",
+        "/wiki/(Hungry_Honey_Bee)_Niki_Shiina",
+        "/wiki/(Observing_Honey_Bee)_HiMERU"
+      ],
+      "cg": "https://static.wikia.nocookie.net/ensemble-stars/images/7/76/%28Hard-Working_Honey_Bee%29_Kohaku_Oukawa_CG.png/revision/latest/scale-to-width-down/142?cb=20200501052107"
+    },
+    {
+      "type": "event",
+      "url": "/wiki/Category:%E2%88%9AAtoZ",
+      "banner": "https://static.wikia.nocookie.net/ensemble-stars/images/8/8a/%E2%88%9AAtoZ_Banner.png/revision/latest/scale-to-width-down/220?cb=20200414072955",
+      "name": "√AtoZ",
+      "start": "4/14/20",
+      "end": "4/29/20",
+      "upCardUrls": [
+        "/wiki/(Positive_AtoZ)_Chiaki_Morisawa",
+        "/wiki/(Troubled_AtoZ)_Mitsuru_Tenma"
+      ],
+      "cg": "https://static.wikia.nocookie.net/ensemble-stars/images/c/c1/%28Positive_AtoZ%29_Chiaki_Morisawa_CG.png/revision/latest/scale-to-width-down/142?cb=20200414071934"
+    },
+    {
+      "type": "event",
+      "url": "/wiki/Category:Meowsketeers",
+      "banner": "https://static.wikia.nocookie.net/ensemble-stars/images/a/a2/Meowsketeers_Banner.png/revision/latest/scale-to-width-down/220?cb=20210217213717",
+      "name": "Meowsketeers",
+      "start": "3/30/20",
+      "end": "4/14/20",
+      "upCardUrls": [
+        "/wiki/(Cat_and_Knight)_Ritsu_Sakuma",
+        "/wiki/(Work_and_the_Musketeer)_Tsukasa_Suou",
+        "/wiki/(Time_and_the_Musketeer)_Izumi_Sena",
+        "/wiki/(Caretaker_and_Musketeer)_Arashi_Narukami"
+      ],
+      "cg": "https://static.wikia.nocookie.net/ensemble-stars/images/e/ec/%28Cat_and_Knight%29_Ritsu_Sakuma_CG.png/revision/latest/scale-to-width-down/142?cb=20200403220015"
+    }
+  ],
+  "feature": [
+    {
+      "type": "feature",
+      "url": "/wiki/Category:Hinata_Feature_Scout",
+      "banner": "https://static.wikia.nocookie.net/ensemble-stars/images/4/45/Hinata_Feature_Scout.png/revision/latest/scale-to-width-down/220?cb=20220111005944",
+      "name": "Hinata Feature Scout",
+      "start": "01/10/22",
+      "end": "01/25/22",
+      "upCardUrls": [
+        "/wiki/(Colors_Mixed_Together)_Hinata_Aoi",
+        "/wiki/(High_Level_Outdoor_Game)_Hiiro_Amagi",
+        "/wiki/(Gamer_Pride)_Yuta_Aoi"
+      ],
+      "cg": "https://static.wikia.nocookie.net/ensemble-stars/images/1/1c/%28Colors_Mixed_Together%29_Hinata_Aoi_CG2.png/revision/latest/scale-to-width-down/142?cb=20220111011918"
+    },
+    {
+      "type": "feature",
+      "url": "/wiki/Category:Niki_Feature_Scout",
+      "banner": "https://static.wikia.nocookie.net/ensemble-stars/images/6/65/Niki_Feature_Scout.png/revision/latest/scale-to-width-down/220?cb=20211225164459",
+      "name": "Niki Feature Scout",
+      "start": "12/25/21",
+      "end": "1/10/22",
+      "upCardUrls": [
+        "/wiki/(Melody_Delivered_To_Your_Heart)_Niki_Shiina",
+        "/wiki/(Fan_Mindset)_Tomoya_Mashiro",
+        "/wiki/(In_Charge_of_the_Sweets)_Tsukasa_Suou"
+      ],
+      "cg": "https://static.wikia.nocookie.net/ensemble-stars/images/8/82/%28Melody_Delivered_To_Your_Heart%29_Niki_Shiina_CG2.png/revision/latest/scale-to-width-down/142?cb=20211225215231"
+    },
+    {
+      "type": "feature",
+      "url": "/wiki/Category:Yuzuru_Feature_Scout",
+      "banner": "https://static.wikia.nocookie.net/ensemble-stars/images/7/70/Yuzuru_Feature_Scout.png/revision/latest/scale-to-width-down/220?cb=20211125194131",
+      "name": "Yuzuru Feature Scout",
+      "start": "11/25/21",
+      "end": "12/10/21",
+      "upCardUrls": [
+        "/wiki/(Devoted_Valet)_Yuzuru_Fushimi",
+        "/wiki/(Shape_of_Love)_Tori_Himemiya",
+        "/wiki/(The_Charms_of_Acting)_Arashi_Narukami"
+      ],
+      "cg": "https://static.wikia.nocookie.net/ensemble-stars/images/9/93/%28Devoted_Valet%29_Yuzuru_Fushimi_CG2.png/revision/latest/scale-to-width-down/142?cb=20211125184814"
+    },
+    {
+      "type": "feature",
+      "url": "/wiki/Category:Kanata_Feature_Scout",
+      "banner": "https://static.wikia.nocookie.net/ensemble-stars/images/3/3f/Kanata_Feature_Scout.png/revision/latest/scale-to-width-down/220?cb=20211110174232",
+      "name": "Kanata Feature Scout",
+      "start": "11/10/21",
+      "end": "11/25/21",
+      "upCardUrls": [
+        "/wiki/(Intertwined_Sea)_Kanata_Shinkai",
+        "/wiki/(Self-Expression_Coaching)_Hiyori_Tomoe",
+        "/wiki/(A_Way_to_Eat_Vegetables)_Hinata_Aoi"
+      ],
+      "cg": "https://static.wikia.nocookie.net/ensemble-stars/images/7/70/%28Intertwined_Sea%29_Kanata_Shinkai_CG2.png/revision/latest/scale-to-width-down/142?cb=20211110144743"
+    },
+    {
+      "type": "feature",
+      "url": "/wiki/Category:Midori_Feature_Scout",
+      "banner": "https://static.wikia.nocookie.net/ensemble-stars/images/6/6a/Midori_Feature_Scout.png/revision/latest/scale-to-width-down/220?cb=20211012152300",
+      "name": "Midori Feature Scout",
+      "start": "10/10/21",
+      "end": "10/25/21",
+      "upCardUrls": [
+        "/wiki/(Comfortable_Staying_Just_As_I_Am)_Midori_Takamine",
+        "/wiki/(Food_and_Connoisseurship)_Niki_Shiina",
+        "/wiki/(Likes_and_Circumstances)_HiMERU"
+      ],
+      "cg": "https://static.wikia.nocookie.net/ensemble-stars/images/7/7e/%28Comfortable_Staying_Just_As_I_Am%29_Midori_Takamine_CG2.png/revision/latest/scale-to-width-down/142?cb=20211010133131"
+    },
+    {
+      "type": "feature",
+      "url": "/wiki/Category:Tetora_Feature_Scout",
+      "banner": "https://static.wikia.nocookie.net/ensemble-stars/images/5/55/Tetora_Feature_Scout.png/revision/latest/scale-to-width-down/220?cb=20210925172940",
+      "name": "Tetora Feature Scout",
+      "start": "9/25/21",
+      "end": "10/10/21",
+      "upCardUrls": [
+        "/wiki/(Growing_Tiger_Cub)_Tetora_Nagumo",
+        "/wiki/(Ninja_Discussion)_Shinobu_Sengoku",
+        "/wiki/(Break_Time)_Tsumugi_Aoba"
+      ],
+      "cg": "https://static.wikia.nocookie.net/ensemble-stars/images/e/ee/%28Growing_Tiger_Cub%29_Tetora_Nagumo_CG2.png/revision/latest/scale-to-width-down/142?cb=20210925091034"
+    },
+    {
+      "type": "feature",
+      "url": "/wiki/Category:Subaru_Feature_Scout",
+      "banner": "https://static.wikia.nocookie.net/ensemble-stars/images/0/03/Subaru_Feature_Scout.png/revision/latest/scale-to-width-down/220?cb=20210912164520",
+      "name": "Subaru Feature Scout",
+      "start": "9/10/21",
+      "end": "9/25/21",
+      "upCardUrls": [
+        "/wiki/(The_Star_Shining_for_Someone)_Subaru_Akehoshi",
+        "/wiki/(Having_Each_Other%27s_Back)_Kuro_Kiryu",
+        "/wiki/(Making_Jewelry)_Mika_Kagehira"
+      ],
+      "cg": "https://static.wikia.nocookie.net/ensemble-stars/images/9/9b/%28The_Star_Shining_for_Someone%29_Subaru_Akehoshi_CG2.png/revision/latest/scale-to-width-down/142?cb=20210912221452"
+    },
+    {
+      "type": "feature",
+      "url": "/wiki/Category:Kohaku_Feature_Scout",
+      "banner": "https://static.wikia.nocookie.net/ensemble-stars/images/8/8d/Kohaku_Feature_Scout.png/revision/latest/scale-to-width-down/220?cb=20210825124310",
+      "name": "Kohaku Feature Scout",
+      "start": "8/25/21",
+      "end": "9/10/21",
+      "upCardUrls": [
+        "/wiki/(Amber-Colored_Blossom_in_Bloom)_Kohaku_Oukawa",
+        "/wiki/(Feeling_Tipsy)_Rinne_Amagi",
+        "/wiki/(Souvenirs_from_the_North)_Aira_Shiratori"
+      ],
+      "cg": "https://static.wikia.nocookie.net/ensemble-stars/images/6/63/%28Amber-Colored_Blossom_in_Bloom%29_Kohaku_Oukawa_CG2.png/revision/latest/scale-to-width-down/142?cb=20210825142900"
+    },
+    {
+      "type": "feature",
+      "url": "/wiki/Category:Hiiro_Feature_Scout",
+      "banner": "https://static.wikia.nocookie.net/ensemble-stars/images/4/48/Hiiro_Feature_Scout.png/revision/latest/scale-to-width-down/220?cb=20210810160225",
+      "name": "Hiiro Feature Scout",
+      "start": "8/10/21",
+      "end": "8/25/21",
+      "upCardUrls": [
+        "/wiki/(Intersecting_Paths)_Hiiro_Amagi",
+        "/wiki/(A_Day_off_with_Friends)_Hajime_Shino",
+        "/wiki/(A_Word_of_Advice)_Madara_Mikejima"
+      ],
+      "cg": "https://static.wikia.nocookie.net/ensemble-stars/images/d/d8/%28Intersecting_Paths%29_Hiiro_Amagi_CG2.png/revision/latest/scale-to-width-down/142?cb=20210810223736"
+    },
+    {
+      "type": "feature",
+      "url": "/wiki/Category:Chiaki_Feature_Scout",
+      "banner": "https://static.wikia.nocookie.net/ensemble-stars/images/7/7b/Chiaki_Feature_Scout.png/revision/latest/scale-to-width-down/220?cb=20210725064949",
+      "name": "Chiaki Feature Scout",
+      "start": "7/25/21",
+      "end": "8/10/21",
+      "upCardUrls": [
+        "/wiki/(Ray_of_Hope)_Chiaki_Morisawa",
+        "/wiki/(Movie_Marathon)_Subaru_Akehoshi",
+        "/wiki/(Cooking_Instructor)_Niki_Shiina"
+      ],
+      "cg": "https://static.wikia.nocookie.net/ensemble-stars/images/d/dc/%28Ray_of_Hope%29_Chiaki_Morisawa_CG2.png/revision/latest/scale-to-width-down/142?cb=20210725094640"
+    },
+    {
+      "type": "feature",
+      "url": "/wiki/Category:Sora_Feature_Scout",
+      "banner": "https://static.wikia.nocookie.net/ensemble-stars/images/e/e3/Sora_Feature_Scout.png/revision/latest/scale-to-width-down/220?cb=20210710120941",
+      "name": "Sora Feature Scout",
+      "start": "7/10/21",
+      "end": "7/25/21",
+      "upCardUrls": [
+        "/wiki/(Donning_the_Overlapping_Colors_of_Myself)_Sora_Harukawa",
+        "/wiki/(Everyday_Changes)_Tatsumi_Kazehaya",
+        "/wiki/(Conversation_Topics)_Kaoru_Hakaze",
+        "/wiki/(Muscle_Talk)_Tetora_Nagumo"
+      ],
+      "cg": "https://static.wikia.nocookie.net/ensemble-stars/images/3/39/%28Donning_the_Overlapping_Colors_of_Myself%29_Sora_Harukawa_CG2.png/revision/latest/scale-to-width-down/142?cb=20210710141422"
+    },
+    {
+      "type": "feature",
+      "url": "/wiki/Category:Makoto_Feature_Scout",
+      "banner": "https://static.wikia.nocookie.net/ensemble-stars/images/9/9c/Makoto_Feature_Scout.png/revision/latest/scale-to-width-down/220?cb=20210626015545",
+      "name": "Makoto Feature Scout",
+      "start": "6/25/21",
+      "end": "7/10/21",
+      "upCardUrls": [
+        "/wiki/(All_the_Different_Sides_of_Myself)_Makoto_Yuuki",
+        "/wiki/(Role_Versus_Reality)_Mitsuru_Tenma",
+        "/wiki/(What_Only_Exists_in_the_Moment)_Shinobu_Sengoku",
+        "/wiki/(Making_Plans_on_a_Day_Off)_Keito_Hasumi"
+      ],
+      "cg": "https://static.wikia.nocookie.net/ensemble-stars/images/a/a4/%28All_the_Different_Sides_of_Myself%29_Makoto_Yuuki_CG2.png/revision/latest/scale-to-width-down/142?cb=20210626021558"
+    },
+    {
+      "type": "feature",
+      "url": "/wiki/Category:Aira_Feature_Scout",
+      "banner": "https://static.wikia.nocookie.net/ensemble-stars/images/5/54/Aira_Feature_Scout.png/revision/latest/scale-to-width-down/220?cb=20210610113135",
+      "name": "Aira Feature Scout",
+      "start": "6/10/21",
+      "end": "6/25/21",
+      "upCardUrls": [
+        "/wiki/(Blossoming_Loveliness)_Aira_Shiratori",
+        "/wiki/(As_Both_an_Older_and_Younger_Brother)_Hinata_Aoi",
+        "/wiki/(Peaceful_Gathering)_Nazuna_Nito",
+        "/wiki/(Quiet_Library)_Hajime_Shino"
+      ],
+      "cg": "https://static.wikia.nocookie.net/ensemble-stars/images/5/5b/%28Blossoming_Loveliness%29_Aira_Shiratori_CG2.png/revision/latest/scale-to-width-down/142?cb=20210610113535"
+    },
+    {
+      "type": "feature",
+      "url": "/wiki/Category:Mayoi_Feature_Scout",
+      "banner": "https://static.wikia.nocookie.net/ensemble-stars/images/3/34/Mayoi_Feature_Scout.png/revision/latest/scale-to-width-down/220?cb=20210525081234",
+      "name": "Mayoi Feature Scout",
+      "start": "5/25/21",
+      "end": "6/10/21",
+      "upCardUrls": [
+        "/wiki/(Coward_Hiding_in_the_Corner)_Mayoi_Ayase",
+        "/wiki/(Cleaning_Up)_Mika_Kagehira",
+        "/wiki/(A_Moment_to_Rest)_Yuzuru_Fushimi",
+        "/wiki/(Indoor_Ocean)_Izumi_Sena"
+      ],
+      "cg": "https://static.wikia.nocookie.net/ensemble-stars/images/e/e7/%28Coward_Hiding_in_the_Corner%29_Mayoi_Ayase_CG2.png/revision/latest/scale-to-width-down/142?cb=20210525082338"
+    },
+    {
+      "type": "feature",
+      "url": "/wiki/Category:Natsume_Feature_Scout",
+      "banner": "https://static.wikia.nocookie.net/ensemble-stars/images/3/3b/Natsume_Feature_Scout.png/revision/latest/scale-to-width-down/220?cb=20210510162014",
+      "name": "Natsume Feature Scout",
+      "start": "5/10/21",
+      "end": "5/25/21",
+      "upCardUrls": [
+        "/wiki/(Guide_Harboring_Wishes)_Natsume_Sakasaki",
+        "/wiki/(Tea_and_Getting_into_the_Right_State_of_Mind)_Kohaku_Oukawa",
+        "/wiki/(Lively_Dorm_Room)_Hiyori_Tomoe"
+      ],
+      "cg": "https://static.wikia.nocookie.net/ensemble-stars/images/c/c2/%28Guide_Harboring_Wishes%29_Natsume_Sakasaki_CG2.png/revision/latest/scale-to-width-down/142?cb=20210513010101"
+    },
+    {
+      "type": "feature",
+      "url": "/wiki/Category:Adonis_Feature_Scout",
+      "banner": "https://static.wikia.nocookie.net/ensemble-stars/images/5/56/Adonis_Feature_Scout.png/revision/latest/scale-to-width-down/220?cb=20210426070435",
+      "name": "Adonis Feature Scout",
+      "start": "4/25/21",
+      "end": "5/10/21",
+      "upCardUrls": [
+        "/wiki/(He_Who_Cloaks_Himself_in_the_Winds_of_His_Homeland)_Adonis_Otogari",
+        "/wiki/(The_Garden%27s_Growth)_Koga_Oogami",
+        "/wiki/(World_History_Class)_Kuro_Kiryu"
+      ],
+      "cg": "https://static.wikia.nocookie.net/ensemble-stars/images/8/87/%28He_Who_Cloaks_Himself_in_the_Winds_of_His_Homeland%29_Adonis_Otogari_CG2.png/revision/latest/scale-to-width-down/142?cb=20210426071603"
+    },
+    {
+      "type": "feature",
+      "url": "/wiki/Category:Jun_Feature_Scout",
+      "banner": "https://static.wikia.nocookie.net/ensemble-stars/images/7/70/Jun_Feature_Scout.png/revision/latest/scale-to-width-down/220?cb=20210412064202",
+      "name": "Jun Feature Scout",
+      "start": "4/10/21",
+      "end": "4/25/21",
+      "upCardUrls": [
+        "/wiki/(The_Path_I_Resist_as_I_Walk_Down_It)_Jun_Sazanami",
+        "/wiki/(Black_Box)_Ibara_Saegusa",
+        "/wiki/(Normal_Friends)_Tsukasa_Suou",
+        "/wiki/(Shopping_Experience)_Nagisa_Ran"
+      ],
+      "cg": "https://static.wikia.nocookie.net/ensemble-stars/images/8/8e/%28The_Path_I_Resist_as_I_Walk_Down_It%29_Jun_Sazanami_CG2.png/revision/latest/scale-to-width-down/142?cb=20210412065541"
+    },
+    {
+      "type": "feature",
+      "url": "/wiki/Category:Rei_Feature_Scout",
+      "banner": "https://static.wikia.nocookie.net/ensemble-stars/images/1/1d/Rei_Feature_Scout.png/revision/latest/scale-to-width-down/220?cb=20210325235854",
+      "name": "Rei Feature Scout",
+      "start": "3/25/21",
+      "end": "4/10/21",
+      "upCardUrls": [
+        "/wiki/(Guide_of_Chaos_and_Love)_Rei_Sakuma",
+        "/wiki/(Dormitory_Roommates)_Wataru_Hibiki",
+        "/wiki/(Dining_with_a_Stranger)_Shu_Itsuki",
+        "/wiki/(Club_Activity_Report)_Ritsu_Sakuma"
+      ],
+      "cg": "https://static.wikia.nocookie.net/ensemble-stars/images/2/2d/%28Guide_of_Chaos_and_Love%29_Rei_Sakuma_CG2.png/revision/latest/scale-to-width-down/142?cb=20210326001925"
+    },
+    {
+      "type": "feature",
+      "url": "/wiki/Category:Madara_Feature_Scout",
+      "banner": "https://static.wikia.nocookie.net/ensemble-stars/images/9/9e/Madara_Feature_Scout.png/revision/latest/scale-to-width-down/220?cb=20210311232125",
+      "name": "Madara Feature Scout",
+      "start": "3/10/21",
+      "end": "3/25/21",
+      "upCardUrls": [
+        "/wiki/(Place_of_Thundrous_Festivities)_Madara_Mikejima",
+        "/wiki/(Parfait_of_Pure_Bliss)_Midori_Takamine",
+        "/wiki/(Arranging_Flowers_and_the_Mind)_Keito_Hasumi",
+        "/wiki/(The_Taste_of_Memories)_Souma_Kanzaki"
+      ],
+      "cg": "https://static.wikia.nocookie.net/ensemble-stars/images/b/ba/%28Place_of_Thundrous_Festivities%29_Madara_Mikejima_CG2.png/revision/latest/scale-to-width-down/142?cb=20210311233343"
+    },
+    {
+      "type": "feature",
+      "url": "/wiki/Category:Yuta_Feature_Scout",
+      "banner": "https://static.wikia.nocookie.net/ensemble-stars/images/8/8d/Yuta_Feature_Scout.png/revision/latest/scale-to-width-down/220?cb=20210226214748",
+      "name": "Yuta Feature Scout",
+      "start": "2/25/21",
+      "end": "3/10/21",
+      "upCardUrls": [
+        "/wiki/(Individuality_and_Potential)_Yuta_Aoi",
+        "/wiki/(Unexpected_Day_Off)_Aira_Shiratori",
+        "/wiki/(Planning_a_Future_Trip)_Tori_Himemiya",
+        "/wiki/(Frayed_Thread)_HiMERU"
+      ],
+      "cg": "https://static.wikia.nocookie.net/ensemble-stars/images/e/eb/%28Individuality_and_Potential%29_Yuta_Aoi_CG2.png/revision/latest/scale-to-width-down/142?cb=20210227025639"
+    },
+    {
+      "type": "feature",
+      "url": "/wiki/Category:Hiyori_Feature_Scout",
+      "banner": "https://static.wikia.nocookie.net/ensemble-stars/images/5/58/Hiyori_Feature_Scout.png/revision/latest/scale-to-width-down/220?cb=20210212032022",
+      "name": "Hiyori Feature Scout",
+      "start": "2/10/21",
+      "end": "2/25/21",
+      "upCardUrls": [
+        "/wiki/(Every_Day_is_the_Brightest_Day)_Hiyori_Tomoe",
+        "/wiki/(Buying_a_New_Book)_Jun_Sazanami",
+        "/wiki/(A_Club_Leader%27s_Duties)_Makoto_Yuuki",
+        "/wiki/(A_Gathering_of_Novices)_Mayoi_Ayase"
+      ],
+      "cg": "https://static.wikia.nocookie.net/ensemble-stars/images/7/73/%28Every_Day_is_the_Brightest_Day%29_Hiyori_Tomoe_CG2.png/revision/latest/scale-to-width-down/142?cb=20210212204359"
+    },
+    {
+      "type": "feature",
+      "url": "/wiki/Category:Nazuna_Feature_Scout",
+      "banner": "https://static.wikia.nocookie.net/ensemble-stars/images/7/7b/Nazuna_Feature_Scout.png/revision/latest/scale-to-width-down/220?cb=20210126061138",
+      "name": "Nazuna Feature Scout",
+      "start": "1/25/21",
+      "end": "2/10/21",
+      "upCardUrls": [
+        "/wiki/(Guiding_the_Path_to_the_Future)_Nazuna_Nito",
+        "/wiki/(Presenting_a_New_Creation)_Eichi_Tenshouin",
+        "/wiki/(Guessing_the_Recipient)_Kaoru_Hakaze",
+        "/wiki/(Impressions_and_Reality)_Koga_Oogami"
+      ],
+      "cg": "https://static.wikia.nocookie.net/ensemble-stars/images/e/e9/%28Guiding_the_Path_to_the_Future%29_Nazuna_Nito_CG2.png/revision/latest/scale-to-width-down/142?cb=20210126223455"
+    },
+    {
+      "type": "feature",
+      "url": "/wiki/Category:Leo_Feature_Scout",
+      "banner": "https://static.wikia.nocookie.net/ensemble-stars/images/2/2f/Leo_Feature_Scout.png/revision/latest/scale-to-width-down/220?cb=20210112232941",
+      "name": "Leo Feature Scout",
+      "start": "1/10/21",
+      "end": "1/25/21",
+      "upCardUrls": [
+        "/wiki/(Prismatic_Colours_Flowing_Forth)_Leo_Tsukinaga",
+        "/wiki/(Pulse_of_the_Waves)_Nagisa_Ran",
+        "/wiki/(The_Lunch_Gathering)_Ibara_Saegusa",
+        "/wiki/(In_Search_of_the_Cat)_Tsukasa_Suou"
+      ],
+      "cg": "https://static.wikia.nocookie.net/ensemble-stars/images/7/7e/%28Prismatic_Colours_Flowing_Forth%29_Leo_Tsukinaga_CG2.png/revision/latest/scale-to-width-down/142?cb=20210113001747"
+    },
+    {
+      "type": "feature",
+      "url": "/wiki/Category:Tsumugi_Feature_Scout",
+      "banner": "https://static.wikia.nocookie.net/ensemble-stars/images/7/72/Tsumugi_Feature_Scout.png/revision/latest/scale-to-width-down/220?cb=20201226070103",
+      "name": "Tsumugi Feature Scout",
+      "start": "12/25/20",
+      "end": "1/10/21",
+      "upCardUrls": [
+        "/wiki/(Wings_of_Magic)_Tsumugi_Aoba",
+        "/wiki/(Backhanded_Kindness)_HiMERU",
+        "/wiki/(Humans_and_Animals)_Wataru_Hibiki",
+        "/wiki/(A_Shift_in_Mindset)_Natsume_Sakasaki"
+      ],
+      "cg": "https://static.wikia.nocookie.net/ensemble-stars/images/3/34/%28Wings_of_Magic%29_Tsumugi_Aoba_CG2.png/revision/latest/scale-to-width-down/142?cb=20201226164239"
+    },
+    {
+      "type": "feature",
+      "url": "/wiki/Category:Rinne_Feature_Scout",
+      "banner": "https://static.wikia.nocookie.net/ensemble-stars/images/2/2a/Rinne_Feature_Scout.png/revision/latest/scale-to-width-down/220?cb=20201212091057",
+      "name": "Rinne Feature Scout",
+      "start": "12/10/20",
+      "end": "12/25/20",
+      "upCardUrls": [
+        "/wiki/(An_Outsider%27s_Value)_Rinne_Amagi",
+        "/wiki/(Gentle_Pride_in_Your_Strength)_Adonis_Otogari",
+        "/wiki/(An_Ordinary_Day)_Mao_Isara",
+        "/wiki/(A_Later_Follow_Up)_Madara_Mikejima"
+      ],
+      "cg": "https://static.wikia.nocookie.net/ensemble-stars/images/d/d1/%28An_Outsider%27s_Value%29_Rinne_Amagi_CG2.png/revision/latest/scale-to-width-down/142?cb=20201212171209"
+    },
+    {
+      "type": "feature",
+      "url": "/wiki/Category:Shu_Feature_Scout",
+      "banner": "https://static.wikia.nocookie.net/ensemble-stars/images/3/30/Shu_Feature_Scout.png/revision/latest/scale-to-width-down/220?cb=20201125065720",
+      "name": "Shu Feature Scout",
+      "start": "11/25/20",
+      "end": "12/10/20",
+      "upCardUrls": [
+        "/wiki/(Uncompromisable_Outfit)_Shu_Itsuki",
+        "/wiki/(Ideal_Diorama)_Mayoi_Ayase",
+        "/wiki/(Student%27s_Duty)_Hokuto_Hidaka",
+        "/wiki/(Self-improvement)_Arashi_Narukami"
+      ],
+      "cg": "https://static.wikia.nocookie.net/ensemble-stars/images/2/28/%28Uncompromisable_Outfit%29_Shu_Itsuki_CG2.png/revision/latest/scale-to-width-down/142?cb=20201127075519"
+    },
+    {
+      "type": "feature",
+      "url": "/wiki/Category:Wataru_Feature_Scout",
+      "banner": "https://static.wikia.nocookie.net/ensemble-stars/images/c/c3/Wataru_Feature_Scout.png/revision/latest/scale-to-width-down/220?cb=20201110111320",
+      "name": "Wataru Feature Scout",
+      "start": "11/10/20",
+      "end": "11/25/20",
+      "upCardUrls": [
+        "/wiki/(How_I_Appear_in_your_Eyes)_Wataru_Hibiki",
+        "/wiki/(Nostalgic_Room)_Rei_Sakuma",
+        "/wiki/(Welcome_Party)_Mika_Kagehira",
+        "/wiki/(Pride_in_Sweets)_Kohaku_Oukawa"
+      ],
+      "cg": "https://static.wikia.nocookie.net/ensemble-stars/images/1/19/%28How_I_Appear_in_your_Eyes%29_Wataru_Hibiki_CG2.png/revision/latest/scale-to-width-down/142?cb=20201110160623"
+    },
+    {
+      "type": "feature",
+      "url": "/wiki/Category:Tsukasa_Feature_Scout",
+      "banner": "https://static.wikia.nocookie.net/ensemble-stars/images/1/14/Tsukasa_Feature_Scout.png/revision/latest/scale-to-width-down/220?cb=20201025072935",
+      "name": "Tsukasa Feature Scout",
+      "start": "10/25/20",
+      "end": "11/10/20",
+      "upCardUrls": [
+        "/wiki/(In_Order_to_Become_a_King)_Tsukasa_Suou",
+        "/wiki/(Before_Practice)_Ritsu_Sakuma",
+        "/wiki/(Untitled_Book)_Chiaki_Morisawa",
+        "/wiki/(Seaside_Foraging)_Kanata_Shinkai"
+      ],
+      "cg": "https://static.wikia.nocookie.net/ensemble-stars/images/5/51/%28In_Order_to_Become_a_King%29_Tsukasa_Suou_CG.png/revision/latest/scale-to-width-down/142?cb=20201025195607"
+    },
+    {
+      "type": "feature",
+      "url": "/wiki/Category:Tomoya_Feature_Scout",
+      "banner": "https://static.wikia.nocookie.net/ensemble-stars/images/7/7a/Tomoya_Feature_Scout.png/revision/latest/scale-to-width-down/220?cb=20201010085935",
+      "name": "Tomoya Feature Scout",
+      "start": "10/10/20",
+      "end": "10/25/20",
+      "upCardUrls": [
+        "/wiki/(The_Epitome_of_Standard)_Tomoya_Mashiro",
+        "/wiki/(Prank_Corner)_Yuta_Aoi",
+        "/wiki/(At_the_Pace_of_Bread)_Mitsuru_Tenma",
+        "/wiki/(New_Roommate)_Leo_Tsukinaga"
+      ],
+      "cg": "https://static.wikia.nocookie.net/ensemble-stars/images/7/74/%28The_Epitome_of_Standard%29_Tomoya_Mashiro_CG2.png/revision/latest/scale-to-width-down/142?cb=20201011023904"
+    },
+    {
+      "type": "feature",
+      "url": "/wiki/Category:Arashi_Feature_Scout",
+      "banner": "https://static.wikia.nocookie.net/ensemble-stars/images/b/b8/Arashi_Feature_Scout.png/revision/latest/scale-to-width-down/220?cb=20200925233643",
+      "name": "Arashi Feature Scout",
+      "start": "9/25/20",
+      "end": "10/10/20",
+      "upCardUrls": [
+        "/wiki/(The_Best_Self_I_Can_Be)_Arashi_Narukami",
+        "/wiki/(Irreplaceable_Glasses)_Keito_Hasumi",
+        "/wiki/(The_Essence_of_Beauty)_Izumi_Sena",
+        "/wiki/(Brothers%27_Suggestion)_Tsumugi_Aoba"
+      ],
+      "cg": "https://static.wikia.nocookie.net/ensemble-stars/images/a/ac/%28The_Best_Self_I_Can_Be%29_Arashi_Narukami_CG.png/revision/latest/scale-to-width-down/142?cb=20200925231457"
+    },
+    {
+      "type": "feature",
+      "url": "/wiki/Category:Shinobu_Feature_Scout",
+      "banner": "https://static.wikia.nocookie.net/ensemble-stars/images/7/76/Shinobu_Feature_Scout.png/revision/latest/scale-to-width-down/220?cb=20200910070310",
+      "name": "Shinobu Feature Scout",
+      "start": "9/10/20",
+      "end": "9/25/20",
+      "upCardUrls": [
+        "/wiki/(Light_Beaming_from_the_Darkness)_Shinobu_Sengoku",
+        "/wiki/(What_a_Hero_is)_Chiaki_Morisawa",
+        "/wiki/(A_New_Lifestyle)_Yuzuru_Fushimi",
+        "/wiki/(A_Battle_with_Hunger)_Niki_Shiina"
+      ],
+      "cg": "https://static.wikia.nocookie.net/ensemble-stars/images/d/d7/%28Light_Beaming_from_the_Darkness%29_Shinobu_Sengoku_CG2.png/revision/latest/scale-to-width-down/142?cb=20200911001214"
+    },
+    {
+      "type": "feature",
+      "url": "/wiki/Category:Souma_Feature_Scout",
+      "banner": "https://static.wikia.nocookie.net/ensemble-stars/images/4/44/Souma_Feature_Scout.png/revision/latest/scale-to-width-down/220?cb=20200825203444",
+      "name": "Souma Feature Scout",
+      "start": "8/25/20",
+      "end": "9/10/20",
+      "upCardUrls": [
+        "/wiki/(An_Oath_to_the_Gods_of_Heaven_and_Earth)_Souma_Kanzaki",
+        "/wiki/(The_Price_for_Fortune_Telling)_Natsume_Sakasaki",
+        "/wiki/(Basketball_Connections)_Aira_Shiratori",
+        "/wiki/(Advice_and_Confession)_Tatsumi_Kazehaya"
+      ],
+      "cg": "https://static.wikia.nocookie.net/ensemble-stars/images/8/84/%28An_Oath_to_the_Gods_of_Heaven_and_Earth%29_Souma_Kanzaki_CG.png/revision/latest/scale-to-width-down/142?cb=20200827170813"
+    },
+    {
+      "type": "feature",
+      "url": "/wiki/Category:HiMERU_Feature_Scout",
+      "banner": "https://static.wikia.nocookie.net/ensemble-stars/images/6/63/HiMERU_Feature_Scout.png/revision/latest/scale-to-width-down/220?cb=20200810152704",
+      "name": "HiMERU Feature Scout",
+      "start": "8/10/20",
+      "end": "8/25/20",
+      "upCardUrls": [
+        "/wiki/(Hidden_Feelings)_HiMERU",
+        "/wiki/(Asking_a_Favor_of_Someone_Younger)_Kaoru_Hakaze",
+        "/wiki/(Souvenir_Tea_Party)_Jun_Sazanami",
+        "/wiki/(Time_Spent_Apart)_Kuro_Kiryu"
+      ],
+      "cg": "https://static.wikia.nocookie.net/ensemble-stars/images/1/14/%28Hidden_Feelings%29_HiMERU_CG2.png/revision/latest/scale-to-width-down/142?cb=20200810163522"
+    },
+    {
+      "type": "feature",
+      "url": "/wiki/Category:Mitsuru_Feature_Scout",
+      "banner": "https://static.wikia.nocookie.net/ensemble-stars/images/b/bf/Mitsuru_Feature_Scout.png/revision/latest/scale-to-width-down/220?cb=20200725063424",
+      "name": "Mitsuru Feature Scout",
+      "start": "7/25/20",
+      "end": "8/10/20",
+      "upCardUrls": [
+        "/wiki/(Delivered_at_the_Speed_of_Light)_Mitsuru_Tenma",
+        "/wiki/(Midnight_Companion)_Tetora_Nagumo",
+        "/wiki/(Friendship_with_the_Guest_Star)_Subaru_Akehoshi",
+        "/wiki/(Time-Limited)_Shu_Itsuki"
+      ],
+      "cg": "https://static.wikia.nocookie.net/ensemble-stars/images/9/96/%28Delivered_at_the_Speed_of_Light%29_Mitsuru_Tenma_CG.png/revision/latest/scale-to-width-down/142?cb=20200725201717"
+    },
+    {
+      "type": "feature",
+      "url": "/wiki/Category:Hokuto_Feature_Scout",
+      "banner": "https://static.wikia.nocookie.net/ensemble-stars/images/7/78/Hokuto_Feature_Scout.png/revision/latest/scale-to-width-down/220?cb=20200711084111",
+      "name": "Hokuto Feature Scout",
+      "start": "7/10/20",
+      "end": "7/25/20",
+      "upCardUrls": [
+        "/wiki/(My_One_and_Only_Goal)_Hokuto_Hidaka",
+        "/wiki/(Shopping_with_Roommates)_Tsukasa_Suou",
+        "/wiki/(Meet_and_Greet_Investigation)_Hiyori_Tomoe",
+        "/wiki/(Handmade_Thank_You_Gift)_Hiiro_Amagi"
+      ],
+      "cg": "https://static.wikia.nocookie.net/ensemble-stars/images/e/e7/%28My_One_and_Only_Goal%29_Hokuto_Hidaka_CG2.png/revision/latest/scale-to-width-down/142?cb=20200710080042"
+    },
+    {
+      "type": "feature",
+      "url": "/wiki/Category:Mao_Feature_Scout",
+      "banner": "https://static.wikia.nocookie.net/ensemble-stars/images/a/a2/Mao_Feature_Scout.png/revision/latest/scale-to-width-down/220?cb=20200626052715",
+      "name": "Mao Feature Scout",
+      "start": "6/25/20",
+      "end": "7/10/20",
+      "upCardUrls": [
+        "/wiki/(Mundane_Specialty)_Mao_Isara",
+        "/wiki/(The_Start_of_Fondness)_Makoto_Yuuki",
+        "/wiki/(Adults%27_Afternoon)_Eichi_Tenshouin",
+        "/wiki/(Bonds_That_Can_Be_Called_Friendship)_Midori_Takamine"
+      ],
+      "cg": "https://static.wikia.nocookie.net/ensemble-stars/images/0/0d/%28Mundane_Specialty%29_Mao_Isara_CG2.png/revision/latest/scale-to-width-down/142?cb=20200626115039"
+    },
+    {
+      "type": "feature",
+      "url": "/wiki/Category:Tori_Feature_Scout",
+      "banner": "https://static.wikia.nocookie.net/ensemble-stars/images/b/b8/Tori_Feature_Scout.png/revision/latest/scale-to-width-down/220?cb=20200610073932",
+      "name": "Tori Feature Scout",
+      "start": "6/10/20",
+      "end": "6/25/20",
+      "upCardUrls": [
+        "/wiki/(The_Princely_Princess_I_Aspire_to_Be)_Tori_Himemiya",
+        "/wiki/(Escaping_the_Heat_After_School)_Yuzuru_Fushimi",
+        "/wiki/(Leaving_it_to_Chance)_Rinne_Amagi",
+        "/wiki/(Peaceful_Library)_Nagisa_Ran"
+      ],
+      "cg": "https://static.wikia.nocookie.net/ensemble-stars/images/1/1f/%28The_Princely_Princess_I_Aspire_to_Be%29_Tori_Himemiya_CG2.png/revision/latest/scale-to-width-down/142?cb=20200613042214"
+    },
+    {
+      "type": "feature",
+      "url": "/wiki/Category:Izumi_Feature_Scout",
+      "banner": "https://static.wikia.nocookie.net/ensemble-stars/images/b/b6/Izumi_Feature_Scout.png/revision/latest/scale-to-width-down/220?cb=20200525132202",
+      "name": "Izumi Feature Scout",
+      "start": "5/25/20",
+      "end": "6/10/20",
+      "upCardUrls": [
+        "/wiki/(Fairy_of_Morning_Mist)_Izumi_Sena",
+        "/wiki/(Into_the_Spotlight)_Leo_Tsukinaga",
+        "/wiki/(Volunteering)_Tetora_Nagumo",
+        "/wiki/(Barely_Different)_Shinobu_Sengoku"
+      ],
+      "cg": "https://static.wikia.nocookie.net/ensemble-stars/images/b/b9/%28Fairy_of_Morning_Mist%29_Izumi_Sena_CG.png/revision/latest/scale-to-width-down/142?cb=20200526165744"
+    },
+    {
+      "type": "feature",
+      "url": "/wiki/Category:Koga_Feature_Scout",
+      "banner": "https://static.wikia.nocookie.net/ensemble-stars/images/9/97/Koga_Feature_Scout.png/revision/latest/scale-to-width-down/220?cb=20200510125016",
+      "name": "Koga Feature Scout",
+      "start": "5/10/20",
+      "end": "5/25/20",
+      "upCardUrls": [
+        "/wiki/(Gleaming_Mad_Wolf_Musician)_Koga_Oogami",
+        "/wiki/(Aesthetic-driven_Creator)_Shu_Itsuki",
+        "/wiki/(Idol_Radio)_Rei_Sakuma",
+        "/wiki/(Living_a_New_Life)_Nazuna_Nito"
+      ],
+      "cg": "https://static.wikia.nocookie.net/ensemble-stars/images/7/7a/%28Gleaming_Mad_Wolf_Musician%29_Koga_Oogami_CG.png/revision/latest/scale-to-width-down/142?cb=20200510181115"
+    },
+    {
+      "type": "feature",
+      "url": "/wiki/Category:Ibara_Feature_Scout",
+      "banner": "https://static.wikia.nocookie.net/ensemble-stars/images/a/a6/Ibara_Feature_Scout.png/revision/latest/scale-to-width-down/220?cb=20200425080441",
+      "name": "Ibara Feature Scout",
+      "start": "4/25/20",
+      "end": "5/10/20",
+      "upCardUrls": [
+        "/wiki/(Deceitful_Commander)_Ibara_Saegusa",
+        "/wiki/(Serious_by_Nature)_Hokuto_Hidaka",
+        "/wiki/(Thoughtful_Gift)_Adonis_Otogari",
+        "/wiki/(Packed_Bundle)_Hinata_Aoi"
+      ],
+      "cg": "https://static.wikia.nocookie.net/ensemble-stars/images/c/c4/%28Deceitful_Commander%29_Ibara_Saegusa_CG.png/revision/latest/scale-to-width-down/142?cb=20200425102401"
+    },
+    {
+      "type": "feature",
+      "url": "/wiki/Category:Tatsumi_Feature_Scout",
+      "banner": "https://static.wikia.nocookie.net/ensemble-stars/images/c/c0/Tatsumi_Feature_Scout.png/revision/latest/scale-to-width-down/220?cb=20200410151812",
+      "name": "Tatsumi Feature Scout",
+      "start": "4/10/20",
+      "end": "4/25/20",
+      "upCardUrls": [
+        "/wiki/(Tranquil_Prayer)_Tatsumi_Kazehaya",
+        "/wiki/(Lone_First-Magnitude_Star)_Madara_Mikejima",
+        "/wiki/(Hidden_Ability)_Yuta_Aoi",
+        "/wiki/(White_of_Happiness)_Sora_Harukawa"
+      ],
+      "cg": "https://static.wikia.nocookie.net/ensemble-stars/images/8/8c/%28Tranquil_Prayer%29_Tatsumi_Kazehaya_CG.png/revision/latest/scale-to-width-down/142?cb=20200410141922"
+    },
+    {
+      "type": "feature",
+      "url": "/wiki/Category:Mika_Feature_Scout",
+      "banner": "https://static.wikia.nocookie.net/ensemble-stars/images/d/db/Mika_Feature_Scout.png/revision/latest/scale-to-width-down/220?cb=20200325061119",
+      "name": "Mika Feature Scout",
+      "start": "3/25/20",
+      "end": "4/10/20",
+      "upCardUrls": [
+        "/wiki/(Ruler_of_the_Dark)_Mika_Kagehira",
+        "/wiki/(Water_and_Life)_Kanata_Shinkai",
+        "/wiki/(Troubled_Performer)_Tomoya_Mashiro",
+        "/wiki/(Enjoyable_Scene)_Hajime_Shino"
+      ],
+      "cg": "https://static.wikia.nocookie.net/ensemble-stars/images/e/e4/%28Ruler_of_the_Dark%29_Mika_Kagehira_CG.png/revision/latest/scale-to-width-down/142?cb=20200326034638"
+    }
+  ],
+  "anniversary": [
+    {
+      "type": "anniversary",
+      "url": "/wiki/Category:LOVE_Scout:_Group_B",
+      "banner": "https://static.wikia.nocookie.net/ensemble-stars/images/3/32/LOVE_Scout_Group_B_Banner.png/revision/latest/scale-to-width-down/190?cb=20210510173801",
+      "name": "LOVE Scout: Group B",
+      "start": "5/5/21",
+      "end": "5/12/21",
+      "upCardUrls": [
+        "/wiki/(Stubbornness_is_Part_of_Rock)_Hokuto_Hidaka",
+        "/wiki/(My_Very_Own_Style_of_Rock)_Aira_Shiratori",
+        "/wiki/(It%27s_Rock_Because_It%27s_Straightforward)_Tomoya_Mashiro",
+        "/wiki/(Reassuring_Rock)_Natsume_Sakasaki",
+        "/wiki/(The_Rock_I%27ve_Decided_to_Play)_Madara_Mikejima"
+      ]
+    },
+    {
+      "type": "anniversary",
+      "url": "/wiki/Category:LOVE_Scout:_Group_C",
+      "banner": "https://static.wikia.nocookie.net/ensemble-stars/images/6/6b/LOVE_Scout_Group_C_Banner.png/revision/latest/scale-to-width-down/190?cb=20210515081626",
+      "name": "LOVE Scout: Group C",
+      "start": "5/12/21",
+      "end": "5/19/21",
+      "upCardUrls": [
+        "/wiki/(An_Artistic_Style_That%27s_Inherent_to_Rock)_Wataru_Hibiki",
+        "/wiki/(Even_Rock_Must_Be_Done_Beautifully)_Hiyori_Tomoe",
+        "/wiki/(Dashing_and_Rocking)_Mitsuru_Tenma",
+        "/wiki/(Subconsciously_Rocking)_Tsumugi_Aoba",
+        "/wiki/(Perfect_Rock)_Kohaku_Oukawa"
+      ]
+    },
+    {
+      "type": "anniversary",
+      "url": "/wiki/Category:LOVE_Scout:_Group_D",
+      "banner": "https://static.wikia.nocookie.net/ensemble-stars/images/d/d3/LOVE_Scout_Group_D_Banner.png/revision/latest/scale-to-width-down/190?cb=20210521113206",
+      "name": "LOVE Scout: Group D",
+      "start": "5/19/21",
+      "end": "5/26/21",
+      "upCardUrls": [
+        "/wiki/(Striving_Towards_Rock)_Tori_Himemiya",
+        "/wiki/(Willpower_Is_Still_Part_of_Rock)_Makoto_Yuuki",
+        "/wiki/(The_Bastion_of_Rock)_Tatsumi_Kazehaya",
+        "/wiki/(Greedily_Rocking)_Ibara_Saegusa",
+        "/wiki/(It%27s_Rock_Despite_Its_Distortion)_Mika_Kagehira",
+        "/wiki/(A_Gentle_Style_of_Rock)_Hajime_Shino"
+      ]
+    },
+    {
+      "type": "anniversary",
+      "url": "/wiki/Category:LOVE_Scout:_Group_E",
+      "banner": "https://static.wikia.nocookie.net/ensemble-stars/images/2/27/LOVE_Scout_Group_E_Banner.png/revision/latest/scale-to-width-down/190?cb=20210527094107",
+      "name": "LOVE Scout: Group E",
+      "start": "5/26/21",
+      "end": "6/2/21",
+      "upCardUrls": [
+        "/wiki/(Succeeding_in_Rock)_Yuzuru_Fushimi",
+        "/wiki/(Carefree_With_Even_Rock)_Mao_Isara",
+        "/wiki/(Rocking_From_Afar)_Mayoi_Ayase",
+        "/wiki/(With_a_Rocking_Soul)_Jun_Sazanami",
+        "/wiki/(Rock_of_New_Encounters)_Nazuna_Nito",
+        "/wiki/(Cheerful_Rock)_Sora_Harukawa"
+      ]
+    },
+    {
+      "type": "anniversary",
+      "url": "/wiki/Category:SOUL_Scout:_Group_A",
+      "banner": "https://static.wikia.nocookie.net/ensemble-stars/images/e/ef/SOUL_Scout_Group_A_Banner.png/revision/latest/scale-to-width-down/190?cb=20210929122026",
+      "name": "SOUL Scout: Group A",
+      "start": "9/28/21",
+      "end": "10/5/21",
+      "upCardUrls": [
+        "/wiki/(Burning_Rock)_Chiaki_Morisawa",
+        "/wiki/(Playful_Rock)_Hinata_Aoi",
+        "/wiki/(Heretical_Rock)_Rinne_Amagi",
+        "/wiki/(Rock_Instincts)_Rei_Sakuma",
+        "/wiki/(Unbending_Rock)_Keito_Hasumi",
+        "/wiki/(Knights%27_Rock)_Tsukasa_Suou"
+      ]
+    },
+    {
+      "type": "anniversary",
+      "url": "/wiki/Category:SOUL_Scout:_Group_B",
+      "banner": "https://static.wikia.nocookie.net/ensemble-stars/images/6/6a/SOUL_Scout_Group_B_Banner.png/revision/latest/scale-to-width-down/190?cb=20211025203055",
+      "name": "SOUL Scout: Group B",
+      "start": "10/5/21",
+      "end": "10/12/21",
+      "upCardUrls": [
+        "/wiki/(Rock_of_Stormy_Seas)_Kanata_Shinkai",
+        "/wiki/(Manly_Rock)_Tetora_Nagumo",
+        "/wiki/(Piercing_Rock)_HiMERU",
+        "/wiki/(Rockin%27_in_a_Flexible_Way)_Kaoru_Hakaze",
+        "/wiki/(Invigorating_Rock)_Kuro_Kiryu",
+        "/wiki/(Composing_is_Rock_and_Roll)_Leo_Tsukinaga"
+      ]
+    },
+    {
+      "type": "anniversary",
+      "url": "/wiki/Category:SOUL_Scout:_Group_C",
+      "banner": "https://static.wikia.nocookie.net/ensemble-stars/images/6/63/SOUL_Scout_Group_C_Banner.png/revision/latest/scale-to-width-down/190?cb=20211025203118",
+      "name": "SOUL Scout: Group C",
+      "start": "10/12/21",
+      "end": "10/19/21",
+      "upCardUrls": [
+        "/wiki/(Freely_Rockin%27)_Midori_Takamine",
+        "/wiki/(Cheeky_Rock)_Yuta_Aoi",
+        "/wiki/(Rockin%27_Willpower)_Kohaku_Oukawa",
+        "/wiki/(Pure_Rock_and_Roll)_Koga_Oogami",
+        "/wiki/(Rock_and_Roll_Warrior)_Souma_Kanzaki",
+        "/wiki/(Rockin%27_Job)_Izumi_Sena"
+      ]
+    },
+    {
+      "type": "anniversary",
+      "url": "/wiki/Category:SOUL_Scout:_Group_D",
+      "banner": "https://static.wikia.nocookie.net/ensemble-stars/images/5/52/SOUL_Scout_Group_D_Banner.png/revision/latest/scale-to-width-down/190?cb=20211021190929",
+      "name": "SOUL Scout: Group D",
+      "start": "10/19/21",
+      "end": "10/26/21",
+      "upCardUrls": [
+        "/wiki/(Rock_and_Roll_Ninja)_Shinobu_Sengoku",
+        "/wiki/(A_Pinch_Of_Rock_and_Roll_In_Cooking)_Niki_Shiina",
+        "/wiki/(Resonating_Rock)_Adonis_Otogari",
+        "/wiki/(Lax_Rock)_Ritsu_Sakuma",
+        "/wiki/(Rockin%27_Beauty)_Arashi_Narukami"
+      ]
+    },
+    {
+      "type": "anniversary",
+      "url": "/wiki/Category:StarPro_Scout:_Group_B",
+      "banner": "https://static.wikia.nocookie.net/ensemble-stars/images/6/6d/StarPro_Scout_Group_B_Banner.png/revision/latest/scale-to-width-down/190?cb=20200507220116",
+      "name": "StarPro Scout: Group B",
+      "start": "5/5/20",
+      "end": "5/12/20",
+      "upCardUrls": [
+        "/wiki/(StarPro%27s_Attendant)_Yuzuru_Fushimi",
+        "/wiki/(StarPro%27s_Brains)_Makoto_Yuuki",
+        "/wiki/(StarPro%27s_Intermediary)_Mao_Isara",
+        "/wiki/(StarPro%27s_Justice)_Chiaki_Morisawa",
+        "/wiki/(StarPro%27s_Willpower)_Tetora_Nagumo",
+        "/wiki/(StarPro%27s_Minister)_Tatsumi_Kazehaya"
+      ]
+    },
+    {
+      "type": "anniversary",
+      "url": "/wiki/Category:StarPro_Scout:_Group_C",
+      "banner": "https://static.wikia.nocookie.net/ensemble-stars/images/a/a9/StarPro_Scout_Group_C_Banner.png/revision/latest/scale-to-width-down/190?cb=20200512222320",
+      "name": "StarPro Scout: Group C",
+      "start": "5/12/20",
+      "end": "5/19/20",
+      "upCardUrls": [
+        "/wiki/(StarPro%27s_Sunshine)_Wataru_Hibiki",
+        "/wiki/(StarPro%27s_Prized_Flower)_Tori_Himemiya",
+        "/wiki/(StarPro%27s_Stubbornness)_Hokuto_Hidaka",
+        "/wiki/(StarPro%27s_Comfort)_Kanata_Shinkai",
+        "/wiki/(StarPro%27s_Airhead)_Hiiro_Amagi"
+      ]
+    },
+    {
+      "type": "anniversary",
+      "url": "/wiki/Category:CosPro_Scout:_Group_A",
+      "banner": "https://static.wikia.nocookie.net/ensemble-stars/images/e/ee/CosPro_Scout_Group_A_Banner.png/revision/latest/scale-to-width-down/190?cb=20200628080717",
+      "name": "CosPro Scout: Group A",
+      "start": "6/28/20",
+      "end": "7/5/20",
+      "upCardUrls": [
+        "/wiki/(CosPro%27s_Prized_Treasure)_Nagisa_Ran",
+        "/wiki/(CosPro%27s_Grit)_Jun_Sazanami",
+        "/wiki/(CosPro%27s_Artist)_Shu_Itsuki",
+        "/wiki/(CosPro%27s_Courage)_Yuta_Aoi",
+        "/wiki/(CosPro%27s_Secrecy)_HiMERU",
+        "/wiki/(CosPro%27s_Stomach)_Niki_Shiina"
+      ]
+    },
+    {
+      "type": "anniversary",
+      "url": "/wiki/Category:CosPro_Scout:_Group_B",
+      "banner": "https://static.wikia.nocookie.net/ensemble-stars/images/9/97/CosPro_Scout_Group_B_Banner.png/revision/latest/scale-to-width-down/190?cb=20200705073132",
+      "name": "CosPro Scout: Group B",
+      "start": "7/5/20",
+      "end": "7/12/20",
+      "upCardUrls": [
+        "/wiki/(CosPro%27s_Sun)_Hiyori_Tomoe",
+        "/wiki/(CosPro%27s_Representative)_Ibara_Saegusa",
+        "/wiki/(CosPro%27s_Hopes)_Mika_Kagehira",
+        "/wiki/(CosPro%27s_Energy)_Hinata_Aoi",
+        "/wiki/(CosPro%27s_Stinger)_Rinne_Amagi",
+        "/wiki/(CosPro%27s_Tradition)_Kohaku_Oukawa"
+      ]
+    },
+    {
+      "type": "anniversary",
+      "url": "/wiki/Category:RhyLin_Scout:_Group_A",
+      "banner": "https://static.wikia.nocookie.net/ensemble-stars/images/3/3f/RhyLin_Scout_Group_A_Banner.png/revision/latest/scale-to-width-down/190?cb=20200829102806",
+      "name": "RhyLin Scout: Group A",
+      "start": "8/28/20",
+      "end": "9/4/20",
+      "upCardUrls": [
+        "/wiki/(RhyLin%27s_Vampire)_Rei_Sakuma",
+        "/wiki/(RhyLin%27s_Compassion)_Adonis_Otogari",
+        "/wiki/(RhyLin%27s_Coexistence)_Nazuna_Nito",
+        "/wiki/(RhyLin%27s_Potential)_Tomoya_Mashiro",
+        "/wiki/(RhyLin%27s_Valor)_Kuro_Kiryu",
+        "/wiki/(RhyLin%27s_Elegance)_Souma_Kanzaki"
+      ]
+    },
+    {
+      "type": "anniversary",
+      "url": "/wiki/Category:RhyLin_Scout:_Group_B",
+      "banner": "https://static.wikia.nocookie.net/ensemble-stars/images/c/c9/RhyLin_Scout_Group_B_Banner.png/revision/latest/scale-to-width-down/190?cb=20200905185139",
+      "name": "RhyLin Scout: Group B",
+      "start": "9/4/20",
+      "end": "9/11/20",
+      "upCardUrls": [
+        "/wiki/(RhyLin%27s_Heartthrob)_Kaoru_Hakaze",
+        "/wiki/(RhyLin%27s_Rock_n_Roll)_Koga_Oogami",
+        "/wiki/(RhyLin%27s_Star)_Mitsuru_Tenma",
+        "/wiki/(RhyLin%27s_Serenity)_Hajime_Shino",
+        "/wiki/(RhyLin%27s_Representative)_Keito_Hasumi"
+      ]
+    },
+    {
+      "type": "anniversary",
+      "url": "/wiki/Category:NewDi_Scout:_Group_A",
+      "banner": "https://static.wikia.nocookie.net/ensemble-stars/images/3/3b/NewDi_Scout_Group_A_Banner.png/revision/latest/scale-to-width-down/190?cb=20201110121559",
+      "name": "NewDi Scout: Group A",
+      "start": "11/10/20",
+      "end": "11/17/20",
+      "upCardUrls": [
+        "/wiki/(NewDi%27s_Representative)_Tsukasa_Suou",
+        "/wiki/(NewDi%27s_Composer)_Leo_Tsukinaga",
+        "/wiki/(NewDi%27s_Brain)_Ritsu_Sakuma",
+        "/wiki/(NewDi%27s_Support)_Tsumugi_Aoba",
+        "/wiki/(NewDi%27s_Banquet)_Madara_Mikejima"
+      ]
+    },
+    {
+      "type": "anniversary",
+      "url": "/wiki/Category:NewDi_Scout:_Group_B",
+      "banner": "https://static.wikia.nocookie.net/ensemble-stars/images/a/ab/NewDi_Scout_Group_B_Banner.png/revision/latest/scale-to-width-down/190?cb=20201117091315",
+      "name": "NewDi Scout: Group B",
+      "start": "11/17/20",
+      "end": "11/24/20",
+      "upCardUrls": [
+        "/wiki/(NewDi%27s_Challenger)_Izumi_Sena",
+        "/wiki/(NewDi%27s_Advisor)_Arashi_Narukami",
+        "/wiki/(NewDi%27s_Eccentric)_Natsume_Sakasaki",
+        "/wiki/(NewDi%27s_Smile)_Sora_Harukawa"
+      ]
+    }
+  ]
+}
