@@ -1686,5 +1686,49 @@
       ],
       "series": 1
     }
+  ],
+  "limited": [
+    {
+      "type": "limited",
+      "banner": "https://static.wikia.nocookie.net/ensemble-stars/images/6/64/Jump_%E2%98%86_To_the_Brilliant_Future_Banner.png/revision/latest/scale-to-width-down/190?cb=20210423093502",
+      "name": "Jump ☆ To the Brilliant Future",
+      "series": 1
+    },
+    {
+      "type": "limited",
+      "banner": "https://static.wikia.nocookie.net/ensemble-stars/images/f/ff/Black_Cat_Rhapsody_Banner.png/revision/latest/scale-to-width-down/190?cb=20211012210645",
+      "name": "Black Cat Rhapsody",
+      "series": 2
+    },
+    {
+      "type": "limited",
+      "banner": "https://static.wikia.nocookie.net/ensemble-stars/images/3/36/Song_of_Mermaids_Banner.png/revision/latest/scale-to-width-down/190?cb=20210917185850",
+      "name": "Song of Mermaids",
+      "series": 3
+    },
+    {
+      "type": "limited",
+      "banner": "https://static.wikia.nocookie.net/ensemble-stars/images/e/e0/Little_Moments_of_the_Interlacing_Years_Banner.png/revision/latest/scale-to-width-down/190?cb=20210310214647",
+      "name": "Little Moments of the Interlacing Years",
+      "series": 4
+    },
+    {
+      "type": "limited",
+      "banner": "https://static.wikia.nocookie.net/ensemble-stars/images/9/95/Notre_Rencontre_Banner.png/revision/latest/scale-to-width-down/190?cb=20220105134359",
+      "name": "Notre Rencontre",
+      "series": 5
+    },
+    {
+      "type": "limited",
+      "banner": "https://static.wikia.nocookie.net/ensemble-stars/images/8/8a/Mysterious_Myths_Banner.png/revision/latest/scale-to-width-down/190?cb=20210611165624",
+      "name": "Mysterious Myths",
+      "series": 6
+    },
+    {
+      "type": "limited",
+      "banner": "",
+      "name": "A Gift to Spring Breeze",
+      "series": 7
+    }
   ]
 }
