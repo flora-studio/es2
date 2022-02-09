@@ -5,14 +5,16 @@
       "star": 5,
       "name": "闇より出づる光",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/c/c7/%28Light_Beaming_from_the_Darkness%29_Shinobu_Sengoku_M.png/revision/latest/scale-to-width-down/100?cb=20200911001542",
-      "series": 0
+      "series": 12,
+      "type": "feature"
     },
     {
       "id": "Always_a_Child_at_Heart",
       "star": 5,
       "name": "変わらぬ子供心",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/7/75/%28Always_a_Child_at_Heart%29_Shinobu_Sengoku_M.png/revision/latest/scale-to-width-down/100?cb=20210415070154",
-      "series": 0
+      "series": 26,
+      "type": "event"
     },
     {
       "id": "Lover_of_Ninja",
@@ -33,21 +35,24 @@
       "star": 4,
       "name": "ハウライト.S",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/4/41/%28Howlite.S%29_Shinobu_Sengoku_M.png/revision/latest/scale-to-width-down/100?cb=20210227214931",
-      "series": 0
+      "series": 23,
+      "type": "event"
     },
     {
       "id": "Ninja_Discussion",
       "star": 4,
       "name": "忍者談議",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/d/df/%28Ninja_Discussion%29_Shinobu_Sengoku_M.png/revision/latest/scale-to-width-down/100?cb=20210925161550",
-      "series": 0
+      "series": 37,
+      "type": "feature"
     },
     {
       "id": "Rock_and_Roll_Ninja",
       "star": 4,
       "name": "忍者ロック",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/6/63/%28Rock_and_Roll_Ninja%29_Shinobu_Sengoku_M.png/revision/latest/scale-to-width-down/100?cb=20211021183431",
-      "series": 0
+      "series": 9,
+      "type": "anniversary"
     },
     {
       "id": "Practicing",
@@ -61,28 +66,32 @@
       "star": 3,
       "name": "わずかな差",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/6/66/%28Barely_Different%29_Shinobu_Sengoku_M.png/revision/latest/scale-to-width-down/100?cb=20200525214227",
-      "series": 0
+      "series": 5,
+      "type": "feature"
     },
     {
       "id": "Protection_and_a_Dead_End",
       "star": 3,
       "name": "庇護とデッドエンド",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/2/2d/%28Protection_and_a_Dead_End%29_Shinobu_Sengoku_M.png/revision/latest/scale-to-width-down/100?cb=20200802161314",
-      "series": 0
+      "series": 9,
+      "type": "event"
     },
     {
       "id": "What_Only_Exists_in_the_Moment",
       "star": 3,
       "name": "今だけのもの",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/d/d6/%28What_Only_Exists_in_the_Moment%29_Shinobu_Sengoku_M.png/revision/latest/scale-to-width-down/100?cb=20210626021659",
-      "series": 0
+      "series": 31,
+      "type": "feature"
     },
     {
       "id": "Sphere_of_Knowledge",
       "star": 3,
       "name": "知識のスフィア",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/9/9c/%28Sphere_of_Knowledge%29_Shinobu_Sengoku_M.png/revision/latest/scale-to-width-down/100?cb=20210629081215",
-      "series": 0
+      "series": 31,
+      "type": "event"
     },
     {
       "id": "Nimble_Radiance",
@@ -105,42 +114,48 @@
       "star": 5,
       "name": "王道ど真ん中",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/5/52/%28The_Epitome_of_Standard%29_Tomoya_Mashiro_M.png/revision/latest/scale-to-width-down/100?cb=20201011024623",
-      "series": 0
+      "series": 14,
+      "type": "feature"
     },
     {
       "id": "Desperate_Blow",
       "star": 5,
       "name": "絶体絶命の一撃",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/6/67/%28Desperate_Blow%29_Tomoya_Mashiro_M.png/revision/latest/scale-to-width-down/100?cb=20210331071933",
-      "series": 0
+      "series": 25,
+      "type": "event"
     },
     {
       "id": "RhyLin%27s_Potential",
       "star": 4,
       "name": "リズリンの有望",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/8/84/%28RhyLin%27s_Potential%29_Tomoya_Mashiro_M.png/revision/latest/scale-to-width-down/100?cb=20200830004523",
-      "series": 0
+      "series": 4,
+      "type": "anniversary"
     },
     {
       "id": "Yellow_and_Black_Guide",
       "star": 4,
       "name": "黄黒の案内者",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/0/0e/%28Yellow_and_Black_Guide%29_Tomoya_Mashiro_M.png/revision/latest/scale-to-width-down/100?cb=20201231063617",
-      "series": 0
+      "series": 19,
+      "type": "event"
     },
     {
       "id": "It%27s_Rock_Because_It%27s_Straightforward",
       "star": 4,
       "name": "地道こそロック",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/7/7d/%28It%27s_Rock_Because_It%27s_Straightforward%29_Tomoya_Mashiro_M.png/revision/latest/scale-to-width-down/100?cb=20210506214252",
-      "series": 0
+      "series": 16,
+      "type": "anniversary"
     },
     {
       "id": "Fan_Mindset",
       "star": 4,
       "name": "ファン心理",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/8/8f/%28Fan_Mindset%29_Tomoya_Mashiro_M.png/revision/latest/scale-to-width-down/100?cb=20211225220006",
-      "series": 0
+      "series": 43,
+      "type": "feature"
     },
     {
       "id": "Practicing",
@@ -154,21 +169,24 @@
       "star": 3,
       "name": "悩める演者",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/6/6a/%28Troubled_Performer%29_Tomoya_Mashiro_M.png/revision/latest/scale-to-width-down/100?cb=20200413005720",
-      "series": 1
+      "series": 1,
+      "type": "feature"
     },
     {
       "id": "Collaboration_and_a_Dead_End",
       "star": 3,
       "name": "共同とデッドエンド",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/1/1c/%28Collaboration_and_a_Dead_End%29_Tomoya_Mashiro_M.png/revision/latest/scale-to-width-down/100?cb=20200802161243",
-      "series": 0
+      "series": 9,
+      "type": "event"
     },
     {
       "id": "Normal_Wukong",
       "star": 3,
       "name": "普遍の悟空",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/e/ee/%28Normal_Wukong%29_Tomoya_Mashiro_M.png/revision/latest/scale-to-width-down/100?cb=20211014163811",
-      "series": 0
+      "series": 38,
+      "type": "event"
     }
   ],
   "Eichi_Tenshouin": [
@@ -184,7 +202,8 @@
       "star": 5,
       "name": "大胆なスパイ",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/2/21/%28Daring_Spy%29_Eichi_Tenshouin_M.png/revision/latest/scale-to-width-down/100?cb=20201015210027",
-      "series": 0
+      "series": 14,
+      "type": "event"
     },
     {
       "id": "StarPro%27s_Representative",
@@ -198,7 +217,8 @@
       "star": 4,
       "name": "新作披露会",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/d/d1/%28Presenting_a_New_Creation%29_Eichi_Tenshouin_M.png/revision/latest/scale-to-width-down/100?cb=20210126061806",
-      "series": 0
+      "series": 21,
+      "type": "feature"
     },
     {
       "id": "Playing_Rock_in_the_Spotlight",
@@ -212,7 +232,8 @@
       "star": 4,
       "name": "祝福のブーケ",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/7/7c/%28Blessed_Bouquet%29_Eichi_Tenshouin_M.png/revision/latest/scale-to-width-down/100?cb=20210614073235",
-      "series": 0
+      "series": 30,
+      "type": "event"
     },
     {
       "id": "Practicing",
@@ -226,14 +247,16 @@
       "star": 3,
       "name": "大人の午後",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/8/86/%28Adults%27_Afternoon%29_Eichi_Tenshouin_M.png/revision/latest/scale-to-width-down/100?cb=20200702233127",
-      "series": 0
+      "series": 7,
+      "type": "feature"
     },
     {
       "id": "Absolute_Prince",
       "star": 3,
       "name": "純然王子さま",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/1/18/%28Absolute_Prince%29_Eichi_Tenshouin_M.png/revision/latest/scale-to-width-down/100?cb=20210130132441",
-      "series": 0
+      "series": 21,
+      "type": "event"
     },
     {
       "id": "Sparkling_Wit",
@@ -249,14 +272,16 @@
       "star": 5,
       "name": "瞳に映る姿",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/5/58/%28How_I_Appear_in_your_Eyes%29_Wataru_Hibiki_M.png/revision/latest/scale-to-width-down/100?cb=20201110114115",
-      "series": 0
+      "series": 16,
+      "type": "feature"
     },
     {
       "id": "Light_Illuminating_Winter",
       "star": 5,
       "name": "冬を照らす光",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/2/20/%28Light_Illuminating_Winter%29_Wataru_Hibiki_M.png/revision/latest/scale-to-width-down/100?cb=20211129162916",
-      "series": 0
+      "series": 41,
+      "type": "event"
     },
     {
       "id": "Pursuer_of_Love_and_Surprise",
@@ -270,28 +295,32 @@
       "star": 4,
       "name": "スタプロの陽気者",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/c/c3/%28StarPro%27s_Sunshine%29_Wataru_Hibiki_M.png/revision/latest/scale-to-width-down/100?cb=20200517021307",
-      "series": 0
+      "series": 7,
+      "type": "anniversary"
     },
     {
       "id": "Entertainer%27s_Dead_End",
       "star": 4,
       "name": "享楽者のデッドエンド",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/0/0e/%28Entertainer%27s_Dead_End%29_Wataru_Hibiki_M.png/revision/latest/scale-to-width-down/100?cb=20200802161159",
-      "series": 0
+      "series": 9,
+      "type": "event"
     },
     {
       "id": "Dormitory_Roommates",
       "star": 4,
       "name": "寮室の仲間",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/9/92/%28Dormitory_Roommates%29_Wataru_Hibiki_M.png/revision/latest/scale-to-width-down/100?cb=20210326001920",
-      "series": 0
+      "series": 25,
+      "type": "feature"
     },
     {
       "id": "An_Artistic_Style_That%27s_Inherent_to_Rock",
       "star": 4,
       "name": "芸風こそロック",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/8/8f/%28An_Artistic_Style_That%27s_Inherent_to_Rock%29_Wataru_Hibiki_M.png/revision/latest/scale-to-width-down/100?cb=20210515032030",
-      "series": 0
+      "series": 15,
+      "type": "anniversary"
     },
     {
       "id": "Practicing",
@@ -305,21 +334,24 @@
       "star": 3,
       "name": "人と生きもの",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/2/20/%28Humans_and_Animals%29_Wataru_Hibiki_M.png/revision/latest/scale-to-width-down/100?cb=20201226070744",
-      "series": 0
+      "series": 19,
+      "type": "feature"
     },
     {
       "id": "Flower-Filled_Stage",
       "star": 3,
       "name": "花の舞台",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/7/7b/%28Flower-Filled_Stage%29_Wataru_Hibiki_M.png/revision/latest/scale-to-width-down/100?cb=20210530234314",
-      "series": 0
+      "series": 29,
+      "type": "event"
     },
     {
       "id": "Surprising_Wukong",
       "star": 3,
       "name": "意外な悟空",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/5/5e/%28Surprising_Wukong%29_Wataru_Hibiki_M.png/revision/latest/scale-to-width-down/100?cb=20211014163815",
-      "series": 0
+      "series": 38,
+      "type": "event"
     }
   ],
   "Tori_Himemiya": [
@@ -328,7 +360,8 @@
       "star": 5,
       "name": "憧れる姫王子",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/7/7c/%28The_Princely_Princess_I_Aspire_to_Be%29_Tori_Himemiya_M.png/revision/latest/scale-to-width-down/100?cb=20200614005819",
-      "series": 0
+      "series": 6,
+      "type": "feature"
     },
     {
       "id": "Growing_Small_Wings",
@@ -342,28 +375,32 @@
       "star": 4,
       "name": "スタプロの花看板",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/9/98/%28StarPro%27s_Prized_Flower%29_Tori_Himemiya_M.png/revision/latest/scale-to-width-down/100?cb=20200517021543",
-      "series": 0
+      "series": 7,
+      "type": "anniversary"
     },
     {
       "id": "Ingratiating_Student",
       "star": 4,
       "name": "愛嬌振りまく生徒",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/b/b8/%28Ingratiating_Student%29_Tori_Himemiya_M.png/revision/latest/scale-to-width-down/100?cb=20210430054958",
-      "series": 0
+      "series": 27,
+      "type": "event"
     },
     {
       "id": "Striving_Towards_Rock",
       "star": 4,
       "name": "ロックに邁進",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/9/96/%28Striving_Towards_Rock%29_Tori_Himemiya_M.png/revision/latest/scale-to-width-down/100?cb=20210521112432",
-      "series": 0
+      "series": 14,
+      "type": "anniversary"
     },
     {
       "id": "Shape_of_Love",
       "star": 4,
       "name": "愛の形",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/a/a5/%28Shape_of_Love%29_Tori_Himemiya_M.png/revision/latest/scale-to-width-down/100?cb=20211126204301",
-      "series": 0
+      "series": 41,
+      "type": "feature"
     },
     {
       "id": "Practicing",
@@ -377,21 +414,24 @@
       "star": 3,
       "name": "淡赤の丑使い",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/b/b7/%28Light_Red_Ox_Envoy%29_Tori_Himemiya_M.png/revision/latest/scale-to-width-down/100?cb=20210117040412",
-      "series": 0
+      "series": 20,
+      "type": "event"
     },
     {
       "id": "Planning_a_Future_Trip",
       "star": 3,
       "name": "未来の旅先",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/c/ce/%28Planning_a_Future_Trip%29_Tori_Himemiya_M.png/revision/latest/scale-to-width-down/100?cb=20210226215442",
-      "series": 0
+      "series": 23,
+      "type": "feature"
     },
     {
       "id": "Encirclement_Breaker",
       "star": 3,
       "name": "包囲ブレイカー",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/b/b7/%28Encirclement_Breaker%29_Tori_Himemiya_M.png/revision/latest/scale-to-width-down/100?cb=20210714132737",
-      "series": 0
+      "series": 32,
+      "type": "event"
     }
   ],
   "Yuzuru_Fushimi": [
@@ -400,14 +440,16 @@
       "star": 5,
       "name": "赤炎の審判",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/e/ee/%28Red-Flamed_Judge%29_Yuzuru_Fushimi_M.png/revision/latest/scale-to-width-down/100?cb=20210117040417",
-      "series": 0
+      "series": 20,
+      "type": "event"
     },
     {
       "id": "Devoted_Valet",
       "star": 5,
       "name": "尽くす執務者",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/0/0d/%28Devoted_Valet%29_Yuzuru_Fushimi_M.png/revision/latest/scale-to-width-down/100?cb=20211126204306",
-      "series": 0
+      "series": 41,
+      "type": "feature"
     },
     {
       "id": "Obedient_Servant",
@@ -421,28 +463,32 @@
       "star": 4,
       "name": "スタプロの従者",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/b/bd/%28StarPro%27s_Attendant%29_Yuzuru_Fushimi_M.png/revision/latest/scale-to-width-down/100?cb=20200517020529",
-      "series": 0
+      "series": 8,
+      "type": "anniversary"
     },
     {
       "id": "Escaping_the_Heat_After_School",
       "star": 4,
       "name": "避暑の放課後",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/8/8b/%28Escaping_the_Heat_After_School%29_Yuzuru_Fushimi_M.png/revision/latest/scale-to-width-down/100?cb=20200614005905",
-      "series": 0
+      "series": 6,
+      "type": "feature"
     },
     {
       "id": "Succeeding_in_Rock",
       "star": 4,
       "name": "ロックに完遂",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/9/97/%28Succeeding_in_Rock%29_Yuzuru_Fushimi_M.png/revision/latest/scale-to-width-down/100?cb=20210527093526",
-      "series": 0
+      "series": 13,
+      "type": "anniversary"
     },
     {
       "id": "Frontline_Hunting_Dog",
       "star": 4,
       "name": "前線の猟犬",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/3/3a/%28Frontline_Hunting_Dog%29_Yuzuru_Fushimi_M.png/revision/latest/scale-to-width-down/100?cb=20210730235110",
-      "series": 0
+      "series": 33,
+      "type": "event"
     },
     {
       "id": "Practicing",
@@ -456,21 +502,24 @@
       "star": 3,
       "name": "新しい生活",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/5/5b/%28A_New_Lifestyle%29_Yuzuru_Fushimi_M.png/revision/latest/scale-to-width-down/100?cb=20200911001731",
-      "series": 0
+      "series": 12,
+      "type": "feature"
     },
     {
       "id": "A_Moment_to_Rest",
       "star": 3,
       "name": "仕事の合間",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/0/0f/%28A_Moment_to_Rest%29_Yuzuru_Fushimi_M.png/revision/latest/scale-to-width-down/100?cb=20210525082320",
-      "series": 0
+      "series": 29,
+      "type": "feature"
     },
     {
       "id": "Drawing_of_the_Roaring_Waves",
       "star": 3,
       "name": "潮騒の描画",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/6/62/%28Drawing_of_the_Roaring_Waves%29_Yuzuru_Fushimi_M.png/revision/latest/scale-to-width-down/100?cb=20210814163908",
-      "series": 0
+      "series": 34,
+      "type": "event"
     },
     {
       "id": "Relaxing_Summer",
@@ -493,42 +542,48 @@
       "star": 5,
       "name": "目標のオンリーワン",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/1/1f/%28My_One_and_Only_Goal%29_Hokuto_Hidaka_M.png/revision/latest/scale-to-width-down/100?cb=20200712222143",
-      "series": 0
+      "series": 8,
+      "type": "feature"
     },
     {
       "id": "Wukong_In_My_Own_Style",
       "star": 5,
       "name": "自分流の悟空",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/b/b6/%28Wukong_In_My_Own_Style%29_Hokuto_Hidaka_M.png/revision/latest/scale-to-width-down/100?cb=20211014163820",
-      "series": 0
+      "series": 38,
+      "type": "event"
     },
     {
       "id": "Serious_by_Nature",
       "star": 4,
       "name": "真面目な天然",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/8/8c/%28Serious_by_Nature%29_Hokuto_Hidaka_M.png/revision/latest/scale-to-width-down/100?cb=20200517013256",
-      "series": 0
+      "series": 3,
+      "type": "feature"
     },
     {
       "id": "StarPro%27s_Stubbornness",
       "star": 4,
       "name": "スタプロの頑固者",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/d/d1/%28StarPro%27s_Stubbornness%29_Hokuto_Hidaka_M.png/revision/latest/scale-to-width-down/100?cb=20200517021740",
-      "series": 0
+      "series": 7,
+      "type": "anniversary"
     },
     {
       "id": "Pure_Prince",
       "star": 4,
       "name": "純粋王子さま",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/1/14/%28Pure_Prince%29_Hokuto_Hidaka_M.png/revision/latest/scale-to-width-down/100?cb=20210130132456",
-      "series": 0
+      "series": 21,
+      "type": "event"
     },
     {
       "id": "Stubbornness_is_Part_of_Rock",
       "star": 4,
       "name": "頑固さもロック",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/5/59/%28Stubbornness_is_Part_of_Rock%29_Hokuto_Hidaka_M.png/revision/latest/scale-to-width-down/100?cb=20210506214319",
-      "series": 0
+      "series": 16,
+      "type": "anniversary"
     },
     {
       "id": "Practicing",
@@ -542,7 +597,8 @@
       "star": 3,
       "name": "学生の本分",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/f/f8/%28Student%27s_Duty%29_Hokuto_Hidaka_M.png/revision/latest/scale-to-width-down/100?cb=20201125080840",
-      "series": 0
+      "series": 17,
+      "type": "feature"
     },
     {
       "id": "Family_Legend",
@@ -556,7 +612,8 @@
       "star": 3,
       "name": "花の覚悟",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/4/4f/%28Flower%27s_Resolution%29_Hokuto_Hidaka_M.png/revision/latest/scale-to-width-down/100?cb=20210530234322",
-      "series": 0
+      "series": 29,
+      "type": "event"
     },
     {
       "id": "Growth_and_Blessings",
@@ -572,14 +629,16 @@
       "star": 5,
       "name": "爛漫スプリング",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/6/62/%28Gloriously_Blooming_Spring%29_Subaru_Akehoshi_M.png/revision/latest/scale-to-width-down/100?cb=20210314131431",
-      "series": 0
+      "series": 24,
+      "type": "event"
     },
     {
       "id": "The_Star_Shining_for_Someone",
       "star": 5,
       "name": "誰かへ光る星",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/1/1a/%28The_Star_Shining_for_Someone%29_Subaru_Akehoshi_M.png/revision/latest/scale-to-width-down/100?cb=20210912214741",
-      "series": 0
+      "series": 36,
+      "type": "feature"
     },
     {
       "id": "Bright_Glittering_Stars",
@@ -600,7 +659,8 @@
       "star": 4,
       "name": "荒野に咲く",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/6/60/%28Blooming_in_the_Wasteland%29_Subaru_Akehoshi_M.png/revision/latest/scale-to-width-down/100?cb=20200830232456",
-      "series": 0
+      "series": 11,
+      "type": "event"
     },
     {
       "id": "Rocking_Faith",
@@ -614,14 +674,16 @@
       "star": 4,
       "name": "映画鑑賞会",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/c/ca/%28Movie_Marathon%29_Subaru_Akehoshi_M.png/revision/latest/scale-to-width-down/100?cb=20210725094612",
-      "series": 0
+      "series": 33,
+      "type": "feature"
     },
     {
       "id": "Hope_and_White_Tiger",
       "star": 4,
       "name": "希望と白虎",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/4/43/%28Hope_and_White_Tiger%29_Subaru_Akehoshi_M.png/revision/latest/scale-to-width-down/100?cb=20220114225249",
-      "series": 0
+      "series": 44,
+      "type": "event"
     },
     {
       "id": "Practicing",
@@ -635,21 +697,24 @@
       "star": 3,
       "name": "お菓子の罠",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/3/3d/%28Candy_Trap%29_Subaru_Akehoshi_M.png/revision/latest/scale-to-width-down/100?cb=20200531221335",
-      "series": 0
+      "series": 5,
+      "type": "event"
     },
     {
       "id": "Friendship_with_the_Guest_Star",
       "star": 3,
       "name": "ゲストの親交",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/b/b1/%28Friendship_with_the_Guest_Star%29_Subaru_Akehoshi_M.png/revision/latest/scale-to-width-down/100?cb=20200802160912",
-      "series": 0
+      "series": 9,
+      "type": "feature"
     },
     {
       "id": "Brave_Warlord",
       "star": 3,
       "name": "勇む武将",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/c/c2/%28Brave_Warlord%29_Subaru_Akehoshi_M.png/revision/latest/scale-to-width-down/100?cb=20210914141756",
-      "series": 0
+      "series": 36,
+      "type": "event"
     },
     {
       "id": "Star_Cluster%27s_Melody",
@@ -665,14 +730,16 @@
       "star": 5,
       "name": "零時のニュイ",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/f/f5/%28Nuit_at_12_O%27Clock%29_Makoto_Yuuki_M.png/revision/latest/scale-to-width-down/100?cb=20201201112414",
-      "series": 0
+      "series": 17,
+      "type": "event"
     },
     {
       "id": "All_the_Different_Sides_of_Myself",
       "star": 5,
       "name": "いくつもの自分",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/6/68/%28All_the_Different_Sides_of_Myself%29_Makoto_Yuuki_M.png/revision/latest/scale-to-width-down/100?cb=20210626021608",
-      "series": 0
+      "series": 31,
+      "type": "feature"
     },
     {
       "id": "Knowledgeable_Analyst",
@@ -686,28 +753,32 @@
       "star": 4,
       "name": "スタプロの頭脳",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/0/0a/%28StarPro%27s_Brains%29_Makoto_Yuuki_M.png/revision/latest/scale-to-width-down/100?cb=20200517020625",
-      "series": 0
+      "series": 8,
+      "type": "anniversary"
     },
     {
       "id": "The_Start_of_Fondness",
       "star": 4,
       "name": "好きの始まり",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/1/19/%28The_Start_of_Fondness%29_Makoto_Yuuki_M.png/revision/latest/scale-to-width-down/100?cb=20200702233043",
-      "series": 0
+      "series": 7,
+      "type": "feature"
     },
     {
       "id": "Willpower_Is_Still_Part_of_Rock",
       "star": 4,
       "name": "意地だってロック",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/3/35/%28Willpower_Is_Still_Part_of_Rock%29_Makoto_Yuuki_M.png/revision/latest/scale-to-width-down/100?cb=20210521112452",
-      "series": 0
+      "series": 14,
+      "type": "anniversary"
     },
     {
       "id": "Genius_High_School_Detective",
       "star": 4,
       "name": "天才高校生刑事",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/d/d4/%28Genius_High_School_Detective%29_Makoto_Yuuki_M.png/revision/latest/scale-to-width-down/100?cb=20211114073135",
-      "series": 0
+      "series": 40,
+      "type": "event"
     },
     {
       "id": "Practicing",
@@ -721,21 +792,24 @@
       "star": 3,
       "name": "月の兎",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/9/9b/%28Moon_Rabbit%29_Makoto_Yuuki_M.png/revision/latest/scale-to-width-down/100?cb=20200915224727",
-      "series": 0
+      "series": 12,
+      "type": "event"
     },
     {
       "id": "A_Club_Leader%27s_Duties",
       "star": 3,
       "name": "部長の仕事",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/f/f4/%28A_Club_Leader%27s_Duties%29_Makoto_Yuuki_M.png/revision/latest/scale-to-width-down/100?cb=20210212032457",
-      "series": 0
+      "series": 22,
+      "type": "feature"
     },
     {
       "id": "Tactics_Breaker",
       "star": 3,
       "name": "作戦ブレイカー",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/8/86/%28Tactics_Breaker%29_Makoto_Yuuki_M.png/revision/latest/scale-to-width-down/100?cb=20210714132750",
-      "series": 0
+      "series": 32,
+      "type": "event"
     }
   ],
   "Mao_Isara": [
@@ -744,14 +818,16 @@
       "star": 5,
       "name": "ありふれた特別",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/4/4b/%28Mundane_Specialty%29_Mao_Isara_M.png/revision/latest/scale-to-width-down/100?cb=20200702232916",
-      "series": 0
+      "series": 7,
+      "type": "feature"
     },
     {
       "id": "Heartfelt_Bouquet",
       "star": 5,
       "name": "想いのブーケ",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/1/1d/%28Heartfelt_Bouquet%29_Mao_Isara_M.png/revision/latest/scale-to-width-down/100?cb=20210614073255",
-      "series": 0
+      "series": 30,
+      "type": "event"
     },
     {
       "id": "Helpful_Supervisor",
@@ -765,28 +841,32 @@
       "star": 4,
       "name": "スタプロの橋渡し",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/d/d8/%28StarPro%27s_Intermediary%29_Mao_Isara_M.png/revision/latest/scale-to-width-down/100?cb=20200517020719",
-      "series": 0
+      "series": 8,
+      "type": "anniversary"
     },
     {
       "id": "Sweets_Shooter",
       "star": 4,
       "name": "スイーツシューター",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/8/80/%28Sweets_Shooter%29_Mao_Isara_M.png/revision/latest/scale-to-width-down/100?cb=20210215083235",
-      "series": 0
+      "series": 22,
+      "type": "event"
     },
     {
       "id": "Carefree_With_Even_Rock",
       "star": 4,
       "name": "ロックも気軽に",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/d/d6/%28Carefree_With_Even_Rock%29_Mao_Isara_M.png/revision/latest/scale-to-width-down/100?cb=20210527093452",
-      "series": 0
+      "series": 13,
+      "type": "anniversary"
     },
     {
       "id": "Intelligent_Warlord",
       "star": 4,
       "name": "智の武将",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/d/dc/%28Intelligent_Warlord%29_Mao_Isara_M.png/revision/latest/scale-to-width-down/100?cb=20210914141359",
-      "series": 0
+      "series": 36,
+      "type": "event"
     },
     {
       "id": "Practicing",
@@ -800,14 +880,16 @@
       "star": 3,
       "name": "荒野と仕事",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/6/64/%28Wasteland_and_Work%29_Mao_Isara_M.png/revision/latest/scale-to-width-down/100?cb=20200830232520",
-      "series": 0
+      "series": 11,
+      "type": "event"
     },
     {
       "id": "An_Ordinary_Day",
       "star": 3,
       "name": "起こる日常",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/e/e1/%28An_Ordinary_Day%29_Mao_Isara_M.png/revision/latest/scale-to-width-down/100?cb=20201212090934",
-      "series": 0
+      "series": 18,
+      "type": "feature"
     }
   ],
   "Chiaki_Morisawa": [
@@ -823,42 +905,48 @@
       "star": 5,
       "name": "前向きAtoZ",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/f/f6/%28Positive_AtoZ%29_Chiaki_Morisawa_M.png/revision/latest/scale-to-width-down/100?cb=20200517012400",
-      "series": 0
+      "series": 2,
+      "type": "event"
     },
     {
       "id": "Ray_of_Hope",
       "star": 5,
       "name": "希望の光",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/3/32/%28Ray_of_Hope%29_Chiaki_Morisawa_M.png/revision/latest/scale-to-width-down/100?cb=20210725094557",
-      "series": 0
+      "series": 33,
+      "type": "feature"
     },
     {
       "id": "StarPro%27s_Justice",
       "star": 4,
       "name": "スタプロの正義",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/5/5f/%28StarPro%27s_Justice%29_Chiaki_Morisawa_M.png/revision/latest/scale-to-width-down/100?cb=20200517020818",
-      "series": 0
+      "series": 8,
+      "type": "anniversary"
     },
     {
       "id": "What_a_Hero_is",
       "star": 4,
       "name": "ヒーローの心得",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/4/49/%28What_a_Hero_is%29_Chiaki_Morisawa_M.png/revision/latest/scale-to-width-down/100?cb=20200911001646",
-      "series": 0
+      "series": 12,
+      "type": "feature"
     },
     {
       "id": "Burning_Rock",
       "star": 4,
       "name": "燃えるロック",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/9/99/%28Burning_Rock%29_Chiaki_Morisawa_M.png/revision/latest/scale-to-width-down/100?cb=20210929035025",
-      "series": 0
+      "series": 12,
+      "type": "anniversary"
     },
     {
       "id": "Astraea_of_Transformation",
       "star": 4,
       "name": "変身のアストレア",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/7/77/%28Astraea_of_Transformation%29_Chiaki_Morisawa_M.png/revision/latest/scale-to-width-down/100?cb=20220131151442",
-      "series": 0
+      "series": 45,
+      "type": "event"
     },
     {
       "id": "Practicing",
@@ -872,21 +960,24 @@
       "star": 3,
       "name": "突撃ドールハウス",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/b/b1/%28Dollhouse_Invasion%29_Chiaki_Morisawa_M.png/revision/latest/scale-to-width-down/100?cb=20200716212806",
-      "series": 0
+      "series": 8,
+      "type": "event"
     },
     {
       "id": "Untitled_Book",
       "star": 3,
       "name": "無題の本",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/b/b1/%28Untitled_Book%29_Chiaki_Morisawa_M.png/revision/latest/scale-to-width-down/100?cb=20201030215836",
-      "series": 0
+      "series": 15,
+      "type": "feature"
     },
     {
       "id": "Dark_Red_Ox_Envoy",
       "star": 3,
       "name": "濃赤の丑使い",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/3/30/%28Dark_Red_Ox_Envoy%29_Chiaki_Morisawa_M.png/revision/latest/scale-to-width-down/100?cb=20210117040407",
-      "series": 0
+      "series": 20,
+      "type": "event"
     }
   ],
   "Kanata_Shinkai": [
@@ -895,14 +986,16 @@
       "star": 5,
       "name": "きょうとう『さまぁ』",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/d/d4/%28Allied_Summer%29_Kanata_Shinkai_M.png/revision/latest/scale-to-width-down/100?cb=20200822174137",
-      "series": 0
+      "series": 10,
+      "type": "event"
     },
     {
       "id": "Intertwined_Sea",
       "star": 5,
       "name": "つながるうみ",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/a/a0/%28Intertwined_Sea%29_Kanata_Shinkai_M.png/revision/latest/scale-to-width-down/100?cb=20211110144622",
-      "series": 0
+      "series": 40,
+      "type": "feature"
     },
     {
       "id": "Lover_of_the_Ocean",
@@ -916,21 +1009,24 @@
       "star": 4,
       "name": "みずといきもの",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/f/ff/%28Water_and_Life%29_Kanata_Shinkai_M.png/revision/latest/scale-to-width-down/100?cb=20200413005104",
-      "series": 1
+      "series": 1,
+      "type": "feature"
     },
     {
       "id": "StarPro%27s_Comfort",
       "star": 4,
       "name": "すたぷろのいやし",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/2/2b/%28StarPro%27s_Comfort%29_Kanata_Shinkai_M.png/revision/latest/scale-to-width-down/100?cb=20200517021359",
-      "series": 0
+      "series": 7,
+      "type": "anniversary"
     },
     {
       "id": "Rock_of_Stormy_Seas",
       "star": 4,
       "name": "あらなみろっく",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/b/ba/%28Rock_of_Stormy_Seas%29_Kanata_Shinkai_M.png/revision/latest/scale-to-width-down/100?cb=20211007073632",
-      "series": 0
+      "series": 11,
+      "type": "anniversary"
     },
     {
       "id": "Practicing",
@@ -944,21 +1040,24 @@
       "star": 3,
       "name": "いそあそび",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/a/a1/%28Seaside_Foraging%29_Kanata_Shinkai_M.png/revision/latest/scale-to-width-down/100?cb=20201030215920",
-      "series": 0
+      "series": 15,
+      "type": "feature"
     },
     {
       "id": "Naive_Prince",
       "star": 3,
       "name": "じゅんしんおうじさま",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/4/44/%28Naive_Prince%29_Kanata_Shinkai_M.png/revision/latest/scale-to-width-down/100?cb=20210130132450",
-      "series": 0
+      "series": 21,
+      "type": "event"
     },
     {
       "id": "Finishing_Blow",
       "star": 3,
       "name": "とどめのいちげき",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/1/1c/%28Finishing_Blow%29_Kanata_Shinkai_M.png/revision/latest/scale-to-width-down/100?cb=20210331071940",
-      "series": 0
+      "series": 25,
+      "type": "event"
     }
   ],
   "Tetora_Nagumo": [
@@ -967,14 +1066,16 @@
       "star": 5,
       "name": "生存と気概",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/e/ee/%28Survival_and_Guts%29_Tetora_Nagumo_M.png/revision/latest/scale-to-width-down/100?cb=20201114145815",
-      "series": 0
+      "series": 16,
+      "type": "event"
     },
     {
       "id": "Growing_Tiger_Cub",
       "star": 5,
       "name": "成長期の子虎",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/0/01/%28Growing_Tiger_Cub%29_Tetora_Nagumo_M.png/revision/latest/scale-to-width-down/100?cb=20210925091004",
-      "series": 0
+      "series": 37,
+      "type": "feature"
     },
     {
       "id": "Lover_of_Manliness",
@@ -988,35 +1089,40 @@
       "star": 4,
       "name": "スタプロの根性",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/f/fe/%28StarPro%27s_Willpower%29_Tetora_Nagumo_M.png/revision/latest/scale-to-width-down/100?cb=20200517021111",
-      "series": 0
+      "series": 8,
+      "type": "anniversary"
     },
     {
       "id": "Midnight_Companion",
       "star": 4,
       "name": "深夜のお供",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/f/f5/%28Midnight_Companion%29_Tetora_Nagumo_M.png/revision/latest/scale-to-width-down/100?cb=20200802160833",
-      "series": 0
+      "series": 9,
+      "type": "feature"
     },
     {
       "id": "Beautiful_Spring",
       "star": 4,
       "name": "麗らスプリング",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/3/3a/%28Beautiful_Spring%29_Tetora_Nagumo_M.png/revision/latest/scale-to-width-down/100?cb=20210314131419",
-      "series": 0
+      "series": 24,
+      "type": "event"
     },
     {
       "id": "Sphere_of_Eternity",
       "star": 4,
       "name": "悠久のスフィア",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/8/8f/%28Sphere_of_Eternity%29_Tetora_Nagumo_M.png/revision/latest/scale-to-width-down/100?cb=20210629081224",
-      "series": 0
+      "series": 31,
+      "type": "event"
     },
     {
       "id": "Manly_Rock",
       "star": 4,
       "name": "男気ロック",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/e/e2/%28Manly_Rock%29_Tetora_Nagumo_M.png/revision/latest/scale-to-width-down/100?cb=20211007075531",
-      "series": 0
+      "series": 11,
+      "type": "anniversary"
     },
     {
       "id": "Practicing",
@@ -1030,28 +1136,32 @@
       "star": 3,
       "name": "慈善活動",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/8/86/%28Volunteering%29_Tetora_Nagumo_M.png/revision/latest/scale-to-width-down/100?cb=20200525214053",
-      "series": 0
+      "series": 5,
+      "type": "feature"
     },
     {
       "id": "Making_Sweets",
       "star": 3,
       "name": "スイーツ作り",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/4/40/%28Making_Sweets%29_Tetora_Nagumo_M.png/revision/latest/scale-to-width-down/100?cb=20201030220326",
-      "series": 0
+      "series": 15,
+      "type": "event"
     },
     {
       "id": "Muscle_Talk",
       "star": 3,
       "name": "筋肉談義",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/4/41/%28Muscle_Talk%29_Tetora_Nagumo_M.png/revision/latest/scale-to-width-down/100?cb=20210710141017",
-      "series": 0
+      "series": 32,
+      "type": "feature"
     },
     {
       "id": "Alluding_Tiger",
       "star": 3,
       "name": "暗示の寅",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/f/f7/%28Alluding_Tiger%29_Tetora_Nagumo_M.png/revision/latest/scale-to-width-down/100?cb=20211231013249",
-      "series": 0
+      "series": 43,
+      "type": "event"
     }
   ],
   "Midori_Takamine": [
@@ -1060,14 +1170,16 @@
       "star": 5,
       "name": "妄想ドールハウス",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/4/48/%28Fantasy_Dollhouse%29_Midori_Takamine_M.png/revision/latest/scale-to-width-down/100?cb=20200716212706",
-      "series": 0
+      "series": 8,
+      "type": "event"
     },
     {
       "id": "Comfortable_Staying_Just_As_I_Am",
       "star": 5,
       "name": "気楽でいられる自分",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/3/3a/%28Comfortable_Staying_Just_As_I_Am%29_Midori_Takamine_M.png/revision/latest/scale-to-width-down/100?cb=20211010133044",
-      "series": 0
+      "series": 38,
+      "type": "feature"
     },
     {
       "id": "Lover_of_Softness",
@@ -1088,14 +1200,16 @@
       "star": 4,
       "name": "幸せなパフェ",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/e/eb/%28Parfait_of_Pure_Bliss%29_Midori_Takamine_M.png/revision/latest/scale-to-width-down/100?cb=20210311233337",
-      "series": 0
+      "series": 24,
+      "type": "feature"
     },
     {
       "id": "Freely_Rockin%27",
       "star": 4,
       "name": "ロックは自由に",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/6/62/%28Freely_Rockin%27%29_Midori_Takamine_M.png/revision/latest/scale-to-width-down/100?cb=20211013121735",
-      "series": 0
+      "series": 10,
+      "type": "anniversary"
     },
     {
       "id": "Practicing",
@@ -1109,21 +1223,24 @@
       "star": 3,
       "name": "友と呼べる絆",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/e/e7/%28Bonds_That_Can_Be_Called_Friendship%29_Midori_Takamine_M.png/revision/latest/scale-to-width-down/100?cb=20200626053450",
-      "series": 0
+      "series": 7,
+      "type": "feature"
     },
     {
       "id": "Wasteland_and_Trial",
       "star": 3,
       "name": "荒野と試練",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/9/97/%28Wasteland_and_Trial%29_Midori_Takamine_M.png/revision/latest/scale-to-width-down/100?cb=20200830232542",
-      "series": 0
+      "series": 11,
+      "type": "event"
     },
     {
       "id": "Interactions_of_the_Roaring_Waves",
       "star": 3,
       "name": "潮騒の交流",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/e/ea/%28Interactions_of_the_Roaring_Waves%29_Midori_Takamine_M.png/revision/latest/scale-to-width-down/100?cb=20210814164445",
-      "series": 0
+      "series": 34,
+      "type": "event"
     }
   ],
   "Hiiro_Amagi": [
@@ -1139,28 +1256,32 @@
       "star": 5,
       "name": "清純王子さま",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/a/aa/%28Innocent_Prince%29_Hiiro_Amagi_M.png/revision/latest/scale-to-width-down/100?cb=20210130132446",
-      "series": 0
+      "series": 21,
+      "type": "event"
     },
     {
       "id": "Intersecting_Paths",
       "star": 5,
       "name": "交差していく道",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/0/0c/%28Intersecting_Paths%29_Hiiro_Amagi_M.png/revision/latest/scale-to-width-down/100?cb=20210810223329",
-      "series": 0
+      "series": 34,
+      "type": "feature"
     },
     {
       "id": "StarPro%27s_Airhead",
       "star": 4,
       "name": "スタプロの天然",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/f/f2/%28StarPro%27s_Airhead%29_Hiiro_Amagi_M.png/revision/latest/scale-to-width-down/100?cb=20200517021503",
-      "series": 0
+      "series": 7,
+      "type": "anniversary"
     },
     {
       "id": "Captivating_Sweets",
       "star": 4,
       "name": "魅力的なスイーツ",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/9/97/%28Captivating_Sweets%29_Hiiro_Amagi_M.png/revision/latest/scale-to-width-down/100?cb=20201030220300",
-      "series": 0
+      "series": 15,
+      "type": "event"
     },
     {
       "id": "Still_Learning_How_to_Rock",
@@ -1174,7 +1295,8 @@
       "star": 4,
       "name": "上級外遊び",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/4/4f/%28High_Level_Outdoor_Game%29_Hiiro_Amagi_M.png/revision/latest/scale-to-width-down/100?cb=20220111010439",
-      "series": 0
+      "series": 44,
+      "type": "feature"
     },
     {
       "id": "Practicing",
@@ -1188,21 +1310,24 @@
       "star": 3,
       "name": "流れの風来坊",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/b/b5/%28Drifting_Vagabond%29_Hiiro_Amagi_M.png/revision/latest/scale-to-width-down/100?cb=20200517015824",
-      "series": 0
+      "series": 4,
+      "type": "event"
     },
     {
       "id": "Handmade_Thank_You_Gift",
       "star": 3,
       "name": "手作り返礼",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/d/dc/%28Handmade_Thank_You_Gift%29_Hiiro_Amagi_M.png/revision/latest/scale-to-width-down/100?cb=20200712222335",
-      "series": 0
+      "series": 8,
+      "type": "feature"
     },
     {
       "id": "Young_Warlord",
       "star": 3,
       "name": "若き武将",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/a/ab/%28Young_Warlord%29_Hiiro_Amagi_M.png/revision/latest/scale-to-width-down/100?cb=20210914142122",
-      "series": 0
+      "series": 36,
+      "type": "event"
     },
     {
       "id": "Flawless_Blessing",
@@ -1225,14 +1350,16 @@
       "star": 5,
       "name": "藍色の結晶",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/a/a8/%28Indigo_Crystals%29_Aira_Shiratori_M.png/revision/latest/scale-to-width-down/100?cb=20201214064923",
-      "series": 0
+      "series": 18,
+      "type": "event"
     },
     {
       "id": "Blossoming_Loveliness",
       "star": 5,
       "name": "発展途上の愛らしさ",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/8/84/%28Blossoming_Loveliness%29_Aira_Shiratori_M.png/revision/latest/scale-to-width-down/100?cb=20210610113555",
-      "series": 0
+      "series": 30,
+      "type": "feature"
     },
     {
       "id": "Idol_Lover",
@@ -1253,28 +1380,32 @@
       "star": 4,
       "name": "サーバルの昼寝",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/0/05/%28Serval%27s_Nap%29_Aira_Shiratori_M.png/revision/latest/scale-to-width-down/100?cb=20200702234317",
-      "series": 0
+      "series": 7,
+      "type": "event"
     },
     {
       "id": "Unexpected_Day_Off",
       "star": 4,
       "name": "ふらっと休日",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/6/62/%28Unexpected_Day_Off%29_Aira_Shiratori_M.png/revision/latest/scale-to-width-down/100?cb=20210226215500",
-      "series": 0
+      "series": 23,
+      "type": "feature"
     },
     {
       "id": "My_Very_Own_Style_of_Rock",
       "star": 4,
       "name": "自分なりのロック",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/3/3d/%28My_Very_Own_Style_of_Rock%29_Aira_Shiratori_M.png/revision/latest/scale-to-width-down/100?cb=20210506214301",
-      "series": 0
+      "series": 16,
+      "type": "anniversary"
     },
     {
       "id": "Sun_of_White_Light",
       "star": 4,
       "name": "白光の太陽",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/b/b8/%28Sun_of_White_Light%29_Aira_Shiratori_M.png/revision/latest/scale-to-width-down/100?cb=20211030205910",
-      "series": 0
+      "series": 39,
+      "type": "event"
     },
     {
       "id": "Practicing",
@@ -1288,21 +1419,24 @@
       "star": 3,
       "name": "バスケの縁",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/8/8a/%28Basketball_Connections%29_Aira_Shiratori_M.png/revision/latest/scale-to-width-down/100?cb=20200828235753",
-      "series": 0
+      "series": 11,
+      "type": "feature"
     },
     {
       "id": "Student_of_Heartpounding_Smiles",
       "star": 3,
       "name": "ときめく笑みの生徒",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/3/3c/%28Student_of_Heartpounding_Smiles%29_Aira_Shiratori_M.png/revision/latest/scale-to-width-down/100?cb=20210430055030",
-      "series": 0
+      "series": 27,
+      "type": "event"
     },
     {
       "id": "Souvenirs_from_the_North",
       "star": 3,
       "name": "北のお土産",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/9/92/%28Souvenirs_from_the_North%29_Aira_Shiratori_M.png/revision/latest/scale-to-width-down/100?cb=20210825143133",
-      "series": 0
+      "series": 35,
+      "type": "feature"
     },
     {
       "id": "Stage_of_Down",
@@ -1318,14 +1452,16 @@
       "star": 5,
       "name": "臆病者のデッドエンド",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/d/d8/%28Coward%27s_Dead_End%29_Mayoi_Ayase_M.png/revision/latest/scale-to-width-down/100?cb=20200802161130",
-      "series": 0
+      "series": 9,
+      "type": "event"
     },
     {
       "id": "Coward_Hiding_in_the_Corner",
       "star": 5,
       "name": "部屋の隅の臆病な",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/3/32/%28Coward_Hiding_in_the_Corner%29_Mayoi_Ayase_M.png/revision/latest/scale-to-width-down/100?cb=20210525082344",
-      "series": 0
+      "series": 29,
+      "type": "feature"
     },
     {
       "id": "Timid_Phantom",
@@ -1346,21 +1482,24 @@
       "star": 4,
       "name": "夢のジオラマ",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/0/05/%28Ideal_Diorama%29_Mayoi_Ayase_M.png/revision/latest/scale-to-width-down/100?cb=20201125080831",
-      "series": 0
+      "series": 17,
+      "type": "feature"
     },
     {
       "id": "Rocking_From_Afar",
       "star": 4,
       "name": "どこかにはロック",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/6/64/%28Rocking_From_Afar%29_Mayoi_Ayase_M.png/revision/latest/scale-to-width-down/100?cb=20210527093518",
-      "series": 0
+      "series": 13,
+      "type": "anniversary"
     },
     {
       "id": "Hideout_Breaker",
       "star": 4,
       "name": "潜伏ブレイカー",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/9/9e/%28Hideout_Breaker%29_Mayoi_Ayase_M.png/revision/latest/scale-to-width-down/100?cb=20210714132746",
-      "series": 0
+      "series": 32,
+      "type": "event"
     },
     {
       "id": "Practicing",
@@ -1374,14 +1513,16 @@
       "star": 3,
       "name": "隠れ盗賊",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/b/b5/%28Hidden_Thief%29_Mayoi_Ayase_M.png/revision/latest/scale-to-width-down/100?cb=20200616195253",
-      "series": 0
+      "series": 6,
+      "type": "event"
     },
     {
       "id": "A_Gathering_of_Novices",
       "star": 3,
       "name": "初級親睦会",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/e/ec/%28A_Gathering_of_Novices%29_Mayoi_Ayase_M.png/revision/latest/scale-to-width-down/100?cb=20210212032502",
-      "series": 0
+      "series": 22,
+      "type": "feature"
     },
     {
       "id": "Stage_of_Shadows",
@@ -1397,14 +1538,16 @@
       "star": 5,
       "name": "静謐の祈り",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/b/b7/%28Tranquil_Prayer%29_Tatsumi_Kazehaya_M.png/revision/latest/scale-to-width-down/100?cb=20200413005833",
-      "series": 0
+      "series": 2,
+      "type": "feature"
     },
     {
       "id": "Moon_Capital_Night",
       "star": 5,
       "name": "月都ナイト",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/8/89/%28Moon_Capital_Night%29_Tatsumi_Kazehaya_M.png/revision/latest/scale-to-width-down/100?cb=20210830134730",
-      "series": 0
+      "series": 35,
+      "type": "event"
     },
     {
       "id": "Flexible_Missionary",
@@ -1418,28 +1561,32 @@
       "star": 4,
       "name": "スタプロの奉仕者",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/4/49/%28StarPro%27s_Minister%29_Tatsumi_Kazehaya_M.png/revision/latest/scale-to-width-down/100?cb=20200517020928",
-      "series": 0
+      "series": 8,
+      "type": "anniversary"
     },
     {
       "id": "Red-Fuming_Prophet",
       "star": 4,
       "name": "赤煙の予言者",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/6/66/%28Red-Fuming_Prophet%29_Tatsumi_Kazehaya_M.png/revision/latest/scale-to-width-down/100?cb=20210117040421",
-      "series": 0
+      "series": 20,
+      "type": "event"
     },
     {
       "id": "The_Bastion_of_Rock",
       "star": 4,
       "name": "ロックな柱として",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/6/6e/%28The_Bastion_of_Rock%29_Tatsumi_Kazehaya_M.png/revision/latest/scale-to-width-down/100?cb=20210521112442",
-      "series": 0
+      "series": 14,
+      "type": "anniversary"
     },
     {
       "id": "Everyday_Changes",
       "star": 4,
       "name": "日々の変化",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/0/06/%28Everyday_Changes%29_Tatsumi_Kazehaya_M.png/revision/latest/scale-to-width-down/100?cb=20210710141014",
-      "series": 0
+      "series": 32,
+      "type": "feature"
     },
     {
       "id": "Practicing",
@@ -1453,21 +1600,24 @@
       "star": 3,
       "name": "同伴リカオン",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/9/95/%28African_Wild_Dog_Companion%29_Tatsumi_Kazehaya_M.png/revision/latest/scale-to-width-down/100?cb=20200702234359",
-      "series": 0
+      "series": 7,
+      "type": "event"
     },
     {
       "id": "Advice_and_Confession",
       "star": 3,
       "name": "相談と懺悔",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/9/91/%28Advice_and_Confession%29_Tatsumi_Kazehaya_M.png/revision/latest/scale-to-width-down/100?cb=20200828235817",
-      "series": 0
+      "series": 11,
+      "type": "feature"
     },
     {
       "id": "Mystery_of_Winter",
       "star": 3,
       "name": "冬の神秘",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/9/97/%28Mystery_of_Winter%29_Tatsumi_Kazehaya_M.png/revision/latest/scale-to-width-down/100?cb=20211129190030",
-      "series": 0
+      "series": 41,
+      "type": "event"
     },
     {
       "id": "Stage_of_Rebirth",
@@ -1490,21 +1640,24 @@
       "star": 5,
       "name": "荒野の夢",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/6/63/%28Dream_of_the_Wasteland%29_Nagisa_Ran_M.png/revision/latest/scale-to-width-down/100?cb=20200830232432",
-      "series": 0
+      "series": 11,
+      "type": "event"
     },
     {
       "id": "CosPro%27s_Prized_Treasure",
       "star": 4,
       "name": "コズプロの至宝",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/d/dc/%28CosPro%27s_Prized_Treasure%29_Nagisa_Ran_M.png/revision/latest/scale-to-width-down/100?cb=20200702233414",
-      "series": 0
+      "series": 6,
+      "type": "anniversary"
     },
     {
       "id": "Pulse_of_the_Waves",
       "star": 4,
       "name": "潮騒の鼓動",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/e/e6/%28Pulse_of_the_Waves%29_Nagisa_Ran_M.png/revision/latest/scale-to-width-down/100?cb=20210113000808",
-      "series": 0
+      "series": 20,
+      "type": "feature"
     },
     {
       "id": "Using_Knowledge_to_Rock",
@@ -1518,7 +1671,8 @@
       "star": 4,
       "name": "墓守の死神",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/9/94/%28Gravekeeping_Reaper%29_Nagisa_Ran_M.png/revision/latest/scale-to-width-down/100?cb=20211215125008",
-      "series": 0
+      "series": 42,
+      "type": "event"
     },
     {
       "id": "Practicing",
@@ -1532,7 +1686,8 @@
       "star": 3,
       "name": "平穏な書斎",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/9/98/%28Peaceful_Library%29_Nagisa_Ran_M.png/revision/latest/scale-to-width-down/100?cb=20200614010035",
-      "series": 0
+      "series": 6,
+      "type": "feature"
     },
     {
       "id": "Historical_Legend",
@@ -1546,14 +1701,16 @@
       "star": 3,
       "name": "商店街体験",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/6/6b/%28Shopping_Experience%29_Nagisa_Ran_M.png/revision/latest/scale-to-width-down/100?cb=20210412065535",
-      "series": 0
+      "series": 26,
+      "type": "feature"
     },
     {
       "id": "Frontline_Fighting_Dog",
       "star": 3,
       "name": "前線の闘犬",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/8/84/%28Frontline_Fighting_Dog%29_Nagisa_Ran_M.png/revision/latest/scale-to-width-down/100?cb=20210730235104",
-      "series": 0
+      "series": 33,
+      "type": "event"
     }
   ],
   "Hiyori_Tomoe": [
@@ -1562,7 +1719,8 @@
       "star": 5,
       "name": "最高に輝く日々",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/4/49/%28Every_Day_is_the_Brightest_Day%29_Hiyori_Tomoe_M.png/revision/latest/scale-to-width-down/100?cb=20210212120936",
-      "series": 0
+      "series": 22,
+      "type": "feature"
     },
     {
       "id": "Smiling_Noble",
@@ -1576,28 +1734,32 @@
       "star": 4,
       "name": "コズプロの太陽",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/6/6d/%28CosPro%27s_Sun%29_Hiyori_Tomoe_M.png/revision/latest/scale-to-width-down/100?cb=20200712220931",
-      "series": 0
+      "series": 5,
+      "type": "anniversary"
     },
     {
       "id": "Deduction_Game",
       "star": 4,
       "name": "スイリゲーム",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/9/9c/%28Deduction_Game%29_Hiyori_Tomoe_M.png/revision/latest/scale-to-width-down/100?cb=20200930204339",
-      "series": 0
+      "series": 13,
+      "type": "event"
     },
     {
       "id": "Even_Rock_Must_Be_Done_Beautifully",
       "star": 4,
       "name": "ロックでも美しく",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/0/03/%28Even_Rock_Must_Be_Done_Beautifully%29_Hiyori_Tomoe_M.png/revision/latest/scale-to-width-down/100?cb=20210515032048",
-      "series": 0
+      "series": 15,
+      "type": "anniversary"
     },
     {
       "id": "Self-Expression_Coaching",
       "star": 4,
       "name": "自己表現指南",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/d/d2/%28Self-Expression_Coaching%29_Hiyori_Tomoe_M.png/revision/latest/scale-to-width-down/100?cb=20211110145627",
-      "series": 0
+      "series": 40,
+      "type": "feature"
     },
     {
       "id": "Practicing",
@@ -1611,21 +1773,24 @@
       "star": 3,
       "name": "握手会調査",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/1/18/%28Meet_and_Greet_Investigation%29_Hiyori_Tomoe_M.png/revision/latest/scale-to-width-down/100?cb=20200712222310",
-      "series": 0
+      "series": 8,
+      "type": "feature"
     },
     {
       "id": "Student_Cloaked_in_a_Breeze",
       "star": 3,
       "name": "そよ風纏う生徒",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/e/e4/%28Student_Cloaked_in_a_Breeze%29_Hiyori_Tomoe_M.png/revision/latest/scale-to-width-down/100?cb=20210430055007",
-      "series": 0
+      "series": 27,
+      "type": "event"
     },
     {
       "id": "Lively_Dorm_Room",
       "star": 3,
       "name": "賑やかな部屋",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/e/e7/%28Lively_Dorm_Room%29_Hiyori_Tomoe_M.png/revision/latest/scale-to-width-down/100?cb=20210513010121",
-      "series": 0
+      "series": 28,
+      "type": "feature"
     },
     {
       "id": "Song_of_Sunny_Skies",
@@ -1641,14 +1806,16 @@
       "star": 5,
       "name": "偽りの指揮官",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/3/35/%28Deceitful_Commander%29_Ibara_Saegusa_M.png/revision/latest/scale-to-width-down/100?cb=20200517013119",
-      "series": 0
+      "series": 3,
+      "type": "feature"
     },
     {
       "id": "Frontline_Watchdog",
       "star": 5,
       "name": "前線の番犬",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/c/c4/%28Frontline_Watchdog%29_Ibara_Saegusa_M.png/revision/latest/scale-to-width-down/100?cb=20210730235116",
-      "series": 0
+      "series": 33,
+      "type": "event"
     },
     {
       "id": "Shrewd_Tactician",
@@ -1662,28 +1829,32 @@
       "star": 4,
       "name": "コズプロの代表",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/a/a9/%28CosPro%27s_Representative%29_Ibara_Saegusa_M.png/revision/latest/scale-to-width-down/100?cb=20200712220806",
-      "series": 0
+      "series": 5,
+      "type": "anniversary"
     },
     {
       "id": "Profitable_Summer",
       "star": 4,
       "name": "利益のサマー",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/a/a5/%28Profitable_Summer%29_Ibara_Saegusa_M.png/revision/latest/scale-to-width-down/100?cb=20200822174201",
-      "series": 0
+      "series": 10,
+      "type": "event"
     },
     {
       "id": "Black_Box",
       "star": 4,
       "name": "ブラックボックス",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/7/7a/%28Black_Box%29_Ibara_Saegusa_M.png/revision/latest/scale-to-width-down/100?cb=20210412065520",
-      "series": 0
+      "series": 26,
+      "type": "feature"
     },
     {
       "id": "Greedily_Rocking",
       "star": 4,
       "name": "貪欲でロックに",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/3/36/%28Greedily_Rocking%29_Ibara_Saegusa_M.png/revision/latest/scale-to-width-down/100?cb=20210521112412",
-      "series": 0
+      "series": 14,
+      "type": "anniversary"
     },
     {
       "id": "Practicing",
@@ -1697,14 +1868,16 @@
       "star": 3,
       "name": "合同ランチ",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/9/90/%28The_Lunch_Gathering%29_Ibara_Saegusa_M.png/revision/latest/scale-to-width-down/100?cb=20210113000814",
-      "series": 0
+      "series": 20,
+      "type": "feature"
     },
     {
       "id": "Head_Detective",
       "star": 3,
       "name": "上司刑事",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/3/3f/%28Head_Detective%29_Ibara_Saegusa_M.png/revision/latest/scale-to-width-down/100?cb=20211114073130",
-      "series": 0
+      "series": 40,
+      "type": "event"
     }
   ],
   "Jun_Sazanami": [
@@ -1713,14 +1886,16 @@
       "star": 5,
       "name": "シマハイエナの狩り",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/9/9f/%28Striped_Hyena%27s_Hunt%29_Jun_Sazanami_M.png/revision/latest/scale-to-width-down/100?cb=20200702234253",
-      "series": 0
+      "series": 7,
+      "type": "event"
     },
     {
       "id": "The_Path_I_Resist_as_I_Walk_Down_It",
       "star": 5,
       "name": "抗って歩む道",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/e/e2/%28The_Path_I_Resist_as_I_Walk_Down_It%29_Jun_Sazanami_M.png/revision/latest/scale-to-width-down/100?cb=20210412065545",
-      "series": 0
+      "series": 26,
+      "type": "feature"
     },
     {
       "id": "Well-Behaved_Beast",
@@ -1734,21 +1909,24 @@
       "star": 4,
       "name": "コズプロの気概",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/1/1e/%28CosPro%27s_Grit%29_Jun_Sazanami_M.png/revision/latest/scale-to-width-down/100?cb=20200702233442",
-      "series": 0
+      "series": 6,
+      "type": "anniversary"
     },
     {
       "id": "Buying_a_New_Book",
       "star": 4,
       "name": "新刊購入",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/e/ed/%28Buying_a_New_Book%29_Jun_Sazanami_M.png/revision/latest/scale-to-width-down/100?cb=20210212032508",
-      "series": 0
+      "series": 22,
+      "type": "feature"
     },
     {
       "id": "With_a_Rocking_Soul",
       "star": 4,
       "name": "ロックな精神で",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/7/72/%28With_a_Rocking_Soul%29_Jun_Sazanami_M.png/revision/latest/scale-to-width-down/100?cb=20210527093535",
-      "series": 0
+      "series": 13,
+      "type": "anniversary"
     },
     {
       "id": "Practicing",
@@ -1762,21 +1940,24 @@
       "star": 3,
       "name": "お土産茶会",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/a/ad/%28Souvenir_Tea_Party%29_Jun_Sazanami_M.png/revision/latest/scale-to-width-down/100?cb=20200813223846",
-      "series": 0
+      "series": 10,
+      "type": "feature"
     },
     {
       "id": "Game_Player",
       "star": 3,
       "name": "ゲームプレイヤー",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/d/d9/%28Game_Player%29_Jun_Sazanami_M.png/revision/latest/scale-to-width-down/100?cb=20200930204604",
-      "series": 0
+      "series": 13,
+      "type": "event"
     },
     {
       "id": "Mingling_with_the_Children",
       "star": 3,
       "name": "子供と交流",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/c/cc/%28Mingling_with_the_Children%29_Jun_Sazanami_M.png/revision/latest/scale-to-width-down/100?cb=20210415070242",
-      "series": 0
+      "series": 26,
+      "type": "event"
     },
     {
       "id": "Energetic_Summer",
@@ -1799,28 +1980,32 @@
       "star": 5,
       "name": "妥協なき一着",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/2/25/%28Uncompromisable_Outfit%29_Shu_Itsuki_M.png/revision/latest/scale-to-width-down/100?cb=20201125080844",
-      "series": 0
+      "series": 17,
+      "type": "feature"
     },
     {
       "id": "Astraea_of_Discipline",
       "star": 5,
       "name": "練成のアストレア",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/3/34/%28Astraea_of_Discipline%29_Shu_Itsuki_M.png/revision/latest/scale-to-width-down/100?cb=20220131151445",
-      "series": 0
+      "series": 45,
+      "type": "event"
     },
     {
       "id": "Aesthetic-driven_Creator",
       "star": 4,
       "name": "美学クリエイター",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/e/e8/%28Aesthetic-driven_Creator%29_Shu_Itsuki_M.png/revision/latest/scale-to-width-down/100?cb=20200517014827",
-      "series": 0
+      "series": 4,
+      "type": "feature"
     },
     {
       "id": "CosPro%27s_Artist",
       "star": 4,
       "name": "コズプロの芸術家",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/4/43/%28CosPro%27s_Artist%29_Shu_Itsuki_M.png/revision/latest/scale-to-width-down/100?cb=20200702233501",
-      "series": 0
+      "series": 6,
+      "type": "anniversary"
     },
     {
       "id": "Rocking_Aesthetic",
@@ -1834,7 +2019,8 @@
       "star": 4,
       "name": "美学の悟空",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/f/f7/%28Aesthetic_Wukong%29_Shu_Itsuki_M.png/revision/latest/scale-to-width-down/100?cb=20211014163806",
-      "series": 0
+      "series": 38,
+      "type": "event"
     },
     {
       "id": "Practicing",
@@ -1848,21 +2034,24 @@
       "star": 3,
       "name": "曜日の限定",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/e/e3/%28Time-Limited%29_Shu_Itsuki_M.png/revision/latest/scale-to-width-down/100?cb=20200802160947",
-      "series": 0
+      "series": 9,
+      "type": "feature"
     },
     {
       "id": "Dining_with_a_Stranger",
       "star": 3,
       "name": "相席の食卓",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/0/01/%28Dining_with_a_Stranger%29_Shu_Itsuki_M.png/revision/latest/scale-to-width-down/100?cb=20210326001911",
-      "series": 0
+      "series": 25,
+      "type": "feature"
     },
     {
       "id": "Assistance_of_the_Sun",
       "star": 3,
       "name": "太陽の助け",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/c/c9/%28Assistance_of_the_Sun%29_Shu_Itsuki_M.png/revision/latest/scale-to-width-down/100?cb=20211030205907",
-      "series": 0
+      "series": 39,
+      "type": "event"
     }
   ],
   "Mika_Kagehira": [
@@ -1871,14 +2060,16 @@
       "star": 5,
       "name": "暗闇の君",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/9/9b/%28Ruler_of_the_Dark%29_Mika_Kagehira_M.png/revision/latest/scale-to-width-down/100?cb=20200413004941",
-      "series": 1
+      "series": 1,
+      "type": "feature"
     },
     {
       "id": "Dainty_High_School_Detective",
       "star": 5,
       "name": "繊細高校生刑事",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/a/ac/%28Dainty_High_School_Detective%29_Mika_Kagehira_M.png/revision/latest/scale-to-width-down/100?cb=20211114073139",
-      "series": 0
+      "series": 40,
+      "type": "event"
     },
     {
       "id": "Novice_Artist",
@@ -1892,28 +2083,32 @@
       "star": 4,
       "name": "コズプロのホープ",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/f/f8/%28CosPro%27s_Hopes%29_Mika_Kagehira_M.png/revision/latest/scale-to-width-down/100?cb=20200712220641",
-      "series": 0
+      "series": 5,
+      "type": "anniversary"
     },
     {
       "id": "Fanciful_Dollhouse",
       "star": 4,
       "name": "空想ドールハウス",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/0/06/%28Fanciful_Dollhouse%29_Mika_Kagehira_M.png/revision/latest/scale-to-width-down/100?cb=20200716213128",
-      "series": 0
+      "series": 8,
+      "type": "event"
     },
     {
       "id": "It%27s_Rock_Despite_Its_Distortion",
       "star": 4,
       "name": "歪でもロック",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/3/30/%28It%27s_Rock_Despite_Its_Distortion%29_Mika_Kagehira_M.png/revision/latest/scale-to-width-down/100?cb=20210521112422",
-      "series": 0
+      "series": 14,
+      "type": "anniversary"
     },
     {
       "id": "Cleaning_Up",
       "star": 4,
       "name": "後片付け",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/8/8e/%28Cleaning_Up%29_Mika_Kagehira_M.png/revision/latest/scale-to-width-down/100?cb=20210525082332",
-      "series": 0
+      "series": 29,
+      "type": "feature"
     },
     {
       "id": "Practicing",
@@ -1927,28 +2122,32 @@
       "star": 3,
       "name": "引越祝い",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/f/f9/%28Welcome_Party%29_Mika_Kagehira_M.png/revision/latest/scale-to-width-down/100?cb=20201110114132",
-      "series": 0
+      "series": 16,
+      "type": "feature"
     },
     {
       "id": "Ammolite.M",
       "star": 3,
       "name": "アンモライト.M",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/1/10/%28Ammolite.M%29_Mika_Kagehira_M.png/revision/latest/scale-to-width-down/100?cb=20210227214922",
-      "series": 0
+      "series": 23,
+      "type": "event"
     },
     {
       "id": "Student_With_Sparkling,_Mysterious_Eyes",
       "star": 3,
       "name": "神秘の瞳輝く生徒",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/1/1d/%28Student_With_Sparkling%2C_Mysterious_Eyes%29_Mika_Kagehira_M.png/revision/latest/scale-to-width-down/100?cb=20210430055039",
-      "series": 0
+      "series": 27,
+      "type": "event"
     },
     {
       "id": "Making_Jewelry",
       "star": 3,
       "name": "宝飾品制作",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/f/f4/%28Making_Jewelry%29_Mika_Kagehira_M.png/revision/latest/scale-to-width-down/100?cb=20210912220102",
-      "series": 0
+      "series": 36,
+      "type": "feature"
     }
   ],
   "Hinata_Aoi": [
@@ -1964,35 +2163,40 @@
       "star": 5,
       "name": "甘くないスイーツ",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/b/be/%28Unsweet_Sweets%29_Hinata_Aoi_M.png/revision/latest/scale-to-width-down/100?cb=20201030220149",
-      "series": 0
+      "series": 15,
+      "type": "event"
     },
     {
       "id": "Colors_Mixed_Together",
       "star": 5,
       "name": "混ぜて重ねる色彩",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/8/84/%28Colors_Mixed_Together%29_Hinata_Aoi_M.png/revision/latest/scale-to-width-down/100?cb=20220111010446",
-      "series": 0
+      "series": 44,
+      "type": "feature"
     },
     {
       "id": "CosPro%27s_Energy",
       "star": 4,
       "name": "コズプロの活気",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/4/4f/%28CosPro%27s_Energy%29_Hinata_Aoi_M.png/revision/latest/scale-to-width-down/100?cb=20200712220505",
-      "series": 0
+      "series": 5,
+      "type": "anniversary"
     },
     {
       "id": "As_Both_an_Older_and_Younger_Brother",
       "star": 4,
       "name": "兄で弟で",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/f/fa/%28As_Both_an_Older_and_Younger_Brother%29_Hinata_Aoi_M.png/revision/latest/scale-to-width-down/100?cb=20210610113551",
-      "series": 0
+      "series": 30,
+      "type": "feature"
     },
     {
       "id": "Playful_Rock",
       "star": 4,
       "name": "やんちゃロック",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/f/f7/%28Playful_Rock%29_Hinata_Aoi_M.png/revision/latest/scale-to-width-down/100?cb=20210929035038",
-      "series": 0
+      "series": 12,
+      "type": "anniversary"
     },
     {
       "id": "Practicing",
@@ -2006,28 +2210,32 @@
       "star": 3,
       "name": "込められた束",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/4/4e/%28Packed_Bundle%29_Hinata_Aoi_M.png/revision/latest/scale-to-width-down/100?cb=20200517013426",
-      "series": 0
+      "series": 3,
+      "type": "feature"
     },
     {
       "id": "Summer_Studying",
       "star": 3,
       "name": "お勉強サマー",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/b/bc/%28Summer_Studying%29_Hinata_Aoi_M.png/revision/latest/scale-to-width-down/100?cb=20200822174227",
-      "series": 0
+      "series": 10,
+      "type": "event"
     },
     {
       "id": "Zirconia.H",
       "star": 3,
       "name": "ジルコニア.H",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/d/d0/%28Zirconia.H%29_Hinata_Aoi_M.png/revision/latest/scale-to-width-down/100?cb=20210227214935",
-      "series": 0
+      "series": 23,
+      "type": "event"
     },
     {
       "id": "A_Way_to_Eat_Vegetables",
       "star": 3,
       "name": "野菜の食べ方",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/3/3b/%28A_Way_to_Eat_Vegetables%29_Hinata_Aoi_M.png/revision/latest/scale-to-width-down/100?cb=20211110150551",
-      "series": 0
+      "series": 40,
+      "type": "feature"
     }
   ],
   "Yuta_Aoi": [
@@ -2036,14 +2244,16 @@
       "star": 5,
       "name": "個性と可能性",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/7/7d/%28Individuality_and_Potential%29_Yuta_Aoi_M.png/revision/latest/scale-to-width-down/100?cb=20210226215428",
-      "series": 0
+      "series": 23,
+      "type": "feature"
     },
     {
       "id": "Awaiting_the_Day_of_Harvest",
       "star": 5,
       "name": "実りの日を待ちて",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/c/c0/%28Awaiting_the_Day_of_Harvest%29_Yuta_Aoi_M.png/revision/latest/scale-to-width-down/100?cb=20210929121647",
-      "series": 0
+      "series": 37,
+      "type": "event"
     },
     {
       "id": "Pair_of_Planets",
@@ -2057,21 +2267,24 @@
       "star": 4,
       "name": "コズプロの勇気",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/0/09/%28CosPro%27s_Courage%29_Yuta_Aoi_M.png/revision/latest/scale-to-width-down/100?cb=20200702233540",
-      "series": 0
+      "series": 6,
+      "type": "anniversary"
     },
     {
       "id": "Prank_Corner",
       "star": 4,
       "name": "ドッキリコーナー",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/a/aa/%28Prank_Corner%29_Yuta_Aoi_M.png/revision/latest/scale-to-width-down/100?cb=20201011024644",
-      "series": 0
+      "series": 14,
+      "type": "feature"
     },
     {
       "id": "Cheeky_Rock",
       "star": 4,
       "name": "生意気ロック",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/b/b6/%28Cheeky_Rock%29_Yuta_Aoi_M.png/revision/latest/scale-to-width-down/100?cb=20211013121605",
-      "series": 0
+      "series": 10,
+      "type": "anniversary"
     },
     {
       "id": "Practicing",
@@ -2085,28 +2298,32 @@
       "star": 3,
       "name": "隠し技能",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/8/87/%28Hidden_Ability%29_Yuta_Aoi_M.png/revision/latest/scale-to-width-down/100?cb=20200413010018",
-      "series": 0
+      "series": 2,
+      "type": "feature"
     },
     {
       "id": "Survival_and_Observation",
       "star": 3,
       "name": "生存と観戦",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/6/61/%28Survival_and_Observation%29_Yuta_Aoi_M.png/revision/latest/scale-to-width-down/100?cb=20201114145819",
-      "series": 0
+      "series": 16,
+      "type": "event"
     },
     {
       "id": "Challenging_the_Children",
       "star": 3,
       "name": "子供と挑戦",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/5/5d/%28Challenging_the_Children%29_Yuta_Aoi_M.png/revision/latest/scale-to-width-down/100?cb=20210415070206",
-      "series": 0
+      "series": 26,
+      "type": "event"
     },
     {
       "id": "Gamer_Pride",
       "star": 3,
       "name": "ゲーマープライド",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/2/24/%28Gamer_Pride%29_Yuta_Aoi_M.png/revision/latest/scale-to-width-down/100?cb=20220111010432",
-      "series": 0
+      "series": 44,
+      "type": "feature"
     },
     {
       "id": "Energetic_Radiance",
@@ -2129,49 +2346,56 @@
       "star": 5,
       "name": "はぐれものの価値",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/1/1d/%28An_Outsider%27s_Value%29_Rinne_Amagi_M.png/revision/latest/scale-to-width-down/100?cb=20201212090938",
-      "series": 0
+      "series": 18,
+      "type": "feature"
     },
     {
       "id": "Tranquility_and_White_Tiger",
       "star": 5,
       "name": "静寂と白虎",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/3/36/%28Tranquility_and_White_Tiger%29_Rinne_Amagi_M.png/revision/latest/scale-to-width-down/100?cb=20220114225300",
-      "series": 0
+      "series": 44,
+      "type": "event"
     },
     {
       "id": "Lazy_Honey_Bee",
       "star": 4,
       "name": "不労ハニービー",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/6/65/%28Lazy_Honey_Bee%29_Rinne_Amagi_M.png/revision/latest/scale-to-width-down/100?cb=20200517013639",
-      "series": 0
+      "series": 3,
+      "type": "event"
     },
     {
       "id": "CosPro%27s_Stinger",
       "star": 4,
       "name": "コズプロの毒針",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/a/a9/%28CosPro%27s_Stinger%29_Rinne_Amagi_M.png/revision/latest/scale-to-width-down/100?cb=20200712220857",
-      "series": 0
+      "series": 5,
+      "type": "anniversary"
     },
     {
       "id": "Children%27s_Companion",
       "star": 4,
       "name": "子供の相手",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/b/be/%28Children%27s_Companion%29_Rinne_Amagi_M.png/revision/latest/scale-to-width-down/100?cb=20210415070218",
-      "series": 0
+      "series": 26,
+      "type": "event"
     },
     {
       "id": "Feeling_Tipsy",
       "star": 4,
       "name": "ほろ酔い気分",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/b/b0/%28Feeling_Tipsy%29_Rinne_Amagi_M.png/revision/latest/scale-to-width-down/100?cb=20210825143119",
-      "series": 0
+      "series": 35,
+      "type": "feature"
     },
     {
       "id": "Heretical_Rock",
       "star": 4,
       "name": "異端にロック",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/d/d0/%28Heretical_Rock%29_Rinne_Amagi_M.png/revision/latest/scale-to-width-down/100?cb=20210929035052",
-      "series": 0
+      "series": 12,
+      "type": "anniversary"
     },
     {
       "id": "Practicing",
@@ -2185,14 +2409,16 @@
       "star": 3,
       "name": "成り行き任せ",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/4/45/%28Leaving_it_to_Chance%29_Rinne_Amagi_M.png/revision/latest/scale-to-width-down/100?cb=20200614010000",
-      "series": 0
+      "series": 6,
+      "type": "feature"
     },
     {
       "id": "Sweets_Sensor",
       "star": 3,
       "name": "スイーツセンサー",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/b/b0/%28Sweets_Sensor%29_Rinne_Amagi_M.png/revision/latest/scale-to-width-down/100?cb=20210215083231",
-      "series": 0
+      "series": 22,
+      "type": "event"
     },
     {
       "id": "Fortune_Shining_Down",
@@ -2208,7 +2434,8 @@
       "star": 5,
       "name": "胸の内に秘めて",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/3/38/%28Hidden_Feelings%29_HiMERU_M.png/revision/latest/scale-to-width-down/100?cb=20200813223759",
-      "series": 0
+      "series": 10,
+      "type": "feature"
     },
     {
       "id": "Secretive_Idol",
@@ -2222,28 +2449,32 @@
       "star": 4,
       "name": "コズプロの秘密",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/e/e8/%28CosPro%27s_Secrecy%29_HiMERU_M.png/revision/latest/scale-to-width-down/100?cb=20200702233601",
-      "series": 0
+      "series": 6,
+      "type": "anniversary"
     },
     {
       "id": "Backhanded_Kindness",
       "star": 4,
       "name": "親切の裏表",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/3/30/%28Backhanded_Kindness%29_HiMERU_M.png/revision/latest/scale-to-width-down/100?cb=20201226070737",
-      "series": 0
+      "series": 19,
+      "type": "feature"
     },
     {
       "id": "Wind_Currents_of_the_Roaring_Waves",
       "star": 4,
       "name": "潮騒の風向き",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/e/eb/%28Wind_Currents_of_the_Roaring_Waves%29_HiMERU_M.png/revision/latest/scale-to-width-down/100?cb=20210814163115",
-      "series": 0
+      "series": 34,
+      "type": "event"
     },
     {
       "id": "Piercing_Rock",
       "star": 4,
       "name": "貫くロック",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/4/4a/%28Piercing_Rock%29_HiMERU_M.png/revision/latest/scale-to-width-down/100?cb=20211007075950",
-      "series": 0
+      "series": 11,
+      "type": "anniversary"
     },
     {
       "id": "Practicing",
@@ -2257,28 +2488,32 @@
       "star": 3,
       "name": "観察ハニービー",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/7/7e/%28Observing_Honey_Bee%29_HiMERU_M.png/revision/latest/scale-to-width-down/100?cb=20200517013814",
-      "series": 0
+      "series": 3,
+      "type": "event"
     },
     {
       "id": "Frayed_Thread",
       "star": 3,
       "name": "糸の解れ",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/1/1f/%28Frayed_Thread%29_HiMERU_M.png/revision/latest/scale-to-width-down/100?cb=20210226215412",
-      "series": 0
+      "series": 23,
+      "type": "feature"
     },
     {
       "id": "Likes_and_Circumstances",
       "star": 3,
       "name": "好みと都合",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/4/4b/%28Likes_and_Circumstances%29_HiMERU_M.png/revision/latest/scale-to-width-down/100?cb=20211010134524",
-      "series": 0
+      "series": 38,
+      "type": "feature"
     },
     {
       "id": "Senior_Detective",
       "star": 3,
       "name": "先輩刑事",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/e/e4/%28Senior_Detective%29_HiMERU_M.png/revision/latest/scale-to-width-down/100?cb=20211114073126",
-      "series": 0
+      "series": 40,
+      "type": "event"
     }
   ],
   "Kohaku_Oukawa": [
@@ -2287,14 +2522,16 @@
       "star": 5,
       "name": "勤労ハニービー",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/3/3d/%28Hard-Working_Honey_Bee%29_Kohaku_Oukawa_M.png/revision/latest/scale-to-width-down/100?cb=20200517013532",
-      "series": 0
+      "series": 3,
+      "type": "event"
     },
     {
       "id": "Amber-Colored_Blossom_in_Bloom",
       "star": 5,
       "name": "琥珀色に咲く蕾",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/a/a3/%28Amber-Colored_Blossom_in_Bloom%29_Kohaku_Oukawa_M.png/revision/latest/scale-to-width-down/100?cb=20210825142916",
-      "series": 0
+      "series": 35,
+      "type": "feature"
     },
     {
       "id": "Job-Taker",
@@ -2308,28 +2545,32 @@
       "star": 4,
       "name": "コズプロの古風",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/a/af/%28CosPro%27s_Tradition%29_Kohaku_Oukawa_M.png/revision/latest/scale-to-width-down/100?cb=20200712221506",
-      "series": 0
+      "series": 5,
+      "type": "anniversary"
     },
     {
       "id": "Tea_and_Getting_into_the_Right_State_of_Mind",
       "star": 4,
       "name": "お茶と心構え",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/1/1d/%28Tea_and_Getting_into_the_Right_State_of_Mind%29_Kohaku_Oukawa_M.png/revision/latest/scale-to-width-down/100?cb=20210513010135",
-      "series": 0
+      "series": 28,
+      "type": "feature"
     },
     {
       "id": "Perfect_Rock",
       "star": 4,
       "name": "きっちりロック",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/f/fc/%28Perfect_Rock%29_Kohaku_Oukawa_M.png/revision/latest/scale-to-width-down/100?cb=20210515032058",
-      "series": 0
+      "series": 15,
+      "type": "anniversary"
     },
     {
       "id": "Rockin%27_Willpower",
       "star": 4,
       "name": "ロックな根性",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/1/1c/%28Rockin%27_Willpower%29_Kohaku_Oukawa_M.png/revision/latest/scale-to-width-down/100?cb=20211013122141",
-      "series": 0
+      "series": 10,
+      "type": "anniversary"
     },
     {
       "id": "Practicing",
@@ -2350,14 +2591,16 @@
       "star": 3,
       "name": "菓子自慢",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/0/06/%28Pride_in_Sweets%29_Kohaku_Oukawa_M.png/revision/latest/scale-to-width-down/100?cb=20201110114126",
-      "series": 0
+      "series": 16,
+      "type": "feature"
     },
     {
       "id": "Harvest_and_Work",
       "star": 3,
       "name": "実りと仕事",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/1/1f/%28Harvest_and_Work%29_Kohaku_Oukawa_M.png/revision/latest/scale-to-width-down/100?cb=20210929130102",
-      "series": 0
+      "series": 37,
+      "type": "event"
     }
   ],
   "Niki_Shiina": [
@@ -2366,14 +2609,16 @@
       "star": 5,
       "name": "スイーツハンター",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/e/ee/%28Sweets_Hunter%29_Niki_Shiina_M.png/revision/latest/scale-to-width-down/100?cb=20210215083223",
-      "series": 0
+      "series": 22,
+      "type": "event"
     },
     {
       "id": "Melody_Delivered_To_Your_Heart",
       "star": 5,
       "name": "胸に届ける調べ",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/6/65/%28Melody_Delivered_To_Your_Heart%29_Niki_Shiina_M.png/revision/latest/scale-to-width-down/100?cb=20211225215232",
-      "series": 0
+      "series": 43,
+      "type": "feature"
     },
     {
       "id": "Easygoing_Chef",
@@ -2387,21 +2632,24 @@
       "star": 4,
       "name": "コズプロの胃袋",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/5/5b/%28CosPro%27s_Stomach%29_Niki_Shiina_M.png/revision/latest/scale-to-width-down/100?cb=20200702233624",
-      "series": 0
+      "series": 6,
+      "type": "anniversary"
     },
     {
       "id": "Food_and_Connoisseurship",
       "star": 4,
       "name": "食と目利き",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/0/05/%28Food_and_Connoisseurship%29_Niki_Shiina_M.png/revision/latest/scale-to-width-down/100?cb=20211010133552",
-      "series": 0
+      "series": 38,
+      "type": "feature"
     },
     {
       "id": "A_Pinch_Of_Rock_and_Roll_In_Cooking",
       "star": 4,
       "name": "料理にロック",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/a/a9/%28A_Pinch_Of_Rock_and_Roll_In_Cooking%29_Niki_Shiina_M.png/revision/latest/scale-to-width-down/100?cb=20211021183435",
-      "series": 0
+      "series": 9,
+      "type": "anniversary"
     },
     {
       "id": "Practicing",
@@ -2415,28 +2663,32 @@
       "star": 3,
       "name": "空腹ハニービー",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/6/63/%28Hungry_Honey_Bee%29_Niki_Shiina_M.png/revision/latest/scale-to-width-down/100?cb=20200517013734",
-      "series": 0
+      "series": 3,
+      "type": "event"
     },
     {
       "id": "A_Battle_with_Hunger",
       "star": 3,
       "name": "空腹戦争",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/a/a8/%28A_Battle_with_Hunger%29_Niki_Shiina_M.png/revision/latest/scale-to-width-down/100?cb=20200911001809",
-      "series": 0
+      "series": 12,
+      "type": "feature"
     },
     {
       "id": "Sweets_Classroom",
       "star": 3,
       "name": "スイーツ教室",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/9/94/%28Sweets_Classroom%29_Niki_Shiina_M.png/revision/latest/scale-to-width-down/100?cb=20201030220351",
-      "series": 0
+      "series": 15,
+      "type": "event"
     },
     {
       "id": "Cooking_Instructor",
       "star": 3,
       "name": "調理講師",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/f/f8/%28Cooking_Instructor%29_Niki_Shiina_M.png/revision/latest/scale-to-width-down/100?cb=20210725094438",
-      "series": 0
+      "series": 33,
+      "type": "feature"
     }
   ],
   "Rei_Sakuma": [
@@ -2452,42 +2704,48 @@
       "star": 5,
       "name": "混沌と愛の先導者",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/3/37/%28Guide_of_Chaos_and_Love%29_Rei_Sakuma_M.png/revision/latest/scale-to-width-down/100?cb=20210326001930",
-      "series": 0
+      "series": 25,
+      "type": "feature"
     },
     {
       "id": "Reaper_of_Condemnation",
       "star": 5,
       "name": "断罪の死神",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/3/39/%28Reaper_of_Condemnation%29_Rei_Sakuma_M.png/revision/latest/scale-to-width-down/100?cb=20211215125004",
-      "series": 0
+      "series": 42,
+      "type": "event"
     },
     {
       "id": "RhyLin%27s_Vampire",
       "star": 4,
       "name": "リズリンの吸血鬼",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/b/bb/%28RhyLin%27s_Vampire%29_Rei_Sakuma_M.png/revision/latest/scale-to-width-down/100?cb=20200830004415",
-      "series": 0
+      "series": 4,
+      "type": "anniversary"
     },
     {
       "id": "Nostalgic_Room",
       "star": 4,
       "name": "懐かしの部室",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/0/00/%28Nostalgic_Room%29_Rei_Sakuma_M.png/revision/latest/scale-to-width-down/100?cb=20201110114120",
-      "series": 0
+      "series": 16,
+      "type": "feature"
     },
     {
       "id": "Making_a_Plan_Blossom",
       "star": 4,
       "name": "ひと花咲かせて",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/2/28/%28Making_a_Plan_Blossom%29_Rei_Sakuma_M.png/revision/latest/scale-to-width-down/100?cb=20210530234342",
-      "series": 0
+      "series": 29,
+      "type": "event"
     },
     {
       "id": "Rock_Instincts",
       "star": 4,
       "name": "ロックな本能",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/5/51/%28Rock_Instincts%29_Rei_Sakuma_M.png/revision/latest/scale-to-width-down/100?cb=20210929035105",
-      "series": 0
+      "series": 12,
+      "type": "anniversary"
     },
     {
       "id": "Practicing",
@@ -2501,21 +2759,24 @@
       "star": 3,
       "name": "アイドルラジオ",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/5/54/%28Idol_Radio%29_Rei_Sakuma_M.png/revision/latest/scale-to-width-down/100?cb=20200517015131",
-      "series": 0
+      "series": 4,
+      "type": "feature"
     },
     {
       "id": "A_Summer_Spent_With_Friends",
       "star": 3,
       "name": "仲間のサマー",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/3/3c/%28A_Summer_Spent_With_Friends%29_Rei_Sakuma_M.png/revision/latest/scale-to-width-down/100?cb=20200822174252",
-      "series": 0
+      "series": 10,
+      "type": "event"
     },
     {
       "id": "Jet_Black_Ox_Spirit",
       "star": 3,
       "name": "漆黒の丑使い",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/c/c0/%28Jet_Black_Ox_Spirit%29_Rei_Sakuma_M.png/revision/latest/scale-to-width-down/100?cb=20201231063612",
-      "series": 0
+      "series": 19,
+      "type": "event"
     }
   ],
   "Kaoru_Hakaze": [
@@ -2524,7 +2785,8 @@
       "star": 5,
       "name": "コランダム.K",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/4/48/%28Corundum.K%29_Kaoru_Hakaze_M.png/revision/latest/scale-to-width-down/100?cb=20210227214926",
-      "series": 0
+      "series": 23,
+      "type": "event"
     },
     {
       "id": "Free-Spirited_Breeze",
@@ -2538,28 +2800,32 @@
       "star": 4,
       "name": "年下にお願い",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/c/ce/%28Asking_a_Favor_of_Someone_Younger%29_Kaoru_Hakaze_M.png/revision/latest/scale-to-width-down/100?cb=20200813223824",
-      "series": 0
+      "series": 10,
+      "type": "feature"
     },
     {
       "id": "RhyLin%27s_Heartthrob",
       "star": 4,
       "name": "リズリンの色男",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/4/42/%28RhyLin%27s_Heartthrob%29_Kaoru_Hakaze_M.png/revision/latest/scale-to-width-down/100?cb=20200909000400",
-      "series": 0
+      "series": 3,
+      "type": "anniversary"
     },
     {
       "id": "Leading_Skater",
       "star": 4,
       "name": "リードスケーター",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/8/87/%28Leading_Skater%29_Kaoru_Hakaze_M.png/revision/latest/scale-to-width-down/100?cb=20210516105420",
-      "series": 0
+      "series": 28,
+      "type": "event"
     },
     {
       "id": "Rockin%27_in_a_Flexible_Way",
       "star": 4,
       "name": "ロックは柔軟に",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/8/8c/%28Rockin%27_in_a_Flexible_Way%29_Kaoru_Hakaze_M.png/revision/latest/scale-to-width-down/100?cb=20211007080216",
-      "series": 0
+      "series": 11,
+      "type": "anniversary"
     },
     {
       "id": "Practicing",
@@ -2573,21 +2839,24 @@
       "star": 3,
       "name": "想像の対象",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/3/38/%28Guessing_the_Recipient%29_Kaoru_Hakaze_M.png/revision/latest/scale-to-width-down/100?cb=20210126061749",
-      "series": 0
+      "series": 21,
+      "type": "feature"
     },
     {
       "id": "Conversation_Topics",
       "star": 3,
       "name": "トークの話題",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/8/85/%28Conversation_Topics%29_Kaoru_Hakaze_M.png/revision/latest/scale-to-width-down/100?cb=20210710141008",
-      "series": 0
+      "series": 32,
+      "type": "feature"
     },
     {
       "id": "Harvest_and_Doubt",
       "star": 3,
       "name": "実りと懐疑",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/0/0d/%28Harvest_and_Doubt%29_Kaoru_Hakaze_M.png/revision/latest/scale-to-width-down/100?cb=20210929130718",
-      "series": 0
+      "series": 37,
+      "type": "event"
     }
   ],
   "Koga_Oogami": [
@@ -2596,14 +2865,16 @@
       "star": 5,
       "name": "閃光の狂奏狼",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/f/fc/%28Gleaming_Mad_Wolf_Musician%29_Koga_Oogami_M.png/revision/latest/scale-to-width-down/100?cb=20200517014606",
-      "series": 0
+      "series": 4,
+      "type": "feature"
     },
     {
       "id": "Conformity_Breaker",
       "star": 5,
       "name": "常識ブレイカー",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/5/52/%28Conformity_Breaker%29_Koga_Oogami_M.png/revision/latest/scale-to-width-down/100?cb=20210714132733",
-      "series": 0
+      "series": 32,
+      "type": "event"
     },
     {
       "id": "Combative_Rascal",
@@ -2617,28 +2888,32 @@
       "star": 4,
       "name": "リズリンのロック",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/4/40/%28RhyLin%27s_Rock_n_Roll%29_Koga_Oogami_M.png/revision/latest/scale-to-width-down/100?cb=20200909000438",
-      "series": 0
+      "series": 3,
+      "type": "anniversary"
     },
     {
       "id": "Survival_and_Combat",
       "star": 4,
       "name": "生存と闘争",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/9/97/%28Survival_and_Combat%29_Koga_Oogami_M.png/revision/latest/scale-to-width-down/100?cb=20201114145810",
-      "series": 0
+      "series": 16,
+      "type": "event"
     },
     {
       "id": "The_Garden%27s_Growth",
       "star": 4,
       "name": "ガーデンの成長",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/a/a0/%28The_Garden%27s_Growth%29_Koga_Oogami_M.png/revision/latest/scale-to-width-down/100?cb=20210426071619",
-      "series": 0
+      "series": 27,
+      "type": "feature"
     },
     {
       "id": "Pure_Rock_and_Roll",
       "star": 4,
       "name": "純粋なロック",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/0/06/%28Pure_Rock_and_Roll%29_Koga_Oogami_M.png/revision/latest/scale-to-width-down/100?cb=20211013121759",
-      "series": 0
+      "series": 10,
+      "type": "anniversary"
     },
     {
       "id": "Practicing",
@@ -2652,21 +2927,24 @@
       "star": 3,
       "name": "月と演出",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/c/c9/%28Moon_and_Staging%29_Koga_Oogami_M.png/revision/latest/scale-to-width-down/100?cb=20200915224747",
-      "series": 0
+      "series": 12,
+      "type": "event"
     },
     {
       "id": "Impressions_and_Reality",
       "star": 3,
       "name": "外見と中身",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/d/d6/%28Impressions_and_Reality%29_Koga_Oogami_M.png/revision/latest/scale-to-width-down/100?cb=20210126061800",
-      "series": 0
+      "series": 21,
+      "type": "feature"
     },
     {
       "id": "Clever_White_Tiger",
       "star": 3,
       "name": "慧敏な白虎",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/c/c0/%28Clever_White_Tiger%29_Koga_Oogami_M.png/revision/latest/scale-to-width-down/100?cb=20220114225244",
-      "series": 0
+      "series": 44,
+      "type": "event"
     }
   ],
   "Adonis_Otogari": [
@@ -2675,14 +2953,16 @@
       "star": 5,
       "name": "月見と思い出",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/8/8e/%28Moon_Viewing_and_Memories%29_Adonis_Otogari_M.png/revision/latest/scale-to-width-down/100?cb=20200915224703",
-      "series": 0
+      "series": 12,
+      "type": "event"
     },
     {
       "id": "He_Who_Cloaks_Himself_in_the_Winds_of_His_Homeland",
       "star": 5,
       "name": "故郷の風を纏う者",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/5/52/%28He_Who_Cloaks_Himself_in_the_Winds_of_His_Homeland%29_Adonis_Otogari_M.png/revision/latest/scale-to-width-down/100?cb=20210426071608",
-      "series": 0
+      "series": 27,
+      "type": "feature"
     },
     {
       "id": "Virtuous_and_Silent",
@@ -2696,28 +2976,32 @@
       "star": 4,
       "name": "リズリンの慈愛",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/e/e0/%28RhyLin%27s_Compassion%29_Adonis_Otogari_M.png/revision/latest/scale-to-width-down/100?cb=20200830004438",
-      "series": 0
+      "series": 4,
+      "type": "anniversary"
     },
     {
       "id": "Gentle_Pride_in_Your_Strength",
       "star": 4,
       "name": "力自慢の優しさ",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/9/90/%28Gentle_Pride_in_Your_Strength%29_Adonis_Otogari_M.png/revision/latest/scale-to-width-down/100?cb=20201212090942",
-      "series": 0
+      "series": 18,
+      "type": "feature"
     },
     {
       "id": "Rejoicing_at_the_Harvest",
       "star": 4,
       "name": "実りを喜びて",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/7/7c/%28Rejoicing_at_the_Harvest%29_Adonis_Otogari_M.png/revision/latest/scale-to-width-down/100?cb=20210929124331",
-      "series": 0
+      "series": 37,
+      "type": "event"
     },
     {
       "id": "Resonating_Rock",
       "star": 4,
       "name": "共鳴ロック",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/e/e1/%28Resonating_Rock%29_Adonis_Otogari_M.png/revision/latest/scale-to-width-down/100?cb=20211021183439",
-      "series": 0
+      "series": 9,
+      "type": "anniversary"
     },
     {
       "id": "Practicing",
@@ -2731,21 +3015,24 @@
       "star": 3,
       "name": "想いの贈り物",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/2/21/%28Thoughtful_Gift%29_Adonis_Otogari_M.png/revision/latest/scale-to-width-down/100?cb=20200517013345",
-      "series": 0
+      "series": 3,
+      "type": "feature"
     },
     {
       "id": "Newly_Sprouting_Skater",
       "star": 3,
       "name": "若葉スケーター",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/a/a5/%28Newly_Sprouting_Skater%29_Adonis_Otogari_M.png/revision/latest/scale-to-width-down/100?cb=20210516105429",
-      "series": 0
+      "series": 28,
+      "type": "event"
     },
     {
       "id": "Hesitant_Tiger",
       "star": 3,
       "name": "迷いの寅",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/1/15/%28Hesitant_Tiger%29_Adonis_Otogari_M.png/revision/latest/scale-to-width-down/100?cb=20211231014834",
-      "series": 0
+      "series": 43,
+      "type": "event"
     }
   ],
   "Nazuna_Nito": [
@@ -2754,14 +3041,16 @@
       "star": 5,
       "name": "未来の道案内",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/c/c9/%28Guiding_the_Path_to_the_Future%29_Nazuna_Nito_M.png/revision/latest/scale-to-width-down/100?cb=20210126061754",
-      "series": 0
+      "series": 21,
+      "type": "feature"
     },
     {
       "id": "Sphere_of_Azure_Mystery",
       "star": 5,
       "name": "蒼き神秘のスフィア",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/9/90/%28Sphere_of_Azure_Mystery%29_Nazuna_Nito_M.png/revision/latest/scale-to-width-down/100?cb=20210629081228",
-      "series": 0
+      "series": 31,
+      "type": "event"
     },
     {
       "id": "Rabbit_Watching_from_Afar",
@@ -2775,21 +3064,24 @@
       "star": 4,
       "name": "リズリンの両立者",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/4/4e/%28RhyLin%27s_Coexistence%29_Nazuna_Nito_M.png/revision/latest/scale-to-width-down/100?cb=20200830004454",
-      "series": 0
+      "series": 4,
+      "type": "anniversary"
     },
     {
       "id": "Moon_Viewing_and_Stories",
       "star": 4,
       "name": "月見と物語",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/c/c2/%28Moon_Viewing_and_Stories%29_Nazuna_Nito_M.png/revision/latest/scale-to-width-down/100?cb=20200915224641",
-      "series": 0
+      "series": 12,
+      "type": "event"
     },
     {
       "id": "Rock_of_New_Encounters",
       "star": 4,
       "name": "ぶつかれロック",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/5/50/%28Rock_of_New_Encounters%29_Nazuna_Nito_M.png/revision/latest/scale-to-width-down/100?cb=20210527093509",
-      "series": 0
+      "series": 13,
+      "type": "anniversary"
     },
     {
       "id": "Practicing",
@@ -2803,21 +3095,24 @@
       "star": 3,
       "name": "新生活体験",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/6/60/%28Living_a_New_Life%29_Nazuna_Nito_M.png/revision/latest/scale-to-width-down/100?cb=20200517015411",
-      "series": 0
+      "series": 4,
+      "type": "feature"
     },
     {
       "id": "Retaliatory_Blow",
       "star": 3,
       "name": "カウンターの一撃",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/0/07/%28Retaliatory_Blow%29_Nazuna_Nito_M.png/revision/latest/scale-to-width-down/100?cb=20210331071948",
-      "series": 0
+      "series": 25,
+      "type": "event"
     },
     {
       "id": "Peaceful_Gathering",
       "star": 3,
       "name": "穏やかな集会",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/e/ef/%28Peaceful_Gathering%29_Nazuna_Nito_M.png/revision/latest/scale-to-width-down/100?cb=20210610113547",
-      "series": 0
+      "series": 30,
+      "type": "feature"
     }
   ],
   "Mitsuru_Tenma": [
@@ -2826,14 +3121,16 @@
       "star": 5,
       "name": "最速で届ける光",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/c/c8/%28Delivered_at_the_Speed_of_Light%29_Mitsuru_Tenma_M.png/revision/latest/scale-to-width-down/100?cb=20200802160738",
-      "series": 0
+      "series": 9,
+      "type": "feature"
     },
     {
       "id": "Brimming_Sun",
       "star": 5,
       "name": "満ちる太陽",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/7/7f/%28Brimming_Sun%29_Mitsuru_Tenma_M.png/revision/latest/scale-to-width-down/100?cb=20211030205913",
-      "series": 0
+      "series": 39,
+      "type": "event"
     },
     {
       "id": "Energetic_Sun",
@@ -2847,28 +3144,32 @@
       "star": 4,
       "name": "悩めるAtoZ",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/1/1f/%28Troubled_AtoZ%29_Mitsuru_Tenma_M.png/revision/latest/scale-to-width-down/100?cb=20200517012516",
-      "series": 0
+      "series": 2,
+      "type": "event"
     },
     {
       "id": "RhyLin%27s_Star",
       "star": 4,
       "name": "リズリンの寵児",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/0/06/%28RhyLin%27s_Star%29_Mitsuru_Tenma_M.png/revision/latest/scale-to-width-down/100?cb=20200909000504",
-      "series": 0
+      "series": 3,
+      "type": "anniversary"
     },
     {
       "id": "Dashing_and_Rocking",
       "star": 4,
       "name": "ダッシュでロック",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/6/6e/%28Dashing_and_Rocking%29_Mitsuru_Tenma_M.png/revision/latest/scale-to-width-down/100?cb=20210515032039",
-      "series": 0
+      "series": 15,
+      "type": "anniversary"
     },
     {
       "id": "Role_Versus_Reality",
       "star": 4,
       "name": "イメージの違い",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/f/fd/%28Role_Versus_Reality%29_Mitsuru_Tenma_M.png/revision/latest/scale-to-width-down/100?cb=20210626021643",
-      "series": 0
+      "series": 31,
+      "type": "feature"
     },
     {
       "id": "Practicing",
@@ -2882,21 +3183,24 @@
       "star": 3,
       "name": "パンペース",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/2/23/%28At_the_Pace_of_Bread%29_Mitsuru_Tenma_M.png/revision/latest/scale-to-width-down/100?cb=20201011024711",
-      "series": 0
+      "series": 14,
+      "type": "feature"
     },
     {
       "id": "Sphere_of_Antiquity",
       "star": 3,
       "name": "太古のスフィア",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/5/5d/%28Sphere_of_Antiquity%29_Mitsuru_Tenma_M.png/revision/latest/scale-to-width-down/100?cb=20210629081219",
-      "series": 0
+      "series": 31,
+      "type": "event"
     },
     {
       "id": "Mysterious_Someone_After_School",
       "star": 3,
       "name": "放課後の誰か",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/3/31/%28Mysterious_Someone_After_School%29_Mitsuru_Tenma_M.png/revision/latest/scale-to-width-down/100?cb=20220126153422",
-      "series": 0
+      "series": 45,
+      "type": "feature"
     }
   ],
   "Hajime_Shino": [
@@ -2905,14 +3209,16 @@
       "star": 5,
       "name": "迷子のグレーテル",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/1/18/%28Lost_Gretel%29_Hajime_Shino_M.png/revision/latest/scale-to-width-down/100?cb=20200531221224",
-      "series": 0
+      "series": 5,
+      "type": "event"
     },
     {
       "id": "The_Best_Hospitality",
       "star": 5,
       "name": "最高のおもてなし",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/b/b0/%28The_Best_Hospitality%29_Hajime_Shino_M.png/revision/latest/scale-to-width-down/100?cb=20220126153431",
-      "series": 0
+      "series": 45,
+      "type": "feature"
     },
     {
       "id": "Sweet_Flower",
@@ -2926,28 +3232,32 @@
       "star": 4,
       "name": "リズリンの安らぎ",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/3/38/%28RhyLin%27s_Serenity%29_Hajime_Shino_M.png/revision/latest/scale-to-width-down/100?cb=20200909000523",
-      "series": 0
+      "series": 3,
+      "type": "anniversary"
     },
     {
       "id": "Violet_Crystals",
       "star": 4,
       "name": "紫色の結晶",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/6/69/%28Violet_Crystals%29_Hajime_Shino_M.png/revision/latest/scale-to-width-down/100?cb=20201214064925",
-      "series": 0
+      "series": 18,
+      "type": "event"
     },
     {
       "id": "A_Gentle_Style_of_Rock",
       "star": 4,
       "name": "優しさにロック",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/f/fd/%28A_Gentle_Style_of_Rock%29_Hajime_Shino_M.png/revision/latest/scale-to-width-down/100?cb=20210521112403",
-      "series": 0
+      "series": 14,
+      "type": "anniversary"
     },
     {
       "id": "A_Day_off_with_Friends",
       "star": 4,
       "name": "休日の友達",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/f/f3/%28A_Day_off_with_Friends%29_Hajime_Shino_M.png/revision/latest/scale-to-width-down/100?cb=20210810224539",
-      "series": 0
+      "series": 34,
+      "type": "feature"
     },
     {
       "id": "Practicing",
@@ -2961,21 +3271,24 @@
       "star": 3,
       "name": "楽しい現場",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/d/dd/%28Enjoyable_Scene%29_Hajime_Shino_M.png/revision/latest/scale-to-width-down/100?cb=20200413005655",
-      "series": 1
+      "series": 1,
+      "type": "feature"
     },
     {
       "id": "Spring%27s_Warmth",
       "star": 3,
       "name": "春の陽気",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/5/51/%28Spring%27s_Warmth%29_Hajime_Shino_M.png/revision/latest/scale-to-width-down/100?cb=20210314131437",
-      "series": 0
+      "series": 24,
+      "type": "event"
     },
     {
       "id": "Quiet_Library",
       "star": 3,
       "name": "静かな図書室",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/a/a1/%28Quiet_Library%29_Hajime_Shino_M.png/revision/latest/scale-to-width-down/100?cb=20210610113543",
-      "series": 0
+      "series": 30,
+      "type": "feature"
     }
   ],
   "Keito_Hasumi": [
@@ -2991,28 +3304,32 @@
       "star": 5,
       "name": "緑黒の門番",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/2/27/%28Green_and_Black_Gatekeeper%29_Keito_Hasumi_M.png/revision/latest/scale-to-width-down/100?cb=20201231063607",
-      "series": 0
+      "series": 19,
+      "type": "event"
     },
     {
       "id": "RhyLin%27s_Representative",
       "star": 4,
       "name": "リズリンの代表",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/e/e5/%28RhyLin%27s_Representative%29_Keito_Hasumi_M.png/revision/latest/scale-to-width-down/100?cb=20200909000604",
-      "series": 0
+      "series": 3,
+      "type": "anniversary"
     },
     {
       "id": "Irreplaceable_Glasses",
       "star": 4,
       "name": "無二の眼鏡",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/6/6a/%28Irreplaceable_Glasses%29_Keito_Hasumi_M.png/revision/latest/scale-to-width-down/100?cb=20200925232026",
-      "series": 0
+      "series": 13,
+      "type": "feature"
     },
     {
       "id": "Unbending_Rock",
       "star": 4,
       "name": "曲げないロック",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/d/de/%28Unbending_Rock%29_Keito_Hasumi_M.png/revision/latest/scale-to-width-down/100?cb=20210929035118",
-      "series": 0
+      "series": 12,
+      "type": "anniversary"
     },
     {
       "id": "Practicing",
@@ -3026,28 +3343,32 @@
       "star": 3,
       "name": "情けの風来坊",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/4/42/%28Merciful_Vagabond%29_Keito_Hasumi_M.png/revision/latest/scale-to-width-down/100?cb=20200517015738",
-      "series": 0
+      "series": 4,
+      "type": "event"
     },
     {
       "id": "Spy%27s_Strategy",
       "star": 3,
       "name": "スパイの作戦",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/4/48/%28Spy%27s_Strategy%29_Keito_Hasumi_M.png/revision/latest/scale-to-width-down/100?cb=20201015210135",
-      "series": 0
+      "series": 14,
+      "type": "event"
     },
     {
       "id": "Arranging_Flowers_and_the_Mind",
       "star": 3,
       "name": "花と心生け",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/2/28/%28Arranging_Flowers_and_the_Mind%29_Keito_Hasumi_M.png/revision/latest/scale-to-width-down/100?cb=20210311233328",
-      "series": 0
+      "series": 24,
+      "type": "feature"
     },
     {
       "id": "Making_Plans_on_a_Day_Off",
       "star": 3,
       "name": "休日の予定",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/6/6b/%28Making_Plans_on_a_Day_Off%29_Keito_Hasumi_M.png/revision/latest/scale-to-width-down/100?cb=20210626021625",
-      "series": 0
+      "series": 31,
+      "type": "feature"
     },
     {
       "id": "Witty_Remarks",
@@ -3063,7 +3384,8 @@
       "star": 5,
       "name": "在りし日の風来坊",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/4/4d/%28Old_Vagabond%29_Kuro_Kiryu_M.png/revision/latest/scale-to-width-down/100?cb=20200517015613",
-      "series": 0
+      "series": 4,
+      "type": "event"
     },
     {
       "id": "Skilled_Fighter",
@@ -3077,28 +3399,32 @@
       "star": 4,
       "name": "リズリンの男気",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/f/f0/%28RhyLin%27s_Valor%29_Kuro_Kiryu_M.png/revision/latest/scale-to-width-down/100?cb=20200830004545",
-      "series": 0
+      "series": 4,
+      "type": "anniversary"
     },
     {
       "id": "Deceptive_Spy",
       "star": 4,
       "name": "欺くスパイ",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/f/fe/%28Deceptive_Spy%29_Kuro_Kiryu_M.png/revision/latest/scale-to-width-down/100?cb=20201015210047",
-      "series": 0
+      "series": 14,
+      "type": "event"
     },
     {
       "id": "Having_Each_Other%27s_Back",
       "star": 4,
       "name": "もたれ合い",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/e/ee/%28Having_Each_Other%27s_Back%29_Kuro_Kiryu_M.png/revision/latest/scale-to-width-down/100?cb=20210912215634",
-      "series": 0
+      "series": 36,
+      "type": "feature"
     },
     {
       "id": "Invigorating_Rock",
       "star": 4,
       "name": "勇ましロック",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/c/ca/%28Invigorating_Rock%29_Kuro_Kiryu_M.png/revision/latest/scale-to-width-down/100?cb=20211007080328",
-      "series": 0
+      "series": 11,
+      "type": "anniversary"
     },
     {
       "id": "Practicing",
@@ -3112,28 +3438,32 @@
       "star": 3,
       "name": "会えない分",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/4/42/%28Time_Spent_Apart%29_Kuro_Kiryu_M.png/revision/latest/scale-to-width-down/100?cb=20200813223908",
-      "series": 0
+      "series": 10,
+      "type": "feature"
     },
     {
       "id": "Crimson_and_Black_Ox_Spirit",
       "star": 3,
       "name": "朱黒の丑使い",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/c/c0/%28Crimson_and_Black_Ox_Spirit%29_Kuro_Kiryu_M.png/revision/latest/scale-to-width-down/100?cb=20201231063600",
-      "series": 0
+      "series": 19,
+      "type": "event"
     },
     {
       "id": "World_History_Class",
       "star": 3,
       "name": "世界史の授業",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/9/95/%28World_History_Class%29_Kuro_Kiryu_M.png/revision/latest/scale-to-width-down/100?cb=20210426071627",
-      "series": 0
+      "series": 27,
+      "type": "feature"
     },
     {
       "id": "Flying_Astraea",
       "star": 3,
       "name": "飛行アストレア",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/3/39/%28Flying_Astraea%29_Kuro_Kiryu_M.png/revision/latest/scale-to-width-down/100?cb=20220131151439",
-      "series": 0
+      "series": 45,
+      "type": "event"
     },
     {
       "id": "Lucky_Plushie",
@@ -3149,14 +3479,16 @@
       "star": 5,
       "name": "天地神明の誓い",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/d/d1/%28An_Oath_to_the_Gods_of_Heaven_and_Earth%29_Souma_Kanzaki_M.png/revision/latest/scale-to-width-down/100?cb=20200828235707",
-      "series": 0
+      "series": 11,
+      "type": "feature"
     },
     {
       "id": "Valiant_Warlord",
       "star": 5,
       "name": "猛き武将",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/4/40/%28Valiant_Warlord%29_Souma_Kanzaki_M.png/revision/latest/scale-to-width-down/100?cb=20210914140524",
-      "series": 0
+      "series": 36,
+      "type": "event"
     },
     {
       "id": "Old-Fashioned_Warrior",
@@ -3170,28 +3502,32 @@
       "star": 4,
       "name": "捌きの風来坊",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/e/eb/%28Skilled_Vagabond%29_Souma_Kanzaki_M.png/revision/latest/scale-to-width-down/100?cb=20200517015656",
-      "series": 0
+      "series": 4,
+      "type": "event"
     },
     {
       "id": "RhyLin%27s_Elegance",
       "star": 4,
       "name": "リズリンの風雅",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/4/4c/%28RhyLin%27s_Elegance%29_Souma_Kanzaki_M.png/revision/latest/scale-to-width-down/100?cb=20200830004611",
-      "series": 0
+      "series": 4,
+      "type": "anniversary"
     },
     {
       "id": "Soir%C3%A9e_at_9_O%27Clock",
       "star": 4,
       "name": "九時のソワレ",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/d/dc/%28Soir%C3%A9e_at_9_O%27Clock%29_Souma_Kanzaki_M.png/revision/latest/scale-to-width-down/100?cb=20201201112417",
-      "series": 0
+      "series": 17,
+      "type": "event"
     },
     {
       "id": "Rock_and_Roll_Warrior",
       "star": 4,
       "name": "武士ロック",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/f/fc/%28Rock_and_Roll_Warrior%29_Souma_Kanzaki_M.png/revision/latest/scale-to-width-down/100?cb=20211013122002",
-      "series": 0
+      "series": 10,
+      "type": "anniversary"
     },
     {
       "id": "Practicing",
@@ -3205,14 +3541,16 @@
       "star": 3,
       "name": "思い出の味",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/b/b1/%28The_Taste_of_Memories%29_Souma_Kanzaki_M.png/revision/latest/scale-to-width-down/100?cb=20210311233354",
-      "series": 0
+      "series": 24,
+      "type": "feature"
     },
     {
       "id": "Beginner_Skater",
       "star": 3,
       "name": "入門スケーター",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/7/7a/%28Beginner_Skater%29_Souma_Kanzaki_M.png/revision/latest/scale-to-width-down/100?cb=20210516105410",
-      "series": 0
+      "series": 28,
+      "type": "event"
     }
   ],
   "Tsukasa_Suou": [
@@ -3228,42 +3566,48 @@
       "star": 5,
       "name": "王に至るため",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/b/b0/%28In_Order_to_Become_a_King%29_Tsukasa_Suou_M.png/revision/latest/scale-to-width-down/100?cb=20201030215738",
-      "series": 0
+      "series": 15,
+      "type": "feature"
     },
     {
       "id": "Rookie_Skater",
       "star": 5,
       "name": "ルーキースケーター",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/7/71/%28Rookie_Skater%29_Tsukasa_Suou_M.png/revision/latest/scale-to-width-down/100?cb=20210516105440",
-      "series": 0
+      "series": 28,
+      "type": "event"
     },
     {
       "id": "Work_and_the_Musketeer",
       "star": 4,
       "name": "仕事と銃士",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/f/f8/%28Work_and_the_Musketeer%29_Tsukasa_Suou_M.png/revision/latest/scale-to-width-down/100?cb=20200413004821",
-      "series": 0
+      "series": 1,
+      "type": "event"
     },
     {
       "id": "Shopping_with_Roommates",
       "star": 4,
       "name": "同室ショッピング",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/7/7a/%28Shopping_with_Roommates%29_Tsukasa_Suou_M.png/revision/latest/scale-to-width-down/100?cb=20200712222238",
-      "series": 0
+      "series": 8,
+      "type": "feature"
     },
     {
       "id": "NewDi%27s_Representative",
       "star": 4,
       "name": "ニューディの代表",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/a/ad/%28NewDi%27s_Representative%29_Tsukasa_Suou_M.png/revision/latest/scale-to-width-down/100?cb=20201110123308",
-      "series": 0
+      "series": 2,
+      "type": "anniversary"
     },
     {
       "id": "Knights%27_Rock",
       "star": 4,
       "name": "騎士のロック",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/e/ee/%28Knights%27_Rock%29_Tsukasa_Suou_M.png/revision/latest/scale-to-width-down/100?cb=20210929035131",
-      "series": 0
+      "series": 12,
+      "type": "anniversary"
     },
     {
       "id": "Practicing",
@@ -3277,35 +3621,40 @@
       "star": 3,
       "name": "猫探し",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/5/56/%28In_Search_of_the_Cat%29_Tsukasa_Suou_M.png/revision/latest/scale-to-width-down/100?cb=20210113000755",
-      "series": 0
+      "series": 20,
+      "type": "feature"
     },
     {
       "id": "Normal_Friends",
       "star": 3,
       "name": "普通の友達",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/0/04/%28Normal_Friends%29_Tsukasa_Suou_M.png/revision/latest/scale-to-width-down/100?cb=20210412065527",
-      "series": 0
+      "series": 26,
+      "type": "feature"
     },
     {
       "id": "Frontline_Faithful_Dog",
       "star": 3,
       "name": "前線の忠犬",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/1/11/%28Frontline_Faithful_Dog%29_Tsukasa_Suou_M.png/revision/latest/scale-to-width-down/100?cb=20210730235059",
-      "series": 0
+      "series": 33,
+      "type": "event"
     },
     {
       "id": "In_Charge_of_the_Sweets",
       "star": 3,
       "name": "お菓子当番",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/5/56/%28In_Charge_of_the_Sweets%29_Tsukasa_Suou_M.png/revision/latest/scale-to-width-down/100?cb=20211225220752",
-      "series": 0
+      "series": 43,
+      "type": "feature"
     },
     {
       "id": "Meticulous_White_Tiger",
       "star": 3,
       "name": "精細な白虎",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/6/6d/%28Meticulous_White_Tiger%29_Tsukasa_Suou_M.png/revision/latest/scale-to-width-down/100?cb=20220114225254",
-      "series": 0
+      "series": 44,
+      "type": "event"
     }
   ],
   "Leo_Tsukinaga": [
@@ -3314,14 +3663,16 @@
       "star": 5,
       "name": "浮かぶ色とりどり",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/f/fb/%28Prismatic_Colours_Flowing_Forth%29_Leo_Tsukinaga_M.png/revision/latest/scale-to-width-down/100?cb=20210113000801",
-      "series": 0
+      "series": 20,
+      "type": "feature"
     },
     {
       "id": "Free_Tiger",
       "star": 5,
       "name": "自由の寅",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/7/72/%28Free_Tiger%29_Leo_Tsukinaga_M.png/revision/latest/scale-to-width-down/100?cb=20211231012140",
-      "series": 0
+      "series": 43,
+      "type": "event"
     },
     {
       "id": "Delicate_Composer",
@@ -3335,21 +3686,24 @@
       "star": 4,
       "name": "裏から表へ",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/2/2d/%28Into_the_Spotlight%29_Leo_Tsukinaga_M.png/revision/latest/scale-to-width-down/100?cb=20200525213934",
-      "series": 0
+      "series": 5,
+      "type": "feature"
     },
     {
       "id": "NewDi%27s_Composer",
       "star": 4,
       "name": "ニューディの作曲家",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/1/1e/%28NewDi%27s_Composer%29_Leo_Tsukinaga_M.png/revision/latest/scale-to-width-down/100?cb=20201110123300",
-      "series": 0
+      "series": 2,
+      "type": "anniversary"
     },
     {
       "id": "Composing_is_Rock_and_Roll",
       "star": 4,
       "name": "作曲はロック",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/6/61/%28Composing_is_Rock_and_Roll%29_Leo_Tsukinaga_M.png/revision/latest/scale-to-width-down/100?cb=20211007080641",
-      "series": 0
+      "series": 11,
+      "type": "anniversary"
     },
     {
       "id": "Practicing",
@@ -3363,21 +3717,24 @@
       "star": 3,
       "name": "遭遇フェネック",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/b/bb/%28Fennec_Fox_Encounter%29_Leo_Tsukinaga_M.png/revision/latest/scale-to-width-down/100?cb=20200702234336",
-      "series": 0
+      "series": 7,
+      "type": "event"
     },
     {
       "id": "New_Roommate",
       "star": 3,
       "name": "新しい入居人",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/7/72/%28New_Roommate%29_Leo_Tsukinaga_M.png/revision/latest/scale-to-width-down/100?cb=20201011024734",
-      "series": 0
+      "series": 14,
+      "type": "feature"
     },
     {
       "id": "Invading_Astraea",
       "star": 3,
       "name": "侵入アストレア",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/1/1d/%28Invading_Astraea%29_Leo_Tsukinaga_M.png/revision/latest/scale-to-width-down/100?cb=20220131151436",
-      "series": 0
+      "series": 45,
+      "type": "event"
     },
     {
       "id": "Eccentric_Ideas",
@@ -3393,14 +3750,16 @@
       "star": 5,
       "name": "朝靄の妖精",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/9/98/%28Fairy_of_Morning_Mist%29_Izumi_Sena_M.png/revision/latest/scale-to-width-down/100?cb=20200525213836",
-      "series": 0
+      "series": 5,
+      "type": "feature"
     },
     {
       "id": "Surging_Heart_of_the_Roaring_Waves",
       "star": 5,
       "name": "潮騒の波打つ心",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/9/9e/%28Surging_Heart_of_the_Roaring_Waves%29_Izumi_Sena_M.png/revision/latest/scale-to-width-down/100?cb=20210814163528",
-      "series": 0
+      "series": 34,
+      "type": "event"
     },
     {
       "id": "Oozing_Confidence",
@@ -3414,21 +3773,24 @@
       "star": 4,
       "name": "ニューディの挑戦者",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/d/d2/%28NewDi%27s_Challenger%29_Izumi_Sena_M.png/revision/latest/scale-to-width-down/100?cb=20201117092040",
-      "series": 0
+      "series": 1,
+      "type": "anniversary"
     },
     {
       "id": "Saving_Blow",
       "star": 4,
       "name": "起死回生の一撃",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/5/54/%28Saving_Blow%29_Izumi_Sena_M.png/revision/latest/scale-to-width-down/100?cb=20210331071957",
-      "series": 0
+      "series": 25,
+      "type": "event"
     },
     {
       "id": "Rockin%27_Job",
       "star": 4,
       "name": "ロックな仕事",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/6/68/%28Rockin%27_Job%29_Izumi_Sena_M.png/revision/latest/scale-to-width-down/100?cb=20211013122121",
-      "series": 0
+      "series": 10,
+      "type": "anniversary"
     },
     {
       "id": "Practicing",
@@ -3442,28 +3804,32 @@
       "star": 3,
       "name": "時間と銃士",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/8/8f/%28Time_and_the_Musketeer%29_Izumi_Sena_M.png/revision/latest/scale-to-width-down/100?cb=20200413004753",
-      "series": 0
+      "series": 1,
+      "type": "event"
     },
     {
       "id": "The_Essence_of_Beauty",
       "star": 3,
       "name": "美の真髄へ",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/1/18/%28The_Essence_of_Beauty%29_Izumi_Sena_M.png/revision/latest/scale-to-width-down/100?cb=20200925232138",
-      "series": 0
+      "series": 13,
+      "type": "feature"
     },
     {
       "id": "Indoor_Ocean",
       "star": 3,
       "name": "屋内の海",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/6/6b/%28Indoor_Ocean%29_Izumi_Sena_M.png/revision/latest/scale-to-width-down/100?cb=20210525082354",
-      "series": 0
+      "series": 29,
+      "type": "feature"
     },
     {
       "id": "Winter_and_Performance",
       "star": 3,
       "name": "冬と演出",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/7/70/%28Winter_and_Performance%29_Izumi_Sena_M.png/revision/latest/scale-to-width-down/100?cb=20211129190026",
-      "series": 0
+      "series": 41,
+      "type": "event"
     },
     {
       "id": "A_New_Starting_Point",
@@ -3479,7 +3845,8 @@
       "star": 5,
       "name": "猫と騎士",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/3/34/%28Cat_and_Knight%29_Ritsu_Sakuma_M.png/revision/latest/scale-to-width-down/100?cb=20200413004619",
-      "series": 0
+      "series": 1,
+      "type": "event"
     },
     {
       "id": "Capricious_Observer",
@@ -3493,21 +3860,24 @@
       "star": 4,
       "name": "ニューディのブレーン",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/9/99/%28NewDi%27s_Brain%29_Ritsu_Sakuma_M.png/revision/latest/scale-to-width-down/100?cb=20201110123254",
-      "series": 0
+      "series": 2,
+      "type": "anniversary"
     },
     {
       "id": "Before_Practice",
       "star": 4,
       "name": "レッスンの前に",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/d/d8/%28Before_Practice%29_Ritsu_Sakuma_M.png/revision/latest/scale-to-width-down/100?cb=20201030215813",
-      "series": 0
+      "series": 15,
+      "type": "feature"
     },
     {
       "id": "Lax_Rock",
       "star": 4,
       "name": "緩やかロック",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/5/51/%28Lax_Rock%29_Ritsu_Sakuma_M.png/revision/latest/scale-to-width-down/100?cb=20211021183443",
-      "series": 0
+      "series": 9,
+      "type": "anniversary"
     },
     {
       "id": "Practicing",
@@ -3521,21 +3891,24 @@
       "star": 3,
       "name": "お菓子の誘い",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/4/4a/%28Tempting_Sweets%29_Ritsu_Sakuma_M.png/revision/latest/scale-to-width-down/100?cb=20200531221408",
-      "series": 0
+      "series": 5,
+      "type": "event"
     },
     {
       "id": "Sweets_Maker",
       "star": 3,
       "name": "スイーツクラフト",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/c/cf/%28Sweets_Maker%29_Ritsu_Sakuma_M.png/revision/latest/scale-to-width-down/100?cb=20210215083227",
-      "series": 0
+      "series": 22,
+      "type": "event"
     },
     {
       "id": "Club_Activity_Report",
       "star": 3,
       "name": "部活動報告",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/f/f7/%28Club_Activity_Report%29_Ritsu_Sakuma_M.png/revision/latest/scale-to-width-down/100?cb=20210326001902",
-      "series": 0
+      "series": 25,
+      "type": "feature"
     }
   ],
   "Arashi_Narukami": [
@@ -3544,14 +3917,16 @@
       "star": 5,
       "name": "最高の自分",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/2/24/%28The_Best_Self_I_Can_Be%29_Arashi_Narukami_M.png/revision/latest/scale-to-width-down/100?cb=20200925231958",
-      "series": 0
+      "series": 13,
+      "type": "feature"
     },
     {
       "id": "Student_of_Glimmering,_Dappled_Sunlight",
       "star": 5,
       "name": "木漏れ日煌めく生徒",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/3/3e/%28Student_of_Glimmering%2C_Dappled_Sunlight%29_Arashi_Narukami_M.png/revision/latest/scale-to-width-down/100?cb=20210430055021",
-      "series": 0
+      "series": 27,
+      "type": "event"
     },
     {
       "id": "In_Pursuit_of_Beauty",
@@ -3565,28 +3940,32 @@
       "star": 4,
       "name": "道標のヘンゼル",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/d/df/%28Guiding_Hansel%29_Arashi_Narukami_M.png/revision/latest/scale-to-width-down/100?cb=20200531221259",
-      "series": 0
+      "series": 5,
+      "type": "event"
     },
     {
       "id": "NewDi%27s_Advisor",
       "star": 4,
       "name": "ニューディの相談役",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/e/e7/%28NewDi%27s_Advisor%29_Arashi_Narukami_M.png/revision/latest/scale-to-width-down/100?cb=20201117092031",
-      "series": 0
+      "series": 1,
+      "type": "anniversary"
     },
     {
       "id": "Moon_Capital_Fan",
       "star": 4,
       "name": "月都ファン",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/d/d9/%28Moon_Capital_Fan%29_Arashi_Narukami_M.png/revision/latest/scale-to-width-down/100?cb=20210830134830",
-      "series": 0
+      "series": 35,
+      "type": "event"
     },
     {
       "id": "Rockin%27_Beauty",
       "star": 4,
       "name": "ロックな美観",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/6/61/%28Rockin%27_Beauty%29_Arashi_Narukami_M.png/revision/latest/scale-to-width-down/100?cb=20211021183447",
-      "series": 0
+      "series": 9,
+      "type": "anniversary"
     },
     {
       "id": "Practicing",
@@ -3600,21 +3979,24 @@
       "star": 3,
       "name": "里親と銃士",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/a/ab/%28Caretaker_and_Musketeer%29_Arashi_Narukami_M.png/revision/latest/scale-to-width-down/100?cb=20200413004554",
-      "series": 0
+      "series": 1,
+      "type": "event"
     },
     {
       "id": "Self-improvement",
       "star": 3,
       "name": "自分磨き",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/3/3b/%28Self-improvement%29_Arashi_Narukami_M.png/revision/latest/scale-to-width-down/100?cb=20201125080836",
-      "series": 0
+      "series": 17,
+      "type": "feature"
     },
     {
       "id": "The_Charms_of_Acting",
       "star": 3,
       "name": "演技の魅力",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/2/23/%28The_Charms_of_Acting%29_Arashi_Narukami_M.png/revision/latest/scale-to-width-down/100?cb=20211126204256",
-      "series": 0
+      "series": 41,
+      "type": "feature"
     }
   ],
   "Natsume_Sakasaki": [
@@ -3630,42 +4012,48 @@
       "star": 5,
       "name": "ウソツキゲーム",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/9/92/%28Liar_Game%29_Natsume_Sakasaki_M.png/revision/latest/scale-to-width-down/100?cb=20200930204312",
-      "series": 0
+      "series": 13,
+      "type": "event"
     },
     {
       "id": "Guide_Harboring_Wishes",
       "star": 5,
       "name": "願い宿す先導者",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/e/e8/%28Guide_Harboring_Wishes%29_Natsume_Sakasaki_M.png/revision/latest/scale-to-width-down/100?cb=20210513010110",
-      "series": 0
+      "series": 28,
+      "type": "feature"
     },
     {
       "id": "The_Price_for_Fortune_Telling",
       "star": 4,
       "name": "占いの対価",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/c/c6/%28The_Price_for_Fortune_Telling%29_Natsume_Sakasaki_M.png/revision/latest/scale-to-width-down/100?cb=20200828235729",
-      "series": 0
+      "series": 11,
+      "type": "feature"
     },
     {
       "id": "NewDi%27s_Eccentric",
       "star": 4,
       "name": "ニューディの奇抜",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/e/ed/%28NewDi%27s_Eccentric%29_Natsume_Sakasaki_M.png/revision/latest/scale-to-width-down/100?cb=20201117092046",
-      "series": 0
+      "series": 1,
+      "type": "anniversary"
     },
     {
       "id": "Reassuring_Rock",
       "star": 4,
       "name": "心強くロック",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/5/56/%28Reassuring_Rock%29_Natsume_Sakasaki_M.png/revision/latest/scale-to-width-down/100?cb=20210506214310",
-      "series": 0
+      "series": 16,
+      "type": "anniversary"
     },
     {
       "id": "Foreknowing_Tiger",
       "star": 4,
       "name": "予知の寅",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/b/b7/%28Foreknowing_Tiger%29_Natsume_Sakasaki_M.png/revision/latest/scale-to-width-down/100?cb=20211231012427",
-      "series": 0
+      "series": 43,
+      "type": "event"
     },
     {
       "id": "Practicing",
@@ -3679,21 +4067,24 @@
       "star": 3,
       "name": "仕掛け盗賊",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/c/cf/%28Calculating_Thief%29_Natsume_Sakasaki_M.png/revision/latest/scale-to-width-down/100?cb=20200616195046",
-      "series": 0
+      "series": 6,
+      "type": "event"
     },
     {
       "id": "A_Shift_in_Mindset",
       "star": 3,
       "name": "方向の修正",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/7/7a/%28A_Shift_in_Mindset%29_Natsume_Sakasaki_M.png/revision/latest/scale-to-width-down/100?cb=20201231055238",
-      "series": 0
+      "series": 19,
+      "type": "feature"
     },
     {
       "id": "Words_like_Spring_Mist",
       "star": 3,
       "name": "春霞の言葉",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/5/59/%28Words_like_Spring_Mist%29_Natsume_Sakasaki_M.png/revision/latest/scale-to-width-down/100?cb=20210314131441",
-      "series": 0
+      "series": 24,
+      "type": "event"
     },
     {
       "id": "True_Meaning_and_Blessings",
@@ -3716,14 +4107,16 @@
       "star": 5,
       "name": "魔法の翼",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/5/56/%28Wings_of_Magic%29_Tsumugi_Aoba_M.png/revision/latest/scale-to-width-down/100?cb=20201226070751",
-      "series": 0
+      "series": 19,
+      "type": "feature"
     },
     {
       "id": "Painting_Blooming_Flowers",
       "star": 5,
       "name": "咲く花を描いて",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/8/81/%28Painting_Blooming_Flowers%29_Tsumugi_Aoba_M.png/revision/latest/scale-to-width-down/100?cb=20210530234402",
-      "series": 0
+      "series": 29,
+      "type": "event"
     },
     {
       "id": "Guardian_Bluebird",
@@ -3737,21 +4130,24 @@
       "star": 4,
       "name": "知勇の盗賊",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/4/44/%28Wise_Thief%29_Tsumugi_Aoba_M.png/revision/latest/scale-to-width-down/100?cb=20200616195619",
-      "series": 0
+      "series": 6,
+      "type": "event"
     },
     {
       "id": "NewDi%27s_Support",
       "star": 4,
       "name": "ニューディのフォロー",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/0/06/%28NewDi%27s_Support%29_Tsumugi_Aoba_M.png/revision/latest/scale-to-width-down/100?cb=20201110123315",
-      "series": 0
+      "series": 2,
+      "type": "anniversary"
     },
     {
       "id": "Subconsciously_Rocking",
       "star": 4,
       "name": "無意識にロック",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/5/54/%28Subconsciously_Rocking%29_Tsumugi_Aoba_M.png/revision/latest/scale-to-width-down/100?cb=20210515032107",
-      "series": 0
+      "series": 15,
+      "type": "anniversary"
     },
     {
       "id": "Practicing",
@@ -3765,28 +4161,32 @@
       "star": 3,
       "name": "救出ドールハウス",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/9/9e/%28Dollhouse_Rescue%29_Tsumugi_Aoba_M.png/revision/latest/scale-to-width-down/100?cb=20200716213205",
-      "series": 0
+      "series": 8,
+      "type": "event"
     },
     {
       "id": "Brothers%27_Suggestion",
       "star": 3,
       "name": "兄弟の提案",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/e/ec/%28Brothers%27_Suggestion%29_Tsumugi_Aoba_M.png/revision/latest/scale-to-width-down/100?cb=20200925232214",
-      "series": 0
+      "series": 13,
+      "type": "feature"
     },
     {
       "id": "Break_Time",
       "star": 3,
       "name": "休憩タイム",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/d/da/%28Break_Time%29_Tsumugi_Aoba_M.png/revision/latest/scale-to-width-down/100?cb=20210925162141",
-      "series": 0
+      "series": 37,
+      "type": "feature"
     },
     {
       "id": "Plans_of_the_Sun",
       "star": 3,
       "name": "太陽の予定",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/c/c4/%28Plans_of_the_Sun%29_Tsumugi_Aoba_M.png/revision/latest/scale-to-width-down/100?cb=20211030205904",
-      "series": 0
+      "series": 39,
+      "type": "event"
     }
   ],
   "Sora_Harukawa": [
@@ -3795,14 +4195,16 @@
       "star": 5,
       "name": "義勇の盗賊",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/3/33/%28Loyal_Thief%29_Sora_Harukawa_M.png/revision/latest/scale-to-width-down/100?cb=20200616195425",
-      "series": 0
+      "series": 6,
+      "type": "event"
     },
     {
       "id": "Donning_the_Overlapping_Colors_of_Myself",
       "star": 5,
       "name": "重ねて纏う自分",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/a/a0/%28Donning_the_Overlapping_Colors_of_Myself%29_Sora_Harukawa_M.png/revision/latest/scale-to-width-down/100?cb=20210710141011",
-      "series": 0
+      "series": 32,
+      "type": "feature"
     },
     {
       "id": "Shining_Yellow_Comet",
@@ -3816,21 +4218,24 @@
       "star": 4,
       "name": "ニューディの笑顔",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/a/af/%28NewDi%27s_Smile%29_Sora_Harukawa_M.png/revision/latest/scale-to-width-down/100?cb=20201117092051",
-      "series": 0
+      "series": 1,
+      "type": "anniversary"
     },
     {
       "id": "Cheerful_Rock",
       "star": 4,
       "name": "明るくロック",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/f/fc/%28Cheerful_Rock%29_Sora_Harukawa_M.png/revision/latest/scale-to-width-down/100?cb=20210527093501",
-      "series": 0
+      "series": 13,
+      "type": "anniversary"
     },
     {
       "id": "A_Sleepover_Close_By",
       "star": 4,
       "name": "近場のお泊まり",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/7/73/%28A_Sleepover_Close_By%29_Sora_Harukawa_M.png/revision/latest/scale-to-width-down/100?cb=20220126153426",
-      "series": 0
+      "series": 45,
+      "type": "feature"
     },
     {
       "id": "Practicing",
@@ -3844,28 +4249,32 @@
       "star": 3,
       "name": "幸せの白",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/1/15/%28White_of_Happiness%29_Sora_Harukawa_M.png/revision/latest/scale-to-width-down/100?cb=20200413010110",
-      "series": 0
+      "series": 2,
+      "type": "feature"
     },
     {
       "id": "Game_Master",
       "star": 3,
       "name": "ゲームマスター",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/b/bd/%28Game_Master%29_Sora_Harukawa_M.png/revision/latest/scale-to-width-down/100?cb=20200930204418",
-      "series": 0
+      "series": 13,
+      "type": "event"
     },
     {
       "id": "Survival_and_Support",
       "star": 3,
       "name": "生存と応援",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/b/bf/%28Survival_and_Support%29_Sora_Harukawa_M.png/revision/latest/scale-to-width-down/100?cb=20201114145824",
-      "series": 0
+      "series": 16,
+      "type": "event"
     },
     {
       "id": "Collaborating_with_the_Children",
       "star": 3,
       "name": "子供と協力",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/2/2a/%28Collaborating_with_the_Children%29_Sora_Harukawa_M.png/revision/latest/scale-to-width-down/100?cb=20210415070230",
-      "series": 0
+      "series": 26,
+      "type": "event"
     },
     {
       "id": "Companions_and_Blessings",
@@ -3888,35 +4297,40 @@
       "star": 5,
       "name": "万雷の宴会場",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/6/60/%28Place_of_Thundrous_Festivities%29_Madara_Mikejima_M.png/revision/latest/scale-to-width-down/100?cb=20210311233349",
-      "series": 0
+      "series": 24,
+      "type": "feature"
     },
     {
       "id": "Lone_First-Magnitude_Star",
       "star": 4,
       "name": "独りの一等星",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/7/71/%28Lone_First-Magnitude_Star%29_Madara_Mikejima_M.png/revision/latest/scale-to-width-down/100?cb=20200413005926",
-      "series": 0
+      "series": 2,
+      "type": "feature"
     },
     {
       "id": "NewDi%27s_Banquet",
       "star": 4,
       "name": "ニューディの宴",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/b/bf/%28NewDi%27s_Banquet%29_Madara_Mikejima_M.png/revision/latest/scale-to-width-down/100?cb=20201110123248",
-      "series": 0
+      "series": 2,
+      "type": "anniversary"
     },
     {
       "id": "The_Rock_I%27ve_Decided_to_Play",
       "star": 4,
       "name": "心に決めたロック",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/6/6d/%28The_Rock_I%27ve_Decided_to_Play%29_Madara_Mikejima_M.png/revision/latest/scale-to-width-down/100?cb=20210506214328",
-      "series": 0
+      "series": 16,
+      "type": "anniversary"
     },
     {
       "id": "Passionate_Gaze_of_Winter",
       "star": 4,
       "name": "冬の熱視線",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/b/b2/%28Passionate_Gaze_of_Winter%29_Madara_Mikejima_M.png/revision/latest/scale-to-width-down/100?cb=20211129143246",
-      "series": 0
+      "series": 41,
+      "type": "event"
     },
     {
       "id": "Practicing",
@@ -3937,21 +4351,24 @@
       "star": 3,
       "name": "スパイの依頼",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/f/f1/%28Spy%27s_Task%29_Madara_Mikejima_M.png/revision/latest/scale-to-width-down/100?cb=20201015210108",
-      "series": 0
+      "series": 14,
+      "type": "event"
     },
     {
       "id": "A_Later_Follow_Up",
       "star": 3,
       "name": "後の様子見",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/8/85/%28A_Later_Follow_Up%29_Madara_Mikejima_M.png/revision/latest/scale-to-width-down/100?cb=20201212090929",
-      "series": 0
+      "series": 18,
+      "type": "feature"
     },
     {
       "id": "A_Word_of_Advice",
       "star": 3,
       "name": "未来相談",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/a/a4/%28A_Word_of_Advice%29_Madara_Mikejima_M.png/revision/latest/scale-to-width-down/100?cb=20210810224021",
-      "series": 0
+      "series": 34,
+      "type": "feature"
     },
     {
       "id": "Divine_Plan",
