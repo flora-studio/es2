@@ -1391,6 +1391,22 @@
   "anniversary": [
     {
       "type": "anniversary",
+      "url": "/wiki/Category:LOVE_Scout:_Group_A",
+      "banner": "https://static.wikia.nocookie.net/ensemble-stars/images/2/25/LOVE_Scout_Group_A_Banner.png/revision/latest/scale-to-width-down/190?cb=20210429163455",
+      "name": "LOVE Scout: Group A",
+      "start": "4/28/21",
+      "end": "5/5/21",
+      "upCardUrls": [
+        "/wiki/(Playing_Rock_in_the_Spotlight)_Eichi_Tenshouin",
+        "/wiki/(Rocking_Faith)_Subaru_Akehoshi",
+        "/wiki/(Still_Learning_How_to_Rock)_Hiiro_Amagi",
+        "/wiki/(Using_Knowledge_to_Rock)_Nagisa_Ran",
+        "/wiki/(Rocking_Aesthetic)_Shu_Itsuki"
+      ],
+      "series": 18
+    },
+    {
+      "type": "anniversary",
       "url": "/wiki/Category:LOVE_Scout:_Group_B",
       "banner": "https://static.wikia.nocookie.net/ensemble-stars/images/3/32/LOVE_Scout_Group_B_Banner.png/revision/latest/scale-to-width-down/190?cb=20210510173801",
       "name": "LOVE Scout: Group B",
@@ -1521,6 +1537,23 @@
         "/wiki/(Rockin%27_Beauty)_Arashi_Narukami"
       ],
       "series": 9
+    },
+    {
+      "type": "anniversary",
+      "url": "/wiki/Category:StarPro_Scout:_Group_A",
+      "banner": "https://static.wikia.nocookie.net/ensemble-stars/images/9/9b/StarPro_Scout_Group_A_Banner.png/revision/latest/scale-to-width-down/190?cb=20200428133917",
+      "name": "StarPro Scout: Group A",
+      "start": "4/28/20",
+      "end": "5/5/20",
+      "upCardUrls": [
+        "/wiki/(StarPro%27s_Representative)_Eichi_Tenshouin",
+        "/wiki/(StarPro%27s_Glittering_Star)_Subaru_Akehoshi",
+        "/wiki/(StarPro%27s_Floral_Star)_Midori_Takamine",
+        "/wiki/(StarPro%27s_Spy)_Shinobu_Sengoku",
+        "/wiki/(StarPro%27s_Novice)_Aira_Shiratori",
+        "/wiki/(StarPro%27s_Unknown)_Mayoi_Ayase"
+      ],
+      "series": 17
     },
     {
       "type": "anniversary",

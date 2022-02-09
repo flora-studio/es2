@@ -28,7 +28,8 @@
       "star": 4,
       "name": "スタプロの隠密",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/f/fb/%28StarPro%27s_Spy%29_Shinobu_Sengoku_M.png/revision/latest/scale-to-width-down/100?cb=20200517020400",
-      "series": 0
+      "series": 17,
+      "type": "anniversary"
     },
     {
       "id": "Howlite.S",
@@ -210,7 +211,8 @@
       "star": 4,
       "name": "スタプロの代表",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/1/14/%28StarPro%27s_Representative%29_Eichi_Tenshouin_M.png/revision/latest/scale-to-width-down/100?cb=20200517020050",
-      "series": 0
+      "series": 17,
+      "type": "anniversary"
     },
     {
       "id": "Presenting_a_New_Creation",
@@ -225,7 +227,8 @@
       "star": 4,
       "name": "最前線でロック",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/7/74/%28Playing_Rock_in_the_Spotlight%29_Eichi_Tenshouin_M.png/revision/latest/scale-to-width-down/100?cb=20210429000011",
-      "series": 0
+      "series": 18,
+      "type": "anniversary"
     },
     {
       "id": "Blessed_Bouquet",
@@ -652,7 +655,8 @@
       "star": 4,
       "name": "スタプロの綺羅星",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/0/0a/%28StarPro%27s_Glittering_Star%29_Subaru_Akehoshi_M.png/revision/latest/scale-to-width-down/100?cb=20200517020133",
-      "series": 0
+      "series": 17,
+      "type": "anniversary"
     },
     {
       "id": "Blooming_in_the_Wasteland",
@@ -667,7 +671,8 @@
       "star": 4,
       "name": "ロックな信念",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/3/3e/%28Rocking_Faith%29_Subaru_Akehoshi_M.png/revision/latest/scale-to-width-down/100?cb=20210429000023",
-      "series": 0
+      "series": 18,
+      "type": "anniversary"
     },
     {
       "id": "Movie_Marathon",
@@ -1193,7 +1198,8 @@
       "star": 4,
       "name": "スタプロの花形",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/b/b0/%28StarPro%27s_Floral_Star%29_Midori_Takamine_M.png/revision/latest/scale-to-width-down/100?cb=20200517020213",
-      "series": 0
+      "series": 17,
+      "type": "anniversary"
     },
     {
       "id": "Parfait_of_Pure_Bliss",
@@ -1288,7 +1294,8 @@
       "star": 4,
       "name": "ロックは勉強中",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/1/10/%28Still_Learning_How_to_Rock%29_Hiiro_Amagi_M.png/revision/latest/scale-to-width-down/100?cb=20210429000031",
-      "series": 0
+      "series": 18,
+      "type": "anniversary"
     },
     {
       "id": "High_Level_Outdoor_Game",
@@ -1373,7 +1380,8 @@
       "star": 4,
       "name": "スタプロの新米",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/5/58/%28StarPro%27s_Novice%29_Aira_Shiratori_M.png/revision/latest/scale-to-width-down/100?cb=20200517020312",
-      "series": 0
+      "series": 17,
+      "type": "anniversary"
     },
     {
       "id": "Serval%27s_Nap",
@@ -1475,7 +1483,8 @@
       "star": 4,
       "name": "スタプロの未知",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/0/07/%28StarPro%27s_Unknown%29_Mayoi_Ayase_M.png/revision/latest/scale-to-width-down/100?cb=20200517020446",
-      "series": 0
+      "series": 17,
+      "type": "anniversary"
     },
     {
       "id": "Ideal_Diorama",
@@ -1664,7 +1673,8 @@
       "star": 4,
       "name": "ロックは知識で",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/7/7a/%28Using_Knowledge_to_Rock%29_Nagisa_Ran_M.png/revision/latest/scale-to-width-down/100?cb=20210429000039",
-      "series": 0
+      "series": 18,
+      "type": "anniversary"
     },
     {
       "id": "Gravekeeping_Reaper",
@@ -2012,7 +2022,8 @@
       "star": 4,
       "name": "ロックな美学",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/9/9f/%28Rocking_Aesthetic%29_Shu_Itsuki_M.png/revision/latest/scale-to-width-down/100?cb=20210429000015",
-      "series": 0
+      "series": 18,
+      "type": "anniversary"
     },
     {
       "id": "Aesthetic_Wukong",
