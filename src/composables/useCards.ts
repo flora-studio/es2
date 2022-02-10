@@ -1,16 +1,31 @@
 import cards from '/src/data/card.json'
+import type {ScoutType} from './useScouts'
 
 export interface Card {
   id: string
   star: number
   name: string
   img: string
-  series: number   // 卡池的期数
-  limited: boolean // 是否是限定（限定与否，出现在卡池的计算规则会不同）
+  series: number
+  type: ScoutType
 }
 
 export type CardsByChara = { [key: string]: Card[] }
 
-export default function useCards(): CardsByChara {
+// Do not use
+export function useCardStorage(): CardsByChara {
   return cards
+}
+
+export function useCards(): Card[] {
+  return Object.entries(useCardStorage())
+    .map(([chara, cards]) => cards.map(card => ({
+      ...card,
+      id: `${chara}/${card.id}`
+    })))
+    .flat()
+}
+
+export function useCardsMap(): { [key: string]: Card } {
+  return useCards().reduce((ret, card) => Object.assign(ret, { [card.id]: card }), {})
 }

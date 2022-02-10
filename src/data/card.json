@@ -22,7 +22,7 @@
       "name": "忍者を愛する者",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/7/74/%28Lover_of_Ninja%29_Shinobu_Sengoku_M.png/revision/latest/scale-to-width-down/100?cb=20200420205139",
       "series": 0,
-      "type": "starter"
+      "type": "normal"
     },
     {
       "id": "StarPro%27s_Spy",
@@ -62,7 +62,7 @@
       "name": "練習風景",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/2/2e/%28Practicing%29_Shinobu_Sengoku_M.png/revision/latest/scale-to-width-down/100?cb=20200412150453",
       "series": 0,
-      "type": "starter"
+      "type": "normal"
     },
     {
       "id": "Barely_Different",
@@ -112,7 +112,7 @@
       "name": "兎群のリーダー",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/0/06/%28Leader_of_the_Rabbits%29_Tomoya_Mashiro_M.png/revision/latest/scale-to-width-down/100?cb=20200323203405",
       "series": 0,
-      "type": "starter"
+      "type": "normal"
     },
     {
       "id": "The_Epitome_of_Standard",
@@ -168,7 +168,7 @@
       "name": "練習風景",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/d/d3/%28Practicing%29_Tomoya_Mashiro_M.png/revision/latest/scale-to-width-down/100?cb=20200412151131",
       "series": 0,
-      "type": "starter"
+      "type": "normal"
     },
     {
       "id": "Troubled_Performer",
@@ -202,7 +202,7 @@
       "name": "天上のリーダー",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/6/6b/%28Leader_of_Heaven%29_Eichi_Tenshouin_M.png/revision/latest/scale-to-width-down/100?cb=20200412154826",
       "series": 0,
-      "type": "starter"
+      "type": "normal"
     },
     {
       "id": "Daring_Spy",
@@ -250,7 +250,7 @@
       "name": "練習風景",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/8/8f/%28Practicing%29_Eichi_Tenshouin_M.png/revision/latest/scale-to-width-down/100?cb=20200412143357",
       "series": 0,
-      "type": "starter"
+      "type": "normal"
     },
     {
       "id": "Adults%27_Afternoon",
@@ -308,7 +308,7 @@
       "name": "愛と驚きの探求者",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/c/c6/%28Pursuer_of_Love_and_Surprise%29_Wataru_Hibiki_M.png/revision/latest/scale-to-width-down/100?cb=20200427125003",
       "series": 0,
-      "type": "starter"
+      "type": "normal"
     },
     {
       "id": "StarPro%27s_Sunshine",
@@ -348,7 +348,7 @@
       "name": "練習風景",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/a/a3/%28Practicing%29_Wataru_Hibiki_M.png/revision/latest/scale-to-width-down/100?cb=20200412151509",
       "series": 0,
-      "type": "starter"
+      "type": "normal"
     },
     {
       "id": "Humans_and_Animals",
@@ -390,7 +390,7 @@
       "name": "成長する小さな翼",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/8/87/%28Growing_Small_Wings%29_Tori_Himemiya_M.png/revision/latest/scale-to-width-down/100?cb=20200427125054",
       "series": 0,
-      "type": "starter"
+      "type": "normal"
     },
     {
       "id": "StarPro%27s_Prized_Flower",
@@ -430,7 +430,7 @@
       "name": "練習風景",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/9/99/%28Practicing%29_Tori_Himemiya_M.png/revision/latest/scale-to-width-down/100?cb=20200412151219",
       "series": 0,
-      "type": "starter"
+      "type": "normal"
     },
     {
       "id": "Light_Red_Ox_Envoy",
@@ -488,7 +488,7 @@
       "name": "従順な奉仕者",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/1/13/%28Obedient_Servant%29_Yuzuru_Fushimi_M.png/revision/latest/scale-to-width-down/100?cb=20200420205259",
       "series": 0,
-      "type": "starter"
+      "type": "normal"
     },
     {
       "id": "StarPro%27s_Attendant",
@@ -528,7 +528,7 @@
       "name": "練習風景",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/c/c0/%28Practicing%29_Yuzuru_Fushimi_M.png/revision/latest/scale-to-width-down/100?cb=20200412151651",
       "series": 0,
-      "type": "starter"
+      "type": "normal"
     },
     {
       "id": "A_New_Lifestyle",
@@ -570,7 +570,7 @@
       "name": "綺羅星のリーダー",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/2/28/%28Leader_of_the_Glittering_Stars%29_Hokuto_Hidaka_M.png/revision/latest/scale-to-width-down/100?cb=20200412155739",
       "series": 0,
-      "type": "starter"
+      "type": "normal"
     },
     {
       "id": "My_One_and_Only_Goal",
@@ -626,7 +626,7 @@
       "name": "練習風景",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/1/15/%28Practicing%29_Hokuto_Hidaka_M.png/revision/latest/scale-to-width-down/100?cb=20200412144001",
       "series": 0,
-      "type": "starter"
+      "type": "normal"
     },
     {
       "id": "Student%27s_Duty",
@@ -676,7 +676,7 @@
       "name": "眩しい綺羅星",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/d/d9/%28Bright_Glittering_Stars%29_Subaru_Akehoshi_M.png/revision/latest/scale-to-width-down/100?cb=20200420203346",
       "series": 0,
-      "type": "starter"
+      "type": "normal"
     },
     {
       "id": "StarPro%27s_Glittering_Star",
@@ -724,7 +724,7 @@
       "name": "練習風景",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/f/f9/%28Practicing%29_Subaru_Akehoshi_M.png/revision/latest/scale-to-width-down/100?cb=20200412150602",
       "series": 0,
-      "type": "starter"
+      "type": "normal"
     },
     {
       "id": "Candy_Trap",
@@ -782,7 +782,7 @@
       "name": "情報通の分析者",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/a/a5/%28Knowledgeable_Analyst%29_Makoto_Yuuki_M.png/revision/latest/scale-to-width-down/100?cb=20200501230755",
       "series": 0,
-      "type": "starter"
+      "type": "normal"
     },
     {
       "id": "StarPro%27s_Brains",
@@ -822,7 +822,7 @@
       "name": "練習風景",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/c/c1/%28Practicing%29_Makoto_Yuuki_M.png/revision/latest/scale-to-width-down/100?cb=20200412145151",
       "series": 0,
-      "type": "starter"
+      "type": "normal"
     },
     {
       "id": "Moon_Rabbit",
@@ -872,7 +872,7 @@
       "name": "世話焼きな監督者",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/0/08/%28Helpful_Supervisor%29_Mao_Isara_M.png/revision/latest/scale-to-width-down/100?cb=20200505215240",
       "series": 0,
-      "type": "starter"
+      "type": "normal"
     },
     {
       "id": "StarPro%27s_Intermediary",
@@ -912,7 +912,7 @@
       "name": "練習風景",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/2/26/%28Practicing%29_Mao_Isara_M.png/revision/latest/scale-to-width-down/100?cb=20200412145426",
       "series": 0,
-      "type": "starter"
+      "type": "normal"
     },
     {
       "id": "Wasteland_and_Work",
@@ -946,7 +946,7 @@
       "name": "正義のリーダー",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/7/7d/%28Leader_of_Justice%29_Chiaki_Morisawa_M.png/revision/latest/scale-to-width-down/100?cb=20200323205347",
       "series": 0,
-      "type": "starter"
+      "type": "normal"
     },
     {
       "id": "Positive_AtoZ",
@@ -1002,7 +1002,7 @@
       "name": "練習風景",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/8/84/%28Practicing%29_Chiaki_Morisawa_M.png/revision/latest/scale-to-width-down/100?cb=20200412143356",
       "series": 0,
-      "type": "starter"
+      "type": "normal"
     },
     {
       "id": "Dollhouse_Invasion",
@@ -1060,7 +1060,7 @@
       "name": "うみをあいするもの",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/9/96/%28Lover_of_the_Ocean%29_Kanata_Shinkai_M.png/revision/latest/scale-to-width-down/100?cb=20200410162520",
       "series": 0,
-      "type": "starter"
+      "type": "normal"
     },
     {
       "id": "Water_and_Life",
@@ -1092,7 +1092,7 @@
       "name": "練習風景",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/c/c3/%28Practicing%29_Kanata_Shinkai_M.png/revision/latest/scale-to-width-down/100?cb=20200412144255",
       "series": 0,
-      "type": "starter"
+      "type": "normal"
     },
     {
       "id": "Seaside_Foraging",
@@ -1142,7 +1142,7 @@
       "name": "侠気を愛する者",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/d/db/%28Lover_of_Manliness%29_Tetora_Nagumo_M.png/revision/latest/scale-to-width-down/100?cb=20200406150134",
       "series": 0,
-      "type": "starter"
+      "type": "normal"
     },
     {
       "id": "StarPro%27s_Willpower",
@@ -1190,7 +1190,7 @@
       "name": "練習風景",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/b/b9/%28Practicing%29_Tetora_Nagumo_M.png/revision/latest/scale-to-width-down/100?cb=20200412150936",
       "series": 0,
-      "type": "starter"
+      "type": "normal"
     },
     {
       "id": "Volunteering",
@@ -1256,7 +1256,7 @@
       "name": "ゆるさを愛する者",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/3/38/%28Lover_of_Softness%29_Midori_Takamine_M.png/revision/latest/scale-to-width-down/100?cb=20200323201251",
       "series": 0,
-      "type": "starter"
+      "type": "normal"
     },
     {
       "id": "StarPro%27s_Floral_Star",
@@ -1288,7 +1288,7 @@
       "name": "練習風景",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/6/61/%28Practicing%29_Midori_Takamine_M.png/revision/latest/scale-to-width-down/100?cb=20200412145555",
       "series": 0,
-      "type": "starter"
+      "type": "normal"
     },
     {
       "id": "Bonds_That_Can_Be_Called_Friendship",
@@ -1322,7 +1322,7 @@
       "name": "手札のリーダー",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/7/71/%28Leader_of_Cards%29_Hiiro_Amagi_M.png/revision/latest/scale-to-width-down/100?cb=20200412154622",
       "series": 0,
-      "type": "starter"
+      "type": "normal"
     },
     {
       "id": "Innocent_Prince",
@@ -1378,7 +1378,7 @@
       "name": "練習風景",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/b/b3/%28Practicing%29_Hiiro_Amagi_M.png/revision/latest/scale-to-width-down/100?cb=20200412143610",
       "series": 0,
-      "type": "starter"
+      "type": "normal"
     },
     {
       "id": "Drifting_Vagabond",
@@ -1436,7 +1436,7 @@
       "name": "アイドルラバー",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/6/6d/%28Idol_Lover%29_Aira_Shiratori_M.png/revision/latest/scale-to-width-down/100?cb=20200413154801",
       "series": 0,
-      "type": "starter"
+      "type": "normal"
     },
     {
       "id": "StarPro%27s_Novice",
@@ -1484,7 +1484,7 @@
       "name": "練習風景",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/b/b1/%28Practicing%29_Aira_Shiratori_M.png/revision/latest/scale-to-width-down/100?cb=20200412143227",
       "series": 0,
-      "type": "starter"
+      "type": "normal"
     },
     {
       "id": "Basketball_Connections",
@@ -1542,7 +1542,7 @@
       "name": "内気な怪人",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/7/7a/%28Timid_Phantom%29_Mayoi_Ayase_M.png/revision/latest/scale-to-width-down/100?cb=20200406172646",
       "series": 0,
-      "type": "starter"
+      "type": "normal"
     },
     {
       "id": "StarPro%27s_Unknown",
@@ -1582,7 +1582,7 @@
       "name": "練習風景",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/a/aa/%28Practicing%29_Mayoi_Ayase_M.png/revision/latest/scale-to-width-down/100?cb=20200412145427",
       "series": 0,
-      "type": "starter"
+      "type": "normal"
     },
     {
       "id": "Hidden_Thief",
@@ -1624,7 +1624,7 @@
       "name": "柔軟な伝道者",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/4/4d/%28Flexible_Missionary%29_Tatsumi_Kazehaya_M.png/revision/latest/scale-to-width-down/100?cb=20200425133223",
       "series": 0,
-      "type": "starter"
+      "type": "normal"
     },
     {
       "id": "StarPro%27s_Minister",
@@ -1664,7 +1664,7 @@
       "name": "練習風景",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/5/56/%28Practicing%29_Tatsumi_Kazehaya_M.png/revision/latest/scale-to-width-down/100?cb=20200412151028",
       "series": 0,
-      "type": "starter"
+      "type": "normal"
     },
     {
       "id": "African_Wild_Dog_Companion",
@@ -1698,7 +1698,7 @@
       "name": "楽園のリーダー",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/f/f0/%28Leader_of_Paradise%29_Nagisa_Ran_M.png/revision/latest/scale-to-width-down/100?cb=20200412155151",
       "series": 0,
-      "type": "starter"
+      "type": "normal"
     },
     {
       "id": "Dream_of_the_Wasteland",
@@ -1746,7 +1746,7 @@
       "name": "練習風景",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/f/f6/%28Practicing%29_Nagisa_Ran_M.png/revision/latest/scale-to-width-down/100?cb=20200412145807",
       "series": 0,
-      "type": "starter"
+      "type": "normal"
     },
     {
       "id": "Peaceful_Library",
@@ -1796,7 +1796,7 @@
       "name": "微笑む貴族",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/2/2a/%28Smiling_Noble%29_Hiyori_Tomoe_M.png/revision/latest/scale-to-width-down/100?cb=20200422182745",
       "series": 0,
-      "type": "starter"
+      "type": "normal"
     },
     {
       "id": "CosPro%27s_Sun",
@@ -1836,7 +1836,7 @@
       "name": "練習風景",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/a/aa/%28Practicing%29_Hiyori_Tomoe_M.png/revision/latest/scale-to-width-down/100?cb=20200412144000",
       "series": 0,
-      "type": "starter"
+      "type": "normal"
     },
     {
       "id": "Meet_and_Greet_Investigation",
@@ -1894,7 +1894,7 @@
       "name": "したたかな策士",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/2/2a/%28Shrewd_Tactician%29_Ibara_Saegusa_M.png/revision/latest/scale-to-width-down/100?cb=20200501230932",
       "series": 0,
-      "type": "starter"
+      "type": "normal"
     },
     {
       "id": "CosPro%27s_Representative",
@@ -1934,7 +1934,7 @@
       "name": "練習風景",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/0/07/%28Practicing%29_Ibara_Saegusa_M.png/revision/latest/scale-to-width-down/100?cb=20200412144134",
       "series": 0,
-      "type": "starter"
+      "type": "normal"
     },
     {
       "id": "The_Lunch_Gathering",
@@ -1984,7 +1984,7 @@
       "name": "品行方正な獣",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/a/a5/%28Well-Behaved_Beast%29_Jun_Sazanami_M.png/revision/latest/scale-to-width-down/100?cb=20200413154803",
       "series": 0,
-      "type": "starter"
+      "type": "normal"
     },
     {
       "id": "CosPro%27s_Grit",
@@ -2016,7 +2016,7 @@
       "name": "練習風景",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/6/60/%28Practicing%29_Jun_Sazanami_M.png/revision/latest/scale-to-width-down/100?cb=20200412144253",
       "series": 0,
-      "type": "starter"
+      "type": "normal"
     },
     {
       "id": "Souvenir_Tea_Party",
@@ -2058,7 +2058,7 @@
       "name": "芸術のリーダー",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/5/58/%28Leader_of_the_Arts%29_Shu_Itsuki_M.png/revision/latest/scale-to-width-down/100?cb=20200412155041",
       "series": 0,
-      "type": "starter"
+      "type": "normal"
     },
     {
       "id": "Uncompromisable_Outfit",
@@ -2114,7 +2114,7 @@
       "name": "練習風景",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/a/ab/%28Practicing%29_Shu_Itsuki_M.png/revision/latest/scale-to-width-down/100?cb=20200412150456",
       "series": 0,
-      "type": "starter"
+      "type": "normal"
     },
     {
       "id": "Time-Limited",
@@ -2164,7 +2164,7 @@
       "name": "駆け出し芸術家",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/5/5b/%28Novice_Artist%29_Mika_Kagehira_M.png/revision/latest/scale-to-width-down/100?cb=20200420205225",
       "series": 0,
-      "type": "starter"
+      "type": "normal"
     },
     {
       "id": "CosPro%27s_Hopes",
@@ -2204,7 +2204,7 @@
       "name": "練習風景",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/9/9b/%28Practicing%29_Mika_Kagehira_M.png/revision/latest/scale-to-width-down/100?cb=20200412145557",
       "series": 0,
-      "type": "starter"
+      "type": "normal"
     },
     {
       "id": "Welcome_Party",
@@ -2246,7 +2246,7 @@
       "name": "双星のリーダー",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/e/ec/%28Leader_of_the_Twin_Planets%29_Hinata_Aoi_M.png/revision/latest/scale-to-width-down/100?cb=20200413131846",
       "series": 0,
-      "type": "starter"
+      "type": "normal"
     },
     {
       "id": "Unsweet_Sweets",
@@ -2294,7 +2294,7 @@
       "name": "練習風景",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/f/ff/%28Practicing%29_Hinata_Aoi_M.png/revision/latest/scale-to-width-down/100?cb=20200412143850",
       "series": 0,
-      "type": "starter"
+      "type": "normal"
     },
     {
       "id": "Packed_Bundle",
@@ -2352,7 +2352,7 @@
       "name": "対の遊星",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/3/39/%28Pair_of_Planets%29_Yuta_Aoi_M.png/revision/latest/scale-to-width-down/100?cb=20200406154536",
       "series": 0,
-      "type": "starter"
+      "type": "normal"
     },
     {
       "id": "CosPro%27s_Courage",
@@ -2384,7 +2384,7 @@
       "name": "練習風景",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/a/ac/%28Practicing%29_Yuta_Aoi_M.png/revision/latest/scale-to-width-down/100?cb=20200412151650",
       "series": 0,
-      "type": "starter"
+      "type": "normal"
     },
     {
       "id": "Hidden_Ability",
@@ -2434,7 +2434,7 @@
       "name": "蜜蜂のリーダー",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/c/c7/%28Leader_of_the_Bees%29_Rinne_Amagi_M.png/revision/latest/scale-to-width-down/100?cb=20200412155316",
       "series": 0,
-      "type": "starter"
+      "type": "normal"
     },
     {
       "id": "An_Outsider%27s_Value",
@@ -2498,7 +2498,7 @@
       "name": "練習風景",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/6/65/%28Practicing%29_Rinne_Amagi_M.png/revision/latest/scale-to-width-down/100?cb=20200412150342",
       "series": 0,
-      "type": "starter"
+      "type": "normal"
     },
     {
       "id": "Leaving_it_to_Chance",
@@ -2540,7 +2540,7 @@
       "name": "秘めたアイドル",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/b/b6/%28Secretive_Idol%29_HiMERU_M.png/revision/latest/scale-to-width-down/100?cb=20200422182710",
       "series": 0,
-      "type": "starter"
+      "type": "normal"
     },
     {
       "id": "CosPro%27s_Secrecy",
@@ -2580,7 +2580,7 @@
       "name": "練習風景",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/7/74/%28Practicing%29_HiMERU_M.png/revision/latest/scale-to-width-down/100?cb=20200412143849",
       "series": 0,
-      "type": "starter"
+      "type": "normal"
     },
     {
       "id": "Observing_Honey_Bee",
@@ -2638,7 +2638,7 @@
       "name": "引き受け仕事人",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/c/cf/%28Job-Taker%29_Kohaku_Oukawa_M.png/revision/latest/scale-to-width-down/100?cb=20200505221234",
       "series": 0,
-      "type": "starter"
+      "type": "normal"
     },
     {
       "id": "CosPro%27s_Tradition",
@@ -2678,7 +2678,7 @@
       "name": "練習風景",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/f/f5/%28Practicing%29_Kohaku_Oukawa_M.png/revision/latest/scale-to-width-down/100?cb=20200412144744",
       "series": 0,
-      "type": "starter"
+      "type": "normal"
     },
     {
       "id": "Practicing_Together",
@@ -2686,7 +2686,7 @@
       "name": "練習合わせ",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/5/5f/%28Practicing_Together%29_Kohaku_Oukawa_M.png/revision/latest/scale-to-width-down/100?cb=20200811172616",
       "series": 0,
-      "type": "starter"
+      "type": "normal"
     },
     {
       "id": "Pride_in_Sweets",
@@ -2728,7 +2728,7 @@
       "name": "気楽な料理人",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/2/2b/%28Easygoing_Chef%29_Niki_Shiina_M.png/revision/latest/scale-to-width-down/100?cb=20200413141846",
       "series": 0,
-      "type": "starter"
+      "type": "normal"
     },
     {
       "id": "CosPro%27s_Stomach",
@@ -2760,7 +2760,7 @@
       "name": "練習風景",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/f/f0/%28Practicing%29_Niki_Shiina_M.png/revision/latest/scale-to-width-down/100?cb=20200412150124",
       "series": 0,
-      "type": "starter"
+      "type": "normal"
     },
     {
       "id": "Hungry_Honey_Bee",
@@ -2802,7 +2802,7 @@
       "name": "魔物のリーダー",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/7/7f/%28Leader_of_the_Demons%29_Rei_Sakuma_M.png/revision/latest/scale-to-width-down/100?cb=20200326160012",
       "series": 0,
-      "type": "starter"
+      "type": "normal"
     },
     {
       "id": "Guide_of_Chaos_and_Love",
@@ -2858,7 +2858,7 @@
       "name": "練習風景",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/d/d9/%28Practicing%29_Rei_Sakuma_M.png/revision/latest/scale-to-width-down/100?cb=20200412150125",
       "series": 0,
-      "type": "starter"
+      "type": "normal"
     },
     {
       "id": "Idol_Radio",
@@ -2908,7 +2908,7 @@
       "name": "自由な風",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/5/5f/%28Free-Spirited_Breeze%29_Kaoru_Hakaze_M.png/revision/latest/scale-to-width-down/100?cb=20200413131845",
       "series": 0,
-      "type": "starter"
+      "type": "normal"
     },
     {
       "id": "Asking_a_Favor_of_Someone_Younger",
@@ -2948,7 +2948,7 @@
       "name": "練習風景",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/f/f6/%28Practicing%29_Kaoru_Hakaze_M.png/revision/latest/scale-to-width-down/100?cb=20200412144524",
       "series": 0,
-      "type": "starter"
+      "type": "normal"
     },
     {
       "id": "Guessing_the_Recipient",
@@ -2998,7 +2998,7 @@
       "name": "好戦的な荒くれ者",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/9/9e/%28Combative_Rascal%29_Koga_Oogami_M.png/revision/latest/scale-to-width-down/100?cb=20200427125002",
       "series": 0,
-      "type": "starter"
+      "type": "normal"
     },
     {
       "id": "RhyLin%27s_Rock_n_Roll",
@@ -3038,7 +3038,7 @@
       "name": "練習風景",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/e/ef/%28Practicing%29_Koga_Oogami_M.png/revision/latest/scale-to-width-down/100?cb=20200412144743",
       "series": 0,
-      "type": "starter"
+      "type": "normal"
     },
     {
       "id": "Moon_and_Staging",
@@ -3088,7 +3088,7 @@
       "name": "寡黙な善人",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/1/19/%28Virtuous_and_Silent%29_Adonis_Otogari_M.png/revision/latest/scale-to-width-down/100?cb=20200427125339",
       "series": 0,
-      "type": "starter"
+      "type": "normal"
     },
     {
       "id": "RhyLin%27s_Compassion",
@@ -3128,7 +3128,7 @@
       "name": "練習風景",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/2/2a/%28Practicing%29_Adonis_Otogari_M.png/revision/latest/scale-to-width-down/100?cb=20200412143225",
       "series": 0,
-      "type": "starter"
+      "type": "normal"
     },
     {
       "id": "Thoughtful_Gift",
@@ -3186,7 +3186,7 @@
       "name": "俯瞰のウサギ",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/7/7e/%28Rabbit_Watching_from_Afar%29_Nazuna_Nito_M.png/revision/latest/scale-to-width-down/100?cb=20200505220542",
       "series": 0,
-      "type": "starter"
+      "type": "normal"
     },
     {
       "id": "RhyLin%27s_Coexistence",
@@ -3218,7 +3218,7 @@
       "name": "練習風景",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/c/ce/%28Practicing%29_Nazuna_Nito_M.png/revision/latest/scale-to-width-down/100?cb=20200412150007",
       "series": 0,
-      "type": "starter"
+      "type": "normal"
     },
     {
       "id": "Living_a_New_Life",
@@ -3268,7 +3268,7 @@
       "name": "元気な太陽",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/a/a5/%28Energetic_Sun%29_Mitsuru_Tenma_M.png/revision/latest/scale-to-width-down/100?cb=20200416193044",
       "series": 0,
-      "type": "starter"
+      "type": "normal"
     },
     {
       "id": "Troubled_AtoZ",
@@ -3308,7 +3308,7 @@
       "name": "練習風景",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/5/5e/%28Practicing%29_Mitsuru_Tenma_M.png/revision/latest/scale-to-width-down/100?cb=20200412145645",
       "series": 0,
-      "type": "starter"
+      "type": "normal"
     },
     {
       "id": "At_the_Pace_of_Bread",
@@ -3358,7 +3358,7 @@
       "name": "可憐な花",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/6/66/%28Sweet_Flower%29_Hajime_Shino_M.png/revision/latest/scale-to-width-down/100?cb=20200427125254",
       "series": 0,
-      "type": "starter"
+      "type": "normal"
     },
     {
       "id": "RhyLin%27s_Serenity",
@@ -3398,7 +3398,7 @@
       "name": "練習風景",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/d/d5/%28Practicing%29_Hajime_Shino_M.png/revision/latest/scale-to-width-down/100?cb=20200412143528",
       "series": 0,
-      "type": "starter"
+      "type": "normal"
     },
     {
       "id": "Enjoyable_Scene",
@@ -3432,7 +3432,7 @@
       "name": "紅のリーダー",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/7/75/%28Leader_of_Those_in_Crimson%29_Keito_Hasumi_M.png/revision/latest/scale-to-width-down/100?cb=20200512140302",
       "series": 0,
-      "type": "starter"
+      "type": "normal"
     },
     {
       "id": "Green_and_Black_Gatekeeper",
@@ -3472,7 +3472,7 @@
       "name": "練習風景",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/5/53/%28Practicing%29_Keito_Hasumi_M.png/revision/latest/scale-to-width-down/100?cb=20200412144525",
       "series": 0,
-      "type": "starter"
+      "type": "normal"
     },
     {
       "id": "Merciful_Vagabond",
@@ -3530,7 +3530,7 @@
       "name": "器用な猛者",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/b/b0/%28Skilled_Fighter%29_Kuro_Kiryu_M.png/revision/latest/scale-to-width-down/100?cb=20200427125154",
       "series": 0,
-      "type": "starter"
+      "type": "normal"
     },
     {
       "id": "RhyLin%27s_Valor",
@@ -3570,7 +3570,7 @@
       "name": "練習風景",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/c/c0/%28Practicing%29_Kuro_Kiryu_M.png/revision/latest/scale-to-width-down/100?cb=20200412144826",
       "series": 0,
-      "type": "starter"
+      "type": "normal"
     },
     {
       "id": "Time_Spent_Apart",
@@ -3636,7 +3636,7 @@
       "name": "古風な武士",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/3/3d/%28Old-Fashioned_Warrior%29_Souma_Kanzaki_M.png/revision/latest/scale-to-width-down/100?cb=20200422182624",
       "series": 0,
-      "type": "starter"
+      "type": "normal"
     },
     {
       "id": "Skilled_Vagabond",
@@ -3676,7 +3676,7 @@
       "name": "練習風景",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/a/a3/%28Practicing%29_Souma_Kanzaki_M.png/revision/latest/scale-to-width-down/100?cb=20200412150827",
       "series": 0,
-      "type": "starter"
+      "type": "normal"
     },
     {
       "id": "The_Taste_of_Memories",
@@ -3702,7 +3702,7 @@
       "name": "忠誠のリーダー",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/a/ae/%28Leader_of_Allegiance%29_Tsukasa_Suou_M.png/revision/latest/scale-to-width-down/100?cb=20200502144348",
       "series": 0,
-      "type": "starter"
+      "type": "normal"
     },
     {
       "id": "In_Order_to_Become_a_King",
@@ -3758,7 +3758,7 @@
       "name": "練習風景",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/7/7f/%28Practicing%29_Tsukasa_Suou_M.png/revision/latest/scale-to-width-down/100?cb=20200412151507",
       "series": 0,
-      "type": "starter"
+      "type": "normal"
     },
     {
       "id": "In_Search_of_the_Cat",
@@ -3832,7 +3832,7 @@
       "name": "繊細な作曲家",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/d/d9/%28Delicate_Composer%29_Leo_Tsukinaga_M.png/revision/latest/scale-to-width-down/100?cb=20200420204631",
       "series": 0,
-      "type": "starter"
+      "type": "normal"
     },
     {
       "id": "Into_the_Spotlight",
@@ -3864,7 +3864,7 @@
       "name": "練習風景",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/a/ae/%28Practicing%29_Leo_Tsukinaga_M.png/revision/latest/scale-to-width-down/100?cb=20200412144937",
       "series": 0,
-      "type": "starter"
+      "type": "normal"
     },
     {
       "id": "Fennec_Fox_Encounter",
@@ -3922,7 +3922,7 @@
       "name": "強気の表現者",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/9/92/%28Oozing_Confidence%29_Izumi_Sena_M.png/revision/latest/scale-to-width-down/100?cb=20200319111359",
       "series": 0,
-      "type": "starter"
+      "type": "normal"
     },
     {
       "id": "NewDi%27s_Challenger",
@@ -3954,7 +3954,7 @@
       "name": "練習風景",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/b/b2/%28Practicing%29_Izumi_Sena_M.png/revision/latest/scale-to-width-down/100?cb=20200412144136",
       "series": 0,
-      "type": "starter"
+      "type": "normal"
     },
     {
       "id": "Time_and_the_Musketeer",
@@ -4004,7 +4004,7 @@
       "name": "気ままな観察者",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/6/61/%28Capricious_Observer%29_Ritsu_Sakuma_M.png/revision/latest/scale-to-width-down/100?cb=20200413131844",
       "series": 0,
-      "type": "starter"
+      "type": "normal"
     },
     {
       "id": "NewDi%27s_Brain",
@@ -4036,7 +4036,7 @@
       "name": "練習風景",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/b/bd/%28Practicing%29_Ritsu_Sakuma_M.png/revision/latest/scale-to-width-down/100?cb=20200412150225",
       "series": 0,
-      "type": "starter"
+      "type": "normal"
     },
     {
       "id": "Tempting_Sweets",
@@ -4086,7 +4086,7 @@
       "name": "美の追究者",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/9/9c/%28In_Pursuit_of_Beauty%29_Arashi_Narukami_M.png/revision/latest/scale-to-width-down/100?cb=20200420204956",
       "series": 0,
-      "type": "starter"
+      "type": "normal"
     },
     {
       "id": "Guiding_Hansel",
@@ -4126,7 +4126,7 @@
       "name": "練習風景",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/b/b9/%28Practicing%29_Arashi_Narukami_M.png/revision/latest/scale-to-width-down/100?cb=20200412143228",
       "series": 0,
-      "type": "starter"
+      "type": "normal"
     },
     {
       "id": "Caretaker_and_Musketeer",
@@ -4160,7 +4160,7 @@
       "name": "魔術のリーダー",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/d/d7/%28Leader_of_Magic%29_Natsume_Sakasaki_M.png/revision/latest/scale-to-width-down/100?cb=20200413122703",
       "series": 0,
-      "type": "starter"
+      "type": "normal"
     },
     {
       "id": "Liar_Game",
@@ -4216,7 +4216,7 @@
       "name": "練習風景",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/e/e3/%28Practicing%29_Natsume_Sakasaki_M.png/revision/latest/scale-to-width-down/100?cb=20200412145846",
       "series": 0,
-      "type": "starter"
+      "type": "normal"
     },
     {
       "id": "Calculating_Thief",
@@ -4282,7 +4282,7 @@
       "name": "見守る青い鳥",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/a/a6/%28Guardian_Bluebird%29_Tsumugi_Aoba_M.png/revision/latest/scale-to-width-down/100?cb=20200505221002",
       "series": 0,
-      "type": "starter"
+      "type": "normal"
     },
     {
       "id": "Wise_Thief",
@@ -4314,7 +4314,7 @@
       "name": "練習風景",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/0/0c/%28Practicing%29_Tsumugi_Aoba_M.png/revision/latest/scale-to-width-down/100?cb=20200412151537",
       "series": 0,
-      "type": "starter"
+      "type": "normal"
     },
     {
       "id": "Dollhouse_Rescue",
@@ -4372,7 +4372,7 @@
       "name": "輝く黄色い彗星",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/e/e7/%28Shining_Yellow_Comet%29_Sora_Harukawa_M.png/revision/latest/scale-to-width-down/100?cb=20200411191216",
       "series": 0,
-      "type": "starter"
+      "type": "normal"
     },
     {
       "id": "NewDi%27s_Smile",
@@ -4404,7 +4404,7 @@
       "name": "練習風景",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/9/93/%28Practicing%29_Sora_Harukawa_M.png/revision/latest/scale-to-width-down/100?cb=20200412150826",
       "series": 0,
-      "type": "starter"
+      "type": "normal"
     },
     {
       "id": "White_of_Happiness",
@@ -4454,7 +4454,7 @@
       "name": "祭のリーダー",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/b/bf/%28Leader_of_Festivals%29_Madara_Mikejima_M.png/revision/latest/scale-to-width-down/100?cb=20200412155416",
       "series": 0,
-      "type": "starter"
+      "type": "normal"
     },
     {
       "id": "Place_of_Thundrous_Festivities",
@@ -4502,7 +4502,7 @@
       "name": "練習風景",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/8/87/%28Practicing%29_Madara_Mikejima_M.png/revision/latest/scale-to-width-down/100?cb=20200412145150",
       "series": 0,
-      "type": "starter"
+      "type": "normal"
     },
     {
       "id": "Practicing_Together",
@@ -4510,7 +4510,7 @@
       "name": "練習合わせ",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/7/7f/%28Practicing_Together%29_Madara_Mikejima_M.png/revision/latest/scale-to-width-down/100?cb=20200811165732",
       "series": 0,
-      "type": "starter"
+      "type": "normal"
     },
     {
       "id": "Spy%27s_Task",

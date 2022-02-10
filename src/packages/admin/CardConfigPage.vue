@@ -11,7 +11,7 @@
 </template>
 <script setup lang="tsx">
 import { NSelect, NDataTable, NInput, NButton, NSpace, NInputNumber, NPopconfirm, NTooltip, NCheckbox } from "naive-ui"
-import useCharas from "../../composables/useCharas"
+import {useCharas} from "../../composables/useCharas"
 import {Card} from "../../composables/useCards"
 import {computed, ref, h} from "vue"
 import useCardStorage from "./composables/useCardStorage"

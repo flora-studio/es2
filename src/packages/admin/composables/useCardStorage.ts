@@ -1,8 +1,8 @@
 import {reactive} from "vue"
-import useCards from "../../../composables/useCards"
+import {useCardStorage} from "../../../composables/useCards"
 
 // as global state management
-const storage = reactive(useCards())
+const storage = reactive(useCardStorage())
 
 export default function useCardStorage() {
   return storage

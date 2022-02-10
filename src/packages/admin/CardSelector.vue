@@ -29,8 +29,8 @@
 <script setup lang="ts">
 import { NModal, NSelect, NGrid, NGridItem } from 'naive-ui'
 import {computed, ref} from 'vue'
-import useCharas from '../../composables/useCharas'
-import useCards from '../../composables/useCards'
+import {useCharas} from '../../composables/useCharas'
+import {useCardStorage} from '../../composables/useCards'
 
 const props = defineProps<{ show: boolean, value: string[] }>()
 const emit = defineEmits<{
@@ -46,7 +46,7 @@ const options = computed(() => allCharacters.map(item => ({ label: `${item.name}
 const currentChara = ref(options.value?.[0].value || '')
 
 // 卡片选择
-const allCards = useCards()
+const allCards = useCardStorage()
 const currentCards = computed(() => allCards[currentChara.value])
 
 // 选择

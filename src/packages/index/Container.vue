@@ -1,16 +1,26 @@
 <template>
   <div class="container">
-    <thumb-pools v-model:value="selectPool" />
-    <gacha-button />
+    <thumb-scouts />
+    <gacha-button @click="clickTake1" />
+    <div style="position: absolute; right: 0; top: 0">水位：{{ waterLevel }}</div>
   </div>
 </template>
 <script setup lang="ts">
-import ThumbPools from './ThumbPools.vue'
+import ThumbScouts from './ThumbScouts.vue'
 import {ref} from 'vue'
 import GachaButton from './GachaButton.vue'
+import {Scout} from '../../composables/useScouts'
+import {waterLevel} from './logic/store'
+import {take1, take10} from './logic/actions'
 
 // 当前选择的池子
-const selectPool = ref(0)
+// const selectPool = ref<Scout | null>(null)
+
+const clickTake1 = () => {
+  const result = take10()
+  console.table(result)
+}
+
 </script>
 <style scoped>
 .container {

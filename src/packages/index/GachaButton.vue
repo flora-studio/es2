@@ -1,7 +1,7 @@
 <template>
   <div class="btn">
     <div class="top">招募</div>
-    <div class="bottom">{{ '💸\u3000 1' }}</div>
+    <div class="bottom">{{ '💎\u300035' }}</div>
   </div>
 </template>
 
@@ -14,6 +14,7 @@
   position: absolute;
   right: 60px;
   bottom: 20px;
+  cursor: pointer;
 }
 
 .top {
