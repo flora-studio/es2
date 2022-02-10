@@ -6,7 +6,7 @@ import {computed, reactive, ref} from 'vue'
 export interface Gacha {
   type: ScoutType
   series: number
-  cards: Card[]
+  cardIds: string[]
 }
 
 // 抽卡历史

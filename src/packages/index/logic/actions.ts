@@ -1,5 +1,5 @@
 import {Card} from '../../../composables/useCards'
-import {cardRange, currentScout, upCardsIds, waterLevel} from './store'
+import {cardRange, currentScout, history, upCardsIds, waterLevel} from './store'
 import {findLastIndex, shuffle} from 'lodash-es'
 
 type ResultType = { up: boolean, star: number }
@@ -7,10 +7,11 @@ type ResultType = { up: boolean, star: number }
 // 单抽
 export function take1() {
   console.assert(currentScout.value !== null, 'must choose a scout')
-  const resultType = (waterLevel.value === 49 ? randomResultType_Least5 : randomResultType_General)(currentScout.value!.type === 'normal')
+  const scout = currentScout.value!
+  const resultType = (waterLevel.value === 49 ? randomResultType_Least5 : randomResultType_General)(scout.type === 'normal')
   const result = randomCard(cardRangeByResultType(resultType))
   // 历史记录
-  // todo
+  history.push({ type: scout.type, series: scout.series, cardIds: [result.id] })
   // 水位处理
   if (result.star === 5) {
     waterLevel.value = 0
@@ -23,8 +24,9 @@ export function take1() {
 // 10 连抽
 export function take10() {
   console.assert(currentScout.value !== null, 'must choose a scout')
+  const scout = currentScout.value!
   const result: Card[] = []
-  const isNormal = currentScout.value!.type === 'normal'
+  const isNormal = scout.type === 'normal'
   // 计算 50 抽保底
   if (waterLevel.value >= 40) {
     const least5Result = randomCard(cardRangeByResultType(randomResultType_Least5(isNormal)))
@@ -41,7 +43,7 @@ export function take10() {
   // 打乱
   const shuffled = shuffle(result)
   // 历史记录
-  // todo
+  history.push({ type: scout.type, series: scout.series, cardIds: shuffled.map(card => card.id) })
   // 水位处理
   const lastStar5Pos = findLastIndex(shuffled, card => card.star === 5)
   if (lastStar5Pos >= 0) {
