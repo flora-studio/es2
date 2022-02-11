@@ -27,7 +27,6 @@ const emit = defineEmits<{
   width: 100%;
   height: 100%;
   padding: 1% 5%;
-  box-sizing: border-box;
   background: rgba(255, 255, 255, 0.8);
 }
 

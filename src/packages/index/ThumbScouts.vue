@@ -45,11 +45,9 @@ onMounted(() => currentScout.value = scouts[0])
 img {
   display: block;
   width: 100%;
-  border: 12px solid transparent;
-  box-sizing: border-box;
 }
 
 img.current {
-  border-color: yellow;
+  background-color: yellow;
 }
 </style>
