@@ -31,7 +31,7 @@ const right = computed(() => props.single ? '15.5rem' : '1.5rem')
   color: white;
   text-shadow: 1px 1px 1px #2D3636, 1px -1px 1px #2D3636, -1px 1px 1px #2D3636, -1px -1px 1px #2D3636;
   background: linear-gradient(135deg, white 5%, yellow);
-  border: 2px solid rgb(52, 40, 16);
+  border: 2px solid rgba(52, 40, 16, 0.8);
   border-bottom: none;
   border-top-left-radius: 1rem;
   border-top-right-radius: 2px;
@@ -45,7 +45,7 @@ const right = computed(() => props.single ? '15.5rem' : '1.5rem')
   font-weight: bold;
   font-size: 12px;
   background-color: #3d444a;
-  border: 2px solid rgb(52, 40, 16);
+  border: 2px solid rgba(52, 40, 16, 0.8);
   border-top: none;
   border-bottom-right-radius: 1rem;
   border-bottom-left-radius: 2px;

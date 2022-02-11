@@ -14,18 +14,11 @@
 </template>
 <script setup lang="ts">
 import {Scout, useDisplayScouts} from '../../composables/useScouts'
-import {onMounted, toRefs} from 'vue'
+import {onMounted} from 'vue'
 import {currentScout} from './logic/store'
 
 // 展示的池子：两个最新普池 + 常驻池
 const scouts = useDisplayScouts()
-
-// 双向绑定当前选中的池子（期数）
-// const prop = defineProps<{ value: Scout }>()
-// const { value } = toRefs(prop)
-// const emit = defineEmits<{
-//   (e: 'update:value', value: Scout): void
-// }>()
 
 const scoutEqual = (a?: Scout, b?: Scout) => {
   if (!a || !b) return false
@@ -37,17 +30,22 @@ onMounted(() => currentScout.value = scouts[0])
 </script>
 <style scoped>
 .thumb-pools {
-  width: 25%;
+  width: 20rem;
   height: 100%;
+  padding-top: 5rem;
   background-color: rgba(255, 255, 255, 0.5);
+  box-shadow: 2px 0 10px rgba(100, 100, 100, 0.5);
 }
 
 img {
   display: block;
-  width: 100%;
+  width: 20rem;
+  height: 9.33rem;
+  padding-top: 0.7rem;
+  padding-left: 1rem;
 }
 
 img.current {
-  background-color: yellow;
+  background-color: rgb(253, 241, 0);
 }
 </style>
