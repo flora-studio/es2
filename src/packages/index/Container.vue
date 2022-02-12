@@ -8,6 +8,7 @@
     <div class="menu-btns">
       <scout-selector />
       <up-cards-display v-if="showUpCardsBtn" />
+      <es-button @click="resetHistory">重置帐号</es-button>
     </div>
     <result-view v-if="gachaResult !== null" v-model:value="gachaResult" @again="clickAgain" />
   </div>
@@ -17,13 +18,14 @@ import ThumbScouts from './ThumbScouts.vue'
 import {computed, ref} from 'vue'
 import GachaButton from './GachaButton.vue'
 import {currentScout} from './logic/store'
-import {take1, take10} from './logic/actions'
+import {take1, take10, resetHistory} from './logic/actions'
 import ResultView from './ResultView.vue'
 import {Card} from '../../composables/useCards'
 import EsImage from './common/EsImage.vue'
 import UpCardsDisplay from './UpCardsDisplay.vue'
 import ScoutSelector from './ScoutSelector.vue'
 import StaticsView from './StaticsView.vue'
+import EsButton from './common/EsButton.vue'
 
 const currentCg = computed(() => currentScout.value?.cg || '')
 const showUpCardsBtn = computed(() => currentScout.value?.type !== 'normal' || false)

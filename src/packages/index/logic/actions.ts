@@ -27,12 +27,15 @@ export function take10() {
   const scout = currentScout.value!
   const result: Card[] = []
   const isNormal = scout.type === 'normal'
+  logD('【十连】当前水位', waterLevel.value)
   // 计算 50 抽保底
   if (waterLevel.value >= 40) {
+    logD('水位达到50，触发保底五星')
     const least5Result = randomCard(cardRangeByResultType(randomResultType_Least5(isNormal)))
     result.push(least5Result)
   }
   // 计算 10 连保底
+  logD('触发保底四星')
   const least4Result = randomCard(cardRangeByResultType(randomResultType_Least4(isNormal)))
   result.push(least4Result)
   // 抽取剩余
@@ -76,6 +79,7 @@ function randomResultType_General(isNormal = false): ResultType {
   if (isNormal) {
     ret.up = false
   }
+  logD('通用抽取，rand', r, `= ${ret.up ? 'UP' : '非UP'}${ret.star}星`)
   return ret
 }
 
@@ -97,6 +101,7 @@ function randomResultType_Least4(isNormal = false): ResultType {
   if (isNormal) {
     ret.up = false
   }
+  logD('抽取保底四星，rand', r, `= ${ret.up ? 'UP' : '非UP'}${ret.star}星`)
   return ret
 }
 
@@ -114,6 +119,7 @@ function randomResultType_Least5(isNormal = false): ResultType {
   if (isNormal) {
     ret.up = false
   }
+  logD('抽取保底五星，rand', r, `= ${ret.up ? 'UP' : '非UP'}${ret.star}星`)
   return ret
 }
 
@@ -141,4 +147,18 @@ function recordHistory(gacha: Gacha) {
       cardsCounter[cardId] = 1
     }
   })
+}
+
+// 重置 state
+export function resetHistory() {
+  history.length = 0
+  Object.keys(cardsCounter).forEach(key => delete cardsCounter[key])
+  waterLevel.value = 0
+}
+
+// 调试日志
+function logD(...s: any) {
+  if (import.meta.env.DEV) {
+    console.log(...s)
+  }
 }
