@@ -1,8 +1,8 @@
 <template>
   <div class="es-card" style="position: relative">
     <es-image :src="card.img" :description="description" img-class="img" :lazy="lazy" />
-    <div v-if="count > 1" class="badge">第<span>{{ count > 6 ? 6 : count }}</span>张</div>
-    <div v-else-if="count > 0" class="new">新！</div>
+    <div v-if="isNew" class="new">新！</div>
+    <div v-else-if="count > 0" class="badge">第<span>{{ count > 6 ? 6 : count }}</span>张</div>
   </div>
 </template>
 <script setup lang="ts">
@@ -11,7 +11,7 @@ import {Card} from '../../../composables/useCards'
 import {useCharaMap} from '../../../composables/useCharas'
 import {computed} from 'vue'
 
-const props = defineProps<{ card: Card, count: number, lazy: boolean }>()
+const props = defineProps<{ card: Card, count: number, isNew: boolean, lazy: boolean }>()
 
 const charaMap = useCharaMap()
 const description = computed(() => {

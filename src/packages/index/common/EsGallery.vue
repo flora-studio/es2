@@ -11,7 +11,6 @@ const observer = new IntersectionObserver((entries) => {
   entries.forEach(img => {
     if (img.isIntersecting) {
       const element = img.target as HTMLImageElement
-      console.log((img.target as HTMLElement).dataset.src)
       element.src = element.dataset.src!
       observer.unobserve(img.target)
     }

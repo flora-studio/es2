@@ -2,7 +2,7 @@
   <div class="result-view">
     <div :class="single ? 'single' : 'grid'">
       <div v-for="(card, i) in value" :key="card.id + i" style="position: relative"><!-- 同一张卡可能抽到两次，所以 +i -->
-        <es-card :card="card" :count="realCounts[i]" :lazy="false" />
+        <es-card :card="card" :count="realCounts[i]" :is-new="realCounts[i] === 1" :lazy="false" />
       </div>
     </div>
     <div class="actions">

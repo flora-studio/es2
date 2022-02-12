@@ -8,6 +8,7 @@
     <div class="menu-btns">
       <scout-selector />
       <up-cards-display v-if="showUpCardsBtn" />
+      <all-got-cards-view />
       <es-button @click="resetHistory">重置帐号</es-button>
     </div>
     <result-view v-if="gachaResult !== null" v-model:value="gachaResult" @again="clickAgain" />
@@ -26,6 +27,7 @@ import UpCardsDisplay from './UpCardsDisplay.vue'
 import ScoutSelector from './ScoutSelector.vue'
 import StaticsView from './StaticsView.vue'
 import EsButton from './common/EsButton.vue'
+import AllGotCardsView from './AllGotCardsView.vue'
 
 const currentCg = computed(() => currentScout.value?.cg || '')
 const showUpCardsBtn = computed(() => currentScout.value?.type !== 'normal' || false)
@@ -85,11 +87,11 @@ const clickAgain = async (single: boolean) => {
   right: 1.5rem;
 }
 
-.menu-btns ::v-deep .es-button {
+.menu-btns ::v-deep > .es-button {
   width: 12.5rem;
 }
 
-.menu-btns ::v-deep .es-button + .es-button {
+.menu-btns ::v-deep > .es-button + .es-button {
   margin-top: 2rem;
 }
 </style>
