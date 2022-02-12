@@ -1,11 +1,12 @@
 <template>
   <n-spin class="es-image" :show="loading" stroke="var(--color-secondary)" :description="props.description" size="small">
     <img
-      :src="props.src"
+      :src="props.lazy ? null : props.src"
       :alt="props.description"
       :title="props.description"
       referrerpolicy="no-referrer"
       :class="props.imgClass"
+      :data-src="props.lazy ? props.src : null"
       @load="loading = false"
       @error="loading = false"
     />
@@ -15,12 +16,12 @@
 import {ref} from 'vue'
 import {NSpin} from 'naive-ui'
 
-const props = defineProps<{
+const props = withDefaults(defineProps<{
   src: string
   description: string
-  // width: string
   imgClass: string
-}>()
+  lazy: boolean
+}>(), { description: '', lazy: false })
 
 const loading = ref(true)
 </script>

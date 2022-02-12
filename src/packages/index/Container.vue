@@ -1,10 +1,11 @@
 <template>
   <div class="container">
-    <es-image :key="currentCg" :src="currentCg" description="" img-class="cg" />
+    <es-image :key="currentCg" :src="currentCg" img-class="cg" />
     <thumb-scouts />
     <gacha-button :single="true" @click="clickTake1" />
     <gacha-button :single="false" @click="clickTake10" />
     <div class="menu-btns">
+      <scout-selector />
       <up-cards-display v-if="showUpCardsBtn" />
     </div>
     <result-view v-if="gachaResult !== null" v-model:value="gachaResult" @again="clickAgain" />
@@ -20,6 +21,7 @@ import ResultView from './ResultView.vue'
 import {Card} from '../../composables/useCards'
 import EsImage from './common/EsImage.vue'
 import UpCardsDisplay from './UpCardsDisplay.vue'
+import ScoutSelector from './ScoutSelector.vue'
 
 const currentCg = computed(() => currentScout.value?.cg || '')
 const showUpCardsBtn = computed(() => currentScout.value?.type !== 'normal' || false)
@@ -74,7 +76,15 @@ const clickAgain = async (single: boolean) => {
 
 .menu-btns {
   position: absolute;
-  top: 0;
-  right: 10rem;
+  top: 10rem;
+  right: 1.5rem;
+}
+
+.menu-btns ::v-deep .es-button {
+  width: 12.5rem;
+}
+
+.menu-btns ::v-deep .es-button + .es-button {
+  margin-top: 2rem;
 }
 </style>

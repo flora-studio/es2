@@ -25,7 +25,7 @@ const show = ref(false)
   background: white;
   position: absolute;
   top: 10rem;
-  left: 50rem;
+  left: 50%;
   transform: translateX(-50%);
 }
 
