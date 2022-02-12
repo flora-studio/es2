@@ -2,6 +2,7 @@
   <div class="container">
     <es-image :key="currentCg" :src="currentCg" img-class="cg" />
     <thumb-scouts />
+    <statics-view />
     <gacha-button :single="true" @click="clickTake1" />
     <gacha-button :single="false" @click="clickTake10" />
     <div class="menu-btns">
@@ -22,6 +23,7 @@ import {Card} from '../../composables/useCards'
 import EsImage from './common/EsImage.vue'
 import UpCardsDisplay from './UpCardsDisplay.vue'
 import ScoutSelector from './ScoutSelector.vue'
+import StaticsView from './StaticsView.vue'
 
 const currentCg = computed(() => currentScout.value?.cg || '')
 const showUpCardsBtn = computed(() => currentScout.value?.type !== 'normal' || false)
@@ -76,7 +78,7 @@ const clickAgain = async (single: boolean) => {
 
 .menu-btns {
   position: absolute;
-  top: 10rem;
+  top: 8rem;
   right: 1.5rem;
 }
 

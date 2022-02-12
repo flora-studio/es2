@@ -43,6 +43,7 @@ onMounted(() => currentScout.value = scouts[0])
   height: 9.33rem;
   padding-top: 0.7rem;
   padding-left: 1rem;
+  cursor: pointer;
 }
 
 .current {
