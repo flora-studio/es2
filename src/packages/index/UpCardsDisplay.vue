@@ -4,7 +4,7 @@
     <div class="dialog">
       <div class="title"><span style="cursor: pointer" @click="show = false">╳</span></div>
       <div style="display: flex; padding: 2rem">
-        <es-image v-for="card in upCards" :key="card.id" :src="card.img" :description="useCardDescription(card)" img-class="img"/>
+        <es-card v-for="card in upCards" :key="card.id" :card="card" :count="0" :lazy="false" />
       </div>
     </div>
   </n-modal>
@@ -14,8 +14,7 @@ import EsButton from './common/EsButton.vue'
 import {NModal} from 'naive-ui'
 import {ref} from 'vue'
 import {upCards} from './logic/store'
-import EsImage from './common/EsImage.vue'
-import {useCardDescription} from './logic/useCardDescription'
+import EsCard from './common/EsCard.vue'
 
 const show = ref(false)
 </script>
@@ -40,12 +39,7 @@ const show = ref(false)
   line-height: 3rem;
 }
 
-::v-deep .img {
-  width: 15rem;
-  height: 18.8rem;
-}
-
-.es-image + .es-image {
+.es-card + .es-card {
   /* some mobile browser don't support gap */
   margin-left: 2rem;
 }

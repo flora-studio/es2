@@ -1,5 +1,5 @@
 import {Card} from '../../../composables/useCards'
-import {cardRange, currentScout, history, upCardsIds, waterLevel} from './store'
+import {cardRange, cardsCounter, currentScout, Gacha, history, upCardsIds, waterLevel} from './store'
 import {findLastIndex, shuffle} from 'lodash-es'
 
 type ResultType = { up: boolean, star: number }
@@ -11,7 +11,7 @@ export function take1() {
   const resultType = (waterLevel.value === 49 ? randomResultType_Least5 : randomResultType_General)(scout.type === 'normal')
   const result = randomCard(cardRangeByResultType(resultType))
   // 历史记录
-  history.push({ type: scout.type, series: scout.series, cardIds: [result.id] })
+  recordHistory({ type: scout.type, series: scout.series, cardIds: [result.id] })
   // 水位处理
   if (result.star === 5) {
     waterLevel.value = 0
@@ -43,7 +43,7 @@ export function take10() {
   // 打乱
   const shuffled = shuffle(result)
   // 历史记录
-  history.push({ type: scout.type, series: scout.series, cardIds: shuffled.map(card => card.id) })
+  recordHistory({ type: scout.type, series: scout.series, cardIds: shuffled.map(card => card.id) })
   // 水位处理
   const lastStar5Pos = findLastIndex(shuffled, card => card.star === 5)
   if (lastStar5Pos >= 0) {
@@ -129,4 +129,16 @@ function cardRangeByResultType(resultType: ResultType) {
 function randomCard(range: Card[]) {
   console.assert(range.length > 0, 'range cannot be empty')
   return range[Math.floor(Math.random() * range.length)]
+}
+
+// 记录抽卡历史
+function recordHistory(gacha: Gacha) {
+  history.push(gacha)
+  gacha.cardIds.forEach(cardId => {
+    if (cardsCounter[cardId]) {
+      cardsCounter[cardId]++
+    } else {
+      cardsCounter[cardId] = 1
+    }
+  })
 }

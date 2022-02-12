@@ -11,6 +11,7 @@ export interface Gacha {
 
 // 抽卡历史
 const history = reactive<Gacha[]>([])
+const cardsCounter = reactive<{ [key: string]: number }>({}) // 抽到的卡片的计数器
 
 // 水位
 const waterLevel = ref(0)
@@ -72,6 +73,7 @@ const upCardsIds = computed(() => upCards.value.map(card => card.id))
 
 export {
   history,
+  cardsCounter,
   waterLevel,
   currentScout,
   cardRange,

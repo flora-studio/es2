@@ -37,6 +37,7 @@ const opacity = ref(1)
 const gachaResult = ref<Card[] | null>(null)
 const gachaLoading = computed(() => opacity.value !== 1)
 
+// 抽卡方法
 const clickTake1 = () => {
   if (gachaLoading.value) return
   opacity.value = 0

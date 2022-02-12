@@ -1,8 +1,8 @@
 <template>
   <div class="result-view">
     <div :class="single ? 'single' : 'grid'">
-      <div v-for="(card, i) in value" :key="card.id + i"><!-- 同一张卡可能抽到两次，所以 +i -->
-        <es-image :src="card.img" :description="useCardDescription(card)" img-class="img" />
+      <div v-for="(card, i) in value" :key="card.id + i" style="position: relative"><!-- 同一张卡可能抽到两次，所以 +i -->
+        <es-card :card="card" :count="1" :lazy="false" />
       </div>
     </div>
     <div class="actions">
@@ -16,8 +16,7 @@
 import {Card} from '../../composables/useCards'
 import EsButton from './common/EsButton.vue'
 import {computed, toRefs} from 'vue'
-import EsImage from './common/EsImage.vue'
-import {useCardDescription} from './logic/useCardDescription'
+import EsCard from './common/EsCard.vue'
 
 const props = defineProps<{ value: Card[] | null }>()
 const emit = defineEmits<{
@@ -73,9 +72,5 @@ const single = computed(() => value.value!.length === 1)
 
 .actions .es-button {
   width: 15rem;
-}
-
-::v-deep .img {
-  width: 13rem;
 }
 </style>
