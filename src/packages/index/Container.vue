@@ -4,7 +4,9 @@
     <thumb-scouts />
     <gacha-button :single="true" @click="clickTake1" />
     <gacha-button :single="false" @click="clickTake10" />
-    <div style="position: absolute; right: 0; top: 0">水位：{{ waterLevel }}</div>
+    <div class="menu-btns">
+      <up-cards-display v-if="showUpCardsBtn" />
+    </div>
     <result-view v-if="gachaResult !== null" v-model:value="gachaResult" @again="clickAgain" />
   </div>
 </template>
@@ -12,13 +14,15 @@
 import ThumbScouts from './ThumbScouts.vue'
 import {computed, ref} from 'vue'
 import GachaButton from './GachaButton.vue'
-import {currentScout, waterLevel} from './logic/store'
+import {currentScout} from './logic/store'
 import {take1, take10} from './logic/actions'
 import ResultView from './ResultView.vue'
 import {Card} from '../../composables/useCards'
-import EsImage from './EsImage.vue'
+import EsImage from './common/EsImage.vue'
+import UpCardsDisplay from './UpCardsDisplay.vue'
 
 const currentCg = computed(() => currentScout.value?.cg || '')
+const showUpCardsBtn = computed(() => currentScout.value?.type !== 'normal' || false)
 
 // 简单动画效果
 const fadeTime = ref(0.4)
@@ -66,5 +70,11 @@ const clickAgain = async (single: boolean) => {
   width: 100rem;
   height: 50rem;
   object-fit: cover;
+}
+
+.menu-btns {
+  position: absolute;
+  top: 0;
+  right: 10rem;
 }
 </style>

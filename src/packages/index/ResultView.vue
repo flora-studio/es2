@@ -2,7 +2,7 @@
   <div class="result-view">
     <div :class="single ? 'single' : 'grid'">
       <div v-for="(card, i) in value" :key="card.id + i"><!-- 同一张卡可能抽到两次，所以 +i -->
-        <es-image :src="card.img" :description="cardDesc(card)" img-class="img" />
+        <es-image :src="card.img" :description="useCardDescription(card)" img-class="img" />
       </div>
     </div>
     <div class="actions">
@@ -14,10 +14,10 @@
 </template>
 <script setup lang="ts">
 import {Card} from '../../composables/useCards'
-import EsButton from './EsButton.vue'
+import EsButton from './common/EsButton.vue'
 import {computed, toRefs} from 'vue'
-import EsImage from './EsImage.vue'
-import {useCharaMap} from '../../composables/useCharas'
+import EsImage from './common/EsImage.vue'
+import {useCardDescription} from './logic/useCardDescription'
 
 const props = defineProps<{ value: Card[] | null }>()
 const emit = defineEmits<{
@@ -28,13 +28,6 @@ const emit = defineEmits<{
 // 是否是单抽
 const { value } = toRefs(props)
 const single = computed(() => value.value!.length === 1)
-
-// 获得人物名
-const charaMap = useCharaMap()
-const cardDesc = (card: Card) => {
-  const chara = charaMap[card.id.split('/')[0]]
-  return `[${chara}]${card.name}`
-}
 </script>
 <style scoped>
 .result-view {

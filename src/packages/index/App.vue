@@ -21,14 +21,14 @@ import Container from './Container.vue'
 
 html {
   background-color: black;
+  --color-primary: rgb(253, 241, 0);
+  --color-secondary: rgb(12, 27, 94);
 }
 
 #app {
   width: 100vw;
   height: 100vh;
   overflow-y: hidden;
-  --color-primary: rgb(253, 241, 0);
-  --color-secondary: rgb(12, 27, 94);
 }
 
 #es-container {

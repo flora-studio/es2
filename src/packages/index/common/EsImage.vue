@@ -1,5 +1,5 @@
 <template>
-  <n-spin :show="loading" stroke="var(--color-secondary)" :description="props.description" size="small">
+  <n-spin class="es-image" :show="loading" stroke="var(--color-secondary)" :description="props.description" size="small">
     <img
       :src="props.src"
       :alt="props.description"

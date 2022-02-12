@@ -61,7 +61,7 @@ const cardRange = computed(() => {
 // 当前卡池 up 的卡
 const upCards = computed(() => {
   const scout = currentScout.value
-  if (scout === null) return []
+  if (scout === null) return [] as Card[]
   return allCards
     .filter(card => card.type === scout.type && card.series === scout.series)
     .sort((a, b) => b.series - a.series) // 高星级的放前面

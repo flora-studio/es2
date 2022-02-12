@@ -15,7 +15,7 @@
 import {Scout, useDisplayScouts} from '../../composables/useScouts'
 import {onMounted} from 'vue'
 import {currentScout} from './logic/store'
-import EsImage from './EsImage.vue'
+import EsImage from './common/EsImage.vue'
 
 // 展示的池子：两个最新普池 + 常驻池
 const scouts = useDisplayScouts()
@@ -39,7 +39,6 @@ onMounted(() => currentScout.value = scouts[0])
 }
 
 ::v-deep .img {
-  /*display: block;*/
   width: 20rem;
   height: 9.33rem;
   padding-top: 0.7rem;
