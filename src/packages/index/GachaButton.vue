@@ -29,9 +29,9 @@ const right = computed(() => props.single ? '15.5rem' : '1.5rem')
   font-weight: bold;
   font-size: 2.1rem;
   color: white;
-  text-shadow: 1px 1px 1px #2D3636, 1px -1px 1px #2D3636, -1px 1px 1px #2D3636, -1px -1px 1px #2D3636;
-  background: linear-gradient(135deg, white 5%, yellow);
-  border: 2px solid rgba(52, 40, 16, 0.8);
+  text-shadow: 1px 1px 1px var(--color-secondary), 1px -1px 1px var(--color-secondary), -1px 1px 1px var(--color-secondary), -1px -1px 1px var(--color-secondary);
+  background: linear-gradient(135deg, white 5%, var(--color-primary));
+  border: 0.25rem solid var(--color-secondary);
   border-bottom: none;
   border-top-left-radius: 1rem;
   border-top-right-radius: 2px;
@@ -43,9 +43,9 @@ const right = computed(() => props.single ? '15.5rem' : '1.5rem')
   color: white;
   padding-left: 2.5rem;
   font-weight: bold;
-  font-size: 12px;
-  background-color: #3d444a;
-  border: 2px solid rgba(52, 40, 16, 0.8);
+  font-size: 1.5rem;
+  background-color: rgb(62, 67, 73);
+  border: 0.25rem solid var(--color-secondary);
   border-top: none;
   border-bottom-right-radius: 1rem;
   border-bottom-left-radius: 2px;

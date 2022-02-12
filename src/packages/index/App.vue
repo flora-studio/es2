@@ -11,6 +11,7 @@ import Container from './Container.vue'
   width: 100%;
   text-align: center;
   margin-top: 20px;
+  font-size: 14px;
 }
 </style>
 <style>
@@ -26,6 +27,8 @@ html {
   width: 100vw;
   height: 100vh;
   overflow-y: hidden;
+  --color-primary: rgb(253, 241, 0);
+  --color-secondary: rgb(12, 27, 94);
 }
 
 #es-container {

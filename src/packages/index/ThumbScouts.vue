@@ -1,13 +1,12 @@
 <template>
   <div class="thumb-pools">
-    <img
+    <es-image
       v-for="scout in scouts"
       :key="scout.series"
       :src="scout.banner"
-      :alt="scout.name"
-      :title="scout.name"
+      :description="scout.name"
+      img-class="img"
       :class="{ current: scoutEqual(currentScout, scout) }"
-      referrerpolicy="no-referrer"
       @click="currentScout = scout"
     />
   </div>
@@ -16,6 +15,7 @@
 import {Scout, useDisplayScouts} from '../../composables/useScouts'
 import {onMounted} from 'vue'
 import {currentScout} from './logic/store'
+import EsImage from './EsImage.vue'
 
 // 展示的池子：两个最新普池 + 常驻池
 const scouts = useDisplayScouts()
@@ -37,15 +37,15 @@ onMounted(() => currentScout.value = scouts[0])
   box-shadow: 2px 0 10px rgba(100, 100, 100, 0.5);
 }
 
-img {
-  display: block;
+::v-deep .img {
+  /*display: block;*/
   width: 20rem;
   height: 9.33rem;
   padding-top: 0.7rem;
   padding-left: 1rem;
 }
 
-img.current {
-  background-color: rgb(253, 241, 0);
+.current {
+  background-color: var(--color-primary);
 }
 </style>

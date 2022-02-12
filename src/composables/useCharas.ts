@@ -9,6 +9,7 @@ export function useCharas(): Chara[] {
   return characters
 }
 
+const charaMap = useCharas().reduce((ret, chara) => Object.assign(ret, { [chara.key]: chara.name }), {})
 export function useCharaMap(): { [key: string]: string } {
-  return useCharas().reduce((ret, chara) => Object.assign(ret, { [chara.key]: chara.name }), {})
+  return charaMap
 }
