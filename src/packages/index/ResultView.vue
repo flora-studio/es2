@@ -2,7 +2,7 @@
   <div class="result-view">
     <div :class="single ? 'single' : 'grid'">
       <div v-for="(card, i) in value" :key="card.id + i" style="position: relative"><!-- 同一张卡可能抽到两次，所以 +i -->
-        <es-card :card="card" :count="1" :lazy="false" />
+        <es-card :card="card" :count="realCounts[i]" :lazy="false" />
       </div>
     </div>
     <div class="actions">
@@ -17,6 +17,7 @@ import {Card} from '../../composables/useCards'
 import EsButton from './common/EsButton.vue'
 import {computed, toRefs} from 'vue'
 import EsCard from './common/EsCard.vue'
+import {cardsCounter} from './logic/store'
 
 const props = defineProps<{ value: Card[] | null }>()
 const emit = defineEmits<{
@@ -27,6 +28,13 @@ const emit = defineEmits<{
 // 是否是单抽
 const { value } = toRefs(props)
 const single = computed(() => value.value!.length === 1)
+
+// 计算抽到的次数。注意同一张卡抽到多次的情况
+const totalCounts = computed(() => value.value!.map(card => cardsCounter[card.id] || 0))
+// 同一张卡抽到多次情况：看这张卡的后面有没有同一张卡，如有，则减小计数
+const repeatedCounts = computed(() => value.value!.map((card, index) =>
+    value.value!.filter((that, i) => i > index && that.id === card.id).length))
+const realCounts = computed(() => totalCounts.value!.map((count, i) => count - repeatedCounts.value[i]))
 </script>
 <style scoped>
 .result-view {

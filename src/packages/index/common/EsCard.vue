@@ -1,7 +1,8 @@
 <template>
   <div class="es-card" style="position: relative">
     <es-image :src="card.img" :description="description" img-class="img" :lazy="lazy" />
-    <div v-if="count > 0" class="badge">{{ count }}</div>
+    <div v-if="count > 1" class="badge">第<span>{{ count > 6 ? 6 : count }}</span>张</div>
+    <div v-else-if="count > 0" class="new">新！</div>
   </div>
 </template>
 <script setup lang="ts">
@@ -29,5 +30,29 @@ const description = computed(() => {
   position: absolute;
   top: 0;
   right: 0;
+  color: white;
+  font-weight: bold;
+  font-size: 1.2rem;
+  line-height: 1.8rem;
+  padding: 0 0.2rem;
+  background-color: var(--color-secondary);
+  box-shadow: 2px 0 10px rgba(100, 100, 100, 0.5);
+}
+
+.badge span {
+  color: var(--color-primary);
+  font-size: 1.4rem;
+  padding: 0 0.1rem;
+}
+
+.new {
+  position: absolute;
+  top: 0;
+  right: 0;
+  color: red;
+  font-size: 1.4rem;
+  font-weight: bold;
+  font-style: italic;
+  text-shadow: 1px 1px 1px white, 1px -1px 1px white, -1px 1px 1px white, -1px -1px 1px white;
 }
 </style>
