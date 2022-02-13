@@ -1,5 +1,5 @@
 import {Card} from '../../../composables/useCards'
-import {cardRange, cardsCounter, currentScout, Gacha, history, upCardsIds, waterLevel} from './store'
+import {cardRange, cardsCounter, currentScout, Gacha, history, lastGachaScout, upCardsIds, waterLevel} from './store'
 import {shuffle} from 'lodash-es'
 
 type ResultType = { up: boolean, star: number }
@@ -8,6 +8,11 @@ type ResultType = { up: boolean, star: number }
 export function take1() {
   console.assert(currentScout.value !== null, 'must choose a scout')
   const scout = currentScout.value!
+  // 是否换卡池
+  if (lastGachaScout.value !== scout) {
+    waterLevel.value = 0
+    lastGachaScout.value = scout
+  }
   const gachaMethod = waterLevel.value === 49 ? randomResultType_Exact5 : randomResultType_General
   const resultType = gachaMethod(scout.type === 'normal')
   const result = randomCard(cardRangeByResultType(resultType))
@@ -26,6 +31,11 @@ export function take1() {
 export function take10() {
   console.assert(currentScout.value !== null, 'must choose a scout')
   const scout = currentScout.value!
+  // 是否换卡池
+  if (lastGachaScout.value !== scout) {
+    waterLevel.value = 0
+    lastGachaScout.value = scout
+  }
   const batchResult: Card[] = []
   const isNormal = scout.type === 'normal'
   logD('【十连】当前水位', waterLevel.value)
@@ -57,17 +67,17 @@ export function take10() {
 
 // 计算通用概率
 function randomResultType_General(isNormal = false): ResultType {
-  const r = Math.floor(Math.random() * 100)
+  const r = Math.floor(Math.random() * 1000)
   const ret = (() => {
-    if (r === 0) {
+    if (r < 6) {
       return { up: true, star: 5 }
-    } else if (r > 0 && r <= 2) {
+    } else if (r >= 6 && r < 18) {
       return { up: false, star: 5 }
-    } else if (r > 2 && r <= 4) {
+    } else if (r >= 18 && r < 38) {
       return { up: true, star: 4 }
-    } else if (r > 4 && r <= 9) {
+    } else if (r >= 38 && r < 88) {
       return { up: false, star: 4 }
-    } else if (r > 9 && r <= 29) {
+    } else if (r >= 88 && r < 290) {
       return { up: true, star: 3 }
     } else {
       return { up: false, star: 3 }
@@ -101,9 +111,9 @@ function randomResultType_Exact4(isNormal = false): ResultType {
 
 // 计算保底 5 星概率
 function randomResultType_Exact5(isNormal = false): ResultType {
-  const r = Math.floor(Math.random() * 3)
+  const r = Math.floor(Math.random() * 3000)
   const ret = (() => {
-    if (r === 0) {
+    if (r < 1000) {
       return { up: true, star: 5 }
     } else {
       return { up: false, star: 5 }

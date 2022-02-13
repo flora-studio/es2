@@ -23,6 +23,9 @@ const lastFeatureScout = ref<Scout | null>(allScouts.feature[allScouts.feature.l
 const normalScout = computed(() => allScouts.normal[0]) // 常驻池
 const currentScout = ref<Scout | null>(lastEventScout.value) // 初始选中第一个池子
 
+// 上次抽的卡池
+const lastGachaScout = ref<Scout | null>(null)
+
 const allCards = useCards()
 
 // 当前可抽取的卡的范围
@@ -85,8 +88,9 @@ export {
   lastFeatureScout,
   normalScout,
   currentScout,
-  cardRange,
+  lastGachaScout,
   // cards
+  cardRange,
   upCards,
   upCardsIds
 }
