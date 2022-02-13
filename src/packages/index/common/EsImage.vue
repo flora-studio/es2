@@ -1,7 +1,7 @@
 <template>
   <n-spin class="es-image" :show="loading" stroke="var(--color-secondary)" :description="props.description" size="small">
     <img
-      :src="props.lazy ? null : props.src"
+      :src="props.lazy ? undefined : props.src"
       :alt="props.description"
       :title="props.description"
       referrerpolicy="no-referrer"

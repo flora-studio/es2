@@ -20,7 +20,7 @@ import EsImage from './common/EsImage.vue'
 // 展示的池子：两个最新普池 + 常驻池
 const scouts = useDisplayScouts()
 
-const scoutEqual = (a?: Scout, b?: Scout) => {
+const scoutEqual = (a?: Scout | null, b?: Scout | null) => {
   if (!a || !b) return false
   return a.type === b.type && a.series === b.series
 }

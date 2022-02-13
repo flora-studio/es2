@@ -3,7 +3,7 @@
   <teleport v-if="show" to="#es-container">
     <div class="view">
       <es-gallery class="gallery">
-        <es-card v-for="item in gotCards" :key="item.card.id" :card="item.card" :count="item.count" lazy />
+        <es-card v-for="item in gotCards" :key="item.card.id" :card="item.card" :count="item.count" lazy :is-new="false"/>
       </es-gallery>
       <es-button class="back" @click="show = false">←</es-button>
     </div>

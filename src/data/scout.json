@@ -801,10 +801,10 @@
   "normal": [
     {
       "type": "normal",
-      "banner": "./public/normal1.png",
+      "banner": "./normal1.png",
       "name": "常驻",
       "series": 1,
-      "cg": "./public/normal1cg.jpg"
+      "cg": "./normal1cg.jpg"
     }
   ]
 }
