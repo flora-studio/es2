@@ -1,4 +1,4 @@
-import pools from '/src/data/poolconf.json'
+// import pools from '/src/data/poolconf.json'
 
 export interface PoolConf {
   _id: number
@@ -10,5 +10,5 @@ export interface PoolConf {
 }
 
 export default function usePoolConf(): PoolConf[] {
-  return pools
+  return [] // useless stub
 }

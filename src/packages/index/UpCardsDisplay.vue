@@ -4,7 +4,7 @@
     <div class="dialog">
       <div class="title"><span style="cursor: pointer" @click="show = false">╳</span></div>
       <div style="display: flex; padding: 2rem">
-        <es-card v-for="card in upCards" :key="card.id" :card="card" :count="0" :lazy="false" />
+        <es-card v-for="card in upCards" :key="card.id" :card="card" :count="0" :lazy="false" :is-new="false" />
       </div>
     </div>
   </n-modal>
