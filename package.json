@@ -4,9 +4,8 @@
   "description": "",
   "scripts": {
     "dev": "vite --host",
-    "build": "vue-tsc --noEmit && npm run datagen && vite build",
-    "preview": "vite preview --host",
-    "datagen": "node datagen.js"
+    "build": "vue-tsc --noEmit && vite build",
+    "preview": "vite preview --host"
   },
   "author": "",
   "license": "ISC",
