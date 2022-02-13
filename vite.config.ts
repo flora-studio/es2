@@ -13,5 +13,6 @@ export default defineConfig({
         admin: resolve(__dirname, 'admin/index.html')
       }
     }
-  }
+  },
+  base: '/es2/'
 })
