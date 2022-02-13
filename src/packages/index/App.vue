@@ -25,8 +25,13 @@ html {
   position: relative;
 }
 
+.n-modal-container {
+  position: absolute;
+}
+
 .n-modal-mask,
 .n-modal-body-wrapper {
+  position: absolute;
   width: 100rem;
   height: 50rem;
 }

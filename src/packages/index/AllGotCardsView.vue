@@ -37,7 +37,7 @@ const gotCards = computed(() => {
 </script>
 <style scoped>
 .view {
-  position: fixed;
+  position: absolute;
   left: 0;
   top: 0;
   width: 100rem;
