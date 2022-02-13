@@ -1,5 +1,5 @@
 import {Card, useCards} from '../../../composables/useCards'
-import {Scout, ScoutType} from '../../../composables/useScouts'
+import {Scout, ScoutType, useScoutStorage} from '../../../composables/useScouts'
 import {computed, reactive, ref} from 'vue'
 
 // 一次单抽或十连的记录
@@ -17,7 +17,11 @@ const cardsCounter = reactive<{ [key: string]: number }>({}) // 抽到的卡片�
 const waterLevel = ref(0)
 
 // 当前选择的卡池
-const currentScout = ref<Scout | null>(null)
+const allScouts = useScoutStorage()
+const lastEventScout = ref<Scout | null>(allScouts.event[allScouts.event.length - 1]) // 用户上次选择的活动池
+const lastFeatureScout = ref<Scout | null>(allScouts.feature[allScouts.feature.length - 1]) // 用户上次选择的个人池
+const normalScout = computed(() => allScouts.normal[0]) // 常驻池
+const currentScout = ref<Scout | null>(lastEventScout.value) // 初始选中第一个池子
 
 const allCards = useCards()
 
@@ -72,11 +76,17 @@ const upCards = computed(() => {
 const upCardsIds = computed(() => upCards.value.map(card => card.id))
 
 export {
+  // gacha
   history,
   cardsCounter,
   waterLevel,
+  // scout
+  lastEventScout,
+  lastFeatureScout,
+  normalScout,
   currentScout,
   cardRange,
+  // cards
   upCards,
   upCardsIds
 }

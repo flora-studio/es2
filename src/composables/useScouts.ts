@@ -18,8 +18,8 @@ export function useScoutStorage(): ScoutByType {
 
 export function useDisplayScouts(): Scout[] {
   const scouts = useScoutStorage()
-  const latestEvent = scouts.event.sort((a, b) => b.series - a.series)[0]
-  const latestFeature = scouts.feature.sort((a, b) => b.series - a.series)[0]
+  const latestEvent = scouts.event.sort((a, b) => a.series - b.series)[0]
+  const latestFeature = scouts.feature.sort((a, b) => a.series - b.series)[0]
   const normal = scouts.normal[0]
   return [latestEvent, latestFeature, normal].filter(item => !!item)
 }

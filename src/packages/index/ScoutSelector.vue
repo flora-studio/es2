@@ -41,7 +41,7 @@ import {NModal, NTabs, NTabPane} from 'naive-ui'
 import {ref} from 'vue'
 import {Scout, useScoutStorage} from '../../composables/useScouts'
 import EsGallery from './common/EsGallery.vue'
-import {currentScout} from './logic/store'
+import {currentScout, lastEventScout, lastFeatureScout} from './logic/store'
 
 const show = ref(false)
 
@@ -49,6 +49,16 @@ const allScouts = useScoutStorage()
 
 const select = (scout: Scout) => {
   currentScout.value = scout
+  switch (scout.type) {
+    case 'event':
+      lastEventScout.value = scout
+      break
+    case 'feature':
+      lastFeatureScout.value = scout
+      break
+    default:
+      break
+  }
   show.value = false
 }
 </script>

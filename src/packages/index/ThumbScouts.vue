@@ -7,26 +7,25 @@
       :description="scout.name"
       img-class="img"
       :class="{ current: scoutEqual(currentScout, scout) }"
+      :lazy="false"
       @click="currentScout = scout"
     />
   </div>
 </template>
 <script setup lang="ts">
-import {Scout, useDisplayScouts} from '../../composables/useScouts'
-import {onMounted} from 'vue'
-import {currentScout} from './logic/store'
+import {Scout} from '../../composables/useScouts'
+import {computed} from 'vue'
+import {currentScout, lastEventScout, lastFeatureScout, normalScout} from './logic/store'
 import EsImage from './common/EsImage.vue'
 
-// 展示的池子：两个最新普池 + 常驻池
-const scouts = useDisplayScouts()
+// 展示的池子
+const scouts = computed(() => [lastEventScout.value, lastFeatureScout.value, normalScout.value])
+console.log(scouts)
 
 const scoutEqual = (a?: Scout | null, b?: Scout | null) => {
   if (!a || !b) return false
   return a.type === b.type && a.series === b.series
 }
-
-// 初始选中第一个池子
-onMounted(() => currentScout.value = scouts[0])
 </script>
 <style scoped>
 .thumb-pools {
