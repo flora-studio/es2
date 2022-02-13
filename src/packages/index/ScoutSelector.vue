@@ -7,7 +7,7 @@
         <n-tab-pane name="event" display-directive="show:lazy" tab="活动">
           <es-gallery>
             <es-image
-              v-for="scout in allScouts.event"
+              v-for="scout in eventScouts"
               :key="scout.name"
               :src="scout.banner"
               :description="scout.name"
@@ -20,7 +20,7 @@
         <n-tab-pane name="feature" display-directive="show:lazy" tab="个人">
           <es-gallery>
             <es-image
-              v-for="scout in allScouts.feature"
+              v-for="scout in featureScouts"
               :key="scout.name"
               :src="scout.banner"
               :description="scout.name"
@@ -42,10 +42,14 @@ import {ref} from 'vue'
 import {Scout, useScoutStorage} from '../../composables/useScouts'
 import EsGallery from './common/EsGallery.vue'
 import {currentScout, lastEventScout, lastFeatureScout} from './logic/store'
+import {sortBy} from 'lodash-es'
 
 const show = ref(false)
 
 const allScouts = useScoutStorage()
+// 希望按期数升序排列
+const eventScouts = sortBy(allScouts.event, scout => scout.series)
+const featureScouts = sortBy(allScouts.feature, scout => scout.series)
 
 const select = (scout: Scout) => {
   currentScout.value = scout
