@@ -31,7 +31,7 @@ onMounted(() => currentScout.value = scouts[0])
 <style scoped>
 .thumb-pools {
   width: 20rem;
-  height: 100%;
+  height: 50rem;
   padding-top: 5rem;
   background-color: rgba(255, 255, 255, 0.5);
   box-shadow: 2px 0 10px rgba(100, 100, 100, 0.5);

@@ -40,7 +40,7 @@ const gotCards = computed(() => {
   position: fixed;
   left: 0;
   top: 0;
-  width: 100%;
+  width: 100rem;
   height: 50rem;
   background-color: rgba(255, 255, 255, 0.5);
   backdrop-filter: blur(0.8rem);
@@ -49,7 +49,7 @@ const gotCards = computed(() => {
 
 .gallery {
   width: fit-content;
-  height: 100%;
+  height: 50rem;
   margin: 0 auto;
   padding-top: 2rem;
   grid-template-columns: repeat(5, 13rem);

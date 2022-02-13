@@ -41,8 +41,8 @@ const realCounts = computed(() => totalCounts.value!.map((count, i) => count - r
   position: absolute;
   left: 0;
   top: 0;
-  width: 100%;
-  height: 100%;
+  width: 100rem;
+  height: 50rem;
   padding: 2rem 10rem;
   backdrop-filter: blur(0.8rem);
   -webkit-backdrop-filter: blur(0.8rem);
