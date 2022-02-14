@@ -19,8 +19,7 @@ import {currentScout, lastEventScout, lastFeatureScout, normalScout} from './log
 import EsImage from './common/EsImage.vue'
 
 // 展示的池子
-const scouts = computed(() => [lastEventScout.value, lastFeatureScout.value, normalScout.value])
-console.log(scouts)
+const scouts = computed<Scout[]>(() => [lastEventScout.value!, lastFeatureScout.value!, normalScout.value!])
 
 const scoutEqual = (a?: Scout | null, b?: Scout | null) => {
   if (!a || !b) return false
