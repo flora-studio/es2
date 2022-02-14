@@ -69,15 +69,15 @@ export function take10() {
 function randomResultType_General(isNormal = false): ResultType {
   const r = Math.floor(Math.random() * 1000)
   const ret = (() => {
-    if (r < 6) {
+    if (r < 7) {
       return { up: true, star: 5 }
-    } else if (r >= 6 && r < 18) {
+    } else if (r >= 7 && r < 21) {
       return { up: false, star: 5 }
-    } else if (r >= 18 && r < 38) {
+    } else if (r >= 21 && r < 41) {
       return { up: true, star: 4 }
-    } else if (r >= 38 && r < 88) {
+    } else if (r >= 41 && r < 91) {
       return { up: false, star: 4 }
-    } else if (r >= 88 && r < 290) {
+    } else if (r >= 91 && r < 292) {
       return { up: true, star: 3 }
     } else {
       return { up: false, star: 3 }
