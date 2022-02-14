@@ -4,7 +4,7 @@ import vueJsx from '@vitejs/plugin-vue-jsx'
 import { resolve } from 'path'
 
 // https://vitejs.dev/config/
-export default defineConfig({
+export default defineConfig(({ mode }) => ({
   plugins: [vue(), vueJsx()],
   build: {
     rollupOptions: {
@@ -14,5 +14,5 @@ export default defineConfig({
       }
     }
   },
-  base: '/es2/'
-})
+  base: mode === 'root' ? '/' : '/es2/'
+}))

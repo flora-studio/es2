@@ -5,6 +5,7 @@
   "scripts": {
     "dev": "vite --host",
     "build": "vue-tsc --noEmit && vite build",
+    "build-root": "vue-tsc --noEmit && vite build --mode root",
     "preview": "vite preview --host"
   },
   "author": "",
