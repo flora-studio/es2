@@ -13,6 +13,13 @@ export function take1() {
     waterLevel.value = 0
     lastGachaScout.value = scout
   }
+  // 埋点
+  if (window.gtag) {
+    window.gtag('event', 'gacha', {
+      'event_category' : 'take1',
+      'event_label' : scout.name
+    })
+  }
   const gachaMethod = waterLevel.value === 49 ? randomResultType_Exact5 : randomResultType_General
   const resultType = gachaMethod(scout.type === 'normal')
   const result = randomCard(cardRangeByResultType(resultType))
@@ -35,6 +42,13 @@ export function take10() {
   if (lastGachaScout.value !== scout) {
     waterLevel.value = 0
     lastGachaScout.value = scout
+  }
+  // 埋点
+  if (window.gtag) {
+    window.gtag('event', 'gacha', {
+      'event_category' : 'take10',
+      'event_label' : scout.name
+    })
   }
   const batchResult: Card[] = []
   const isNormal = scout.type === 'normal'
