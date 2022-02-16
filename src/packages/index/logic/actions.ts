@@ -129,10 +129,16 @@ function randomResultType_Exact5(isNormal = false): ResultType {
 
 // 根据 resultType 获取出货范围
 function cardRangeByResultType(resultType: ResultType) {
-  return cardRange.value.filter(card => {
+  let range = cardRange.value.filter(card => {
     const isUpCard = upCardsIds.value.includes(card.id)
     return (resultType.up ? isUpCard : !isUpCard) && resultType.star === card.star
   })
+  // bug: 部分卡池没有 up 的对应星级卡片
+  // 例如有的卡池只 up 一四一五，这时候如果抽到了 up 3星，randomCard 就会报错，这时就把范围改成非 up 的
+  if (range.length === 0) {
+    range = cardRange.value.filter(card => resultType.star === card.star)
+  }
+  return range
 }
 
 // 从范围内随机选取一张卡
