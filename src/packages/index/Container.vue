@@ -6,6 +6,7 @@
     <gacha-button :single="true" @click="clickTake1" />
     <gacha-button :single="false" @click="clickTake10" />
     <div class="menu-btns">
+      <update-logs />
       <scout-selector />
       <up-cards-display v-if="showUpCardsBtn" />
       <all-got-cards-view />
@@ -28,6 +29,7 @@ import ScoutSelector from './ScoutSelector.vue'
 import StaticsView from './StaticsView.vue'
 import EsButton from './common/EsButton.vue'
 import AllGotCardsView from './AllGotCardsView.vue'
+import UpdateLogs from './UpdateLogs.vue'
 
 const currentCg = computed(() => currentScout.value?.cg || '')
 const showUpCardsBtn = computed(() => currentScout.value?.type !== 'normal' || false)
@@ -83,7 +85,7 @@ const clickAgain = async (single: boolean) => {
 
 .menu-btns {
   position: absolute;
-  top: 8rem;
+  top: 7rem;
   right: 1.5rem;
 }
 
