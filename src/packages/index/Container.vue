@@ -74,7 +74,7 @@ const clickAgain = async (single: boolean) => {
   transition: opacity v-bind(fadeTimeCss);
 }
 
-::v-deep .cg {
+:deep(.cg) {
   position: absolute;
   width: 100rem;
   height: 50rem;
@@ -87,11 +87,11 @@ const clickAgain = async (single: boolean) => {
   right: 1.5rem;
 }
 
-.menu-btns ::v-deep > .es-button {
+.menu-btns > .es-button {
   width: 12.5rem;
 }
 
-.menu-btns ::v-deep > .es-button + .es-button {
+.menu-btns > :deep(.es-button + .es-button) {
   margin-top: 2rem;
 }
 </style>

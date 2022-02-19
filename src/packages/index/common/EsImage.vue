@@ -26,7 +26,7 @@ const props = withDefaults(defineProps<{
 const loading = ref(true)
 </script>
 <style scoped>
-::v-deep .n-spin-description {
+:deep(.n-spin-description) {
   color: var(--color-secondary);
 }
 

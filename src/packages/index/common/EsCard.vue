@@ -21,7 +21,7 @@ const description = computed(() => {
 })
 </script>
 <style scoped>
-::v-deep .img {
+:deep(.img) {
   width: 13rem;
   height: 16.25rem;
 }

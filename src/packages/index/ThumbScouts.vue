@@ -36,7 +36,7 @@ const scoutEqual = (a?: Scout | null, b?: Scout | null) => {
   transform: translateZ(0);
 }
 
-::v-deep .img {
+:deep(.img) {
   width: 20rem;
   height: 9.33rem;
   padding-top: 0.7rem;
