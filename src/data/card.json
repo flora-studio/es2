@@ -193,6 +193,14 @@
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/e/ee/%28Normal_Wukong%29_Tomoya_Mashiro_M.png/revision/latest/scale-to-width-down/200?cb=20211014163811",
       "series": 38,
       "type": "event"
+    },
+    {
+      "id": "Distance_From_the_One_Sitting_Beside_You",
+      "star": 3,
+      "name": "相席と距離",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/a/af/%28Distance_From_the_One_Sitting_Beside_You%29_Tomoya_Mashiro_M.png/revision/latest/scale-to-width-down/200?cb=20220213085829",
+      "series": 46,
+      "type": "feature"
     }
   ],
   "Eichi_Tenshouin": [
@@ -1599,6 +1607,14 @@
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/e/ec/%28A_Gathering_of_Novices%29_Mayoi_Ayase_M.png/revision/latest/scale-to-width-down/200?cb=20210212032502",
       "series": 22,
       "type": "feature"
+    },
+    {
+      "id": "Excessive_Sweetness",
+      "star": 3,
+      "name": "過剰な甘さ",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/f/f3/%28Excessive_Sweetness%29_Mayoi_Ayase_M.png/revision/latest/scale-to-width-down/200?cb=20220218190743",
+      "series": 46,
+      "type": "event"
     }
   ],
   "Tatsumi_Kazehaya": [
@@ -1688,6 +1704,14 @@
       "name": "冬の神秘",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/9/97/%28Mystery_of_Winter%29_Tatsumi_Kazehaya_M.png/revision/latest/scale-to-width-down/200?cb=20211129190030",
       "series": 41,
+      "type": "event"
+    },
+    {
+      "id": "Unbridled_Sweetness",
+      "star": 4,
+      "name": "控えない甘さ",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/1/11/%28Unbridled_Sweetness%29_Tatsumi_Kazehaya_M.png/revision/latest/scale-to-width-down/200?cb=20220218190745",
+      "series": 46,
       "type": "event"
     }
   ],
@@ -2613,6 +2637,14 @@
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/e/e4/%28Senior_Detective%29_HiMERU_M.png/revision/latest/scale-to-width-down/200?cb=20211114073126",
       "series": 40,
       "type": "event"
+    },
+    {
+      "id": "Bitter_Remarks",
+      "star": 5,
+      "name": "甘くない言葉",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/1/19/%28Bitter_Remarks%29_HiMERU_M.png/revision/latest/scale-to-width-down/200?cb=20220218190748",
+      "series": 46,
+      "type": "event"
     }
   ],
   "Kohaku_Oukawa": [
@@ -2702,6 +2734,14 @@
       "name": "実りと仕事",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/1/1f/%28Harvest_and_Work%29_Kohaku_Oukawa_M.png/revision/latest/scale-to-width-down/200?cb=20210929130102",
       "series": 37,
+      "type": "event"
+    },
+    {
+      "id": "Indecipherable_Sweetness",
+      "star": 3,
+      "name": "読めない甘さ",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/e/ef/%28Indecipherable_Sweetness%29_Kohaku_Oukawa_M.png/revision/latest/scale-to-width-down/200?cb=20220218190740",
+      "series": 46,
       "type": "event"
     }
   ],
@@ -3611,6 +3651,14 @@
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/6/66/%28Lucky_Plushie%29_Kuro_Kiryu.png/revision/latest/scale-to-width-down/200?cb=20210306233400",
       "series": 4,
       "type": "limited"
+    },
+    {
+      "id": "Toughly_Woven_Threads_of_Youth",
+      "star": 5,
+      "name": "青春が紡ぐ硬い糸",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/7/79/%28Toughly_Woven_Threads_of_Youth%29_Kuro_Kiryu_M.png/revision/latest/scale-to-width-down/200?cb=20220213085812",
+      "series": 46,
+      "type": "feature"
     }
   ],
   "Souma_Kanzaki": [
@@ -3693,6 +3741,14 @@
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/7/7a/%28Beginner_Skater%29_Souma_Kanzaki_M.png/revision/latest/scale-to-width-down/200?cb=20210516105410",
       "series": 28,
       "type": "event"
+    },
+    {
+      "id": "Deciding_One%27s_Path",
+      "star": 4,
+      "name": "道の選択",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/0/0d/%28Deciding_One%27s_Path%29_Souma_Kanzaki_M.png/revision/latest/scale-to-width-down/200?cb=20220213085822",
+      "series": 46,
+      "type": "feature"
     }
   ],
   "Tsukasa_Suou": [

@@ -2,6 +2,13 @@
   "event": [
     {
       "type": "event",
+      "banner": "https://static.wikia.nocookie.net/ensemble-stars/images/4/48/Romantic%3F_Date_Banner.png/revision/latest/scale-to-width-down/220?cb=20220218150944",
+      "name": "Romantic? Date",
+      "cg": "https://static.wikia.nocookie.net/ensemble-stars/images/3/36/%28Bitter_Remarks%29_HiMERU_CG2.png/revision/latest/scale-to-width-down/1000?cb=20220218190720",
+      "series": 46
+    },
+    {
+      "type": "event",
       "banner": "https://static.wikia.nocookie.net/ensemble-stars/images/0/0e/Astraea%27s_Atelier_Banner.png/revision/latest/scale-to-width-down/220?cb=20220131135025",
       "name": "Astraea's Atelier",
       "cg": "https://static.wikia.nocookie.net/ensemble-stars/images/4/48/%28Astraea_of_Discipline%29_Shu_Itsuki_CG2.png/revision/latest/scale-to-width-down/1000?cb=20220131152240",
@@ -317,6 +324,13 @@
     }
   ],
   "feature": [
+    {
+      "type": "feature",
+      "banner": "https://static.wikia.nocookie.net/ensemble-stars/images/0/0a/Kuro_Feature_Scout.png/revision/latest/scale-to-width-down/220?cb=20220212211919",
+      "name": "Kuro Feature Scout",
+      "cg": "https://static.wikia.nocookie.net/ensemble-stars/images/7/76/%28Toughly_Woven_Threads_of_Youth%29_Kuro_Kiryu_CG2.png/revision/latest/scale-to-width-down/1000?cb=20220213090207",
+      "series": 46
+    },
     {
       "type": "feature",
       "banner": "https://static.wikia.nocookie.net/ensemble-stars/images/1/18/Hajime_Feature_Scout.png/revision/latest/scale-to-width-down/220?cb=20220125161455",
