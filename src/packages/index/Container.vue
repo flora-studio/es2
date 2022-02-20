@@ -3,8 +3,6 @@
     <es-image :key="currentCg" :src="currentCg" img-class="cg" />
     <thumb-scouts />
     <statics-view />
-    <gacha-button :single="true" @click="clickTake1" />
-    <gacha-button :single="false" @click="clickTake10" />
     <div class="menu-btns">
       <update-logs />
       <scout-selector />
@@ -12,6 +10,8 @@
       <all-got-cards-view />
       <es-button @click="resetHistory">重置帐号</es-button>
     </div>
+    <gacha-button :single="true" @click="clickTake1" />
+    <gacha-button :single="false" @click="clickTake10" />
     <result-view v-if="gachaResult !== null" v-model:value="gachaResult" @again="clickAgain" />
   </div>
 </template>
