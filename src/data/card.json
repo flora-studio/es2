@@ -101,7 +101,7 @@
       "star": 3,
       "name": "機敏之輝",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/2/29/%28Nimble_Radiance%29_Shinobu_Sengoku.png/revision/latest/scale-to-width-down/200?cb=20210423093605",
-      "series": 1,
+      "series": 9,
       "type": "limited"
     }
   ],
@@ -281,7 +281,7 @@
       "star": 3,
       "name": "妙趣横生",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/2/2d/%28Sparkling_Wit%29_Eichi_Tenshouin.png/revision/latest/scale-to-width-down/200?cb=20211012205907",
-      "series": 2,
+      "series": 22,
       "type": "limited"
     },
     {
@@ -289,7 +289,7 @@
       "star": 5,
       "name": "Spring Scenery of Prosperity",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/8/85/%28Spring_Scenery_of_Prosperity%29_Eichi_Tenshouin.png/revision/latest/scale-to-width-down/200?cb=20220205140442",
-      "series": 7,
+      "series": 31,
       "type": "limited"
     }
   ],
@@ -469,7 +469,7 @@
       "star": 4,
       "name": "逐浪之歌",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/d/dd/%28Song_of_Chasing_Waves%29_Tori_Himemiya.png/revision/latest/scale-to-width-down/200?cb=20210917185841",
-      "series": 3,
+      "series": 19,
       "type": "limited"
     }
   ],
@@ -567,7 +567,7 @@
       "star": 3,
       "name": "悠閒之夏",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/2/21/%28Relaxing_Summer%29_Yuzuru_Fushimi.png/revision/latest/scale-to-width-down/200?cb=20210917185835",
-      "series": 3,
+      "series": 19,
       "type": "limited"
     }
   ],
@@ -657,7 +657,7 @@
       "star": 3,
       "name": "",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/8/8c/%28Growth_and_Blessings%29_Hokuto_Hidaka.png/revision/latest/scale-to-width-down/200?cb=20220105135705",
-      "series": 5,
+      "series": 26,
       "type": "limited"
     }
   ],
@@ -762,8 +762,8 @@
       "id": "A_Cloudless_Spring_Scene",
       "star": 4,
       "name": "A Cloudless Spring Scene",
-      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/6/68/%28A_Cloudless_Spring_Scene%29_Subaru_Akehoshi.png/revision/latest/scale-to-width-down/120?cb=20220205140445",
-      "series": 7,
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/6/68/%28A_Cloudless_Spring_Scene%29_Subaru_Akehoshi.png/revision/latest/scale-to-width-down/200?cb=20220205140445",
+      "series": 31,
       "type": "limited"
     }
   ],
@@ -942,8 +942,8 @@
       "id": "A_Gentle_Spring_Scene",
       "star": 3,
       "name": "A Gentle Spring Scene",
-      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/c/cf/%28A_Gentle_Spring_Scene%29_Mao_Isara.png/revision/latest/scale-to-width-down/120?cb=20220205140448",
-      "series": 7,
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/c/cf/%28A_Gentle_Spring_Scene%29_Mao_Isara.png/revision/latest/scale-to-width-down/200?cb=20220205140448",
+      "series": 31,
       "type": "limited"
     }
   ],
@@ -1041,7 +1041,7 @@
       "star": 5,
       "name": "跃动之辉",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/e/e9/%28Leaping_Radiance%29_Chiaki_Morisawa.png/revision/latest/scale-to-width-down/200?cb=20210423093530",
-      "series": 1,
+      "series": 9,
       "type": "limited"
     }
   ],
@@ -1237,7 +1237,7 @@
       "star": 4,
       "name": "憧憬之辉",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/e/e3/%28Yearning_Radiance%29_Tetora_Nagumo.png/revision/latest/scale-to-width-down/200?cb=20210423093549",
-      "series": 1,
+      "series": 9,
       "type": "limited"
     }
   ],
@@ -1417,7 +1417,7 @@
       "star": 5,
       "name": "Flawless Blessing",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/0/0d/%28Flawless_Blessing%29_Hiiro_Amagi.png/revision/latest/scale-to-width-down/200?cb=20220105134352",
-      "series": 5,
+      "series": 26,
       "type": "limited"
     }
   ],
@@ -1523,7 +1523,7 @@
       "star": 3,
       "name": "A Warm Spring Scene",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/4/49/%28A_Warm_Spring_Scene%29_Aira_Shiratori.png/revision/latest/scale-to-width-down/200?cb=20220205140451",
-      "series": 7,
+      "series": 31,
       "type": "limited"
     }
   ],
@@ -1801,7 +1801,7 @@
       "star": 4,
       "name": "明察之神",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/7/7e/%28God_of_Perception%29_Nagisa_Ran.png/revision/latest/scale-to-width-down/200?cb=20210917190328",
-      "series": 6,
+      "series": 13,
       "type": "limited"
     }
   ],
@@ -1891,7 +1891,7 @@
       "star": 5,
       "name": "晴日之歌",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/b/bf/%28Song_of_Sunny_Skies%29_Hiyori_Tomoe.png/revision/latest/scale-to-width-down/200?cb=20210917185848",
-      "series": 3,
+      "series": 19,
       "type": "limited"
     }
   ],
@@ -1980,8 +1980,8 @@
       "id": "God_of_Cunning",
       "star": 3,
       "name": "狡黠之神",
-      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/a/a9/%28God_of_Cunning%29_Ibara_Saegusa.png/revision/latest/scale-to-width-down/120?cb=20210917190323",
-      "series": 6,
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/a/a9/%28God_of_Cunning%29_Ibara_Saegusa.png/revision/latest/scale-to-width-down/200?cb=20210917190323",
+      "series": 13,
       "type": "limited"
     }
   ],
@@ -2071,7 +2071,7 @@
       "star": 3,
       "name": "活力之夏",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/b/bd/%28Energetic_Summer%29_Jun_Sazanami.png/revision/latest/scale-to-width-down/200?cb=20210917185829",
-      "series": 3,
+      "series": 19,
       "type": "limited"
     }
   ],
@@ -2447,7 +2447,7 @@
       "star": 3,
       "name": "活力之輝",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/c/cf/%28Energetic_Radiance%29_Yuta_Aoi.png/revision/latest/scale-to-width-down/200?cb=20210423093647",
-      "series": 1,
+      "series": 9,
       "type": "limited"
     }
   ],
@@ -2545,7 +2545,7 @@
       "star": 5,
       "name": "鴻運當頭",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/a/aa/%28Fortune_Shining_Down%29_Rinne_Amagi.png/revision/latest/scale-to-width-down/200?cb=20210306233015",
-      "series": 4,
+      "series": 30,
       "type": "limited"
     }
   ],
@@ -2929,7 +2929,7 @@
       "star": 5,
       "name": "谧影之神",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/e/ee/%28God_of_Tranquil_Shadows%29_Rei_Sakuma.png/revision/latest/scale-to-width-down/200?cb=20210917190334",
-      "series": 6,
+      "series": 13,
       "type": "limited"
     }
   ],
@@ -3199,7 +3199,7 @@
       "star": 3,
       "name": "求知之神",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/6/61/%28God_of_Wisdom%29_Adonis_Otogari.png/revision/latest/scale-to-width-down/200?cb=20210917190340",
-      "series": 6,
+      "series": 13,
       "type": "limited"
     }
   ],
@@ -3551,7 +3551,7 @@
       "star": 3,
       "name": "妙言要道",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/e/ed/%28Witty_Remarks%29_Keito_Hasumi.png/revision/latest/scale-to-width-down/200?cb=20211012210400",
-      "series": 2,
+      "series": 22,
       "type": "limited"
     }
   ],
@@ -3649,7 +3649,7 @@
       "star": 3,
       "name": "幸運玩偶",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/6/66/%28Lucky_Plushie%29_Kuro_Kiryu.png/revision/latest/scale-to-width-down/200?cb=20210306233400",
-      "series": 4,
+      "series": 30,
       "type": "limited"
     },
     {
@@ -3861,7 +3861,7 @@
       "star": 4,
       "name": "幸運點心",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/d/da/%28Lucky_Snack%29_Tsukasa_Suou.png/revision/latest/scale-to-width-down/200?cb=20210306233211",
-      "series": 4,
+      "series": 30,
       "type": "limited"
     }
   ],
@@ -3951,7 +3951,7 @@
       "star": 5,
       "name": "奇思妙想",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/f/ff/%28Eccentric_Ideas%29_Leo_Tsukinaga.png/revision/latest/scale-to-width-down/200?cb=20211012203908",
-      "series": 2,
+      "series": 22,
       "type": "limited"
     }
   ],
@@ -4303,7 +4303,7 @@
       "star": 4,
       "name": "True Meaning and Blessings",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/c/ca/%28True_Meaning_and_Blessings%29_Natsume_Sakasaki.png/revision/latest/scale-to-width-down/200?cb=20220105135321",
-      "series": 5,
+      "series": 26,
       "type": "limited"
     },
     {
@@ -4311,7 +4311,7 @@
       "star": 3,
       "name": "幸運魔法",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/2/23/%28Lucky_Magic%29_Natsume_Sakasaki.png/revision/latest/scale-to-width-down/200?cb=20210306233303",
-      "series": 4,
+      "series": 30,
       "type": "limited"
     }
   ],
@@ -4499,7 +4499,7 @@
       "star": 3,
       "name": "Companions and Blessings",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/f/fc/%28Companions_and_Blessings%29_Sora_Harukawa.png/revision/latest/scale-to-width-down/200?cb=20220105135931",
-      "series": 5,
+      "series": 26,
       "type": "limited"
     }
   ],
@@ -4597,7 +4597,7 @@
       "star": 4,
       "name": "神机妙术",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/e/ee/%28Divine_Plan%29_Madara_Mikejima.png/revision/latest/scale-to-width-down/200?cb=20211012205211",
-      "series": 2,
+      "series": 22,
       "type": "limited"
     }
   ]

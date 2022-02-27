@@ -15,11 +15,16 @@
 <script setup lang="ts">
 import {Scout} from '../../composables/useScouts'
 import {computed} from 'vue'
-import {currentScout, lastEventScout, lastFeatureScout, normalScout} from './logic/store'
+import {currentScout, lastEventScout, lastFeatureScout, lastLimitedScout, normalScout} from './logic/store'
 import EsImage from './common/EsImage.vue'
 
 // 展示的池子
-const scouts = computed<Scout[]>(() => [lastEventScout.value!, lastFeatureScout.value!, normalScout.value!])
+const scouts = computed<Scout[]>(() => [
+  lastEventScout.value,
+  lastFeatureScout.value,
+  lastLimitedScout.value,
+  normalScout.value
+])
 
 const scoutEqual = (a?: Scout | null, b?: Scout | null) => {
   if (!a || !b) return false

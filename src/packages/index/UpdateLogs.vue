@@ -4,6 +4,7 @@
     <div class="inner">
       <a href="#" /><!-- 处理焦点的问题 -->
       <h3>最近更新</h3>
+      <p>2022/02/27 更新国服限定池</p>
       <p>2022/02/19 更新日服最新活动和个人池</p>
       <h3>常见问题</h3>
       <p>Q: 会继续更新吗？</p>
@@ -32,7 +33,7 @@ import EsButton from './common/EsButton.vue'
 import EsDialog from './common/EsDialog.vue'
 
 // 每次更新时要 +1
-const versionCode = 1
+const versionCode = 2
 let initialShow = false
 try {
   const savedVersion = Number(localStorage.getItem('update_log_ver') || '0')

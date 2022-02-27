@@ -28,6 +28,19 @@
           />
         </es-gallery>
       </n-tab-pane>
+      <n-tab-pane name="limited" display-directive="show:lazy" tab="限定">
+        <es-gallery>
+          <es-image
+              v-for="scout in limitedScouts"
+              :key="scout.name"
+              :src="scout.banner"
+              :description="scout.name"
+              img-class="img"
+              lazy
+              @click="select(scout)"
+          />
+        </es-gallery>
+      </n-tab-pane>
     </n-tabs>
   </es-dialog>
 </template>
@@ -36,18 +49,18 @@ import EsButton from './common/EsButton.vue'
 import EsImage from './common/EsImage.vue'
 import {NModal, NTabs, NTabPane} from 'naive-ui'
 import {ref} from 'vue'
-import {Scout, useScoutStorage} from '../../composables/useScouts'
+import {Scout, useScout} from '../../composables/useScouts'
 import EsGallery from './common/EsGallery.vue'
-import {currentScout, lastEventScout, lastFeatureScout} from './logic/store'
+import {currentScout, lastEventScout, lastFeatureScout, lastLimitedScout} from './logic/store'
 import {sortBy} from 'lodash-es'
 import EsDialog from './common/EsDialog.vue'
 
 const show = ref(false)
 
-const allScouts = useScoutStorage()
 // 希望按期数升序排列
-const eventScouts = sortBy(allScouts.event, scout => scout.series)
-const featureScouts = sortBy(allScouts.feature, scout => scout.series)
+const eventScouts = sortBy(useScout('event'), scout => scout.series)
+const featureScouts = sortBy(useScout('feature'), scout => scout.series)
+const limitedScouts = sortBy(useScout('limited'), scout => scout.series)
 
 const select = (scout: Scout) => {
   currentScout.value = scout
@@ -57,6 +70,9 @@ const select = (scout: Scout) => {
       break
     case 'feature':
       lastFeatureScout.value = scout
+      break
+    case 'limited':
+      lastLimitedScout.value = scout
       break
     default:
       break
