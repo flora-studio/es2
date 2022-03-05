@@ -333,6 +333,13 @@
   "feature": [
     {
       "type": "feature",
+      "banner": "https://static.wikia.nocookie.net/ensemble-stars/images/f/f4/Kaoru_Feature_Scout.png/revision/latest/scale-to-width-down/220?cb=20220227170135",
+      "name": "Kaoru Feature Scout",
+      "cg": "https://static.wikia.nocookie.net/ensemble-stars/images/9/97/%28Summer_Breeze_that_Affirms_Expectations%29_Kaoru_Hakaze_CG2.png/revision/latest/scale-to-width-down/1000?cb=20220228003123",
+      "series": 47
+    },
+    {
+      "type": "feature",
       "banner": "https://static.wikia.nocookie.net/ensemble-stars/images/0/0a/Kuro_Feature_Scout.png/revision/latest/scale-to-width-down/220?cb=20220212211919",
       "name": "Kuro Feature Scout",
       "cg": "https://static.wikia.nocookie.net/ensemble-stars/images/7/76/%28Toughly_Woven_Threads_of_Youth%29_Kuro_Kiryu_CG2.png/revision/latest/scale-to-width-down/1000?cb=20220213090207",

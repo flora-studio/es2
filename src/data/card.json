@@ -3021,6 +3021,14 @@
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/0/0d/%28Harvest_and_Doubt%29_Kaoru_Hakaze_M.png/revision/latest/scale-to-width-down/200?cb=20210929130718",
       "series": 37,
       "type": "event"
+    },
+    {
+      "id": "Summer_Breeze_that_Affirms_Expectations",
+      "star": 5,
+      "name": "期待に応える薫風",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/d/d7/%28Summer_Breeze_that_Affirms_Expectations%29_Kaoru_Hakaze_M.png/revision/latest/scale-to-width-down/150?cb=20220228001530",
+      "series": 47,
+      "type": "feature"
     }
   ],
   "Koga_Oogami": [
@@ -4141,6 +4149,14 @@
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/f/f7/%28Club_Activity_Report%29_Ritsu_Sakuma_M.png/revision/latest/scale-to-width-down/200?cb=20210326001902",
       "series": 25,
       "type": "feature"
+    },
+    {
+      "id": "Music_Room_for_One",
+      "star": 3,
+      "name": "ひとりの音楽室",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/7/75/%28Music_Room_for_One%29_Ritsu_Sakuma_M.png/revision/latest/scale-to-width-down/150?cb=20220228001535",
+      "series": 47,
+      "type": "feature"
     }
   ],
   "Arashi_Narukami": [
@@ -4230,6 +4246,14 @@
       "name": "演技の魅力",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/2/23/%28The_Charms_of_Acting%29_Arashi_Narukami_M.png/revision/latest/scale-to-width-down/200?cb=20211126204256",
       "series": 41,
+      "type": "feature"
+    },
+    {
+      "id": "Time_for_Hobbies",
+      "star": 4,
+      "name": "趣味の時間",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/7/77/%28Time_for_Hobbies%29_Arashi_Narukami_M.png/revision/latest/scale-to-width-down/150?cb=20220228001533",
+      "series": 47,
       "type": "feature"
     }
   ],
