@@ -1125,6 +1125,14 @@
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/1/1c/%28Finishing_Blow%29_Kanata_Shinkai_M.png/revision/latest/scale-to-width-down/200?cb=20210331071940",
       "series": 25,
       "type": "event"
+    },
+    {
+      "id": "Desired_Colors",
+      "star": 4,
+      "name": "のぞみのしきさい",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/8/8b/%28Desired_Colors%29_Kanata_Shinkai_M.png/revision/latest/scale-to-width-down/200?cb=20220228200709",
+      "series": 47,
+      "type": "event"
     }
   ],
   "Tetora_Nagumo": [
@@ -3373,6 +3381,14 @@
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/3/31/%28Mysterious_Someone_After_School%29_Mitsuru_Tenma_M.png/revision/latest/scale-to-width-down/200?cb=20220126153422",
       "series": 45,
       "type": "feature"
+    },
+    {
+      "id": "Changing_Colors",
+      "star": 3,
+      "name": "変化の色彩",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/a/af/%28Changing_Colors%29_Mitsuru_Tenma_M.png/revision/latest/scale-to-width-down/200?cb=20220228200706",
+      "series": 47,
+      "type": "event"
     }
   ],
   "Hajime_Shino": [
@@ -3749,6 +3765,14 @@
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/0/0d/%28Deciding_One%27s_Path%29_Souma_Kanzaki_M.png/revision/latest/scale-to-width-down/200?cb=20220213085822",
       "series": 46,
       "type": "feature"
+    },
+    {
+      "id": "Watchful_Colors",
+      "star": 3,
+      "name": "見守る色彩",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/3/33/%28Watchful_Colors%29_Souma_Kanzaki_M.png/revision/latest/scale-to-width-down/200?cb=20220228200713",
+      "series": 47,
+      "type": "event"
     }
   ],
   "Tsukasa_Suou": [
@@ -4599,6 +4623,14 @@
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/e/ee/%28Divine_Plan%29_Madara_Mikejima.png/revision/latest/scale-to-width-down/200?cb=20211012205211",
       "series": 22,
       "type": "limited"
+    },
+    {
+      "id": "Mingling_Colors",
+      "star": 5,
+      "name": "混成の色彩",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/3/39/%28Mingling_Colors%29_Madara_Mikejima_M.png/revision/latest/scale-to-width-down/200?cb=20220228200711",
+      "series": 47,
+      "type": "event"
     }
   ]
 }
