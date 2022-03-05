@@ -29,7 +29,7 @@
       "star": 4,
       "name": "スタプロの隠密",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/f/fb/%28StarPro%27s_Spy%29_Shinobu_Sengoku_M.png/revision/latest/scale-to-width-down/200?cb=20200517020400",
-      "series": 17,
+      "series": 2,
       "type": "anniversary"
     },
     {
@@ -53,7 +53,7 @@
       "star": 4,
       "name": "忍者ロック",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/6/63/%28Rock_and_Roll_Ninja%29_Shinobu_Sengoku_M.png/revision/latest/scale-to-width-down/200?cb=20211021183431",
-      "series": 9,
+      "series": 38,
       "type": "anniversary"
     },
     {
@@ -135,7 +135,7 @@
       "star": 4,
       "name": "リズリンの有望",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/8/84/%28RhyLin%27s_Potential%29_Tomoya_Mashiro_M.png/revision/latest/scale-to-width-down/200?cb=20200830004523",
-      "series": 4,
+      "series": 10,
       "type": "anniversary"
     },
     {
@@ -151,7 +151,7 @@
       "star": 4,
       "name": "地道こそロック",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/7/7d/%28It%27s_Rock_Because_It%27s_Straightforward%29_Tomoya_Mashiro_M.png/revision/latest/scale-to-width-down/200?cb=20210506214252",
-      "series": 16,
+      "series": 27.1,
       "type": "anniversary"
     },
     {
@@ -225,7 +225,7 @@
       "star": 4,
       "name": "スタプロの代表",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/1/14/%28StarPro%27s_Representative%29_Eichi_Tenshouin_M.png/revision/latest/scale-to-width-down/200?cb=20200517020050",
-      "series": 17,
+      "series": 2,
       "type": "anniversary"
     },
     {
@@ -241,7 +241,7 @@
       "star": 4,
       "name": "最前線でロック",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/7/74/%28Playing_Rock_in_the_Spotlight%29_Eichi_Tenshouin_M.png/revision/latest/scale-to-width-down/200?cb=20210429000011",
-      "series": 18,
+      "series": 26,
       "type": "anniversary"
     },
     {
@@ -323,7 +323,7 @@
       "star": 4,
       "name": "スタプロの陽気者",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/c/c3/%28StarPro%27s_Sunshine%29_Wataru_Hibiki_M.png/revision/latest/scale-to-width-down/200?cb=20200517021307",
-      "series": 7,
+      "series": 3.2,
       "type": "anniversary"
     },
     {
@@ -347,7 +347,7 @@
       "star": 4,
       "name": "芸風こそロック",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/8/8f/%28An_Artistic_Style_That%27s_Inherent_to_Rock%29_Wataru_Hibiki_M.png/revision/latest/scale-to-width-down/200?cb=20210515032030",
-      "series": 15,
+      "series": 27.2,
       "type": "anniversary"
     },
     {
@@ -405,7 +405,7 @@
       "star": 4,
       "name": "スタプロの花看板",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/9/98/%28StarPro%27s_Prized_Flower%29_Tori_Himemiya_M.png/revision/latest/scale-to-width-down/200?cb=20200517021543",
-      "series": 7,
+      "series": 3.2,
       "type": "anniversary"
     },
     {
@@ -421,7 +421,7 @@
       "star": 4,
       "name": "ロックに邁進",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/9/96/%28Striving_Towards_Rock%29_Tori_Himemiya_M.png/revision/latest/scale-to-width-down/200?cb=20210521112432",
-      "series": 14,
+      "series": 28.1,
       "type": "anniversary"
     },
     {
@@ -503,7 +503,7 @@
       "star": 4,
       "name": "スタプロの従者",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/b/bd/%28StarPro%27s_Attendant%29_Yuzuru_Fushimi_M.png/revision/latest/scale-to-width-down/200?cb=20200517020529",
-      "series": 8,
+      "series": 3.1,
       "type": "anniversary"
     },
     {
@@ -519,7 +519,7 @@
       "star": 4,
       "name": "ロックに完遂",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/9/97/%28Succeeding_in_Rock%29_Yuzuru_Fushimi_M.png/revision/latest/scale-to-width-down/200?cb=20210527093526",
-      "series": 13,
+      "series": 28.2,
       "type": "anniversary"
     },
     {
@@ -609,7 +609,7 @@
       "star": 4,
       "name": "スタプロの頑固者",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/d/d1/%28StarPro%27s_Stubbornness%29_Hokuto_Hidaka_M.png/revision/latest/scale-to-width-down/200?cb=20200517021740",
-      "series": 7,
+      "series": 3.2,
       "type": "anniversary"
     },
     {
@@ -625,7 +625,7 @@
       "star": 4,
       "name": "頑固さもロック",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/5/59/%28Stubbornness_is_Part_of_Rock%29_Hokuto_Hidaka_M.png/revision/latest/scale-to-width-down/200?cb=20210506214319",
-      "series": 16,
+      "series": 27.1,
       "type": "anniversary"
     },
     {
@@ -691,7 +691,7 @@
       "star": 4,
       "name": "スタプロの綺羅星",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/0/0a/%28StarPro%27s_Glittering_Star%29_Subaru_Akehoshi_M.png/revision/latest/scale-to-width-down/200?cb=20200517020133",
-      "series": 17,
+      "series": 2,
       "type": "anniversary"
     },
     {
@@ -707,7 +707,7 @@
       "star": 4,
       "name": "ロックな信念",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/3/3e/%28Rocking_Faith%29_Subaru_Akehoshi_M.png/revision/latest/scale-to-width-down/200?cb=20210429000023",
-      "series": 18,
+      "series": 26,
       "type": "anniversary"
     },
     {
@@ -797,7 +797,7 @@
       "star": 4,
       "name": "スタプロの頭脳",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/0/0a/%28StarPro%27s_Brains%29_Makoto_Yuuki_M.png/revision/latest/scale-to-width-down/200?cb=20200517020625",
-      "series": 8,
+      "series": 3.1,
       "type": "anniversary"
     },
     {
@@ -813,7 +813,7 @@
       "star": 4,
       "name": "意地だってロック",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/3/35/%28Willpower_Is_Still_Part_of_Rock%29_Makoto_Yuuki_M.png/revision/latest/scale-to-width-down/200?cb=20210521112452",
-      "series": 14,
+      "series": 28.1,
       "type": "anniversary"
     },
     {
@@ -887,7 +887,7 @@
       "star": 4,
       "name": "スタプロの橋渡し",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/d/d8/%28StarPro%27s_Intermediary%29_Mao_Isara_M.png/revision/latest/scale-to-width-down/200?cb=20200517020719",
-      "series": 8,
+      "series": 3.1,
       "type": "anniversary"
     },
     {
@@ -903,7 +903,7 @@
       "star": 4,
       "name": "ロックも気軽に",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/d/d6/%28Carefree_With_Even_Rock%29_Mao_Isara_M.png/revision/latest/scale-to-width-down/200?cb=20210527093452",
-      "series": 13,
+      "series": 28.2,
       "type": "anniversary"
     },
     {
@@ -977,7 +977,7 @@
       "star": 4,
       "name": "スタプロの正義",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/5/5f/%28StarPro%27s_Justice%29_Chiaki_Morisawa_M.png/revision/latest/scale-to-width-down/200?cb=20200517020818",
-      "series": 8,
+      "series": 3.1,
       "type": "anniversary"
     },
     {
@@ -993,7 +993,7 @@
       "star": 4,
       "name": "燃えるロック",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/9/99/%28Burning_Rock%29_Chiaki_Morisawa_M.png/revision/latest/scale-to-width-down/200?cb=20210929035025",
-      "series": 12,
+      "series": 36,
       "type": "anniversary"
     },
     {
@@ -1083,7 +1083,7 @@
       "star": 4,
       "name": "すたぷろのいやし",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/2/2b/%28StarPro%27s_Comfort%29_Kanata_Shinkai_M.png/revision/latest/scale-to-width-down/200?cb=20200517021359",
-      "series": 7,
+      "series": 3.2,
       "type": "anniversary"
     },
     {
@@ -1091,7 +1091,7 @@
       "star": 4,
       "name": "あらなみろっく",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/b/ba/%28Rock_of_Stormy_Seas%29_Kanata_Shinkai_M.png/revision/latest/scale-to-width-down/200?cb=20211007073632",
-      "series": 11,
+      "series": 37.1,
       "type": "anniversary"
     },
     {
@@ -1157,7 +1157,7 @@
       "star": 4,
       "name": "スタプロの根性",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/f/fe/%28StarPro%27s_Willpower%29_Tetora_Nagumo_M.png/revision/latest/scale-to-width-down/200?cb=20200517021111",
-      "series": 8,
+      "series": 3.1,
       "type": "anniversary"
     },
     {
@@ -1189,7 +1189,7 @@
       "star": 4,
       "name": "男気ロック",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/e/e2/%28Manly_Rock%29_Tetora_Nagumo_M.png/revision/latest/scale-to-width-down/200?cb=20211007075531",
-      "series": 11,
+      "series": 37.1,
       "type": "anniversary"
     },
     {
@@ -1271,7 +1271,7 @@
       "star": 4,
       "name": "スタプロの花形",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/b/b0/%28StarPro%27s_Floral_Star%29_Midori_Takamine_M.png/revision/latest/scale-to-width-down/200?cb=20200517020213",
-      "series": 17,
+      "series": 2,
       "type": "anniversary"
     },
     {
@@ -1287,7 +1287,7 @@
       "star": 4,
       "name": "ロックは自由に",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/6/62/%28Freely_Rockin%27%29_Midori_Takamine_M.png/revision/latest/scale-to-width-down/200?cb=20211013121735",
-      "series": 10,
+      "series": 37.2,
       "type": "anniversary"
     },
     {
@@ -1353,7 +1353,7 @@
       "star": 4,
       "name": "スタプロの天然",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/f/f2/%28StarPro%27s_Airhead%29_Hiiro_Amagi_M.png/revision/latest/scale-to-width-down/200?cb=20200517021503",
-      "series": 7,
+      "series": 3.2,
       "type": "anniversary"
     },
     {
@@ -1369,7 +1369,7 @@
       "star": 4,
       "name": "ロックは勉強中",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/1/10/%28Still_Learning_How_to_Rock%29_Hiiro_Amagi_M.png/revision/latest/scale-to-width-down/200?cb=20210429000031",
-      "series": 18,
+      "series": 26,
       "type": "anniversary"
     },
     {
@@ -1451,7 +1451,7 @@
       "star": 4,
       "name": "スタプロの新米",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/5/58/%28StarPro%27s_Novice%29_Aira_Shiratori_M.png/revision/latest/scale-to-width-down/200?cb=20200517020312",
-      "series": 17,
+      "series": 2,
       "type": "anniversary"
     },
     {
@@ -1475,7 +1475,7 @@
       "star": 4,
       "name": "自分なりのロック",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/3/3d/%28My_Very_Own_Style_of_Rock%29_Aira_Shiratori_M.png/revision/latest/scale-to-width-down/200?cb=20210506214301",
-      "series": 16,
+      "series": 27.1,
       "type": "anniversary"
     },
     {
@@ -1557,7 +1557,7 @@
       "star": 4,
       "name": "スタプロの未知",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/0/07/%28StarPro%27s_Unknown%29_Mayoi_Ayase_M.png/revision/latest/scale-to-width-down/200?cb=20200517020446",
-      "series": 17,
+      "series": 2,
       "type": "anniversary"
     },
     {
@@ -1573,7 +1573,7 @@
       "star": 4,
       "name": "どこかにはロック",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/6/64/%28Rocking_From_Afar%29_Mayoi_Ayase_M.png/revision/latest/scale-to-width-down/200?cb=20210527093518",
-      "series": 13,
+      "series": 28.2,
       "type": "anniversary"
     },
     {
@@ -1647,7 +1647,7 @@
       "star": 4,
       "name": "スタプロの奉仕者",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/4/49/%28StarPro%27s_Minister%29_Tatsumi_Kazehaya_M.png/revision/latest/scale-to-width-down/200?cb=20200517020928",
-      "series": 8,
+      "series": 3.1,
       "type": "anniversary"
     },
     {
@@ -1663,7 +1663,7 @@
       "star": 4,
       "name": "ロックな柱として",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/6/6e/%28The_Bastion_of_Rock%29_Tatsumi_Kazehaya_M.png/revision/latest/scale-to-width-down/200?cb=20210521112442",
-      "series": 14,
+      "series": 28.1,
       "type": "anniversary"
     },
     {
@@ -1753,7 +1753,7 @@
       "star": 4,
       "name": "ロックは知識で",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/7/7a/%28Using_Knowledge_to_Rock%29_Nagisa_Ran_M.png/revision/latest/scale-to-width-down/200?cb=20210429000039",
-      "series": 18,
+      "series": 26,
       "type": "anniversary"
     },
     {
@@ -1827,7 +1827,7 @@
       "star": 4,
       "name": "コズプロの太陽",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/6/6d/%28CosPro%27s_Sun%29_Hiyori_Tomoe_M.png/revision/latest/scale-to-width-down/200?cb=20200712220931",
-      "series": 5,
+      "series": 7,
       "type": "anniversary"
     },
     {
@@ -1843,7 +1843,7 @@
       "star": 4,
       "name": "ロックでも美しく",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/0/03/%28Even_Rock_Must_Be_Done_Beautifully%29_Hiyori_Tomoe_M.png/revision/latest/scale-to-width-down/200?cb=20210515032048",
-      "series": 15,
+      "series": 27.2,
       "type": "anniversary"
     },
     {
@@ -1925,7 +1925,7 @@
       "star": 4,
       "name": "コズプロの代表",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/a/a9/%28CosPro%27s_Representative%29_Ibara_Saegusa_M.png/revision/latest/scale-to-width-down/200?cb=20200712220806",
-      "series": 5,
+      "series": 7,
       "type": "anniversary"
     },
     {
@@ -1949,7 +1949,7 @@
       "star": 4,
       "name": "貪欲でロックに",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/3/36/%28Greedily_Rocking%29_Ibara_Saegusa_M.png/revision/latest/scale-to-width-down/200?cb=20210521112412",
-      "series": 14,
+      "series": 28.1,
       "type": "anniversary"
     },
     {
@@ -2031,7 +2031,7 @@
       "star": 4,
       "name": "ロックな精神で",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/7/72/%28With_a_Rocking_Soul%29_Jun_Sazanami_M.png/revision/latest/scale-to-width-down/200?cb=20210527093535",
-      "series": 13,
+      "series": 28.2,
       "type": "anniversary"
     },
     {
@@ -2121,7 +2121,7 @@
       "star": 4,
       "name": "ロックな美学",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/9/9f/%28Rocking_Aesthetic%29_Shu_Itsuki_M.png/revision/latest/scale-to-width-down/200?cb=20210429000015",
-      "series": 18,
+      "series": 26,
       "type": "anniversary"
     },
     {
@@ -2195,7 +2195,7 @@
       "star": 4,
       "name": "コズプロのホープ",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/f/f8/%28CosPro%27s_Hopes%29_Mika_Kagehira_M.png/revision/latest/scale-to-width-down/200?cb=20200712220641",
-      "series": 5,
+      "series": 7,
       "type": "anniversary"
     },
     {
@@ -2211,7 +2211,7 @@
       "star": 4,
       "name": "歪でもロック",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/3/30/%28It%27s_Rock_Despite_Its_Distortion%29_Mika_Kagehira_M.png/revision/latest/scale-to-width-down/200?cb=20210521112422",
-      "series": 14,
+      "series": 28.1,
       "type": "anniversary"
     },
     {
@@ -2293,7 +2293,7 @@
       "star": 4,
       "name": "コズプロの活気",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/4/4f/%28CosPro%27s_Energy%29_Hinata_Aoi_M.png/revision/latest/scale-to-width-down/200?cb=20200712220505",
-      "series": 5,
+      "series": 7,
       "type": "anniversary"
     },
     {
@@ -2309,7 +2309,7 @@
       "star": 4,
       "name": "やんちゃロック",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/f/f7/%28Playful_Rock%29_Hinata_Aoi_M.png/revision/latest/scale-to-width-down/200?cb=20210929035038",
-      "series": 12,
+      "series": 36,
       "type": "anniversary"
     },
     {
@@ -2399,7 +2399,7 @@
       "star": 4,
       "name": "生意気ロック",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/b/b6/%28Cheeky_Rock%29_Yuta_Aoi_M.png/revision/latest/scale-to-width-down/200?cb=20211013121605",
-      "series": 10,
+      "series": 37.2,
       "type": "anniversary"
     },
     {
@@ -2489,7 +2489,7 @@
       "star": 4,
       "name": "コズプロの毒針",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/a/a9/%28CosPro%27s_Stinger%29_Rinne_Amagi_M.png/revision/latest/scale-to-width-down/200?cb=20200712220857",
-      "series": 5,
+      "series": 7,
       "type": "anniversary"
     },
     {
@@ -2513,7 +2513,7 @@
       "star": 4,
       "name": "異端にロック",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/d/d0/%28Heretical_Rock%29_Rinne_Amagi_M.png/revision/latest/scale-to-width-down/200?cb=20210929035052",
-      "series": 12,
+      "series": 36,
       "type": "anniversary"
     },
     {
@@ -2595,7 +2595,7 @@
       "star": 4,
       "name": "貫くロック",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/4/4a/%28Piercing_Rock%29_HiMERU_M.png/revision/latest/scale-to-width-down/200?cb=20211007075950",
-      "series": 11,
+      "series": 37.1,
       "type": "anniversary"
     },
     {
@@ -2677,7 +2677,7 @@
       "star": 4,
       "name": "コズプロの古風",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/a/af/%28CosPro%27s_Tradition%29_Kohaku_Oukawa_M.png/revision/latest/scale-to-width-down/200?cb=20200712221506",
-      "series": 5,
+      "series": 7,
       "type": "anniversary"
     },
     {
@@ -2693,7 +2693,7 @@
       "star": 4,
       "name": "きっちりロック",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/f/fc/%28Perfect_Rock%29_Kohaku_Oukawa_M.png/revision/latest/scale-to-width-down/200?cb=20210515032058",
-      "series": 15,
+      "series": 27.2,
       "type": "anniversary"
     },
     {
@@ -2701,7 +2701,7 @@
       "star": 4,
       "name": "ロックな根性",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/1/1c/%28Rockin%27_Willpower%29_Kohaku_Oukawa_M.png/revision/latest/scale-to-width-down/200?cb=20211013122141",
-      "series": 10,
+      "series": 37.2,
       "type": "anniversary"
     },
     {
@@ -2791,7 +2791,7 @@
       "star": 4,
       "name": "料理にロック",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/a/a9/%28A_Pinch_Of_Rock_and_Roll_In_Cooking%29_Niki_Shiina_M.png/revision/latest/scale-to-width-down/200?cb=20211021183435",
-      "series": 9,
+      "series": 38,
       "type": "anniversary"
     },
     {
@@ -2865,7 +2865,7 @@
       "star": 4,
       "name": "リズリンの吸血鬼",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/b/bb/%28RhyLin%27s_Vampire%29_Rei_Sakuma_M.png/revision/latest/scale-to-width-down/200?cb=20200830004415",
-      "series": 4,
+      "series": 10,
       "type": "anniversary"
     },
     {
@@ -2889,7 +2889,7 @@
       "star": 4,
       "name": "ロックな本能",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/5/51/%28Rock_Instincts%29_Rei_Sakuma_M.png/revision/latest/scale-to-width-down/200?cb=20210929035105",
-      "series": 12,
+      "series": 36,
       "type": "anniversary"
     },
     {
@@ -2963,7 +2963,7 @@
       "star": 4,
       "name": "リズリンの色男",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/4/42/%28RhyLin%27s_Heartthrob%29_Kaoru_Hakaze_M.png/revision/latest/scale-to-width-down/200?cb=20200909000400",
-      "series": 3,
+      "series": 11,
       "type": "anniversary"
     },
     {
@@ -2979,7 +2979,7 @@
       "star": 4,
       "name": "ロックは柔軟に",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/8/8c/%28Rockin%27_in_a_Flexible_Way%29_Kaoru_Hakaze_M.png/revision/latest/scale-to-width-down/200?cb=20211007080216",
-      "series": 11,
+      "series": 37.1,
       "type": "anniversary"
     },
     {
@@ -3045,7 +3045,7 @@
       "star": 4,
       "name": "リズリンのロック",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/4/40/%28RhyLin%27s_Rock_n_Roll%29_Koga_Oogami_M.png/revision/latest/scale-to-width-down/200?cb=20200909000438",
-      "series": 3,
+      "series": 11,
       "type": "anniversary"
     },
     {
@@ -3069,7 +3069,7 @@
       "star": 4,
       "name": "純粋なロック",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/0/06/%28Pure_Rock_and_Roll%29_Koga_Oogami_M.png/revision/latest/scale-to-width-down/200?cb=20211013121759",
-      "series": 10,
+      "series": 37.2,
       "type": "anniversary"
     },
     {
@@ -3135,7 +3135,7 @@
       "star": 4,
       "name": "リズリンの慈愛",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/e/e0/%28RhyLin%27s_Compassion%29_Adonis_Otogari_M.png/revision/latest/scale-to-width-down/200?cb=20200830004438",
-      "series": 4,
+      "series": 10,
       "type": "anniversary"
     },
     {
@@ -3159,7 +3159,7 @@
       "star": 4,
       "name": "共鳴ロック",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/e/e1/%28Resonating_Rock%29_Adonis_Otogari_M.png/revision/latest/scale-to-width-down/200?cb=20211021183439",
-      "series": 9,
+      "series": 38,
       "type": "anniversary"
     },
     {
@@ -3233,7 +3233,7 @@
       "star": 4,
       "name": "リズリンの両立者",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/4/4e/%28RhyLin%27s_Coexistence%29_Nazuna_Nito_M.png/revision/latest/scale-to-width-down/200?cb=20200830004454",
-      "series": 4,
+      "series": 10,
       "type": "anniversary"
     },
     {
@@ -3249,7 +3249,7 @@
       "star": 4,
       "name": "ぶつかれロック",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/5/50/%28Rock_of_New_Encounters%29_Nazuna_Nito_M.png/revision/latest/scale-to-width-down/200?cb=20210527093509",
-      "series": 13,
+      "series": 28.2,
       "type": "anniversary"
     },
     {
@@ -3323,7 +3323,7 @@
       "star": 4,
       "name": "リズリンの寵児",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/0/06/%28RhyLin%27s_Star%29_Mitsuru_Tenma_M.png/revision/latest/scale-to-width-down/200?cb=20200909000504",
-      "series": 3,
+      "series": 11,
       "type": "anniversary"
     },
     {
@@ -3331,7 +3331,7 @@
       "star": 4,
       "name": "ダッシュでロック",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/6/6e/%28Dashing_and_Rocking%29_Mitsuru_Tenma_M.png/revision/latest/scale-to-width-down/200?cb=20210515032039",
-      "series": 15,
+      "series": 27.2,
       "type": "anniversary"
     },
     {
@@ -3405,7 +3405,7 @@
       "star": 4,
       "name": "リズリンの安らぎ",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/3/38/%28RhyLin%27s_Serenity%29_Hajime_Shino_M.png/revision/latest/scale-to-width-down/200?cb=20200909000523",
-      "series": 3,
+      "series": 11,
       "type": "anniversary"
     },
     {
@@ -3421,7 +3421,7 @@
       "star": 4,
       "name": "優しさにロック",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/f/fd/%28A_Gentle_Style_of_Rock%29_Hajime_Shino_M.png/revision/latest/scale-to-width-down/200?cb=20210521112403",
-      "series": 14,
+      "series": 28.1,
       "type": "anniversary"
     },
     {
@@ -3487,7 +3487,7 @@
       "star": 4,
       "name": "リズリンの代表",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/e/e5/%28RhyLin%27s_Representative%29_Keito_Hasumi_M.png/revision/latest/scale-to-width-down/200?cb=20200909000604",
-      "series": 3,
+      "series": 11,
       "type": "anniversary"
     },
     {
@@ -3503,7 +3503,7 @@
       "star": 4,
       "name": "曲げないロック",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/d/de/%28Unbending_Rock%29_Keito_Hasumi_M.png/revision/latest/scale-to-width-down/200?cb=20210929035118",
-      "series": 12,
+      "series": 36,
       "type": "anniversary"
     },
     {
@@ -3577,7 +3577,7 @@
       "star": 4,
       "name": "リズリンの男気",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/f/f0/%28RhyLin%27s_Valor%29_Kuro_Kiryu_M.png/revision/latest/scale-to-width-down/200?cb=20200830004545",
-      "series": 4,
+      "series": 10,
       "type": "anniversary"
     },
     {
@@ -3601,7 +3601,7 @@
       "star": 4,
       "name": "勇ましロック",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/c/ca/%28Invigorating_Rock%29_Kuro_Kiryu_M.png/revision/latest/scale-to-width-down/200?cb=20211007080328",
-      "series": 11,
+      "series": 37.1,
       "type": "anniversary"
     },
     {
@@ -3699,7 +3699,7 @@
       "star": 4,
       "name": "リズリンの風雅",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/4/4c/%28RhyLin%27s_Elegance%29_Souma_Kanzaki_M.png/revision/latest/scale-to-width-down/200?cb=20200830004611",
-      "series": 4,
+      "series": 10,
       "type": "anniversary"
     },
     {
@@ -3715,7 +3715,7 @@
       "star": 4,
       "name": "武士ロック",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/f/fc/%28Rock_and_Roll_Warrior%29_Souma_Kanzaki_M.png/revision/latest/scale-to-width-down/200?cb=20211013122002",
-      "series": 10,
+      "series": 37.2,
       "type": "anniversary"
     },
     {
@@ -3797,7 +3797,7 @@
       "star": 4,
       "name": "ニューディの代表",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/a/ad/%28NewDi%27s_Representative%29_Tsukasa_Suou_M.png/revision/latest/scale-to-width-down/200?cb=20201110123308",
-      "series": 2,
+      "series": 15,
       "type": "anniversary"
     },
     {
@@ -3805,7 +3805,7 @@
       "star": 4,
       "name": "騎士のロック",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/e/ee/%28Knights%27_Rock%29_Tsukasa_Suou_M.png/revision/latest/scale-to-width-down/200?cb=20210929035131",
-      "series": 12,
+      "series": 36,
       "type": "anniversary"
     },
     {
@@ -3903,7 +3903,7 @@
       "star": 4,
       "name": "ニューディの作曲家",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/1/1e/%28NewDi%27s_Composer%29_Leo_Tsukinaga_M.png/revision/latest/scale-to-width-down/200?cb=20201110123300",
-      "series": 2,
+      "series": 15,
       "type": "anniversary"
     },
     {
@@ -3911,7 +3911,7 @@
       "star": 4,
       "name": "作曲はロック",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/6/61/%28Composing_is_Rock_and_Roll%29_Leo_Tsukinaga_M.png/revision/latest/scale-to-width-down/200?cb=20211007080641",
-      "series": 11,
+      "series": 37.1,
       "type": "anniversary"
     },
     {
@@ -3985,7 +3985,7 @@
       "star": 4,
       "name": "ニューディの挑戦者",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/d/d2/%28NewDi%27s_Challenger%29_Izumi_Sena_M.png/revision/latest/scale-to-width-down/200?cb=20201117092040",
-      "series": 1,
+      "series": 16,
       "type": "anniversary"
     },
     {
@@ -4001,7 +4001,7 @@
       "star": 4,
       "name": "ロックな仕事",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/6/68/%28Rockin%27_Job%29_Izumi_Sena_M.png/revision/latest/scale-to-width-down/200?cb=20211013122121",
-      "series": 10,
+      "series": 37.2,
       "type": "anniversary"
     },
     {
@@ -4067,7 +4067,7 @@
       "star": 4,
       "name": "ニューディのブレーン",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/9/99/%28NewDi%27s_Brain%29_Ritsu_Sakuma_M.png/revision/latest/scale-to-width-down/200?cb=20201110123254",
-      "series": 2,
+      "series": 15,
       "type": "anniversary"
     },
     {
@@ -4083,7 +4083,7 @@
       "star": 4,
       "name": "緩やかロック",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/5/51/%28Lax_Rock%29_Ritsu_Sakuma_M.png/revision/latest/scale-to-width-down/200?cb=20211021183443",
-      "series": 9,
+      "series": 38,
       "type": "anniversary"
     },
     {
@@ -4157,7 +4157,7 @@
       "star": 4,
       "name": "ニューディの相談役",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/e/e7/%28NewDi%27s_Advisor%29_Arashi_Narukami_M.png/revision/latest/scale-to-width-down/200?cb=20201117092031",
-      "series": 1,
+      "series": 16,
       "type": "anniversary"
     },
     {
@@ -4173,7 +4173,7 @@
       "star": 4,
       "name": "ロックな美観",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/6/61/%28Rockin%27_Beauty%29_Arashi_Narukami_M.png/revision/latest/scale-to-width-down/200?cb=20211021183447",
-      "series": 9,
+      "series": 38,
       "type": "anniversary"
     },
     {
@@ -4247,7 +4247,7 @@
       "star": 4,
       "name": "ニューディの奇抜",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/e/ed/%28NewDi%27s_Eccentric%29_Natsume_Sakasaki_M.png/revision/latest/scale-to-width-down/200?cb=20201117092046",
-      "series": 1,
+      "series": 16,
       "type": "anniversary"
     },
     {
@@ -4255,7 +4255,7 @@
       "star": 4,
       "name": "心強くロック",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/5/56/%28Reassuring_Rock%29_Natsume_Sakasaki_M.png/revision/latest/scale-to-width-down/200?cb=20210506214310",
-      "series": 16,
+      "series": 27.1,
       "type": "anniversary"
     },
     {
@@ -4353,7 +4353,7 @@
       "star": 4,
       "name": "ニューディのフォロー",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/0/06/%28NewDi%27s_Support%29_Tsumugi_Aoba_M.png/revision/latest/scale-to-width-down/200?cb=20201110123315",
-      "series": 2,
+      "series": 15,
       "type": "anniversary"
     },
     {
@@ -4361,7 +4361,7 @@
       "star": 4,
       "name": "無意識にロック",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/5/54/%28Subconsciously_Rocking%29_Tsumugi_Aoba_M.png/revision/latest/scale-to-width-down/200?cb=20210515032107",
-      "series": 15,
+      "series": 27.2,
       "type": "anniversary"
     },
     {
@@ -4435,7 +4435,7 @@
       "star": 4,
       "name": "ニューディの笑顔",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/a/af/%28NewDi%27s_Smile%29_Sora_Harukawa_M.png/revision/latest/scale-to-width-down/200?cb=20201117092051",
-      "series": 1,
+      "series": 16,
       "type": "anniversary"
     },
     {
@@ -4443,7 +4443,7 @@
       "star": 4,
       "name": "明るくロック",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/f/fc/%28Cheerful_Rock%29_Sora_Harukawa_M.png/revision/latest/scale-to-width-down/200?cb=20210527093501",
-      "series": 13,
+      "series": 28.2,
       "type": "anniversary"
     },
     {
@@ -4533,7 +4533,7 @@
       "star": 4,
       "name": "ニューディの宴",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/b/bf/%28NewDi%27s_Banquet%29_Madara_Mikejima_M.png/revision/latest/scale-to-width-down/200?cb=20201110123248",
-      "series": 2,
+      "series": 15,
       "type": "anniversary"
     },
     {
@@ -4541,7 +4541,7 @@
       "star": 4,
       "name": "心に決めたロック",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/6/6d/%28The_Rock_I%27ve_Decided_to_Play%29_Madara_Mikejima_M.png/revision/latest/scale-to-width-down/200?cb=20210506214328",
-      "series": 16,
+      "series": 27.1,
       "type": "anniversary"
     },
     {
