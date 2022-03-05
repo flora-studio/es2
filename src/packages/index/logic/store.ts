@@ -78,6 +78,22 @@ const cardRange = computed(() => {
             return false
         }
       })
+    case 'anniversary':
+      return allCards.filter(card => {
+        switch (card.type) {
+          case 'normal':
+            return true
+          case 'event':
+          case 'feature':
+            // 周年限定规则同国服限定。不过实际发现可能和国服日服开卡池时间不同有关，并不精确
+            return scout.series - card.series >= 6
+          case 'anniversary':
+            // 只能抽到档期周年限定卡
+            return scout.series === card.series
+          default:
+            return false
+        }
+      })
     default:
       return allCards
   }

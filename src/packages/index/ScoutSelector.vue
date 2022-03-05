@@ -60,7 +60,7 @@ const show = ref(false)
 // 希望按期数升序排列
 const eventScouts = sortBy(useScout('event'), scout => scout.series)
 const featureScouts = sortBy(useScout('feature'), scout => scout.series)
-const limitedScouts = sortBy(useScout('limited'), scout => scout.series)
+const limitedScouts = [...sortBy(useScout('limited'), scout => scout.series), ...sortBy(useScout('anniversary'), scout => scout.series)]
 
 const select = (scout: Scout) => {
   currentScout.value = scout
@@ -72,6 +72,7 @@ const select = (scout: Scout) => {
       lastFeatureScout.value = scout
       break
     case 'limited':
+    case 'anniversary':
       lastLimitedScout.value = scout
       break
     default:

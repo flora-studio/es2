@@ -4,11 +4,11 @@
     <div class="inner">
       <a href="#" /><!-- 处理焦点的问题 -->
       <h3>最近更新</h3>
+      <p>2022/03/05 更新周年限定池和日服最新池</p>
       <p>2022/02/27 更新国服限定池</p>
-      <p>2022/02/19 更新日服最新活动和个人池</p>
       <h3>常见问题</h3>
       <p>Q: 会继续更新吗？</p>
-      <p>A: 会根据 Wiki 数据继续更新，后续也将逐步增加周年池和国服限定池。</p>
+      <p>A: 会根据 Wiki 数据继续更新。</p>
 <!--      <p>Q: 我在模拟器里好非/好欧？</p>-->
 <!--      <p>A: 模拟器的抽卡概率是根据公开的规则和个人体感调整而来，实际游戏中可能有更细微的机制控制歪得不离谱。模拟器的抽卡结果仅供参考。</p>-->
       <p>Q: 图片加载不出来？</p>
@@ -33,7 +33,7 @@ import EsButton from './common/EsButton.vue'
 import EsDialog from './common/EsDialog.vue'
 
 // 每次更新时要 +1
-const versionCode = 2
+const versionCode = 3
 let initialShow = false
 try {
   const savedVersion = Number(localStorage.getItem('update_log_ver') || '0')

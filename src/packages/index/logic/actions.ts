@@ -51,7 +51,6 @@ export function take10() {
     })
   }
   const batchResult: Card[] = []
-  const isNormal = scout.type === 'normal'
   logD('【十连】当前水位', waterLevel.value)
   // 对十连抽的每个位置进行抽取
   for (let i = 0; i < 10; i++) {
@@ -66,17 +65,38 @@ export function take10() {
       waterLevel.value++
     }
   }
-  // 塞个保底四星
-  const giftPos = Math.floor(Math.random() * 10)
-  logD('保底四星 位置', giftPos)
-  if (batchResult[giftPos].star < 4) {
-    batchResult[giftPos] = randomCard(cardRangeByResultType(randomResultType_Exact4(isNormal)))
-  }
+  // 保底四星
+  ensure4(batchResult)
   // 打乱并展示
   const shuffled = shuffle(batchResult)
   // 历史记录
   recordHistory({ type: scout.type, series: scout.series, cardIds: shuffled.map(card => card.id) })
   return shuffled
+}
+
+// 塞入保底四星策略
+function ensure4(batchResult: Card[]) {
+  const scout = currentScout.value!
+  // 周年池必定有 2 张 up 四星
+  if (scout.type === 'anniversary') {
+    for (let i = 0; i < 2; i++) {
+      // 对不足 up 四星的数量，寻找非五星和 up 四星的位置进行替换
+      let replaceIndex = batchResult.findIndex(card => card.star <= 4 && card.type !== 'anniversary')
+      if (replaceIndex < 0) {
+        // 找不到位置，那说明全是五星，一般不可能。不过这样就把五星换掉吧
+        replaceIndex = batchResult.findIndex(card => card.star > 4)
+        console.assert(replaceIndex >= 0, 'cannot find index to replace anniversary card')
+      }
+      batchResult[replaceIndex] = randomCard(cardRangeByResultType({ up: true, star: 4 }))
+    }
+  }
+  // 十连保底，随机选取一个位置，若为三星则替换为四星
+  const giftPos = Math.floor(Math.random() * 10)
+  logD('保底四星 位置', giftPos)
+  if (batchResult[giftPos].star < 4) {
+    const isNormal = scout.type === 'normal'
+    batchResult[giftPos] = randomCard(cardRangeByResultType(randomResultType_Exact4(isNormal)))
+  }
 }
 
 // 计算通用概率
