@@ -3,8 +3,8 @@ const fs = require('fs')
 const BASE_URL = 'https://ensemble-stars.fandom.com'
 
 // TODO 每次记得替换
-const ScoutUrl = 'https://ensemble-stars.fandom.com/wiki/Category:Kaoru_Feature_Scout'
-const ScoutSeries = 47
+const ScoutUrl = 'https://ensemble-stars.fandom.com/wiki/Category:Keito_Feature_Scout'
+const ScoutSeries = 48
 
 const scout = {
   type: '',
@@ -30,7 +30,7 @@ c.queue({
       scout.name = $('#firstHeading').text().trim()
       scout.type = scout.name.indexOf('Feature') > 0 ? 'feature' : 'event'
       const bannerUrl = $($('table img')[0]).attr('src')
-      scout.banner = bannerUrl.replace('scale-to-width-down/410', 'scale-to-width-down/220')
+      scout.banner = bannerUrl?.replace('scale-to-width-down/410', 'scale-to-width-down/220') || ''
       // 新卡的数据
       $('table tbody tr:nth-child(6) a').each((i, elem) => {
         const img = $($(elem).children().first())
@@ -40,7 +40,7 @@ c.queue({
           id: urlMatch[1],
           star: 0,
           name: urlMatch[2],
-          img: (img.attr('data-src') || img.attr('src')).replace('scale-to-width-down/144', 'scale-to-width-down/200'),
+          img: (img.attr('data-src') || img.attr('src'))?.replace('scale-to-width-down/144', 'scale-to-width-down/200') || '',
           series: scout.series,
           type: scout.type
         })
@@ -66,7 +66,7 @@ function fetchCard(url, card) {
         if (card.star === 5) {
           // 五星卡取 cg 作为卡池 cg
           const cg = $($('#Card_CGs').parent().parent().next().find('img')[1])
-          scout.cg = (cg.attr('data-src') || cg.attr('src')).replace('scale-to-width-down/260', 'scale-to-width-down/1000')
+          scout.cg = (cg.attr('data-src') || cg.attr('src'))?.replace('scale-to-width-down/260', 'scale-to-width-down/1000') || ''
         }
         done()
       }

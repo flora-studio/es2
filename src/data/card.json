@@ -291,6 +291,14 @@
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/8/85/%28Spring_Scenery_of_Prosperity%29_Eichi_Tenshouin.png/revision/latest/scale-to-width-down/200?cb=20220205140442",
       "series": 31,
       "type": "limited"
+    },
+    {
+      "id": "eichi-whiteblim",
+      "star": 3,
+      "name": "戯言のブリム",
+      "img": "https://ensemble-stars.info/wp-content/uploads/2022/03/eichi-whiteblim.png",
+      "series": 48,
+      "type": "event"
     }
   ],
   "Wataru_Hibiki": [
@@ -471,6 +479,14 @@
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/d/dd/%28Song_of_Chasing_Waves%29_Tori_Himemiya.png/revision/latest/scale-to-width-down/200?cb=20210917185841",
       "series": 19,
       "type": "limited"
+    },
+    {
+      "id": "tori-whiteblim",
+      "star": 5,
+      "name": "純白のブリム",
+      "img": "https://ensemble-stars.info/wp-content/uploads/2022/03/tori-whiteblim.png",
+      "series": 48,
+      "type": "event"
     }
   ],
   "Yuzuru_Fushimi": [
@@ -1901,6 +1917,14 @@
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/b/bf/%28Song_of_Sunny_Skies%29_Hiyori_Tomoe.png/revision/latest/scale-to-width-down/200?cb=20210917185848",
       "series": 19,
       "type": "limited"
+    },
+    {
+      "id": "hiyori-whiteblim",
+      "star": 3,
+      "name": "社交のブリム",
+      "img": "https://ensemble-stars.info/wp-content/uploads/2022/03/hiyori-whiteblim.png",
+      "series": 48,
+      "type": "event"
     }
   ],
   "Ibara_Saegusa": [
@@ -2555,6 +2579,14 @@
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/a/aa/%28Fortune_Shining_Down%29_Rinne_Amagi.png/revision/latest/scale-to-width-down/200?cb=20210306233015",
       "series": 30,
       "type": "limited"
+    },
+    {
+      "id": "Call_to_a_Meal",
+      "star": 3,
+      "name": "食事の招集",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/d/da/%28Call_to_a_Meal%29_Rinne_Amagi_B.png/revision/latest/scale-to-width-down/200?cb=20220314042923",
+      "series": 48,
+      "type": "feature"
     }
   ],
   "HiMERU": [
@@ -3299,6 +3331,14 @@
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/e/ef/%28Peaceful_Gathering%29_Nazuna_Nito_M.png/revision/latest/scale-to-width-down/200?cb=20210610113547",
       "series": 30,
       "type": "feature"
+    },
+    {
+      "id": "A_Senior%27s_Experience",
+      "star": 4,
+      "name": "先輩の経験",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/8/82/%28A_Senior%27s_Experience%29_Nazuna_Nito_B.png/revision/latest/scale-to-width-down/200?cb=20220314042927",
+      "series": 48,
+      "type": "feature"
     }
   ],
   "Mitsuru_Tenma": [
@@ -3577,6 +3617,14 @@
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/e/ed/%28Witty_Remarks%29_Keito_Hasumi.png/revision/latest/scale-to-width-down/200?cb=20211012210400",
       "series": 22,
       "type": "limited"
+    },
+    {
+      "id": "Untainted_Flower_of_the_Heart",
+      "star": 5,
+      "name": "染まらぬ心の花",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/2/2f/%28Untainted_Flower_of_the_Heart%29_Keito_Hasumi_B.png/revision/latest/scale-to-width-down/200?cb=20220314042930",
+      "series": 48,
+      "type": "feature"
     }
   ],
   "Kuro_Kiryu": [
@@ -3895,6 +3943,14 @@
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/d/da/%28Lucky_Snack%29_Tsukasa_Suou.png/revision/latest/scale-to-width-down/200?cb=20210306233211",
       "series": 30,
       "type": "limited"
+    },
+    {
+      "id": "tsukasa-whiteblim",
+      "star": 4,
+      "name": "正道のブリム",
+      "img": "https://ensemble-stars.info/wp-content/uploads/2022/03/tsukasa-whiteblim.png",
+      "series": 48,
+      "type": "event"
     }
   ],
   "Leo_Tsukinaga": [

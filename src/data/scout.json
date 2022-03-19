@@ -2,6 +2,13 @@
   "event": [
     {
       "type": "event",
+      "banner": "https://ensemble-stars.info/wp-content/uploads/2022/03/whiteblim-banner-300x131.png",
+      "name": "whiteblim",
+      "cg": "https://wx3.sinaimg.cn/large/008dwbdkgy1h0aqt3q93yj31t00u07wi.jpg",
+      "series": 48
+    },
+    {
+      "type": "event",
       "banner": "https://static.wikia.nocookie.net/ensemble-stars/images/4/4a/Myriad_of_Colors_and_Flowers_Banner.png/revision/latest/scale-to-width-down/220?cb=20220227172903",
       "name": "Myriad of Colors and Flowers",
       "cg": "https://static.wikia.nocookie.net/ensemble-stars/images/2/27/%28Mingling_Colors%29_Madara_Mikejima_CG2.png/revision/latest/scale-to-width-down/1000?cb=20220228201129",
@@ -331,6 +338,13 @@
     }
   ],
   "feature": [
+    {
+      "type": "feature",
+      "banner": "https://ensemble-stars.info/wp-content/uploads/2022/03/feature-keito-banner.jpg",
+      "name": "Keito Feature Scout",
+      "cg": "https://wx2.sinaimg.cn/large/008dwbdkgy1h0aqsviom1j31t00u07wi.jpg",
+      "series": 48
+    },
     {
       "type": "feature",
       "banner": "https://static.wikia.nocookie.net/ensemble-stars/images/f/f4/Kaoru_Feature_Scout.png/revision/latest/scale-to-width-down/220?cb=20220227170135",
