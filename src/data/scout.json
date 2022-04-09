@@ -2,6 +2,13 @@
   "event": [
     {
       "type": "event",
+      "banner": "https://static.wikia.nocookie.net/ensemble-stars/images/2/2b/Whimsical_City_Rider_Banner.png/revision/latest/scale-to-width-down/220?cb=20220409002717",
+      "name": "Whimsical City Rider",
+      "cg": "https://static.wikia.nocookie.net/ensemble-stars/images/4/4a/%28My_City%29_Hiyori_Tomoe_CG2.png/revision/latest/scale-to-width-down/1000?cb=20220408235621",
+      "series": 49
+    },
+    {
+      "type": "event",
       "banner": "https://ensemble-stars.info/wp-content/uploads/2022/03/whiteblim-banner-300x131.png",
       "name": "whiteblim",
       "cg": "https://wx3.sinaimg.cn/large/008dwbdkgy1h0aqt3q93yj31t00u07wi.jpg",
@@ -338,6 +345,13 @@
     }
   ],
   "feature": [
+    {
+      "type": "feature",
+      "banner": "https://static.wikia.nocookie.net/ensemble-stars/images/e/e1/Ritsu_Feature_Scout.png/revision/latest/scale-to-width-down/220?cb=20220406203949",
+      "name": "Ritsu Feature Scout",
+      "cg": "https://static.wikia.nocookie.net/ensemble-stars/images/6/68/%28He_Who_Awakens_From_His_Slumber%29_Ritsu_Sakuma_CG2.png/revision/latest/scale-to-width-down/1000?cb=20220407204848",
+      "series": 49
+    },
     {
       "type": "feature",
       "banner": "https://ensemble-stars.info/wp-content/uploads/2022/03/feature-keito-banner.jpg",

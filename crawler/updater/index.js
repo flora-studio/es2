@@ -3,8 +3,8 @@ const fs = require('fs')
 const BASE_URL = 'https://ensemble-stars.fandom.com'
 
 // TODO 每次记得替换
-const ScoutUrl = 'https://ensemble-stars.fandom.com/wiki/Category:Keito_Feature_Scout'
-const ScoutSeries = 48
+const ScoutUrl = 'https://ensemble-stars.fandom.com/wiki/Category:Ritsu_Feature_Scout'
+const ScoutSeries = 49
 
 const scout = {
   type: '',
@@ -19,6 +19,7 @@ const c = new Crawler({
   rateLimit: 1000,
 })
 
+console.log('start')
 c.queue({
   uri: ScoutUrl,
   callback: (err, res, done) => {

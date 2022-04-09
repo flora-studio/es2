@@ -1,7 +1,7 @@
 #!/usr/bin/env sh
 
 # 发生错误时终止
-set -e
+#set -e
 
 # 构建
 npm run build

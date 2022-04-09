@@ -1345,6 +1345,14 @@
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/e/ea/%28Interactions_of_the_Roaring_Waves%29_Midori_Takamine_M.png/revision/latest/scale-to-width-down/200?cb=20210814164445",
       "series": 34,
       "type": "event"
+    },
+    {
+      "id": "Quiet_City",
+      "star": 4,
+      "name": "クワイエットシティ",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/c/c8/%28Quiet_City%29_Midori_Takamine_M.png/revision/latest/scale-to-width-down/200?cb=20220409001217",
+      "series": 49,
+      "type": "event"
     }
   ],
   "Hiiro_Amagi": [
@@ -1924,6 +1932,14 @@
       "name": "社交のブリム",
       "img": "https://ensemble-stars.info/wp-content/uploads/2022/03/hiyori-whiteblim.png",
       "series": 48,
+      "type": "event"
+    },
+    {
+      "id": "My_City",
+      "star": 5,
+      "name": "マインシティ",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/7/75/%28My_City%29_Hiyori_Tomoe_M.png/revision/latest/scale-to-width-down/200?cb=20220409001331",
+      "series": 49,
       "type": "event"
     }
   ],
@@ -2971,6 +2987,14 @@
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/e/ee/%28God_of_Tranquil_Shadows%29_Rei_Sakuma.png/revision/latest/scale-to-width-down/200?cb=20210917190334",
       "series": 13,
       "type": "limited"
+    },
+    {
+      "id": "A_New_Face",
+      "star": 3,
+      "name": "新しい顔",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/a/a9/%28A_New_Face%29_Rei_Sakuma_M.png/revision/latest/scale-to-width-down/150?cb=20220407205441",
+      "series": 49,
+      "type": "feature"
     }
   ],
   "Kaoru_Hakaze": [
@@ -3339,6 +3363,14 @@
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/8/82/%28A_Senior%27s_Experience%29_Nazuna_Nito_B.png/revision/latest/scale-to-width-down/200?cb=20220314042927",
       "series": 48,
       "type": "feature"
+    },
+    {
+      "id": "Lively_City",
+      "star": 3,
+      "name": "ライブリーシティ",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/7/7e/%28Lively_City%29_Nazuna_Nito_M.png/revision/latest/scale-to-width-down/200?cb=20220409001503",
+      "series": 49,
+      "type": "event"
     }
   ],
   "Mitsuru_Tenma": [
@@ -3527,6 +3559,14 @@
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/a/a1/%28Quiet_Library%29_Hajime_Shino_M.png/revision/latest/scale-to-width-down/200?cb=20210610113543",
       "series": 30,
       "type": "feature"
+    },
+    {
+      "id": "Cheerful_City",
+      "star": 3,
+      "name": "チアフルシティ",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/0/02/%28Cheerful_City%29_Hajime_Shino_M.png/revision/latest/scale-to-width-down/200?cb=20220409001542",
+      "series": 49,
+      "type": "event"
     }
   ],
   "Keito_Hasumi": [
@@ -4131,6 +4171,14 @@
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/7/70/%28Winter_and_Performance%29_Izumi_Sena_M.png/revision/latest/scale-to-width-down/200?cb=20211129190026",
       "series": 41,
       "type": "event"
+    },
+    {
+      "id": "Comforting_Waters",
+      "star": 4,
+      "name": "水の居心地",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/4/46/%28Comforting_Waters%29_Izumi_Sena_M.png/revision/latest/scale-to-width-down/150?cb=20220407205408",
+      "series": 49,
+      "type": "feature"
     }
   ],
   "Ritsu_Sakuma": [
@@ -4212,6 +4260,14 @@
       "name": "ひとりの音楽室",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/7/75/%28Music_Room_for_One%29_Ritsu_Sakuma_M.png/revision/latest/scale-to-width-down/150?cb=20220228001535",
       "series": 47,
+      "type": "feature"
+    },
+    {
+      "id": "He_Who_Awakens_From_His_Slumber",
+      "star": 5,
+      "name": "眠りから覚める者",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/0/0e/%28He_Who_Awakens_From_His_Slumber%29_Ritsu_Sakuma_M.png/revision/latest/scale-to-width-down/150?cb=20220407205312",
+      "series": 49,
       "type": "feature"
     }
   ],
