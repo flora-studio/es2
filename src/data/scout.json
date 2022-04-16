@@ -2,6 +2,13 @@
   "event": [
     {
       "type": "event",
+      "banner": "https://cdn.gamerch.com/resize/eyJidWNrZXQiOiJnYW1lcmNoLWltZy1jb250ZW50cyIsImtleSI6Indpa2lcLzEwMDdcL2VudHJ5XC9jQlJyQ2ZhRy5wbmciLCJlZGl0cyI6eyJ3ZWJwIjp7InF1YWxpdHkiOjg1fSwidG9Gb3JtYXQiOiJ3ZWJwIiwicmVzaXplIjp7IndpZHRoIjo0MDAsImZpdCI6ImNvdmVyIn19fQ==",
+      "name": "Puffy☆Bunny",
+      "cg": "https://s1.ax1x.com/2022/04/16/LYn67n.jpg",
+      "series": 50
+    },
+    {
+      "type": "event",
       "banner": "https://static.wikia.nocookie.net/ensemble-stars/images/2/2b/Whimsical_City_Rider_Banner.png/revision/latest/scale-to-width-down/220?cb=20220409002717",
       "name": "Whimsical City Rider",
       "cg": "https://static.wikia.nocookie.net/ensemble-stars/images/4/4a/%28My_City%29_Hiyori_Tomoe_CG2.png/revision/latest/scale-to-width-down/1000?cb=20220408235621",
@@ -345,6 +352,13 @@
     }
   ],
   "feature": [
+    {
+      "type": "feature",
+      "banner": "https://cdn.gamerch.com/resize/eyJidWNrZXQiOiJnYW1lcmNoLWltZy1jb250ZW50cyIsImtleSI6Indpa2lcLzEwMDdcL2VudHJ5XC9XQWdzQzBTOC5wbmciLCJlZGl0cyI6eyJ3ZWJwIjp7InF1YWxpdHkiOjg1fSwidG9Gb3JtYXQiOiJ3ZWJwIiwicmVzaXplIjp7IndpZHRoIjo0MDAsImZpdCI6ImNvdmVyIn19fQ==",
+      "name": "Eichi Feature Scout",
+      "cg": "https://s1.ax1x.com/2022/04/16/LYuyvD.jpg",
+      "series": 50
+    },
     {
       "type": "feature",
       "banner": "https://static.wikia.nocookie.net/ensemble-stars/images/e/e1/Ritsu_Feature_Scout.png/revision/latest/scale-to-width-down/220?cb=20220406203949",
@@ -852,6 +866,13 @@
       "name": "A Gift to Spring Breeze",
       "series": 31,
       "cg": "https://static.wikia.nocookie.net/ensemble-stars/images/a/a2/%28Spring_Scenery_of_Prosperity%29_Eichi_Tenshouin_CG2.png/revision/latest/scale-to-width-down/1000?cb=20220205141135"
+    },
+    {
+      "type": "limited",
+      "banner": "https://s1.ax1x.com/2022/04/16/LY3ZvV.jpg",
+      "name": "光影碎片 Black篇",
+      "series": 50,
+      "cg": "https://wx4.sinaimg.cn/mw2000/0080HaGfly1h118xo06dij319u0ko47p.jpg"
     }
   ],
   "normal": [

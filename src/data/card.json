@@ -299,6 +299,14 @@
       "img": "https://ensemble-stars.info/wp-content/uploads/2022/03/eichi-whiteblim.png",
       "series": 48,
       "type": "event"
+    },
+    {
+      "id": "eichi_50",
+      "star": 5,
+      "name": "燃ゆる望みの星",
+      "img": "https://cdn.gamerch.com/resize/eyJidWNrZXQiOiJnYW1lcmNoLWltZy1jb250ZW50cyIsImtleSI6Indpa2lcLzEwMDdcL2VudHJ5XC9CWEdxSVRkSC5wbmciLCJlZGl0cyI6eyJ3ZWJwIjp7InF1YWxpdHkiOjg1fSwidG9Gb3JtYXQiOiJ3ZWJwIn19",
+      "series": 50,
+      "type": "feature"
     }
   ],
   "Wataru_Hibiki": [
@@ -961,6 +969,14 @@
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/c/cf/%28A_Gentle_Spring_Scene%29_Mao_Isara.png/revision/latest/scale-to-width-down/200?cb=20220205140448",
       "series": 31,
       "type": "limited"
+    },
+    {
+      "id": "mao_50",
+      "star": 4,
+      "name": "土産と話",
+      "img": "https://cdn.gamerch.com/resize/eyJidWNrZXQiOiJnYW1lcmNoLWltZy1jb250ZW50cyIsImtleSI6Indpa2lcLzEwMDdcL2VudHJ5XC9tTGV5YlRhcy5wbmciLCJlZGl0cyI6eyJ3ZWJwIjp7InF1YWxpdHkiOjg1fSwidG9Gb3JtYXQiOiJ3ZWJwIn19",
+      "series": 50,
+      "type": "feature"
     }
   ],
   "Chiaki_Morisawa": [
@@ -2309,6 +2325,22 @@
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/f/f4/%28Making_Jewelry%29_Mika_Kagehira_M.png/revision/latest/scale-to-width-down/200?cb=20210912220102",
       "series": 36,
       "type": "feature"
+    },
+    {
+      "id": "mika_50",
+      "star": 4,
+      "name": "フレンドリーバニー",
+      "img": "https://cdn.gamerch.com/resize/eyJidWNrZXQiOiJnYW1lcmNoLWltZy1jb250ZW50cyIsImtleSI6Indpa2lcLzEwMDdcL2VudHJ5XC9yUEU5MTNhSi5wbmciLCJlZGl0cyI6eyJ3ZWJwIjp7InF1YWxpdHkiOjg1fSwidG9Gb3JtYXQiOiJ3ZWJwIn19",
+      "series": 50,
+      "type": "event"
+    },
+    {
+      "id": "mika_50_limited",
+      "star": 5,
+      "name": "如影随形",
+      "img": "https://s1.ax1x.com/2022/04/16/LYQXad.png",
+      "series": 50,
+      "type": "limited"
     }
   ],
   "Hinata_Aoi": [
@@ -2399,6 +2431,14 @@
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/3/3b/%28A_Way_to_Eat_Vegetables%29_Hinata_Aoi_M.png/revision/latest/scale-to-width-down/200?cb=20211110150551",
       "series": 40,
       "type": "feature"
+    },
+    {
+      "id": "hinata_50",
+      "star": 5,
+      "name": "サニーバニー",
+      "img": "https://cdn.gamerch.com/resize/eyJidWNrZXQiOiJnYW1lcmNoLWltZy1jb250ZW50cyIsImtleSI6Indpa2lcLzEwMDdcL2VudHJ5XC9ZVVFBWXgyYi5wbmciLCJlZGl0cyI6eyJ3ZWJwIjp7InF1YWxpdHkiOjg1fSwidG9Gb3JtYXQiOiJ3ZWJwIn19",
+      "series": 50,
+      "type": "event"
     }
   ],
   "Yuta_Aoi": [
@@ -3273,6 +3313,14 @@
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/6/61/%28God_of_Wisdom%29_Adonis_Otogari.png/revision/latest/scale-to-width-down/200?cb=20210917190340",
       "series": 13,
       "type": "limited"
+    },
+    {
+      "id": "adonis_50",
+      "star": 3,
+      "name": "筋トレの輪",
+      "img": "https://cdn.gamerch.com/resize/eyJidWNrZXQiOiJnYW1lcmNoLWltZy1jb250ZW50cyIsImtleSI6Indpa2lcLzEwMDdcL2VudHJ5XC9VNFhoMFFQMi5wbmciLCJlZGl0cyI6eyJ3ZWJwIjp7InF1YWxpdHkiOjg1fSwidG9Gb3JtYXQiOiJ3ZWJwIn19",
+      "series": 50,
+      "type": "feature"
     }
   ],
   "Nazuna_Nito": [
@@ -4367,6 +4415,14 @@
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/7/77/%28Time_for_Hobbies%29_Arashi_Narukami_M.png/revision/latest/scale-to-width-down/150?cb=20220228001533",
       "series": 47,
       "type": "feature"
+    },
+    {
+      "id": "arashi_50_limited",
+      "star": 3,
+      "name": "称心如意",
+      "img": "https://s1.ax1x.com/2022/04/16/LYlqS0.png",
+      "series": 50,
+      "type": "limited"
     }
   ],
   "Natsume_Sakasaki": [
@@ -4563,6 +4619,14 @@
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/c/c4/%28Plans_of_the_Sun%29_Tsumugi_Aoba_M.png/revision/latest/scale-to-width-down/200?cb=20211030205904",
       "series": 39,
       "type": "event"
+    },
+    {
+      "id": "tsumugi_50_limited",
+      "star": 4,
+      "name": "适如其分",
+      "img": "https://s1.ax1x.com/2022/04/16/LYltRx.png",
+      "series": 50,
+      "type": "limited"
     }
   ],
   "Sora_Harukawa": [
