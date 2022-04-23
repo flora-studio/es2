@@ -2,9 +2,9 @@
   "event": [
     {
       "type": "event",
-      "banner": "https://cdn.gamerch.com/resize/eyJidWNrZXQiOiJnYW1lcmNoLWltZy1jb250ZW50cyIsImtleSI6Indpa2lcLzEwMDdcL2VudHJ5XC9jQlJyQ2ZhRy5wbmciLCJlZGl0cyI6eyJ3ZWJwIjp7InF1YWxpdHkiOjg1fSwidG9Gb3JtYXQiOiJ3ZWJwIiwicmVzaXplIjp7IndpZHRoIjo0MDAsImZpdCI6ImNvdmVyIn19fQ==",
+      "banner": "https://static.wikia.nocookie.net/ensemble-stars/images/e/e8/Puffy%E2%98%86Bunny_Banner.png/revision/latest/scale-to-width-down/220?cb=20220419194253",
       "name": "Puffy☆Bunny",
-      "cg": "https://s1.ax1x.com/2022/04/16/LYn67n.jpg",
+      "cg": "https://static.wikia.nocookie.net/ensemble-stars/images/6/61/%28Sunny_Bunny%29_Hinata_Aoi_CG2.png/revision/latest/scale-to-width-down/1000?cb=20220419222422",
       "series": 50
     },
     {
@@ -354,9 +354,9 @@
   "feature": [
     {
       "type": "feature",
-      "banner": "https://cdn.gamerch.com/resize/eyJidWNrZXQiOiJnYW1lcmNoLWltZy1jb250ZW50cyIsImtleSI6Indpa2lcLzEwMDdcL2VudHJ5XC9XQWdzQzBTOC5wbmciLCJlZGl0cyI6eyJ3ZWJwIjp7InF1YWxpdHkiOjg1fSwidG9Gb3JtYXQiOiJ3ZWJwIiwicmVzaXplIjp7IndpZHRoIjo0MDAsImZpdCI6ImNvdmVyIn19fQ==",
+      "banner": "https://static.wikia.nocookie.net/ensemble-stars/images/8/8f/Eichi_Feature_Scout.png/revision/latest/scale-to-width-down/220?cb=20220419224218",
       "name": "Eichi Feature Scout",
-      "cg": "https://s1.ax1x.com/2022/04/16/LYuyvD.jpg",
+      "cg": "https://static.wikia.nocookie.net/ensemble-stars/images/5/5f/%28The_Burning_Star_of_Hope%29_Eichi_Tenshouin_CG2.png/revision/latest/scale-to-width-down/1000?cb=20220420001718",
       "series": 50
     },
     {
@@ -862,14 +862,14 @@
     },
     {
       "type": "limited",
-      "banner": "https://s4.ax1x.com/2022/02/27/bm5UOK.png",
+      "banner": "https://s1.328888.xyz/2022/04/23/2c0nZ.png",
       "name": "A Gift to Spring Breeze",
       "series": 31,
       "cg": "https://static.wikia.nocookie.net/ensemble-stars/images/a/a2/%28Spring_Scenery_of_Prosperity%29_Eichi_Tenshouin_CG2.png/revision/latest/scale-to-width-down/1000?cb=20220205141135"
     },
     {
       "type": "limited",
-      "banner": "https://s1.ax1x.com/2022/04/16/LY3ZvV.jpg",
+      "banner": "https://s1.328888.xyz/2022/04/23/2cRw1.jpg",
       "name": "光影碎片 Black篇",
       "series": 50,
       "cg": "https://wx4.sinaimg.cn/mw2000/0080HaGfly1h118xo06dij319u0ko47p.jpg"
@@ -878,10 +878,10 @@
   "normal": [
     {
       "type": "normal",
-      "banner": "https://s4.ax1x.com/2022/02/19/Hbv02t.png",
+      "banner": "https://s1.328888.xyz/2022/04/23/2cWjM.png",
       "name": "常驻",
       "series": 1,
-      "cg": "https://s4.ax1x.com/2022/02/19/HbvrKf.jpg"
+      "cg": "https://s1.328888.xyz/2022/04/23/2cCJ7.jpg"
     }
   ]
 }
