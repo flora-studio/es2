@@ -977,6 +977,14 @@
       "img": "https://cdn.gamerch.com/resize/eyJidWNrZXQiOiJnYW1lcmNoLWltZy1jb250ZW50cyIsImtleSI6Indpa2lcLzEwMDdcL2VudHJ5XC9tTGV5YlRhcy5wbmciLCJlZGl0cyI6eyJ3ZWJwIjp7InF1YWxpdHkiOjg1fSwidG9Gb3JtYXQiOiJ3ZWJwIn19",
       "series": 50,
       "type": "feature"
+    },
+    {
+      "id": "mao_51",
+      "star": 3,
+      "name": "口ずさむギタリスト",
+      "img": "https://cdn.gamerch.com/resize/eyJidWNrZXQiOiJnYW1lcmNoLWltZy1jb250ZW50cyIsImtleSI6Indpa2lcLzEwMDdcL2VudHJ5XC91TVY2RjRDYi5wbmciLCJlZGl0cyI6eyJ3ZWJwIjp7InF1YWxpdHkiOjg1fSwidG9Gb3JtYXQiOiJ3ZWJwIn19",
+      "series": 51,
+      "type": "event"
     }
   ],
   "Chiaki_Morisawa": [
@@ -1851,6 +1859,14 @@
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/7/7e/%28God_of_Perception%29_Nagisa_Ran.png/revision/latest/scale-to-width-down/200?cb=20210917190328",
       "series": 13,
       "type": "limited"
+    },
+    {
+      "id": "The_One_Who_Transcends_Time",
+      "star": 5,
+      "name": "時を越え知る者",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/5/5a/%28The_One_Who_Transcends_Time%29_Nagisa_Ran_M.png/revision/latest/scale-to-width-down/150?cb=20220502024712",
+      "series": 51,
+      "type": "feature"
     }
   ],
   "Hiyori_Tomoe": [
@@ -2047,6 +2063,14 @@
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/a/a9/%28God_of_Cunning%29_Ibara_Saegusa.png/revision/latest/scale-to-width-down/200?cb=20210917190323",
       "series": 13,
       "type": "limited"
+    },
+    {
+      "id": "One_Can_of_Gratitude",
+      "star": 3,
+      "name": "お礼の一本",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/d/df/%28One_Can_of_Gratitude%29_Ibara_Saegusa_M.png/revision/latest/scale-to-width-down/150?cb=20220502030112",
+      "series": 51,
+      "type": "feature"
     }
   ],
   "Jun_Sazanami": [
@@ -2439,6 +2463,14 @@
       "img": "https://cdn.gamerch.com/resize/eyJidWNrZXQiOiJnYW1lcmNoLWltZy1jb250ZW50cyIsImtleSI6Indpa2lcLzEwMDdcL2VudHJ5XC9ZVVFBWXgyYi5wbmciLCJlZGl0cyI6eyJ3ZWJwIjp7InF1YWxpdHkiOjg1fSwidG9Gb3JtYXQiOiJ3ZWJwIn19",
       "series": 50,
       "type": "event"
+    },
+    {
+      "id": "hinata_51",
+      "star": 3,
+      "name": "ハモるベーシスト",
+      "img": "https://cdn.gamerch.com/resize/eyJidWNrZXQiOiJnYW1lcmNoLWltZy1jb250ZW50cyIsImtleSI6Indpa2lcLzEwMDdcL2VudHJ5XC9pTEhLVDVtbS5wbmciLCJlZGl0cyI6eyJ3ZWJwIjp7InF1YWxpdHkiOjg1fSwidG9Gb3JtYXQiOiJ3ZWJwIn19",
+      "series": 51,
+      "type": "event"
     }
   ],
   "Yuta_Aoi": [
@@ -2537,6 +2569,14 @@
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/c/cf/%28Energetic_Radiance%29_Yuta_Aoi.png/revision/latest/scale-to-width-down/200?cb=20210423093647",
       "series": 9,
       "type": "limited"
+    },
+    {
+      "id": "yuta_51",
+      "star": 4,
+      "name": "歌うキーボーディスト",
+      "img": "https://cdn.gamerch.com/resize/eyJidWNrZXQiOiJnYW1lcmNoLWltZy1jb250ZW50cyIsImtleSI6Indpa2lcLzEwMDdcL2VudHJ5XC9OYU1hcERudy5wbmciLCJlZGl0cyI6eyJ3ZWJwIjp7InF1YWxpdHkiOjg1fSwidG9Gb3JtYXQiOiJ3ZWJwIn19",
+      "series": 51,
+      "type": "event"
     }
   ],
   "Rinne_Amagi": [
@@ -3035,6 +3075,14 @@
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/a/a9/%28A_New_Face%29_Rei_Sakuma_M.png/revision/latest/scale-to-width-down/150?cb=20220407205441",
       "series": 49,
       "type": "feature"
+    },
+    {
+      "id": "rei_51",
+      "star": 3,
+      "name": "囁くドラマー",
+      "img": "https://cdn.gamerch.com/resize/eyJidWNrZXQiOiJnYW1lcmNoLWltZy1jb250ZW50cyIsImtleSI6Indpa2lcLzEwMDdcL2VudHJ5XC90ZG9pSmZFTy5wbmciLCJlZGl0cyI6eyJ3ZWJwIjp7InF1YWxpdHkiOjg1fSwidG9Gb3JtYXQiOiJ3ZWJwIn19",
+      "series": 51,
+      "type": "event"
     }
   ],
   "Kaoru_Hakaze": [
@@ -3214,6 +3262,14 @@
       "name": "慧敏な白虎",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/c/c0/%28Clever_White_Tiger%29_Koga_Oogami_M.png/revision/latest/scale-to-width-down/200?cb=20220114225244",
       "series": 44,
+      "type": "event"
+    },
+    {
+      "id": "koga_51",
+      "star": 5,
+      "name": "吠えるギタリスト",
+      "img": "https://cdn.gamerch.com/resize/eyJidWNrZXQiOiJnYW1lcmNoLWltZy1jb250ZW50cyIsImtleSI6Indpa2lcLzEwMDdcL2VudHJ5XC92REtqV2FCcC5wbmciLCJlZGl0cyI6eyJ3ZWJwIjp7InF1YWxpdHkiOjg1fSwidG9Gb3JtYXQiOiJ3ZWJwIn19",
+      "series": 51,
       "type": "event"
     }
   ],
@@ -4627,6 +4683,14 @@
       "img": "https://s1.328888.xyz/2022/04/23/2cpzX.png",
       "series": 50,
       "type": "limited"
+    },
+    {
+      "id": "Welcome_Home_Gift",
+      "star": 4,
+      "name": "帰宅のご褒美",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/c/cd/%28Welcome_Home_Gift%29_Tsumugi_Aoba_M.png/revision/latest/scale-to-width-down/150?cb=20220502025923",
+      "series": 51,
+      "type": "feature"
     }
   ],
   "Sora_Harukawa": [

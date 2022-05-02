@@ -2,6 +2,13 @@
   "event": [
     {
       "type": "event",
+      "banner": "https://cdn.gamerch.com/resize/eyJidWNrZXQiOiJnYW1lcmNoLWltZy1jb250ZW50cyIsImtleSI6Indpa2lcLzEwMDdcL2VudHJ5XC9ZMWE1c1ZUTy5wbmciLCJlZGl0cyI6eyJ3ZWJwIjp7InF1YWxpdHkiOjg1fSwidG9Gb3JtYXQiOiJ3ZWJwIn19",
+      "name": "Band BB",
+      "cg": "https://wx1.sinaimg.cn/mw2000/007kqdvOgy1h1u2ptt87mj31hg0qrn7k.jpg",
+      "series": 51
+    },
+    {
+      "type": "event",
       "banner": "https://static.wikia.nocookie.net/ensemble-stars/images/e/e8/Puffy%E2%98%86Bunny_Banner.png/revision/latest/scale-to-width-down/220?cb=20220419194253",
       "name": "Puffy☆Bunny",
       "cg": "https://static.wikia.nocookie.net/ensemble-stars/images/6/61/%28Sunny_Bunny%29_Hinata_Aoi_CG2.png/revision/latest/scale-to-width-down/1000?cb=20220419222422",
@@ -352,6 +359,13 @@
     }
   ],
   "feature": [
+    {
+      "type": "feature",
+      "banner": "https://static.wikia.nocookie.net/ensemble-stars/images/2/2e/Nagisa_Feature_Scout.png/revision/latest/scale-to-width-down/220?cb=20220501220702",
+      "name": "Nagisa Feature Scout",
+      "cg": "https://wx3.sinaimg.cn/mw2000/007kqdvOgy1h1u2pu1tu0j31hh0qrk1l.jpg",
+      "series": 51
+    },
     {
       "type": "feature",
       "banner": "https://static.wikia.nocookie.net/ensemble-stars/images/8/8f/Eichi_Feature_Scout.png/revision/latest/scale-to-width-down/220?cb=20220419224218",
