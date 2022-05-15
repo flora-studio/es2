@@ -2,7 +2,7 @@
   "event": [
     {
       "type": "event",
-      "banner": "https://cdn.gamerch.com/resize/eyJidWNrZXQiOiJnYW1lcmNoLWltZy1jb250ZW50cyIsImtleSI6Indpa2lcLzEwMDdcL2VudHJ5XC9ZMWE1c1ZUTy5wbmciLCJlZGl0cyI6eyJ3ZWJwIjp7InF1YWxpdHkiOjg1fSwidG9Gb3JtYXQiOiJ3ZWJwIn19",
+      "banner": "https://static.wikia.nocookie.net/ensemble-stars/images/6/66/Band_BB_Banner.png/revision/latest/scale-to-width-down/410?cb=20220503225634",
       "name": "Band BB",
       "cg": "https://wx1.sinaimg.cn/mw2000/007kqdvOgy1h1u2ptt87mj31hg0qrn7k.jpg",
       "series": 51
@@ -704,6 +704,27 @@
     }
   ],
   "anniversary": [
+    {
+      "type": "anniversary",
+      "banner": "https://static.wikia.nocookie.net/ensemble-stars/images/8/88/HEADS_Scout_Group_C_Banner.png/revision/latest/scale-to-width-down/380?cb=20220514142854",
+      "name": "HEADS Scout: Group C",
+      "cg": "https://storage.qoo-static.com/cimg/note/2022/04/27/ad2ba0dad07591fe6ff657bc04e85d4c.png",
+      "series": 52.1
+    },
+    {
+      "type": "anniversary",
+      "banner": "https://static.wikia.nocookie.net/ensemble-stars/images/a/a7/HEADS_Scout_Group_B_Banner.png/revision/latest/scale-to-width-down/380?cb=20220507105501",
+      "name": "HEADS Scout: Group B",
+      "cg": "https://storage.qoo-static.com/cimg/note/2022/04/27/ad2ba0dad07591fe6ff657bc04e85d4c.png",
+      "series": 51.2
+    },
+    {
+      "type": "anniversary",
+      "banner": "https://static.wikia.nocookie.net/ensemble-stars/images/c/c8/HEADS_Scout_Group_A_Banner.png/revision/latest/scale-to-width-down/380?cb=20220503225826",
+      "name": "HEADS Scout: Group A",
+      "cg": "https://storage.qoo-static.com/cimg/note/2022/04/27/ad2ba0dad07591fe6ff657bc04e85d4c.png",
+      "series": 51.1
+    },
     {
       "type": "anniversary",
       "banner": "https://static.wikia.nocookie.net/ensemble-stars/images/2/25/LOVE_Scout_Group_A_Banner.png/revision/latest/scale-to-width-down/220?cb=20210429163455",

@@ -103,6 +103,14 @@
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/2/29/%28Nimble_Radiance%29_Shinobu_Sengoku.png/revision/latest/scale-to-width-down/200?cb=20210423093605",
       "series": 9,
       "type": "limited"
+    },
+    {
+      "id": "Sincerity_and_Surprise",
+      "star": 4,
+      "name": "誠とサプライズ",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/f/fd/%28Sincerity_and_Surprise%29_Shinobu_Sengoku_B.png/revision/latest/scale-to-width-down/200?cb=20220508063919",
+      "series": 51.2,
+      "type": "anniversary"
     }
   ],
   "Tomoya_Mashiro": [
@@ -201,6 +209,14 @@
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/a/af/%28Distance_From_the_One_Sitting_Beside_You%29_Tomoya_Mashiro_M.png/revision/latest/scale-to-width-down/200?cb=20220213085829",
       "series": 46,
       "type": "feature"
+    },
+    {
+      "id": "Impulsivity_and_Surprise",
+      "star": 4,
+      "name": "衝動とサプライズ",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/1/11/%28Impulsivity_and_Surprise%29_Tomoya_Mashiro_B.png/revision/latest/scale-to-width-down/200?cb=20220508063923",
+      "series": 51.2,
+      "type": "anniversary"
     }
   ],
   "Eichi_Tenshouin": [
@@ -789,6 +805,14 @@
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/6/68/%28A_Cloudless_Spring_Scene%29_Subaru_Akehoshi.png/revision/latest/scale-to-width-down/200?cb=20220205140445",
       "series": 31,
       "type": "limited"
+    },
+    {
+      "id": "Excitement_and_Surprise",
+      "star": 4,
+      "name": "興奮とサプライズ",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/9/99/%28Excitement_and_Surprise%29_Subaru_Akehoshi_B.png/revision/latest/scale-to-width-down/200?cb=20220505234736",
+      "series": 51.1,
+      "type": "anniversary"
     }
   ],
   "Makoto_Yuuki": [
@@ -985,6 +1009,14 @@
       "img": "https://cdn.gamerch.com/resize/eyJidWNrZXQiOiJnYW1lcmNoLWltZy1jb250ZW50cyIsImtleSI6Indpa2lcLzEwMDdcL2VudHJ5XC91TVY2RjRDYi5wbmciLCJlZGl0cyI6eyJ3ZWJwIjp7InF1YWxpdHkiOjg1fSwidG9Gb3JtYXQiOiJ3ZWJwIn19",
       "series": 51,
       "type": "event"
+    },
+    {
+      "id": "mao_52.1",
+      "star": 4,
+      "name": "挑戦とサプライズ",
+      "img": "https://cdn.gamerch.com/resize/eyJidWNrZXQiOiJnYW1lcmNoLWltZy1jb250ZW50cyIsImtleSI6Indpa2lcLzEwMDdcL2VudHJ5XC9WbEhCREF1SS5wbmciLCJlZGl0cyI6eyJ3ZWJwIjp7InF1YWxpdHkiOjg1fSwidG9Gb3JtYXQiOiJ3ZWJwIn19",
+      "series": 52.1,
+      "type": "anniversary"
     }
   ],
   "Chiaki_Morisawa": [
@@ -1173,6 +1205,14 @@
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/8/8b/%28Desired_Colors%29_Kanata_Shinkai_M.png/revision/latest/scale-to-width-down/200?cb=20220228200709",
       "series": 47,
       "type": "event"
+    },
+    {
+      "id": "kanata_52.1",
+      "star": 4,
+      "name": "いっしょとさぷらいず",
+      "img": "https://cdn.gamerch.com/resize/eyJidWNrZXQiOiJnYW1lcmNoLWltZy1jb250ZW50cyIsImtleSI6Indpa2lcLzEwMDdcL2VudHJ5XC83dWZvQTEyVS5wbmciLCJlZGl0cyI6eyJ3ZWJwIjp7InF1YWxpdHkiOjg1fSwidG9Gb3JtYXQiOiJ3ZWJwIn19",
+      "series": 52.1,
+      "type": "anniversary"
     }
   ],
   "Tetora_Nagumo": [
@@ -1581,6 +1621,14 @@
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/4/49/%28A_Warm_Spring_Scene%29_Aira_Shiratori.png/revision/latest/scale-to-width-down/200?cb=20220205140451",
       "series": 31,
       "type": "limited"
+    },
+    {
+      "id": "aira_52.1",
+      "star": 4,
+      "name": "LOVEとサプライズ",
+      "img": "https://cdn.gamerch.com/resize/eyJidWNrZXQiOiJnYW1lcmNoLWltZy1jb250ZW50cyIsImtleSI6Indpa2lcLzEwMDdcL2VudHJ5XC92VEllUFJHWS5wbmciLCJlZGl0cyI6eyJ3ZWJwIjp7InF1YWxpdHkiOjg1fSwidG9Gb3JtYXQiOiJ3ZWJwIn19",
+      "series": 52.1,
+      "type": "anniversary"
     }
   ],
   "Mayoi_Ayase": [
@@ -1769,6 +1817,14 @@
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/1/11/%28Unbridled_Sweetness%29_Tatsumi_Kazehaya_M.png/revision/latest/scale-to-width-down/200?cb=20220218190745",
       "series": 46,
       "type": "event"
+    },
+    {
+      "id": "tatsumi_52.1",
+      "star": 4,
+      "name": "祈りとサプライズ",
+      "img": "https://cdn.gamerch.com/resize/eyJidWNrZXQiOiJnYW1lcmNoLWltZy1jb250ZW50cyIsImtleSI6Indpa2lcLzEwMDdcL2VudHJ5XC9FSkQzQXhvai5wbmciLCJlZGl0cyI6eyJ3ZWJwIjp7InF1YWxpdHkiOjg1fSwidG9Gb3JtYXQiOiJ3ZWJwIn19",
+      "series": 52.1,
+      "type": "anniversary"
     }
   ],
   "Nagisa_Ran": [
@@ -2251,6 +2307,14 @@
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/c/c9/%28Assistance_of_the_Sun%29_Shu_Itsuki_M.png/revision/latest/scale-to-width-down/200?cb=20211030205907",
       "series": 39,
       "type": "event"
+    },
+    {
+      "id": "Creation_and_Surprise",
+      "star": 4,
+      "name": "創作とサプライズ",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/5/59/%28Creation_and_Surprise%29_Shu_Itsuki_B.png/revision/latest/scale-to-width-down/200?cb=20220506015242",
+      "series": 51.1,
+      "type": "anniversary"
     }
   ],
   "Mika_Kagehira": [
@@ -2471,6 +2535,14 @@
       "img": "https://cdn.gamerch.com/resize/eyJidWNrZXQiOiJnYW1lcmNoLWltZy1jb250ZW50cyIsImtleSI6Indpa2lcLzEwMDdcL2VudHJ5XC9pTEhLVDVtbS5wbmciLCJlZGl0cyI6eyJ3ZWJwIjp7InF1YWxpdHkiOjg1fSwidG9Gb3JtYXQiOiJ3ZWJwIn19",
       "series": 51,
       "type": "event"
+    },
+    {
+      "id": "hinata_52.1",
+      "star": 4,
+      "name": "やんちゃとサプライズ",
+      "img": "https://cdn.gamerch.com/resize/eyJidWNrZXQiOiJnYW1lcmNoLWltZy1jb250ZW50cyIsImtleSI6Indpa2lcLzEwMDdcL2VudHJ5XC92UHVCU2VNUy5wbmciLCJlZGl0cyI6eyJ3ZWJwIjp7InF1YWxpdHkiOjg1fSwidG9Gb3JtYXQiOiJ3ZWJwIn19",
+      "series": 52.1,
+      "type": "anniversary"
     }
   ],
   "Yuta_Aoi": [
@@ -2969,6 +3041,14 @@
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/f/f8/%28Cooking_Instructor%29_Niki_Shiina_M.png/revision/latest/scale-to-width-down/200?cb=20210725094438",
       "series": 33,
       "type": "feature"
+    },
+    {
+      "id": "Satisfaction_and_Surprise",
+      "star": 4,
+      "name": "満足とサプライズ",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/3/35/%28Satisfaction_and_Surprise%29_Niki_Shiina_B.png/revision/latest/scale-to-width-down/200?cb=20220508063921",
+      "series": 51.2,
+      "type": "anniversary"
     }
   ],
   "Rei_Sakuma": [
@@ -3173,6 +3253,14 @@
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/d/d7/%28Summer_Breeze_that_Affirms_Expectations%29_Kaoru_Hakaze_M.png/revision/latest/scale-to-width-down/150?cb=20220228001530",
       "series": 47,
       "type": "feature"
+    },
+    {
+      "id": "Relaxed_and_Surprise",
+      "star": 4,
+      "name": "自然体とサプライズ",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/2/29/%28Relaxed_and_Surprise%29_Kaoru_Hakaze_B.png/revision/latest/scale-to-width-down/200?cb=20220506020918",
+      "series": 51.1,
+      "type": "anniversary"
     }
   ],
   "Koga_Oogami": [
@@ -3475,6 +3563,14 @@
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/7/7e/%28Lively_City%29_Nazuna_Nito_M.png/revision/latest/scale-to-width-down/200?cb=20220409001503",
       "series": 49,
       "type": "event"
+    },
+    {
+      "id": "Learning_and_Surprise",
+      "star": 4,
+      "name": "学びとサプライズ",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/9/9e/%28Learning_and_Surprise%29_Nazuna_Nito_B.png/revision/latest/scale-to-width-down/200?cb=20220506021929",
+      "series": 51.1,
+      "type": "anniversary"
     }
   ],
   "Mitsuru_Tenma": [
@@ -3973,6 +4069,14 @@
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/3/33/%28Watchful_Colors%29_Souma_Kanzaki_M.png/revision/latest/scale-to-width-down/200?cb=20220228200713",
       "series": 47,
       "type": "event"
+    },
+    {
+      "id": "Training_and_Surprise",
+      "star": 4,
+      "name": "鍛錬とサプライズ",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/1/18/%28Training_and_Surprise%29_Souma_Kanzaki_B.png/revision/latest/scale-to-width-down/200?cb=20220506022013",
+      "series": 51.1,
+      "type": "anniversary"
     }
   ],
   "Tsukasa_Suou": [
@@ -4585,6 +4689,14 @@
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/2/23/%28Lucky_Magic%29_Natsume_Sakasaki.png/revision/latest/scale-to-width-down/200?cb=20210306233303",
       "series": 30,
       "type": "limited"
+    },
+    {
+      "id": "Duality_and_Surprise",
+      "star": 4,
+      "name": "二面性とサプライズ",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/2/29/%28Duality_and_Surprise%29_Natsume_Sakasaki_B.png/revision/latest/scale-to-width-down/200?cb=20220508063926",
+      "series": 51.2,
+      "type": "anniversary"
     }
   ],
   "Tsumugi_Aoba": [
@@ -4789,6 +4901,14 @@
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/f/fc/%28Companions_and_Blessings%29_Sora_Harukawa.png/revision/latest/scale-to-width-down/200?cb=20220105135931",
       "series": 26,
       "type": "limited"
+    },
+    {
+      "id": "Happy_Surprise",
+      "star": 4,
+      "name": "ハッピーサプライズ",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/9/9c/%28Happy_Surprise%29_Sora_Harukawa_B.png/revision/latest/scale-to-width-down/200?cb=20220508063932",
+      "series": 51.2,
+      "type": "anniversary"
     }
   ],
   "Madara_Mikejima": [
