@@ -1,6 +1,7 @@
 <template>
   <div class="container">
     <es-image :key="currentCg" :src="currentCg" img-class="cg" />
+<!--    <video v-else :src="currentCg" autoplay loop x-webkit-airplay x5-playsinline playsinline webkit-playsinline class="cg" />-->
     <thumb-scouts />
     <statics-view />
     <div class="menu-btns">

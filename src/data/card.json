@@ -111,6 +111,14 @@
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/f/fd/%28Sincerity_and_Surprise%29_Shinobu_Sengoku_B.png/revision/latest/scale-to-width-down/200?cb=20220508063919",
       "series": 51.2,
       "type": "anniversary"
+    },
+    {
+      "id": "shinobu_52",
+      "star": 3,
+      "name": "興奮Orient",
+      "img": "https://cdn.gamerch.com/resize/eyJidWNrZXQiOiJnYW1lcmNoLWltZy1jb250ZW50cyIsImtleSI6Indpa2lcLzEwMDdcL2VudHJ5XC9aYTdCN29xZC5wbmciLCJlZGl0cyI6eyJ3ZWJwIjp7InF1YWxpdHkiOjg1fSwidG9Gb3JtYXQiOiJ3ZWJwIn19",
+      "series": 52,
+      "type": "event"
     }
   ],
   "Tomoya_Mashiro": [
@@ -1416,6 +1424,14 @@
       "name": "クワイエットシティ",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/c/c8/%28Quiet_City%29_Midori_Takamine_M.png/revision/latest/scale-to-width-down/200?cb=20220409001217",
       "series": 49,
+      "type": "event"
+    },
+    {
+      "id": "midori_52",
+      "star": 5,
+      "name": "旅立つOrient",
+      "img": "https://cdn.gamerch.com/resize/eyJidWNrZXQiOiJnYW1lcmNoLWltZy1jb250ZW50cyIsImtleSI6Indpa2lcLzEwMDdcL2VudHJ5XC9aMnBEZm54VC5wbmciLCJlZGl0cyI6eyJ3ZWJwIjp7InF1YWxpdHkiOjg1fSwidG9Gb3JtYXQiOiJ3ZWJwIn19",
+      "series": 52,
       "type": "event"
     }
   ],
@@ -3163,6 +3179,14 @@
       "img": "https://cdn.gamerch.com/resize/eyJidWNrZXQiOiJnYW1lcmNoLWltZy1jb250ZW50cyIsImtleSI6Indpa2lcLzEwMDdcL2VudHJ5XC90ZG9pSmZFTy5wbmciLCJlZGl0cyI6eyJ3ZWJwIjp7InF1YWxpdHkiOjg1fSwidG9Gb3JtYXQiOiJ3ZWJwIn19",
       "series": 51,
       "type": "event"
+    },
+    {
+      "id": "rei_52",
+      "star": 4,
+      "name": "寝床置き場",
+      "img": "https://cdn.gamerch.com/resize/eyJidWNrZXQiOiJnYW1lcmNoLWltZy1jb250ZW50cyIsImtleSI6Indpa2lcLzEwMDdcL2VudHJ5XC9waGhubVJERy5wbmciLCJlZGl0cyI6eyJ3ZWJwIjp7InF1YWxpdHkiOjg1fSwidG9Gb3JtYXQiOiJ3ZWJwIn19",
+      "series": 52,
+      "type": "feature"
     }
   ],
   "Kaoru_Hakaze": [
@@ -3767,6 +3791,14 @@
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/0/02/%28Cheerful_City%29_Hajime_Shino_M.png/revision/latest/scale-to-width-down/200?cb=20220409001542",
       "series": 49,
       "type": "event"
+    },
+    {
+      "id": "hajime_52",
+      "star": 3,
+      "name": "忘れたディスク",
+      "img": "https://cdn.gamerch.com/resize/eyJidWNrZXQiOiJnYW1lcmNoLWltZy1jb250ZW50cyIsImtleSI6Indpa2lcLzEwMDdcL2VudHJ5XC9Yc0dUd3NTdC5wbmciLCJlZGl0cyI6eyJ3ZWJwIjp7InF1YWxpdHkiOjg1fSwidG9Gb3JtYXQiOiJ3ZWJwIn19",
+      "series": 52,
+      "type": "feature"
     }
   ],
   "Keito_Hasumi": [
@@ -4289,6 +4321,14 @@
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/f/ff/%28Eccentric_Ideas%29_Leo_Tsukinaga.png/revision/latest/scale-to-width-down/200?cb=20211012203908",
       "series": 22,
       "type": "limited"
+    },
+    {
+      "id": "leo_52",
+      "star": 4,
+      "name": "冒険のOrient",
+      "img": "https://cdn.gamerch.com/resize/eyJidWNrZXQiOiJnYW1lcmNoLWltZy1jb250ZW50cyIsImtleSI6Indpa2lcLzEwMDdcL2VudHJ5XC9xMG9oWmIwaC5wbmciLCJlZGl0cyI6eyJ3ZWJwIjp7InF1YWxpdHkiOjg1fSwidG9Gb3JtYXQiOiJ3ZWJwIn19",
+      "series": 52,
+      "type": "event"
     }
   ],
   "Izumi_Sena": [
@@ -4386,6 +4426,14 @@
       "name": "水の居心地",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/4/46/%28Comforting_Waters%29_Izumi_Sena_M.png/revision/latest/scale-to-width-down/150?cb=20220407205408",
       "series": 49,
+      "type": "feature"
+    },
+    {
+      "id": "izumi_52",
+      "star": 5,
+      "name": "曲げない信念",
+      "img": "https://cdn.gamerch.com/resize/eyJidWNrZXQiOiJnYW1lcmNoLWltZy1jb250ZW50cyIsImtleSI6Indpa2lcLzEwMDdcL2VudHJ5XC84RUZtSHM4Sy5wbmciLCJlZGl0cyI6eyJ3ZWJwIjp7InF1YWxpdHkiOjg1fSwidG9Gb3JtYXQiOiJ3ZWJwIn19",
+      "series": 52,
       "type": "feature"
     }
   ],
@@ -5014,6 +5062,14 @@
       "name": "混成の色彩",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/3/39/%28Mingling_Colors%29_Madara_Mikejima_M.png/revision/latest/scale-to-width-down/200?cb=20220228200711",
       "series": 47,
+      "type": "event"
+    },
+    {
+      "id": "madara_52",
+      "star": 3,
+      "name": "観察Orient",
+      "img": "https://cdn.gamerch.com/resize/eyJidWNrZXQiOiJnYW1lcmNoLWltZy1jb250ZW50cyIsImtleSI6Indpa2lcLzEwMDdcL2VudHJ5XC9IdVhlSVhXaC5wbmciLCJlZGl0cyI6eyJ3ZWJwIjp7InF1YWxpdHkiOjg1fSwidG9Gb3JtYXQiOiJ3ZWJwIn19",
+      "series": 52,
       "type": "event"
     }
   ]

@@ -4,7 +4,7 @@ const BASE_URL = 'https://ensemble-stars.fandom.com'
 
 // TODO 每次记得替换
 const ScoutUrl = 'https://ensemble-stars.fandom.com/wiki/Category:Nagisa_Feature_Scout'
-const ScoutSeries = 51
+const ScoutSeries = 52
 
 const scout = {
   type: '',

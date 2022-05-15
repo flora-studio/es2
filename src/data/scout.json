@@ -2,6 +2,13 @@
   "event": [
     {
       "type": "event",
+      "banner": "https://cdn.gamerch.com/resize/eyJidWNrZXQiOiJnYW1lcmNoLWltZy1jb250ZW50cyIsImtleSI6Indpa2lcLzEwMDdcL2VudHJ5XC81ZURoQ2xBRy5wbmciLCJlZGl0cyI6eyJ3ZWJwIjp7InF1YWxpdHkiOjg1fSwidG9Gb3JtYXQiOiJ3ZWJwIn19",
+      "name": "スカウト！Orient",
+      "cg": "https://wx1.sinaimg.cn/mw2000/4d4c13fagy1h283slinhjj21yc0wi1ky.jpg",
+      "series": 52
+    },
+    {
+      "type": "event",
       "banner": "https://static.wikia.nocookie.net/ensemble-stars/images/6/66/Band_BB_Banner.png/revision/latest/scale-to-width-down/410?cb=20220503225634",
       "name": "Band BB",
       "cg": "https://wx1.sinaimg.cn/mw2000/007kqdvOgy1h1u2ptt87mj31hg0qrn7k.jpg",
@@ -361,6 +368,13 @@
   "feature": [
     {
       "type": "feature",
+      "banner": "https://static.wikia.nocookie.net/ensemble-stars/images/2/27/Izumi_Feature_Scout_2.png/revision/latest/scale-to-width-down/300?cb=20220514142508",
+      "name": "Izumi Feature Scout 2",
+      "cg": "https://wx3.sinaimg.cn/mw2000/007kqdvOgy1h296gnn8m1j31z4140hdt.jpg",
+      "series": 52
+    },
+    {
+      "type": "feature",
       "banner": "https://static.wikia.nocookie.net/ensemble-stars/images/2/2e/Nagisa_Feature_Scout.png/revision/latest/scale-to-width-down/220?cb=20220501220702",
       "name": "Nagisa Feature Scout",
       "cg": "https://wx3.sinaimg.cn/mw2000/007kqdvOgy1h1u2pu1tu0j31hh0qrk1l.jpg",
@@ -708,21 +722,21 @@
       "type": "anniversary",
       "banner": "https://static.wikia.nocookie.net/ensemble-stars/images/8/88/HEADS_Scout_Group_C_Banner.png/revision/latest/scale-to-width-down/380?cb=20220514142854",
       "name": "HEADS Scout: Group C",
-      "cg": "https://storage.qoo-static.com/cimg/note/2022/04/27/ad2ba0dad07591fe6ff657bc04e85d4c.png",
+      "cg": "https://wx2.sinaimg.cn/mw2000/007kqdvOgy1h296nm3r9xj31hc0qogwe.jpg",
       "series": 52.1
     },
     {
       "type": "anniversary",
       "banner": "https://static.wikia.nocookie.net/ensemble-stars/images/a/a7/HEADS_Scout_Group_B_Banner.png/revision/latest/scale-to-width-down/380?cb=20220507105501",
       "name": "HEADS Scout: Group B",
-      "cg": "https://storage.qoo-static.com/cimg/note/2022/04/27/ad2ba0dad07591fe6ff657bc04e85d4c.png",
+      "cg": "https://wx2.sinaimg.cn/mw2000/007kqdvOgy1h296nm3r9xj31hc0qogwe.jpg",
       "series": 51.2
     },
     {
       "type": "anniversary",
       "banner": "https://static.wikia.nocookie.net/ensemble-stars/images/c/c8/HEADS_Scout_Group_A_Banner.png/revision/latest/scale-to-width-down/380?cb=20220503225826",
       "name": "HEADS Scout: Group A",
-      "cg": "https://storage.qoo-static.com/cimg/note/2022/04/27/ad2ba0dad07591fe6ff657bc04e85d4c.png",
+      "cg": "https://wx2.sinaimg.cn/mw2000/007kqdvOgy1h296nm3r9xj31hc0qogwe.jpg",
       "series": 51.1
     },
     {
