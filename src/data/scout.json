@@ -368,6 +368,13 @@
   "feature": [
     {
       "type": "feature",
+      "banner": "https://cdn.gamerch.com/resize/eyJidWNrZXQiOiJnYW1lcmNoLWltZy1jb250ZW50cyIsImtleSI6Indpa2lcLzEwMDdcL2VudHJ5XC9GZnRTRFlDNS5wbmciLCJlZGl0cyI6eyJ3ZWJwIjp7InF1YWxpdHkiOjg1fSwidG9Gb3JtYXQiOiJ3ZWJwIn19",
+      "name": "Nazuna Feature Scout 2",
+      "cg": "https://wx2.sinaimg.cn/large/0061nLirgy1h2km7m1q64j30ru0fowgs.jpg",
+      "series": 53
+    },
+    {
+      "type": "feature",
       "banner": "https://static.wikia.nocookie.net/ensemble-stars/images/2/27/Izumi_Feature_Scout_2.png/revision/latest/scale-to-width-down/300?cb=20220514142508",
       "name": "Izumi Feature Scout 2",
       "cg": "https://wx3.sinaimg.cn/mw2000/007kqdvOgy1h296gnn8m1j31z4140hdt.jpg",
@@ -718,6 +725,20 @@
     }
   ],
   "anniversary": [
+    {
+      "type": "anniversary",
+      "banner": "https://static.wikia.nocookie.net/ensemble-stars/images/3/30/HEADS_Scout_Group_E_Banner.png/revision/latest/scale-to-width-down/380?cb=20220527021701",
+      "name": "HEADS Scout: Group E",
+      "cg": "https://wx2.sinaimg.cn/mw2000/007kqdvOgy1h296nm3r9xj31hc0qogwe.jpg",
+      "series": 53.1
+    },
+    {
+      "type": "anniversary",
+      "banner": "https://static.wikia.nocookie.net/ensemble-stars/images/b/bd/HEADS_Scout_Group_D_Banner.png/revision/latest/scale-to-width-down/380?cb=20220525022125",
+      "name": "HEADS Scout: Group D",
+      "cg": "https://wx2.sinaimg.cn/mw2000/007kqdvOgy1h296nm3r9xj31hc0qogwe.jpg",
+      "series": 52.2
+    },
     {
       "type": "anniversary",
       "banner": "https://static.wikia.nocookie.net/ensemble-stars/images/8/88/HEADS_Scout_Group_C_Banner.png/revision/latest/scale-to-width-down/380?cb=20220514142854",

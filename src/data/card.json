@@ -421,6 +421,14 @@
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/5/5e/%28Surprising_Wukong%29_Wataru_Hibiki_M.png/revision/latest/scale-to-width-down/200?cb=20211014163815",
       "series": 38,
       "type": "event"
+    },
+    {
+      "id": "Love_and_Surprises",
+      "star": 4,
+      "name": "愛とサプライズ",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/c/c2/%28Love_and_Surprises%29_Wataru_Hibiki_B.png/revision/latest/scale-to-width-down/200?cb=20220525024751",
+      "series": 52.2,
+      "type": "anniversary"
     }
   ],
   "Tori_Himemiya": [
@@ -519,6 +527,14 @@
       "img": "https://ensemble-stars.info/wp-content/uploads/2022/03/tori-whiteblim.png",
       "series": 48,
       "type": "event"
+    },
+    {
+      "id": "Excitement_and_Surprise",
+      "star": 4,
+      "name": "ワクワクとサプライズ",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/c/c4/%28Excitement_and_Surprise%29_Tori_Himemiya_B.png/revision/latest/scale-to-width-down/200?cb=20220527024143",
+      "series": 53.1,
+      "type": "anniversary"
     }
   ],
   "Yuzuru_Fushimi": [
@@ -617,6 +633,14 @@
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/2/21/%28Relaxing_Summer%29_Yuzuru_Fushimi.png/revision/latest/scale-to-width-down/200?cb=20210917185835",
       "series": 19,
       "type": "limited"
+    },
+    {
+      "id": "Anticipation_and_Surprise",
+      "star": 4,
+      "name": "楽しみとサプライズ",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/4/4c/%28Anticipation_and_Surprise%29_Yuzuru_Fushimi_B.png/revision/latest/scale-to-width-down/200?cb=20220525024759",
+      "series": 52.2,
+      "type": "anniversary"
     }
   ],
   "Hokuto_Hidaka": [
@@ -1123,6 +1147,22 @@
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/e/e9/%28Leaping_Radiance%29_Chiaki_Morisawa.png/revision/latest/scale-to-width-down/200?cb=20210423093530",
       "series": 9,
       "type": "limited"
+    },
+    {
+      "id": "Enthusiasm_and_Surprise",
+      "star": 4,
+      "name": "熱意とサプライズ",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/5/5d/%28Enthusiasm_and_Surprise%29_Chiaki_Morisawa_B.png/revision/latest/scale-to-width-down/200?cb=20220527024145",
+      "series": 53.1,
+      "type": "anniversary"
+    },
+    {
+      "id": "Naming_the_Injury",
+      "star": 3,
+      "name": "傷の名前",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/1/1d/%28Naming_the_Injury%29_Chiaki_Morisawa_B.png/revision/latest?cb=20220527165517",
+      "series": 53,
+      "type": "feature"
     }
   ],
   "Kanata_Shinkai": [
@@ -1531,6 +1571,14 @@
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/0/0d/%28Flawless_Blessing%29_Hiiro_Amagi.png/revision/latest/scale-to-width-down/200?cb=20220105134352",
       "series": 26,
       "type": "limited"
+    },
+    {
+      "id": "Hope_and_Surprise",
+      "star": 4,
+      "name": "希望とサプライズ",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/c/c9/%28Hope_and_Surprise%29_Hiiro_Amagi_B.png/revision/latest/scale-to-width-down/200?cb=20220525024803",
+      "series": 52.2,
+      "type": "anniversary"
     }
   ],
   "Aira_Shiratori": [
@@ -2045,6 +2093,14 @@
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/7/75/%28My_City%29_Hiyori_Tomoe_M.png/revision/latest/scale-to-width-down/200?cb=20220409001331",
       "series": 49,
       "type": "event"
+    },
+    {
+      "id": "Cheerfulness_and_Surprise",
+      "star": 4,
+      "name": "明るさとサプライズ",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/4/46/%28Cheerfulness_and_Surprise%29_Hiyori_Tomoe_B.png/revision/latest/scale-to-width-down/200?cb=20220527024147",
+      "series": 53.1,
+      "type": "anniversary"
     }
   ],
   "Ibara_Saegusa": [
@@ -3383,6 +3439,14 @@
       "img": "https://cdn.gamerch.com/resize/eyJidWNrZXQiOiJnYW1lcmNoLWltZy1jb250ZW50cyIsImtleSI6Indpa2lcLzEwMDdcL2VudHJ5XC92REtqV2FCcC5wbmciLCJlZGl0cyI6eyJ3ZWJwIjp7InF1YWxpdHkiOjg1fSwidG9Gb3JtYXQiOiJ3ZWJwIn19",
       "series": 51,
       "type": "event"
+    },
+    {
+      "id": "Music_and_Surprise",
+      "star": 4,
+      "name": "音楽とサプライズ",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/9/95/%28Music_and_Surprise%29_Koga_Oogami_B.png/revision/latest/scale-to-width-down/200?cb=20220527024150",
+      "series": 53.1,
+      "type": "anniversary"
     }
   ],
   "Adonis_Otogari": [
@@ -3595,6 +3659,14 @@
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/9/9e/%28Learning_and_Surprise%29_Nazuna_Nito_B.png/revision/latest/scale-to-width-down/200?cb=20220506021929",
       "series": 51.1,
       "type": "anniversary"
+    },
+    {
+      "id": "Hoppin%27_Hype",
+      "star": 5,
+      "name": "跳ね飛びテンション",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/a/a2/%28Hoppin%27_Hype%29_Nazuna_Nito_B.png/revision/latest?cb=20220527165521",
+      "series": 53,
+      "type": "feature"
     }
   ],
   "Mitsuru_Tenma": [
@@ -3693,6 +3765,14 @@
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/a/af/%28Changing_Colors%29_Mitsuru_Tenma_M.png/revision/latest/scale-to-width-down/200?cb=20220228200706",
       "series": 47,
       "type": "event"
+    },
+    {
+      "id": "Likes_and_Surprise",
+      "star": 4,
+      "name": "好きとサプライズ",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/8/8d/%28Likes_and_Surprise%29_Mitsuru_Tenma_B.png/revision/latest/scale-to-width-down/200?cb=20220525024805",
+      "series": 52.2,
+      "type": "anniversary"
     }
   ],
   "Hajime_Shino": [
@@ -3897,6 +3977,14 @@
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/2/2f/%28Untainted_Flower_of_the_Heart%29_Keito_Hasumi_B.png/revision/latest/scale-to-width-down/200?cb=20220314042930",
       "series": 48,
       "type": "feature"
+    },
+    {
+      "id": "Stability_and_Surprise",
+      "star": 4,
+      "name": "堅実とサプライズ",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/8/82/%28Stability_and_Surprise%29_Keito_Hasumi_B.png/revision/latest/scale-to-width-down/200?cb=20220527024153",
+      "series": 53.1,
+      "type": "anniversary"
     }
   ],
   "Kuro_Kiryu": [
@@ -4002,6 +4090,14 @@
       "name": "青春が紡ぐ硬い糸",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/7/79/%28Toughly_Woven_Threads_of_Youth%29_Kuro_Kiryu_M.png/revision/latest/scale-to-width-down/200?cb=20220213085812",
       "series": 46,
+      "type": "feature"
+    },
+    {
+      "id": "History_Challenge",
+      "star": 4,
+      "name": "歴史チャレンジ",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/8/89/%28History_Challenge%29_Kuro_Kiryu_B.png/revision/latest?cb=20220527165519",
+      "series": 53,
       "type": "feature"
     }
   ],
@@ -4631,6 +4727,14 @@
       "img": "https://s1.328888.xyz/2022/04/23/2cIDg.png",
       "series": 50,
       "type": "limited"
+    },
+    {
+      "id": "Happiness_and_Surprise",
+      "star": 4,
+      "name": "幸福とサプライズ",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/a/a5/%28Happiness_and_Surprise%29_Arashi_Narukami_B.png/revision/latest/scale-to-width-down/200?cb=20220525024807",
+      "series": 52.2,
+      "type": "anniversary"
     }
   ],
   "Natsume_Sakasaki": [
