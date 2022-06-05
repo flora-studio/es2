@@ -2,6 +2,13 @@
   "event": [
     {
       "type": "event",
+      "banner": "https://static.wikia.nocookie.net/ensemble-stars/images/7/7c/Sweet_Sweet_Hunger_Banner.png/revision/latest/scale-to-width-down/220?cb=20220531170028",
+      "name": "Sweet Sweet Hunger",
+      "cg": "https://static.wikia.nocookie.net/ensemble-stars/images/8/88/%28Phantom_Hungry%29_Niki_Shiina_CG2.png/revision/latest/scale-to-width-down/1000?cb=20220531165508",
+      "series": 53
+    },
+    {
+      "type": "event",
       "banner": "https://cdn.gamerch.com/resize/eyJidWNrZXQiOiJnYW1lcmNoLWltZy1jb250ZW50cyIsImtleSI6Indpa2lcLzEwMDdcL2VudHJ5XC81ZURoQ2xBRy5wbmciLCJlZGl0cyI6eyJ3ZWJwIjp7InF1YWxpdHkiOjg1fSwidG9Gb3JtYXQiOiJ3ZWJwIn19",
       "name": "スカウト！Orient",
       "cg": "https://wx1.sinaimg.cn/mw2000/4d4c13fagy1h283slinhjj21yc0wi1ky.jpg",

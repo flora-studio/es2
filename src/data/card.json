@@ -535,6 +535,14 @@
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/c/c4/%28Excitement_and_Surprise%29_Tori_Himemiya_B.png/revision/latest/scale-to-width-down/200?cb=20220527024143",
       "series": 53.1,
       "type": "anniversary"
+    },
+    {
+      "id": "Tag-Along_Hungry",
+      "star": 3,
+      "name": "便乗ハングリー",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/6/6f/%28Tag-Along_Hungry%29_Tori_Himemiya_M.png/revision/latest/scale-to-width-down/200?cb=20220531170546",
+      "series": 53,
+      "type": "event"
     }
   ],
   "Yuzuru_Fushimi": [
@@ -1987,6 +1995,14 @@
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/5/5a/%28The_One_Who_Transcends_Time%29_Nagisa_Ran_M.png/revision/latest/scale-to-width-down/150?cb=20220502024712",
       "series": 51,
       "type": "feature"
+    },
+    {
+      "id": "Playfully_Hungry",
+      "star": 3,
+      "name": "戯れハングリー",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/a/a4/%28Playfully_Hungry%29_Nagisa_Ran_M.png/revision/latest/scale-to-width-down/200?cb=20220531170537",
+      "series": 53,
+      "type": "event"
     }
   ],
   "Hiyori_Tomoe": [
@@ -3121,6 +3137,14 @@
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/3/35/%28Satisfaction_and_Surprise%29_Niki_Shiina_B.png/revision/latest/scale-to-width-down/200?cb=20220508063921",
       "series": 51.2,
       "type": "anniversary"
+    },
+    {
+      "id": "Phantom_Hungry",
+      "star": 5,
+      "name": "幻影ハングリー",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/8/8d/%28Phantom_Hungry%29_Niki_Shiina_M.png/revision/latest/scale-to-width-down/200?cb=20220531170027",
+      "series": 53,
+      "type": "event"
     }
   ],
   "Rei_Sakuma": [
@@ -3773,6 +3797,14 @@
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/8/8d/%28Likes_and_Surprise%29_Mitsuru_Tenma_B.png/revision/latest/scale-to-width-down/200?cb=20220525024805",
       "series": 52.2,
       "type": "anniversary"
+    },
+    {
+      "id": "Inquisitively_Hungry",
+      "star": 4,
+      "name": "興味ハングリー",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/f/f2/%28Inquisitively_Hungry%29_Mitsuru_Tenma_M.png/revision/latest/scale-to-width-down/200?cb=20220531170018",
+      "series": 53,
+      "type": "event"
     }
   ],
   "Hajime_Shino": [
