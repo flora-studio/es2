@@ -19,7 +19,7 @@ const waterLevel = ref(0)
 // 当前选择的卡池
 const lastEventScout = ref(useLatestScout('event')) // 用户上次选择的活动池
 const lastFeatureScout = ref(useLatestScout('feature')) // 用户上次选择的个人池
-const lastLimitedScout = ref(useLatestScout('anniversary')) // 用户上次选择的限定池
+const lastLimitedScout = ref(useLatestScout('limited')) // 用户上次选择的限定池
 const normalScout = computed(() => useLatestScout('normal')) // 常驻池
 const currentScout = ref(lastEventScout.value) // 初始选中第一个池子
 

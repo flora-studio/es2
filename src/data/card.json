@@ -3471,6 +3471,14 @@
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/9/95/%28Music_and_Surprise%29_Koga_Oogami_B.png/revision/latest/scale-to-width-down/200?cb=20220527024150",
       "series": 53.1,
       "type": "anniversary"
+    },
+    {
+      "id": "Koga_53_limited",
+      "star": 5,
+      "name": "流光瞬息",
+      "img": "https://wx1.sinaimg.cn/mw2000/007kqdvOgy1h35i52tmdrj30dc0gowpy.jpg",
+      "series": 53,
+      "type": "limited"
     }
   ],
   "Adonis_Otogari": [
@@ -3691,6 +3699,14 @@
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/a/a2/%28Hoppin%27_Hype%29_Nazuna_Nito_B.png/revision/latest?cb=20220527165521",
       "series": 53,
       "type": "feature"
+    },
+    {
+      "id": "Nazuna_53_limited",
+      "star": 3,
+      "name": "晴光煦色",
+      "img": "https://wx2.sinaimg.cn/mw2000/007kqdvOgy1h35i52mlh6j30dc0gok1l.jpg",
+      "series": 53,
+      "type": "limited"
     }
   ],
   "Mitsuru_Tenma": [
@@ -4131,6 +4147,14 @@
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/8/89/%28History_Challenge%29_Kuro_Kiryu_B.png/revision/latest?cb=20220527165519",
       "series": 53,
       "type": "feature"
+    },
+    {
+      "id": "Kuro_53_limited",
+      "star": 4,
+      "name": "微光渐明",
+      "img": "https://wx4.sinaimg.cn/mw2000/007kqdvOgy1h35i530ub1j30dc0gon8f.jpg",
+      "series": 53,
+      "type": "limited"
     }
   ],
   "Souma_Kanzaki": [
