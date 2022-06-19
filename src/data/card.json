@@ -1701,6 +1701,14 @@
       "img": "https://cdn.gamerch.com/resize/eyJidWNrZXQiOiJnYW1lcmNoLWltZy1jb250ZW50cyIsImtleSI6Indpa2lcLzEwMDdcL2VudHJ5XC92VEllUFJHWS5wbmciLCJlZGl0cyI6eyJ3ZWJwIjp7InF1YWxpdHkiOjg1fSwidG9Gb3JtYXQiOiJ3ZWJwIn19",
       "series": 52.1,
       "type": "anniversary"
+    },
+    {
+      "id": "aira_54_feature",
+      "star": 4,
+      "name": "お勉強の時間",
+      "img": "https://cdn.gamerch.com/resize/eyJidWNrZXQiOiJnYW1lcmNoLWltZy1jb250ZW50cyIsImtleSI6Indpa2lcLzEwMDdcL2VudHJ5XC9naEtrNHRTNC5wbmciLCJlZGl0cyI6eyJ3ZWJwIjp7InF1YWxpdHkiOjg1fSwidG9Gb3JtYXQiOiJ3ZWJwIn19",
+      "series": 54,
+      "type": "feature"
     }
   ],
   "Mayoi_Ayase": [
@@ -1897,6 +1905,14 @@
       "img": "https://cdn.gamerch.com/resize/eyJidWNrZXQiOiJnYW1lcmNoLWltZy1jb250ZW50cyIsImtleSI6Indpa2lcLzEwMDdcL2VudHJ5XC9FSkQzQXhvai5wbmciLCJlZGl0cyI6eyJ3ZWJwIjp7InF1YWxpdHkiOjg1fSwidG9Gb3JtYXQiOiJ3ZWJwIn19",
       "series": 52.1,
       "type": "anniversary"
+    },
+    {
+      "id": "tatsumi_54_event",
+      "star": 3,
+      "name": "バンカラ計算",
+      "img": "https://cdn.gamerch.com/resize/eyJidWNrZXQiOiJnYW1lcmNoLWltZy1jb250ZW50cyIsImtleSI6Indpa2lcLzEwMDdcL2VudHJ5XC9BWG1xSmZDTS5wbmciLCJlZGl0cyI6eyJ3ZWJwIjp7InF1YWxpdHkiOjg1fSwidG9Gb3JtYXQiOiJ3ZWJwIn19",
+      "series": 54,
+      "type": "event"
     }
   ],
   "Nagisa_Ran": [
@@ -2117,6 +2133,14 @@
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/4/46/%28Cheerfulness_and_Surprise%29_Hiyori_Tomoe_B.png/revision/latest/scale-to-width-down/200?cb=20220527024147",
       "series": 53.1,
       "type": "anniversary"
+    },
+    {
+      "id": "hiyori_54_event",
+      "star": 3,
+      "name": "バンカラ遊戯",
+      "img": "https://cdn.gamerch.com/resize/eyJidWNrZXQiOiJnYW1lcmNoLWltZy1jb250ZW50cyIsImtleSI6Indpa2lcLzEwMDdcL2VudHJ5XC8yS3B0Zml5Zy5wbmciLCJlZGl0cyI6eyJ3ZWJwIjp7InF1YWxpdHkiOjg1fSwidG9Gb3JtYXQiOiJ3ZWJwIn19",
+      "series": 54,
+      "type": "event"
     }
   ],
   "Ibara_Saegusa": [
@@ -2305,6 +2329,14 @@
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/b/bd/%28Energetic_Summer%29_Jun_Sazanami.png/revision/latest/scale-to-width-down/200?cb=20210917185829",
       "series": 19,
       "type": "limited"
+    },
+    {
+      "id": "jun_54_event",
+      "star": 5,
+      "name": "バンカラな青春",
+      "img": "https://cdn.gamerch.com/resize/eyJidWNrZXQiOiJnYW1lcmNoLWltZy1jb250ZW50cyIsImtleSI6Indpa2lcLzEwMDdcL2VudHJ5XC81T3R5dkJRbS5wbmciLCJlZGl0cyI6eyJ3ZWJwIjp7InF1YWxpdHkiOjg1fSwidG9Gb3JtYXQiOiJ3ZWJwIn19",
+      "series": 54,
+      "type": "event"
     }
   ],
   "Shu_Itsuki": [
@@ -3038,6 +3070,14 @@
       "name": "読めない甘さ",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/e/ef/%28Indecipherable_Sweetness%29_Kohaku_Oukawa_M.png/revision/latest/scale-to-width-down/200?cb=20220218190740",
       "series": 46,
+      "type": "event"
+    },
+    {
+      "id": "kohaku_54_event",
+      "star": 4,
+      "name": "バンカラな日常",
+      "img": "https://cdn.gamerch.com/resize/eyJidWNrZXQiOiJnYW1lcmNoLWltZy1jb250ZW50cyIsImtleSI6Indpa2lcLzEwMDdcL2VudHJ5XC9jQWVNeWxJRi5wbmciLCJlZGl0cyI6eyJ3ZWJwIjp7InF1YWxpdHkiOjg1fSwidG9Gb3JtYXQiOiJ3ZWJwIn19",
+      "series": 54,
       "type": "event"
     }
   ],
@@ -4383,6 +4423,14 @@
       "img": "https://ensemble-stars.info/wp-content/uploads/2022/03/tsukasa-whiteblim.png",
       "series": 48,
       "type": "event"
+    },
+    {
+      "id": "tsukasa_54_feature",
+      "star": 5,
+      "name": "ほの甘い午後",
+      "img": "https://cdn.gamerch.com/resize/eyJidWNrZXQiOiJnYW1lcmNoLWltZy1jb250ZW50cyIsImtleSI6Indpa2lcLzEwMDdcL2VudHJ5XC80WkhMT3VHTS5wbmciLCJlZGl0cyI6eyJ3ZWJwIjp7InF1YWxpdHkiOjg1fSwidG9Gb3JtYXQiOiJ3ZWJwIn19",
+      "series": 54,
+      "type": "feature"
     }
   ],
   "Leo_Tsukinaga": [
@@ -4905,6 +4953,14 @@
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/2/29/%28Duality_and_Surprise%29_Natsume_Sakasaki_B.png/revision/latest/scale-to-width-down/200?cb=20220508063926",
       "series": 51.2,
       "type": "anniversary"
+    },
+    {
+      "id": "natsume_54_feature",
+      "star": 3,
+      "name": "映像チェック",
+      "img": "https://cdn.gamerch.com/resize/eyJidWNrZXQiOiJnYW1lcmNoLWltZy1jb250ZW50cyIsImtleSI6Indpa2lcLzEwMDdcL2VudHJ5XC9NUDlHV1lNWi5wbmciLCJlZGl0cyI6eyJ3ZWJwIjp7InF1YWxpdHkiOjg1fSwidG9Gb3JtYXQiOiJ3ZWJwIn19",
+      "series": 54,
+      "type": "feature"
     }
   ],
   "Tsumugi_Aoba": [

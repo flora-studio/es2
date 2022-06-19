@@ -2,6 +2,13 @@
   "event": [
     {
       "type": "event",
+      "banner": "https://cdn.gamerch.com/resize/eyJidWNrZXQiOiJnYW1lcmNoLWltZy1jb250ZW50cyIsImtleSI6Indpa2lcLzEwMDdcL2VudHJ5XC9KSVU4OWVLeS5wbmciLCJlZGl0cyI6eyJ3ZWJwIjp7InF1YWxpdHkiOjg1fSwidG9Gb3JtYXQiOiJ3ZWJwIn19",
+      "name": "バンカラグラフィティ",
+      "cg": "https://wx3.sinaimg.cn/mw2000/007kqdvOgy1h3dlygg1zmj30qo0f0gnt.jpg",
+      "series": 54
+    },
+    {
+      "type": "event",
       "banner": "https://static.wikia.nocookie.net/ensemble-stars/images/7/7c/Sweet_Sweet_Hunger_Banner.png/revision/latest/scale-to-width-down/220?cb=20220531170028",
       "name": "Sweet Sweet Hunger",
       "cg": "https://static.wikia.nocookie.net/ensemble-stars/images/8/88/%28Phantom_Hungry%29_Niki_Shiina_CG2.png/revision/latest/scale-to-width-down/1000?cb=20220531165508",
@@ -373,6 +380,13 @@
     }
   ],
   "feature": [
+    {
+      "type": "feature",
+      "banner": "https://cdn.gamerch.com/resize/eyJidWNrZXQiOiJnYW1lcmNoLWltZy1jb250ZW50cyIsImtleSI6Indpa2lcLzEwMDdcL2VudHJ5XC9EMEtrNk0wdi5qcGciLCJlZGl0cyI6eyJ3ZWJwIjp7InF1YWxpdHkiOjg1fSwidG9Gb3JtYXQiOiJ3ZWJwIn19",
+      "name": "Tsukasa Feature Scout 2",
+      "cg": "https://wx2.sinaimg.cn/large/0061nLirgy1h3341tj42jj30ru0fotb3.jpg",
+      "series": 54
+    },
     {
       "type": "feature",
       "banner": "https://cdn.gamerch.com/resize/eyJidWNrZXQiOiJnYW1lcmNoLWltZy1jb250ZW50cyIsImtleSI6Indpa2lcLzEwMDdcL2VudHJ5XC9GZnRTRFlDNS5wbmciLCJlZGl0cyI6eyJ3ZWJwIjp7InF1YWxpdHkiOjg1fSwidG9Gb3JtYXQiOiJ3ZWJwIn19",
