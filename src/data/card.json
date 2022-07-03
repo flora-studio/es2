@@ -649,6 +649,14 @@
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/4/4c/%28Anticipation_and_Surprise%29_Yuzuru_Fushimi_B.png/revision/latest/scale-to-width-down/200?cb=20220525024759",
       "series": 52.2,
       "type": "anniversary"
+    },
+    {
+      "id": "yuzuru_55_event",
+      "star": 4,
+      "name": "経験と模範",
+      "img": "https://cdn.gamerch.com/resize/eyJidWNrZXQiOiJnYW1lcmNoLWltZy1jb250ZW50cyIsImtleSI6Indpa2lcLzEwMDdcL2VudHJ5XC92NWRXckFrUS5wbmciLCJlZGl0cyI6eyJ3ZWJwIjp7InF1YWxpdHkiOjg1fSwidG9Gb3JtYXQiOiJ3ZWJwIn19",
+      "series": 55,
+      "type": "event"
     }
   ],
   "Hokuto_Hidaka": [
@@ -1269,6 +1277,14 @@
       "img": "https://cdn.gamerch.com/resize/eyJidWNrZXQiOiJnYW1lcmNoLWltZy1jb250ZW50cyIsImtleSI6Indpa2lcLzEwMDdcL2VudHJ5XC83dWZvQTEyVS5wbmciLCJlZGl0cyI6eyJ3ZWJwIjp7InF1YWxpdHkiOjg1fSwidG9Gb3JtYXQiOiJ3ZWJwIn19",
       "series": 52.1,
       "type": "anniversary"
+    },
+    {
+      "id": "kanata_55_feature",
+      "star": 5,
+      "name": "さかなとうたう",
+      "img": "https://cdn.gamerch.com/resize/eyJidWNrZXQiOiJnYW1lcmNoLWltZy1jb250ZW50cyIsImtleSI6Indpa2lcLzEwMDdcL2VudHJ5XC9kZEdIMFFOVi5wbmciLCJlZGl0cyI6eyJ3ZWJwIjp7InF1YWxpdHkiOjg1fSwidG9Gb3JtYXQiOiJ3ZWJwIn19",
+      "series": 55,
+      "type": "feature"
     }
   ],
   "Tetora_Nagumo": [
@@ -1587,6 +1603,14 @@
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/c/c9/%28Hope_and_Surprise%29_Hiiro_Amagi_B.png/revision/latest/scale-to-width-down/200?cb=20220525024803",
       "series": 52.2,
       "type": "anniversary"
+    },
+    {
+      "id": "hiiro_55_event",
+      "star": 5,
+      "name": "興味と挑戦",
+      "img": "https://cdn.gamerch.com/resize/eyJidWNrZXQiOiJnYW1lcmNoLWltZy1jb250ZW50cyIsImtleSI6Indpa2lcLzEwMDdcL2VudHJ5XC9BV082M05weC5wbmciLCJlZGl0cyI6eyJ3ZWJwIjp7InF1YWxpdHkiOjg1fSwidG9Gb3JtYXQiOiJ3ZWJwIn19",
+      "series": 55,
+      "type": "event"
     }
   ],
   "Aira_Shiratori": [
@@ -1709,6 +1733,14 @@
       "img": "https://cdn.gamerch.com/resize/eyJidWNrZXQiOiJnYW1lcmNoLWltZy1jb250ZW50cyIsImtleSI6Indpa2lcLzEwMDdcL2VudHJ5XC9naEtrNHRTNC5wbmciLCJlZGl0cyI6eyJ3ZWJwIjp7InF1YWxpdHkiOjg1fSwidG9Gb3JtYXQiOiJ3ZWJwIn19",
       "series": 54,
       "type": "feature"
+    },
+    {
+      "id": "aira_55_event",
+      "star": 3,
+      "name": "反省と復習",
+      "img": "https://cdn.gamerch.com/resize/eyJidWNrZXQiOiJnYW1lcmNoLWltZy1jb250ZW50cyIsImtleSI6Indpa2lcLzEwMDdcL2VudHJ5XC9qTDdRcjhLYS5wbmciLCJlZGl0cyI6eyJ3ZWJwIjp7InF1YWxpdHkiOjg1fSwidG9Gb3JtYXQiOiJ3ZWJwIn19",
+      "series": 55,
+      "type": "event"
     }
   ],
   "Mayoi_Ayase": [
@@ -1799,6 +1831,14 @@
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/f/f3/%28Excessive_Sweetness%29_Mayoi_Ayase_M.png/revision/latest/scale-to-width-down/200?cb=20220218190743",
       "series": 46,
       "type": "event"
+    },
+    {
+      "id": "mayoi_55_feature",
+      "star": 3,
+      "name": "登校日",
+      "img": "https://cdn.gamerch.com/resize/eyJidWNrZXQiOiJnYW1lcmNoLWltZy1jb250ZW50cyIsImtleSI6Indpa2lcLzEwMDdcL2VudHJ5XC91Q1lZVUJPRy5wbmciLCJlZGl0cyI6eyJ3ZWJwIjp7InF1YWxpdHkiOjg1fSwidG9Gb3JtYXQiOiJ3ZWJwIn19",
+      "series": 55,
+      "type": "feature"
     }
   ],
   "Tatsumi_Kazehaya": [
@@ -2435,6 +2475,14 @@
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/5/59/%28Creation_and_Surprise%29_Shu_Itsuki_B.png/revision/latest/scale-to-width-down/200?cb=20220506015242",
       "series": 51.1,
       "type": "anniversary"
+    },
+    {
+      "id": "shu_55_feature",
+      "star": 4,
+      "name": "レディの扱い",
+      "img": "https://cdn.gamerch.com/resize/eyJidWNrZXQiOiJnYW1lcmNoLWltZy1jb250ZW50cyIsImtleSI6Indpa2lcLzEwMDdcL2VudHJ5XC83ZEdoWWV4bC5wbmciLCJlZGl0cyI6eyJ3ZWJwIjp7InF1YWxpdHkiOjg1fSwidG9Gb3JtYXQiOiJ3ZWJwIn19",
+      "series": 55,
+      "type": "feature"
     }
   ],
   "Mika_Kagehira": [
@@ -2549,6 +2597,14 @@
       "img": "https://s1.328888.xyz/2022/04/23/2c7eC.png",
       "series": 50,
       "type": "limited"
+    },
+    {
+      "id": "mika_55_event",
+      "star": 3,
+      "name": "未知と吸収",
+      "img": "https://cdn.gamerch.com/resize/eyJidWNrZXQiOiJnYW1lcmNoLWltZy1jb250ZW50cyIsImtleSI6Indpa2lcLzEwMDdcL2VudHJ5XC9CWWZqWFVYeC5wbmciLCJlZGl0cyI6eyJ3ZWJwIjp7InF1YWxpdHkiOjg1fSwidG9Gb3JtYXQiOiJ3ZWJwIn19",
+      "series": 55,
+      "type": "event"
     }
   ],
   "Hinata_Aoi": [
@@ -4073,6 +4129,14 @@
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/8/82/%28Stability_and_Surprise%29_Keito_Hasumi_B.png/revision/latest/scale-to-width-down/200?cb=20220527024153",
       "series": 53.1,
       "type": "anniversary"
+    },
+    {
+      "id": "keito_55_event",
+      "star": 3,
+      "name": "翻弄と教鞭",
+      "img": "https://cdn.gamerch.com/resize/eyJidWNrZXQiOiJnYW1lcmNoLWltZy1jb250ZW50cyIsImtleSI6Indpa2lcLzEwMDdcL2VudHJ5XC9QNktQdU9BYi5wbmciLCJlZGl0cyI6eyJ3ZWJwIjp7InF1YWxpdHkiOjg1fSwidG9Gb3JtYXQiOiJ3ZWJwIn19",
+      "series": 55,
+      "type": "event"
     }
   ],
   "Kuro_Kiryu": [

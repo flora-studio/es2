@@ -2,6 +2,13 @@
   "event": [
     {
       "type": "event",
+      "banner": "https://cdn.gamerch.com/resize/eyJidWNrZXQiOiJnYW1lcmNoLWltZy1jb250ZW50cyIsImtleSI6Indpa2lcLzEwMDdcL2VudHJ5XC8zRGpvWk5JdC5qcGciLCJlZGl0cyI6eyJ3ZWJwIjp7InF1YWxpdHkiOjg1fSwidG9Gb3JtYXQiOiJ3ZWJwIn19",
+      "name": "敬人塾",
+      "cg": "https://wx2.sinaimg.cn/mw2000/006AsNLely1h3p31d5y3pj31qc0u0wst.jpg",
+      "series": 55
+    },
+    {
+      "type": "event",
       "banner": "https://cdn.gamerch.com/resize/eyJidWNrZXQiOiJnYW1lcmNoLWltZy1jb250ZW50cyIsImtleSI6Indpa2lcLzEwMDdcL2VudHJ5XC9KSVU4OWVLeS5wbmciLCJlZGl0cyI6eyJ3ZWJwIjp7InF1YWxpdHkiOjg1fSwidG9Gb3JtYXQiOiJ3ZWJwIn19",
       "name": "バンカラグラフィティ",
       "cg": "https://wx3.sinaimg.cn/mw2000/007kqdvOgy1h3dlygg1zmj30qo0f0gnt.jpg",
@@ -380,6 +387,13 @@
     }
   ],
   "feature": [
+    {
+      "type": "feature",
+      "banner": "https://cdn.gamerch.com/resize/eyJidWNrZXQiOiJnYW1lcmNoLWltZy1jb250ZW50cyIsImtleSI6Indpa2lcLzEwMDdcL2VudHJ5XC9nTjNucXZ6dS5wbmciLCJlZGl0cyI6eyJ3ZWJwIjp7InF1YWxpdHkiOjg1fSwidG9Gb3JtYXQiOiJ3ZWJwIn19",
+      "name": "Kanata Feature Scout 2",
+      "cg": "https://wx2.sinaimg.cn/mw2000/4d4c13fagy1h3khseidl4j21yc0wie82.jpg",
+      "series": 55
+    },
     {
       "type": "feature",
       "banner": "https://cdn.gamerch.com/resize/eyJidWNrZXQiOiJnYW1lcmNoLWltZy1jb250ZW50cyIsImtleSI6Indpa2lcLzEwMDdcL2VudHJ5XC9EMEtrNk0wdi5qcGciLCJlZGl0cyI6eyJ3ZWJwIjp7InF1YWxpdHkiOjg1fSwidG9Gb3JtYXQiOiJ3ZWJwIn19",
