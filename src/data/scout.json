@@ -31,7 +31,7 @@
     {
       "type": "event",
       "banner": "https://cdn.gamerch.com/resize/eyJidWNrZXQiOiJnYW1lcmNoLWltZy1jb250ZW50cyIsImtleSI6Indpa2lcLzEwMDdcL2VudHJ5XC81ZURoQ2xBRy5wbmciLCJlZGl0cyI6eyJ3ZWJwIjp7InF1YWxpdHkiOjg1fSwidG9Gb3JtYXQiOiJ3ZWJwIn19",
-      "name": "スカウト！Orient",
+      "name": "Orient",
       "cg": "https://wx1.sinaimg.cn/mw2000/4d4c13fagy1h283slinhjj21yc0wi1ky.jpg",
       "series": 52
     },
@@ -382,7 +382,7 @@
       "type": "event",
       "banner": "https://static.wikia.nocookie.net/ensemble-stars/images/8/8a/%E2%88%9AAtoZ_Banner.png/revision/latest/scale-to-width-down/220?cb=20200414072955",
       "name": "√AtoZ",
-      "cg": "https://static.wikia.nocookie.net/ensemble-stars/images/6/6d/%28Positive_AtoZ%29_Chiaki_Morisawa_CG2.png/revision/latest/scale-to-width-down/1000?cb=20200414071934",
+      "cg": "https://static.wikia.nocookie.net/ensemble-stars/images/7/75/%28Active_AtoZ%29_Chiaki_Morisawa_CG2.png/revision/latest/scale-to-width-down/1000?cb=20200414071934",
       "series": 2
     },
     {
@@ -762,14 +762,14 @@
       "type": "feature",
       "banner": "https://static.wikia.nocookie.net/ensemble-stars/images/c/c0/Tatsumi_Feature_Scout.png/revision/latest/scale-to-width-down/220?cb=20200410151812",
       "name": "Tatsumi Feature Scout",
-      "cg": "https://static.wikia.nocookie.net/ensemble-stars/images/3/31/%28Tranquil_Prayer%29_Tatsumi_Kazehaya_CG2.png/revision/latest/scale-to-width-down/1000?cb=20200410141922",
+      "cg": "https://static.wikia.nocookie.net/ensemble-stars/images/e/e9/%28Silent_Prayer%29_Tatsumi_Kazehaya_CG2.png/revision/latest/scale-to-width-down/1000?cb=20200410141922",
       "series": 2
     },
     {
       "type": "feature",
       "banner": "https://static.wikia.nocookie.net/ensemble-stars/images/d/db/Mika_Feature_Scout.png/revision/latest/scale-to-width-down/220?cb=20200325061119",
       "name": "Mika Feature Scout",
-      "cg": "https://static.wikia.nocookie.net/ensemble-stars/images/4/48/%28Ruler_of_the_Dark%29_Mika_Kagehira_CG2.png/revision/latest/scale-to-width-down/1000?cb=20200326034638",
+      "cg": "https://static.wikia.nocookie.net/ensemble-stars/images/7/76/%28In_the_Shadow%29_Mika_Kagehira_CG2.png/revision/latest/scale-to-width-down/1000?cb=20200326034638",
       "series": 1
     }
   ],
