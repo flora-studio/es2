@@ -225,6 +225,14 @@
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/1/11/%28Impulsivity_and_Surprise%29_Tomoya_Mashiro_B.png/revision/latest/scale-to-width-down/200?cb=20220508063923",
       "series": 51.2,
       "type": "anniversary"
+    },
+    {
+      "id": "As_a_Matter_of_Course",
+      "star": 4,
+      "name": "As a Matter of Course",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/a/a6/%28As_a_Matter_of_Course%29_Tomoya_Mashiro_M.png/revision/latest/scale-to-width-down/200?cb=20220712214223",
+      "series": 56,
+      "type": "feature"
     }
   ],
   "Eichi_Tenshouin": [
@@ -330,6 +338,14 @@
       "name": "燃ゆる望みの星",
       "img": "https://cdn.gamerch.com/resize/eyJidWNrZXQiOiJnYW1lcmNoLWltZy1jb250ZW50cyIsImtleSI6Indpa2lcLzEwMDdcL2VudHJ5XC9CWEdxSVRkSC5wbmciLCJlZGl0cyI6eyJ3ZWJwIjp7InF1YWxpdHkiOjg1fSwidG9Gb3JtYXQiOiJ3ZWJwIn19",
       "series": 50,
+      "type": "feature"
+    },
+    {
+      "id": "Tiny_Joys",
+      "star": 3,
+      "name": "Tiny Joys",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/7/7b/%28Tiny_Joys%29_Eichi_Tenshouin_M.png/revision/latest/scale-to-width-down/200?cb=20220712214234",
+      "series": 56,
       "type": "feature"
     }
   ],
@@ -747,6 +763,14 @@
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/8/8c/%28Growth_and_Blessings%29_Hokuto_Hidaka.png/revision/latest/scale-to-width-down/200?cb=20220105135705",
       "series": 26,
       "type": "limited"
+    },
+    {
+      "id": "hokuto_56_event",
+      "star": 3,
+      "name": "祭りとみずたま",
+      "img": "https://cdn.gamerch.com/resize/eyJidWNrZXQiOiJnYW1lcmNoLWltZy1jb250ZW50cyIsImtleSI6Indpa2lcLzEwMDdcL2VudHJ5XC9YaHFUWE1CYi5wbmciLCJlZGl0cyI6eyJ3ZWJwIjp7InF1YWxpdHkiOjg1fSwidG9Gb3JtYXQiOiJ3ZWJwIn19",
+      "series": 56,
+      "type": "event"
     }
   ],
   "Subaru_Akehoshi": [
@@ -1399,6 +1423,14 @@
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/e/e3/%28Yearning_Radiance%29_Tetora_Nagumo.png/revision/latest/scale-to-width-down/200?cb=20210423093549",
       "series": 9,
       "type": "limited"
+    },
+    {
+      "id": "tetora_56_event",
+      "star": 5,
+      "name": "みずたまの思い出",
+      "img": "https://cdn.gamerch.com/resize/eyJidWNrZXQiOiJnYW1lcmNoLWltZy1jb250ZW50cyIsImtleSI6Indpa2lcLzEwMDdcL2VudHJ5XC9neVBESmJyVy5wbmciLCJlZGl0cyI6eyJ3ZWJwIjp7InF1YWxpdHkiOjg1fSwidG9Gb3JtYXQiOiJ3ZWJwIn19",
+      "series": 56,
+      "type": "event"
     }
   ],
   "Midori_Takamine": [
@@ -2279,6 +2311,14 @@
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/d/df/%28One_Can_of_Gratitude%29_Ibara_Saegusa_M.png/revision/latest/scale-to-width-down/150?cb=20220502030112",
       "series": 51,
       "type": "feature"
+    },
+    {
+      "id": "ibara_56_event",
+      "star": 3,
+      "name": "屋台とみずたま",
+      "img": "https://cdn.gamerch.com/resize/eyJidWNrZXQiOiJnYW1lcmNoLWltZy1jb250ZW50cyIsImtleSI6Indpa2lcLzEwMDdcL2VudHJ5XC9aVWxPN3ByNy5wbmciLCJlZGl0cyI6eyJ3ZWJwIjp7InF1YWxpdHkiOjg1fSwidG9Gb3JtYXQiOiJ3ZWJwIn19",
+      "series": 56,
+      "type": "event"
     }
   ],
   "Jun_Sazanami": [
@@ -2719,6 +2759,14 @@
       "img": "https://cdn.gamerch.com/resize/eyJidWNrZXQiOiJnYW1lcmNoLWltZy1jb250ZW50cyIsImtleSI6Indpa2lcLzEwMDdcL2VudHJ5XC92UHVCU2VNUy5wbmciLCJlZGl0cyI6eyJ3ZWJwIjp7InF1YWxpdHkiOjg1fSwidG9Gb3JtYXQiOiJ3ZWJwIn19",
       "series": 52.1,
       "type": "anniversary"
+    },
+    {
+      "id": "hinata_56_event",
+      "star": 4,
+      "name": "みずたまの心",
+      "img": "https://cdn.gamerch.com/resize/eyJidWNrZXQiOiJnYW1lcmNoLWltZy1jb250ZW50cyIsImtleSI6Indpa2lcLzEwMDdcL2VudHJ5XC9JajhLYXM2eS5wbmciLCJlZGl0cyI6eyJ3ZWJwIjp7InF1YWxpdHkiOjg1fSwidG9Gb3JtYXQiOiJ3ZWJwIn19",
+      "series": 56,
+      "type": "event"
     }
   ],
   "Yuta_Aoi": [
@@ -4022,6 +4070,14 @@
       "name": "忘れたディスク",
       "img": "https://cdn.gamerch.com/resize/eyJidWNrZXQiOiJnYW1lcmNoLWltZy1jb250ZW50cyIsImtleSI6Indpa2lcLzEwMDdcL2VudHJ5XC9Yc0dUd3NTdC5wbmciLCJlZGl0cyI6eyJ3ZWJwIjp7InF1YWxpdHkiOjg1fSwidG9Gb3JtYXQiOiJ3ZWJwIn19",
       "series": 52,
+      "type": "feature"
+    },
+    {
+      "id": "Amidst_Greenery_and_Sunlight",
+      "star": 5,
+      "name": "Amidst Greenery and Sunlight",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/b/b8/%28Amidst_Greenery_and_Sunlight%29_Hajime_Shino_M.png/revision/latest/scale-to-width-down/200?cb=20220712214208",
+      "series": 56,
       "type": "feature"
     }
   ],

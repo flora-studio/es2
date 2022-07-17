@@ -2,6 +2,13 @@
   "event": [
     {
       "type": "event",
+      "banner": "https://cdn.gamerch.com/resize/eyJidWNrZXQiOiJnYW1lcmNoLWltZy1jb250ZW50cyIsImtleSI6Indpa2lcLzEwMDdcL2VudHJ5XC9wbFhJb0wybC5wbmciLCJlZGl0cyI6eyJ3ZWJwIjp7InF1YWxpdHkiOjg1fSwidG9Gb3JtYXQiOiJ3ZWJwIn19",
+      "name": "みずたま模様",
+      "cg": "https://wx2.sinaimg.cn/mw2000/cb479696gy1h46milbxkpj21ds0n0kjl.jpg",
+      "series": 56
+    },
+    {
+      "type": "event",
       "banner": "https://cdn.gamerch.com/resize/eyJidWNrZXQiOiJnYW1lcmNoLWltZy1jb250ZW50cyIsImtleSI6Indpa2lcLzEwMDdcL2VudHJ5XC8zRGpvWk5JdC5qcGciLCJlZGl0cyI6eyJ3ZWJwIjp7InF1YWxpdHkiOjg1fSwidG9Gb3JtYXQiOiJ3ZWJwIn19",
       "name": "敬人塾",
       "cg": "https://wx2.sinaimg.cn/mw2000/006AsNLely1h3p31d5y3pj31qc0u0wst.jpg",
@@ -387,6 +394,13 @@
     }
   ],
   "feature": [
+    {
+      "type": "feature",
+      "banner": "https://static.wikia.nocookie.net/ensemble-stars/images/5/58/Hajime_Feature_Scout_2.png/revision/latest/scale-to-width-down/220?cb=20220711211157",
+      "name": "Hajime Feature Scout 2",
+      "cg": "https://wx3.sinaimg.cn/large/0061nLirgy1h41smoirbwj30ru0fogof.jpg",
+      "series": 56
+    },
     {
       "type": "feature",
       "banner": "https://cdn.gamerch.com/resize/eyJidWNrZXQiOiJnYW1lcmNoLWltZy1jb250ZW50cyIsImtleSI6Indpa2lcLzEwMDdcL2VudHJ5XC9nTjNucXZ6dS5wbmciLCJlZGl0cyI6eyJ3ZWJwIjp7InF1YWxpdHkiOjg1fSwidG9Gb3JtYXQiOiJ3ZWJwIn19",
