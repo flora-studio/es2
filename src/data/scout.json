@@ -396,6 +396,13 @@
   "feature": [
     {
       "type": "feature",
+      "banner": "https://static.wikia.nocookie.net/ensemble-stars/images/1/14/Mayoi_Feature_Scout_2.png/revision/latest/scale-to-width-down/220?cb=20220726045925",
+      "name": "Mayoi Feature Scout 2",
+      "cg": "https://static.wikia.nocookie.net/ensemble-stars/images/0/04/%28A_Quiet_Solitary_Stage%29_Mayoi_Ayase_CG2.png/revision/latest/scale-to-width-down/1000?cb=20220726045610",
+      "series": 57
+    },
+    {
+      "type": "feature",
       "banner": "https://static.wikia.nocookie.net/ensemble-stars/images/5/58/Hajime_Feature_Scout_2.png/revision/latest/scale-to-width-down/220?cb=20220711211157",
       "name": "Hajime Feature Scout 2",
       "cg": "https://wx3.sinaimg.cn/large/0061nLirgy1h41smoirbwj30ru0fogof.jpg",

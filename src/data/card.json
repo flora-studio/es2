@@ -975,6 +975,14 @@
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/8/86/%28Tactics_Breaker%29_Makoto_Yuuki_M.png/revision/latest/scale-to-width-down/200?cb=20210714132750",
       "series": 32,
       "type": "event"
+    },
+    {
+      "id": "Investigation_of_the_Unidentified",
+      "star": 3,
+      "name": "未確認究明",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/f/fa/%28Investigation_of_the_Unidentified%29_Makoto_Yuuki_M.png/revision/latest/scale-to-width-down/200?cb=20220726045657",
+      "series": 57,
+      "type": "feature"
     }
   ],
   "Mao_Isara": [
@@ -1870,6 +1878,14 @@
       "name": "登校日",
       "img": "https://cdn.gamerch.com/resize/eyJidWNrZXQiOiJnYW1lcmNoLWltZy1jb250ZW50cyIsImtleSI6Indpa2lcLzEwMDdcL2VudHJ5XC91Q1lZVUJPRy5wbmciLCJlZGl0cyI6eyJ3ZWJwIjp7InF1YWxpdHkiOjg1fSwidG9Gb3JtYXQiOiJ3ZWJwIn19",
       "series": 55,
+      "type": "feature"
+    },
+    {
+      "id": "A_Quiet_Solitary_Stage",
+      "star": 5,
+      "name": "静かなひとり舞台",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/8/83/%28A_Quiet_Solitary_Stage%29_Mayoi_Ayase_M.png/revision/latest/scale-to-width-down/200?cb=20220726045623",
+      "series": 57,
       "type": "feature"
     }
   ],
@@ -2978,6 +2994,14 @@
       "name": "食事の招集",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/d/da/%28Call_to_a_Meal%29_Rinne_Amagi_B.png/revision/latest/scale-to-width-down/200?cb=20220314042923",
       "series": 48,
+      "type": "feature"
+    },
+    {
+      "id": "Auspiciousness_and_Gods",
+      "star": 4,
+      "name": "縁起と神さま",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/8/85/%28Auspiciousness_and_Gods%29_Rinne_Amagi_M.png/revision/latest/scale-to-width-down/200?cb=20220726045641",
+      "series": 57,
       "type": "feature"
     }
   ],
