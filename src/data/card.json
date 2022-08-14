@@ -720,7 +720,7 @@
       "id": "Serious_by_Nature",
       "star": 4,
       "name": "真面目な天然",
-      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/8/8c/%28Serious_by_Nature%29_Hokuto_Hidaka_M.png/revision/latest/scale-to-width-down/200?cb=20200517013256",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/6/6c/%28Serious_and_Clumsy%29_Hokuto_Hidaka_M.png/revision/latest/scale-to-width-down/200?cb=20200517013256",
       "series": 3,
       "type": "feature"
     },
@@ -1290,7 +1290,7 @@
       "id": "Practicing",
       "star": 3,
       "name": "練習風景",
-      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/c/c3/%28Practicing%29_Kanata_Shinkai_M.png/revision/latest/scale-to-width-down/200?cb=20200412144255",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/b/ba/%28Practice%29_Kanata_Shinkai_M.png/revision/latest/scale-to-width-down/200?cb=20200412144255",
       "series": 0,
       "type": "normal"
     },
@@ -2260,7 +2260,7 @@
       "id": "Deceitful_Commander",
       "star": 5,
       "name": "偽りの指揮官",
-      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/3/35/%28Deceitful_Commander%29_Ibara_Saegusa_M.png/revision/latest/scale-to-width-down/200?cb=20200517013119",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/0/08/%28Disguised_Commander%29_Ibara_Saegusa_M.png/revision/latest/scale-to-width-down/200?cb=20200517013119",
       "series": 3,
       "type": "feature"
     },
@@ -2414,7 +2414,7 @@
       "id": "Practicing",
       "star": 3,
       "name": "練習風景",
-      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/6/60/%28Practicing%29_Jun_Sazanami_M.png/revision/latest/scale-to-width-down/200?cb=20200412144253",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/b/b0/%28Practice%29_Jun_Sazanami_M.png/revision/latest/scale-to-width-down/200?cb=20200412144253",
       "series": 0,
       "type": "normal"
     },
@@ -2748,7 +2748,7 @@
       "id": "Packed_Bundle",
       "star": 3,
       "name": "込められた束",
-      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/4/4e/%28Packed_Bundle%29_Hinata_Aoi_M.png/revision/latest/scale-to-width-down/200?cb=20200517013426",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/1/16/%28A_Heartfelt_Bunch%29_Hinata_Aoi_M.png/revision/latest/scale-to-width-down/200?cb=20200517013426",
       "series": 3,
       "type": "feature"
     },
@@ -3514,7 +3514,7 @@
       "id": "Practicing",
       "star": 3,
       "name": "練習風景",
-      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/f/f6/%28Practicing%29_Kaoru_Hakaze_M.png/revision/latest/scale-to-width-down/200?cb=20200412144524",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/f/f7/%28Practice%29_Kaoru_Hakaze_M.png/revision/latest/scale-to-width-down/200?cb=20200412144524",
       "series": 0,
       "type": "normal"
     },
@@ -3620,7 +3620,7 @@
       "id": "Practicing",
       "star": 3,
       "name": "練習風景",
-      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/e/ef/%28Practicing%29_Koga_Oogami_M.png/revision/latest/scale-to-width-down/200?cb=20200412144743",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/5/56/%28Practice%29_Koga_Oogami_M.png/revision/latest/scale-to-width-down/200?cb=20200412144743",
       "series": 0,
       "type": "normal"
     },
@@ -3750,7 +3750,7 @@
       "id": "Thoughtful_Gift",
       "star": 3,
       "name": "想いの贈り物",
-      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/2/21/%28Thoughtful_Gift%29_Adonis_Otogari_M.png/revision/latest/scale-to-width-down/200?cb=20200517013345",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/a/ae/%28Sincere_Gift%29_Adonis_Otogari_M.png/revision/latest/scale-to-width-down/200?cb=20200517013345",
       "series": 3,
       "type": "feature"
     },
@@ -4100,7 +4100,7 @@
       "id": "Enjoyable_Scene",
       "star": 3,
       "name": "楽しい現場",
-      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/d/dd/%28Enjoyable_Scene%29_Hajime_Shino_M.png/revision/latest/scale-to-width-down/200?cb=20200413005655",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/7/7c/%28Pleasant_Filming%29_Hajime_Shino_M.png/revision/latest/scale-to-width-down/200?cb=20200413005655",
       "series": 1,
       "type": "feature"
     },
@@ -4143,6 +4143,14 @@
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/b/b8/%28Amidst_Greenery_and_Sunlight%29_Hajime_Shino_M.png/revision/latest/scale-to-width-down/200?cb=20220712214208",
       "series": 56,
       "type": "feature"
+    },
+    {
+      "id": "hajime_58_limited",
+      "star": 3,
+      "name": "聆听童话",
+      "img": "https://wx1.sinaimg.cn/mw2000/007kqdvOgy1h56h2z3q8jj30eu0ikn9s.jpg",
+      "series": 58,
+      "type": "limited"
     }
   ],
   "Keito_Hasumi": [
@@ -4909,6 +4917,14 @@
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/0/0e/%28He_Who_Awakens_From_His_Slumber%29_Ritsu_Sakuma_M.png/revision/latest/scale-to-width-down/150?cb=20220407205312",
       "series": 49,
       "type": "feature"
+    },
+    {
+      "id": "ritsu_58_limited",
+      "star": 5,
+      "name": "午后童话",
+      "img": "https://wx3.sinaimg.cn/mw2000/007kqdvOgy1h56h2ya55ej30eu0iik3j.jpg",
+      "series": 58,
+      "type": "limited"
     }
   ],
   "Arashi_Narukami": [
@@ -5023,6 +5039,14 @@
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/a/a5/%28Happiness_and_Surprise%29_Arashi_Narukami_B.png/revision/latest/scale-to-width-down/200?cb=20220525024807",
       "series": 52.2,
       "type": "anniversary"
+    },
+    {
+      "id": "arashi_58_limited",
+      "star": 4,
+      "name": "反转童话",
+      "img": "https://wx2.sinaimg.cn/mw2000/007kqdvOgy1h56h2yilosj30et0il48i.jpg",
+      "series": 58,
+      "type": "limited"
     }
   ],
   "Natsume_Sakasaki": [
@@ -5471,6 +5495,14 @@
       "img": "https://cdn.gamerch.com/resize/eyJidWNrZXQiOiJnYW1lcmNoLWltZy1jb250ZW50cyIsImtleSI6Indpa2lcLzEwMDdcL2VudHJ5XC9IdVhlSVhXaC5wbmciLCJlZGl0cyI6eyJ3ZWJwIjp7InF1YWxpdHkiOjg1fSwidG9Gb3JtYXQiOiJ3ZWJwIn19",
       "series": 52,
       "type": "event"
+    },
+    {
+      "id": "madara_58_limited",
+      "star": 3,
+      "name": "见证童话",
+      "img": "https://wx4.sinaimg.cn/mw2000/007kqdvOgy1h56h2yugjbj30ev0ikwpi.jpg",
+      "series": 58,
+      "type": "limited"
     }
   ]
 }
