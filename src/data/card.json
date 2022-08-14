@@ -233,6 +233,14 @@
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/a/a6/%28As_a_Matter_of_Course%29_Tomoya_Mashiro_M.png/revision/latest/scale-to-width-down/200?cb=20220712214223",
       "series": 56,
       "type": "feature"
+    },
+    {
+      "id": "tomoya_57_event",
+      "star": 3,
+      "name": "勉強中アニマルズ",
+      "img": "https://cdn.gamerch.com/resize/eyJidWNrZXQiOiJnYW1lcmNoLWltZy1jb250ZW50cyIsImtleSI6Indpa2lcLzEwMDdcL2VudHJ5XC94eDNxWWhIMi5wbmciLCJlZGl0cyI6eyJ3ZWJwIjp7InF1YWxpdHkiOjg1fSwidG9Gb3JtYXQiOiJ3ZWJwIn19",
+      "series": 57,
+      "type": "event"
     }
   ],
   "Eichi_Tenshouin": [
@@ -445,6 +453,14 @@
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/c/c2/%28Love_and_Surprises%29_Wataru_Hibiki_B.png/revision/latest/scale-to-width-down/200?cb=20220525024751",
       "series": 52.2,
       "type": "anniversary"
+    },
+    {
+      "id": "wataru_57_event",
+      "star": 4,
+      "name": "愉快なアニマルズ",
+      "img": "https://cdn.gamerch.com/resize/eyJidWNrZXQiOiJnYW1lcmNoLWltZy1jb250ZW50cyIsImtleSI6Indpa2lcLzEwMDdcL2VudHJ5XC9pWFFwSUpjZi5wbmciLCJlZGl0cyI6eyJ3ZWJwIjp7InF1YWxpdHkiOjg1fSwidG9Gb3JtYXQiOiJ3ZWJwIn19",
+      "series": 57,
+      "type": "event"
     }
   ],
   "Tori_Himemiya": [
@@ -885,6 +901,14 @@
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/9/99/%28Excitement_and_Surprise%29_Subaru_Akehoshi_B.png/revision/latest/scale-to-width-down/200?cb=20220505234736",
       "series": 51.1,
       "type": "anniversary"
+    },
+    {
+      "id": "subaru_57_event",
+      "star": 5,
+      "name": "元気なアニマルズ",
+      "img": "https://cdn.gamerch.com/resize/eyJidWNrZXQiOiJnYW1lcmNoLWltZy1jb250ZW50cyIsImtleSI6Indpa2lcLzEwMDdcL2VudHJ5XC9qTDlIRVdGbS5wbmciLCJlZGl0cyI6eyJ3ZWJwIjp7InF1YWxpdHkiOjg1fSwidG9Gb3JtYXQiOiJ3ZWJwIn19",
+      "series": 57,
+      "type": "event"
     }
   ],
   "Makoto_Yuuki": [
@@ -3647,6 +3671,14 @@
       "img": "https://wx1.sinaimg.cn/mw2000/007kqdvOgy1h35i52tmdrj30dc0gowpy.jpg",
       "series": 53,
       "type": "limited"
+    },
+    {
+      "id": "koga_57_event",
+      "star": 3,
+      "name": "真面目アニマルズ",
+      "img": "https://cdn.gamerch.com/resize/eyJidWNrZXQiOiJnYW1lcmNoLWltZy1jb250ZW50cyIsImtleSI6Indpa2lcLzEwMDdcL2VudHJ5XC9meUk3SW1kSi5wbmciLCJlZGl0cyI6eyJ3ZWJwIjp7InF1YWxpdHkiOjg1fSwidG9Gb3JtYXQiOiJ3ZWJwIn19",
+      "series": 57,
+      "type": "event"
     }
   ],
   "Adonis_Otogari": [
@@ -3875,6 +3907,14 @@
       "img": "https://wx2.sinaimg.cn/mw2000/007kqdvOgy1h35i52mlh6j30dc0gok1l.jpg",
       "series": 53,
       "type": "limited"
+    },
+    {
+      "id": "nazuna_57_event",
+      "star": 3,
+      "name": "仲良しアニマルズ",
+      "img": "https://cdn.gamerch.com/resize/eyJidWNrZXQiOiJnYW1lcmNoLWltZy1jb250ZW50cyIsImtleSI6Indpa2lcLzEwMDdcL2VudHJ5XC9FcXluZ1JnWS5wbmciLCJlZGl0cyI6eyJ3ZWJwIjp7InF1YWxpdHkiOjg1fSwidG9Gb3JtYXQiOiJ3ZWJwIn19",
+      "series": 57,
+      "type": "event"
     }
   ],
   "Mitsuru_Tenma": [
