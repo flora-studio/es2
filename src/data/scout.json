@@ -2,6 +2,13 @@
   "event": [
     {
       "type": "event",
+      "banner": "https://cdn.gamerch.com/resize/eyJidWNrZXQiOiJnYW1lcmNoLWltZy1jb250ZW50cyIsImtleSI6Indpa2lcLzEwMDdcL2VudHJ5XC9oaHFtNTllcC5wbmciLCJlZGl0cyI6eyJ3ZWJwIjp7InF1YWxpdHkiOjg1fSwidG9Gb3JtYXQiOiJ3ZWJwIiwicmVzaXplIjp7IndpZHRoIjo0MDAsImZpdCI6ImNvdmVyIn19fQ==",
+      "name": "レッドホットアイランド",
+      "cg": "https://wx3.sinaimg.cn/mw2000/ecce6c33ly1h56aauuxb7j21ds0n0ai6.jpg",
+      "series": 58
+    },
+    {
+      "type": "event",
       "banner": "https://cdn.gamerch.com/resize/eyJidWNrZXQiOiJnYW1lcmNoLWltZy1jb250ZW50cyIsImtleSI6Indpa2lcLzEwMDdcL2VudHJ5XC9SRnRpam1XUC5wbmciLCJlZGl0cyI6eyJ3ZWJwIjp7InF1YWxpdHkiOjg1fSwidG9Gb3JtYXQiOiJ3ZWJwIn19",
       "name": "アニマルズ",
       "cg": "https://wx1.sinaimg.cn/mw2000/cb479696gy1h4pcy05sahj21ps1ackjm.jpg",
@@ -401,6 +408,13 @@
     }
   ],
   "feature": [
+    {
+      "type": "feature",
+      "banner": "https://cdn.gamerch.com/resize/eyJidWNrZXQiOiJnYW1lcmNoLWltZy1jb250ZW50cyIsImtleSI6Indpa2lcLzEwMDdcL2VudHJ5XC9LU2Y5U3VSei5wbmciLCJlZGl0cyI6eyJ3ZWJwIjp7InF1YWxpdHkiOjg1fSwidG9Gb3JtYXQiOiJ3ZWJwIn19",
+      "name": "Ibara Feature Scout 2",
+      "cg": "https://wx3.sinaimg.cn/mw2000/008m4TI2gy1h51oai4cx5j31yc0wi7wi.jpg",
+      "series": 58
+    },
     {
       "type": "feature",
       "banner": "https://static.wikia.nocookie.net/ensemble-stars/images/1/14/Mayoi_Feature_Scout_2.png/revision/latest/scale-to-width-down/220?cb=20220726045925",
