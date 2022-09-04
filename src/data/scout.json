@@ -2,6 +2,13 @@
   "event": [
     {
       "type": "event",
+      "banner": "https://cdn.gamerch.com/resize/eyJidWNrZXQiOiJnYW1lcmNoLWltZy1jb250ZW50cyIsImtleSI6Indpa2lcLzEwMDdcL2VudHJ5XC9NdXl4dVYwbC5wbmciLCJlZGl0cyI6eyJ3ZWJwIjp7InF1YWxpdHkiOjg1fSwidG9Gb3JtYXQiOiJ3ZWJwIn19",
+      "name": "舞闘会",
+      "cg": "https://wx2.sinaimg.cn/mw2000/007kqdvOgy1h5ulrtxhv4j31hc0onwia.jpg",
+      "series": 59
+    },
+    {
+      "type": "event",
       "banner": "https://cdn.gamerch.com/resize/eyJidWNrZXQiOiJnYW1lcmNoLWltZy1jb250ZW50cyIsImtleSI6Indpa2lcLzEwMDdcL2VudHJ5XC9oaHFtNTllcC5wbmciLCJlZGl0cyI6eyJ3ZWJwIjp7InF1YWxpdHkiOjg1fSwidG9Gb3JtYXQiOiJ3ZWJwIiwicmVzaXplIjp7IndpZHRoIjo0MDAsImZpdCI6ImNvdmVyIn19fQ==",
       "name": "レッドホットアイランド",
       "cg": "https://wx3.sinaimg.cn/mw2000/ecce6c33ly1h56aauuxb7j21ds0n0ai6.jpg",
@@ -408,6 +415,13 @@
     }
   ],
   "feature": [
+    {
+      "type": "feature",
+      "banner": "https://static.wikia.nocookie.net/ensemble-stars/images/5/56/Mao_Feature_Scout_2.png/revision/latest/scale-to-width-down/300?cb=20220901022908",
+      "name": "Mao Feature Scout 2",
+      "cg": "https://wx4.sinaimg.cn/mw2000/007kqdvOgy1h5ulru7hdzj31jk0podk4.jpg",
+      "series": 59
+    },
     {
       "type": "feature",
       "banner": "https://cdn.gamerch.com/resize/eyJidWNrZXQiOiJnYW1lcmNoLWltZy1jb250ZW50cyIsImtleSI6Indpa2lcLzEwMDdcL2VudHJ5XC9LU2Y5U3VSei5wbmciLCJlZGl0cyI6eyJ3ZWJwIjp7InF1YWxpdHkiOjg1fSwidG9Gb3JtYXQiOiJ3ZWJwIn19",

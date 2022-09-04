@@ -1129,6 +1129,14 @@
       "img": "https://cdn.gamerch.com/resize/eyJidWNrZXQiOiJnYW1lcmNoLWltZy1jb250ZW50cyIsImtleSI6Indpa2lcLzEwMDdcL2VudHJ5XC9WbEhCREF1SS5wbmciLCJlZGl0cyI6eyJ3ZWJwIjp7InF1YWxpdHkiOjg1fSwidG9Gb3JtYXQiOiJ3ZWJwIn19",
       "series": 52.1,
       "type": "anniversary"
+    },
+    {
+      "id": "mao_59_feature",
+      "star": 5,
+      "name": "自然と視線クロス",
+      "img": "https://cdn.gamerch.com/resize/eyJidWNrZXQiOiJnYW1lcmNoLWltZy1jb250ZW50cyIsImtleSI6Indpa2lcLzEwMDdcL2VudHJ5XC9vblVDcjA4Ti5wbmciLCJlZGl0cyI6eyJ3ZWJwIjp7InF1YWxpdHkiOjg1fSwidG9Gb3JtYXQiOiJ3ZWJwIn19",
+      "series": 59,
+      "type": "feature"
     }
   ],
   "Chiaki_Morisawa": [
@@ -1577,6 +1585,14 @@
       "img": "https://cdn.gamerch.com/resize/eyJidWNrZXQiOiJnYW1lcmNoLWltZy1jb250ZW50cyIsImtleSI6Indpa2lcLzEwMDdcL2VudHJ5XC9aMnBEZm54VC5wbmciLCJlZGl0cyI6eyJ3ZWJwIjp7InF1YWxpdHkiOjg1fSwidG9Gb3JtYXQiOiJ3ZWJwIn19",
       "series": 52,
       "type": "event"
+    },
+    {
+      "id": "midori_59_feature",
+      "star": 3,
+      "name": "漫画トーク",
+      "img": "https://cdn.gamerch.com/resize/eyJidWNrZXQiOiJnYW1lcmNoLWltZy1jb250ZW50cyIsImtleSI6Indpa2lcLzEwMDdcL2VudHJ5XC8wWlpWUUVuay5wbmciLCJlZGl0cyI6eyJ3ZWJwIjp7InF1YWxpdHkiOjg1fSwidG9Gb3JtYXQiOiJ3ZWJwIn19",
+      "series": 59,
+      "type": "feature"
     }
   ],
   "Hiiro_Amagi": [
@@ -2147,6 +2163,14 @@
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/a/a4/%28Playfully_Hungry%29_Nagisa_Ran_M.png/revision/latest/scale-to-width-down/200?cb=20220531170537",
       "series": 53,
       "type": "event"
+    },
+    {
+      "id": "nagisa_59_feature",
+      "star": 4,
+      "name": "試す石たち",
+      "img": "https://cdn.gamerch.com/resize/eyJidWNrZXQiOiJnYW1lcmNoLWltZy1jb250ZW50cyIsImtleSI6Indpa2lcLzEwMDdcL2VudHJ5XC9ZWDVmRlNXVC5wbmciLCJlZGl0cyI6eyJ3ZWJwIjp7InF1YWxpdHkiOjg1fSwidG9Gb3JtYXQiOiJ3ZWJwIn19",
+      "series": 59,
+      "type": "feature"
     }
   ],
   "Hiyori_Tomoe": [
@@ -2480,6 +2504,14 @@
       "name": "バンカラな青春",
       "img": "https://cdn.gamerch.com/resize/eyJidWNrZXQiOiJnYW1lcmNoLWltZy1jb250ZW50cyIsImtleSI6Indpa2lcLzEwMDdcL2VudHJ5XC81T3R5dkJRbS5wbmciLCJlZGl0cyI6eyJ3ZWJwIjp7InF1YWxpdHkiOjg1fSwidG9Gb3JtYXQiOiJ3ZWJwIn19",
       "series": 54,
+      "type": "event"
+    },
+    {
+      "id": "jun_59_event",
+      "star": 4,
+      "name": "実直な炎",
+      "img": "https://cdn.gamerch.com/resize/eyJidWNrZXQiOiJnYW1lcmNoLWltZy1jb250ZW50cyIsImtleSI6Indpa2lcLzEwMDdcL2VudHJ5XC9TaXNQbEIwci5wbmciLCJlZGl0cyI6eyJ3ZWJwIjp7InF1YWxpdHkiOjg1fSwidG9Gb3JtYXQiOiJ3ZWJwIn19",
+      "series": 59,
       "type": "event"
     }
   ],
@@ -5559,6 +5591,14 @@
       "img": "https://wx4.sinaimg.cn/mw2000/007kqdvOgy1h56h2yugjbj30ev0ikwpi.jpg",
       "series": 58,
       "type": "limited"
+    },
+    {
+      "id": "madara_59_event",
+      "star": 5,
+      "name": "楽しげに舞う炎",
+      "img": "https://cdn.gamerch.com/resize/eyJidWNrZXQiOiJnYW1lcmNoLWltZy1jb250ZW50cyIsImtleSI6Indpa2lcLzEwMDdcL2VudHJ5XC82SG5ya3JnRC5wbmciLCJlZGl0cyI6eyJ3ZWJwIjp7InF1YWxpdHkiOjg1fSwidG9Gb3JtYXQiOiJ3ZWJwIn19",
+      "series": 59,
+      "type": "event"
     }
   ]
 }
