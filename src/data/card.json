@@ -119,6 +119,14 @@
       "img": "https://cdn.gamerch.com/resize/eyJidWNrZXQiOiJnYW1lcmNoLWltZy1jb250ZW50cyIsImtleSI6Indpa2lcLzEwMDdcL2VudHJ5XC9aYTdCN29xZC5wbmciLCJlZGl0cyI6eyJ3ZWJwIjp7InF1YWxpdHkiOjg1fSwidG9Gb3JtYXQiOiJ3ZWJwIn19",
       "series": 52,
       "type": "event"
+    },
+    {
+      "id": "shinobu_60_event",
+      "star": 4,
+      "name": "幻の中の願い",
+      "img": "https://cdn.gamerch.com/resize/eyJidWNrZXQiOiJnYW1lcmNoLWltZy1jb250ZW50cyIsImtleSI6Indpa2lcLzEwMDdcL2VudHJ5XC9CMHl4TmRoQi5wbmciLCJlZGl0cyI6eyJ3ZWJwIjp7InF1YWxpdHkiOjg1fSwidG9Gb3JtYXQiOiJ3ZWJwIn19",
+      "series": 60,
+      "type": "event"
     }
   ],
   "Tomoya_Mashiro": [
@@ -583,6 +591,14 @@
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/6/6f/%28Tag-Along_Hungry%29_Tori_Himemiya_M.png/revision/latest/scale-to-width-down/200?cb=20220531170546",
       "series": 53,
       "type": "event"
+    },
+    {
+      "id": "An_Inspiration_for_Someone_Out_There",
+      "star": 5,
+      "name": "Tori_Himemiya",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/a/a9/%28An_Inspiration_for_Someone_Out_There%29_Tori_Himemiya_M.png/revision/latest/scale-to-width-down/200?cb=20220917220347",
+      "series": 60,
+      "type": "feature"
     }
   ],
   "Yuzuru_Fushimi": [
@@ -795,6 +811,14 @@
       "img": "https://cdn.gamerch.com/resize/eyJidWNrZXQiOiJnYW1lcmNoLWltZy1jb250ZW50cyIsImtleSI6Indpa2lcLzEwMDdcL2VudHJ5XC9YaHFUWE1CYi5wbmciLCJlZGl0cyI6eyJ3ZWJwIjp7InF1YWxpdHkiOjg1fSwidG9Gb3JtYXQiOiJ3ZWJwIn19",
       "series": 56,
       "type": "event"
+    },
+    {
+      "id": "Laundry_Meeting",
+      "star": 3,
+      "name": "Hokuto_Hidaka",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/a/a6/%28Laundry_Meeting%29_Hokuto_Hidaka_M.png/revision/latest/scale-to-width-down/200?cb=20220917220555",
+      "series": 60,
+      "type": "feature"
     }
   ],
   "Subaru_Akehoshi": [
@@ -2863,6 +2887,14 @@
       "img": "https://cdn.gamerch.com/resize/eyJidWNrZXQiOiJnYW1lcmNoLWltZy1jb250ZW50cyIsImtleSI6Indpa2lcLzEwMDdcL2VudHJ5XC9JajhLYXM2eS5wbmciLCJlZGl0cyI6eyJ3ZWJwIjp7InF1YWxpdHkiOjg1fSwidG9Gb3JtYXQiOiJ3ZWJwIn19",
       "series": 56,
       "type": "event"
+    },
+    {
+      "id": "hinata_60_event",
+      "star": 3,
+      "name": "幻と逡巡",
+      "img": "https://cdn.gamerch.com/resize/eyJidWNrZXQiOiJnYW1lcmNoLWltZy1jb250ZW50cyIsImtleSI6Indpa2lcLzEwMDdcL2VudHJ5XC9OZGt5TGxFby5wbmciLCJlZGl0cyI6eyJ3ZWJwIjp7InF1YWxpdHkiOjg1fSwidG9Gb3JtYXQiOiJ3ZWJwIn19",
+      "series": 60,
+      "type": "event"
     }
   ],
   "Yuta_Aoi": [
@@ -2968,6 +3000,14 @@
       "name": "歌うキーボーディスト",
       "img": "https://cdn.gamerch.com/resize/eyJidWNrZXQiOiJnYW1lcmNoLWltZy1jb250ZW50cyIsImtleSI6Indpa2lcLzEwMDdcL2VudHJ5XC9OYU1hcERudy5wbmciLCJlZGl0cyI6eyJ3ZWJwIjp7InF1YWxpdHkiOjg1fSwidG9Gb3JtYXQiOiJ3ZWJwIn19",
       "series": 51,
+      "type": "event"
+    },
+    {
+      "id": "yuta_60_event",
+      "star": 5,
+      "name": "幻のような姿",
+      "img": "https://cdn.gamerch.com/resize/eyJidWNrZXQiOiJnYW1lcmNoLWltZy1jb250ZW50cyIsImtleSI6Indpa2lcLzEwMDdcL2VudHJ5XC80d0xFUjc1ay5wbmciLCJlZGl0cyI6eyJ3ZWJwIjp7InF1YWxpdHkiOjg1fSwidG9Gb3JtYXQiOiJ3ZWJwIn19",
+      "series": 60,
       "type": "event"
     }
   ],
@@ -3401,6 +3441,14 @@
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/8/8d/%28Phantom_Hungry%29_Niki_Shiina_M.png/revision/latest/scale-to-width-down/200?cb=20220531170027",
       "series": 53,
       "type": "event"
+    },
+    {
+      "id": "Cycle_of_Delicacy",
+      "star": 4,
+      "name": "Niki_Shiina",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/a/a7/%28Cycle_of_Delicacy%29_Niki_Shiina_M.png/revision/latest/scale-to-width-down/200?cb=20220917220408",
+      "series": 60,
+      "type": "feature"
     }
   ],
   "Rei_Sakuma": [
@@ -3750,6 +3798,14 @@
       "name": "真面目アニマルズ",
       "img": "https://cdn.gamerch.com/resize/eyJidWNrZXQiOiJnYW1lcmNoLWltZy1jb250ZW50cyIsImtleSI6Indpa2lcLzEwMDdcL2VudHJ5XC9meUk3SW1kSi5wbmciLCJlZGl0cyI6eyJ3ZWJwIjp7InF1YWxpdHkiOjg1fSwidG9Gb3JtYXQiOiJ3ZWJwIn19",
       "series": 57,
+      "type": "event"
+    },
+    {
+      "id": "koga_60_event",
+      "star": 3,
+      "name": "幻と回顧",
+      "img": "https://cdn.gamerch.com/resize/eyJidWNrZXQiOiJnYW1lcmNoLWltZy1jb250ZW50cyIsImtleSI6Indpa2lcLzEwMDdcL2VudHJ5XC9LMFB2ZWJHYi5wbmciLCJlZGl0cyI6eyJ3ZWJwIjp7InF1YWxpdHkiOjg1fSwidG9Gb3JtYXQiOiJ3ZWJwIn19",
+      "series": 60,
       "type": "event"
     }
   ],
