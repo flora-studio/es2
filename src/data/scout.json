@@ -846,6 +846,20 @@
   "anniversary": [
     {
       "type": "anniversary",
+      "banner": "https://static.wikia.nocookie.net/ensemble-stars/images/0/0b/TAILS_Scout_Group_B_Banner.png/revision/latest/scale-to-width-down/380?cb=20220924145728",
+      "name": "TAILS Scout: Group B",
+      "cg": "https://i0.wp.com/news.qoo-app.com/wp-content/uploads/2022/09/ogp-tails.jpg",
+      "series": 60.2
+    },
+    {
+      "type": "anniversary",
+      "banner": "https://static.wikia.nocookie.net/ensemble-stars/images/f/f4/TAILS_Scout_Group_A_Banner.png/revision/latest/scale-to-width-down/380?cb=20220924145726",
+      "name": "TAILS Scout: Group A",
+      "cg": "https://i0.wp.com/news.qoo-app.com/wp-content/uploads/2022/09/ogp-tails.jpg",
+      "series": 60.1
+    },
+    {
+      "type": "anniversary",
       "banner": "https://static.wikia.nocookie.net/ensemble-stars/images/3/30/HEADS_Scout_Group_E_Banner.png/revision/latest/scale-to-width-down/380?cb=20220527021701",
       "name": "HEADS Scout: Group E",
       "cg": "https://wx2.sinaimg.cn/mw2000/007kqdvOgy1h296nm3r9xj31hc0qogwe.jpg",

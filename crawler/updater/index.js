@@ -3,8 +3,8 @@ const fs = require('fs')
 const BASE_URL = 'https://ensemble-stars.fandom.com'
 
 // TODO 每次记得替换
-const ScoutUrl = 'https://ensemble-stars.fandom.com/wiki/Category:Rei_Feature_Scout_2'
-const ScoutSeries = 61
+const ScoutUrl = 'https://ensemble-stars.fandom.com/wiki/Category:TAILS_Scout:_Group_B'
+const ScoutSeries = 60.2
 
 const scout = {
   type: '',
