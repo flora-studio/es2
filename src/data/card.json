@@ -819,6 +819,14 @@
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/a/a6/%28Laundry_Meeting%29_Hokuto_Hidaka_M.png/revision/latest/scale-to-width-down/200?cb=20220917220555",
       "series": 60,
       "type": "feature"
+    },
+    {
+      "id": "Chill_Yellow",
+      "star": 5,
+      "name": "Hokuto_Hidaka",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/2/24/%28Chill_Yellow%29_Hokuto_Hidaka_M.png/revision/latest/scale-to-width-down/200?cb=20220929205546",
+      "series": 61,
+      "type": "event"
     }
   ],
   "Subaru_Akehoshi": [
@@ -1388,6 +1396,14 @@
       "name": "さかなとうたう",
       "img": "https://cdn.gamerch.com/resize/eyJidWNrZXQiOiJnYW1lcmNoLWltZy1jb250ZW50cyIsImtleSI6Indpa2lcLzEwMDdcL2VudHJ5XC9kZEdIMFFOVi5wbmciLCJlZGl0cyI6eyJ3ZWJwIjp7InF1YWxpdHkiOjg1fSwidG9Gb3JtYXQiOiJ3ZWJwIn19",
       "series": 55,
+      "type": "feature"
+    },
+    {
+      "id": "Taste_of_a_New_Dish",
+      "star": 4,
+      "name": "Kanata_Shinkai",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/4/4a/%28Taste_of_a_New_Dish%29_Kanata_Shinkai_M.png/revision/latest/scale-to-width-down/200?cb=20220930090133",
+      "series": 61,
       "type": "feature"
     }
   ],
@@ -2537,6 +2553,14 @@
       "img": "https://cdn.gamerch.com/resize/eyJidWNrZXQiOiJnYW1lcmNoLWltZy1jb250ZW50cyIsImtleSI6Indpa2lcLzEwMDdcL2VudHJ5XC9TaXNQbEIwci5wbmciLCJlZGl0cyI6eyJ3ZWJwIjp7InF1YWxpdHkiOjg1fSwidG9Gb3JtYXQiOiJ3ZWJwIn19",
       "series": 59,
       "type": "event"
+    },
+    {
+      "id": "Eye-catching_Mannerisms",
+      "star": 3,
+      "name": "Jun_Sazanami",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/3/39/%28Eye-catching_Mannerisms%29_Jun_Sazanami_M.png/revision/latest/scale-to-width-down/200?cb=20220930090114",
+      "series": 61,
+      "type": "feature"
     }
   ],
   "Shu_Itsuki": [
@@ -3123,6 +3147,14 @@
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/8/85/%28Auspiciousness_and_Gods%29_Rinne_Amagi_M.png/revision/latest/scale-to-width-down/200?cb=20220726045641",
       "series": 57,
       "type": "feature"
+    },
+    {
+      "id": "Chill_time",
+      "star": 3,
+      "name": "Rinne_Amagi",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/3/3c/%28Chill_time%29_Rinne_Amagi_M.png/revision/latest/scale-to-width-down/200?cb=20220929205525",
+      "series": 61,
+      "type": "event"
     }
   ],
   "HiMERU": [
@@ -3570,6 +3602,14 @@
       "name": "寝床置き場",
       "img": "https://cdn.gamerch.com/resize/eyJidWNrZXQiOiJnYW1lcmNoLWltZy1jb250ZW50cyIsImtleSI6Indpa2lcLzEwMDdcL2VudHJ5XC9waGhubVJERy5wbmciLCJlZGl0cyI6eyJ3ZWJwIjp7InF1YWxpdHkiOjg1fSwidG9Gb3JtYXQiOiJ3ZWJwIn19",
       "series": 52,
+      "type": "feature"
+    },
+    {
+      "id": "A_Place_Close_to_the_Night_Sky",
+      "star": 5,
+      "name": "Rei_Sakuma",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/8/80/%28A_Place_Close_to_the_Night_Sky%29_Rei_Sakuma_M.png/revision/latest/scale-to-width-down/200?cb=20220930085937",
+      "series": 61,
       "type": "feature"
     }
   ],
@@ -4393,6 +4433,14 @@
       "img": "https://cdn.gamerch.com/resize/eyJidWNrZXQiOiJnYW1lcmNoLWltZy1jb250ZW50cyIsImtleSI6Indpa2lcLzEwMDdcL2VudHJ5XC9QNktQdU9BYi5wbmciLCJlZGl0cyI6eyJ3ZWJwIjp7InF1YWxpdHkiOjg1fSwidG9Gb3JtYXQiOiJ3ZWJwIn19",
       "series": 55,
       "type": "event"
+    },
+    {
+      "id": "Chill_Spot",
+      "star": 4,
+      "name": "Keito_Hasumi",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/f/f3/%28Chill_Spot%29_Keito_Hasumi_M.png/revision/latest/scale-to-width-down/200?cb=20220929205512",
+      "series": 61,
+      "type": "event"
     }
   ],
   "Kuro_Kiryu": [
@@ -4759,6 +4807,14 @@
       "img": "https://cdn.gamerch.com/resize/eyJidWNrZXQiOiJnYW1lcmNoLWltZy1jb250ZW50cyIsImtleSI6Indpa2lcLzEwMDdcL2VudHJ5XC80WkhMT3VHTS5wbmciLCJlZGl0cyI6eyJ3ZWJwIjp7InF1YWxpdHkiOjg1fSwidG9Gb3JtYXQiOiJ3ZWJwIn19",
       "series": 54,
       "type": "feature"
+    },
+    {
+      "id": "Chill_out",
+      "star": 3,
+      "name": "Tsukasa_Suou",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/2/23/%28Chill_out%29_Tsukasa_Suou_M.png/revision/latest/scale-to-width-down/200?cb=20220929205455",
+      "series": 61,
+      "type": "event"
     }
   ],
   "Leo_Tsukinaga": [

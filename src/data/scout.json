@@ -2,6 +2,13 @@
   "event": [
     {
       "type": "event",
+      "banner": "https://static.wikia.nocookie.net/ensemble-stars/images/6/6f/Chill_Yellow_Banner.png/revision/latest/scale-to-width-down/220?cb=20220929205554",
+      "name": "Chill Yellow",
+      "cg": "https://wx4.sinaimg.cn/mw2000/cb479696ly1h6noay5icej21ds0n0e81.jpg",
+      "series": 61
+    },
+    {
+      "type": "event",
       "banner": "https://static.wikia.nocookie.net/ensemble-stars/images/c/c6/MIRAGE_Banner.png/revision/latest/scale-to-width-down/300?cb=20220917220427",
       "name": "MIRAGE",
       "cg": "https://imglf4.lf127.net/img/a9754225f50c5a79/OTZaT0JsWTVaWjgrTFk1RzJXVEhyK1JWTHpZbzdIa1B4R3VHYnc4UW9TVT0.jpg?imageView&thumbnail=1680x0&quality=96&stripmeta=0&type=jpg",
@@ -422,6 +429,13 @@
     }
   ],
   "feature": [
+    {
+      "type": "feature",
+      "banner": "https://static.wikia.nocookie.net/ensemble-stars/images/d/df/Rei_Feature_Scout_2.png/revision/latest/scale-to-width-down/220?cb=20220927200351",
+      "name": "Rei Feature Scout 2",
+      "cg": "https://imglf3.lf127.net/img/0fbbe2bbf8b4b272/NGtML0pUMkFKSzdRek9xRXFNcmZLaEU3S0V1bHpXZmd5V3ZvQ2NIRU5RST0.jpg",
+      "series": 61
+    },
     {
       "type": "feature",
       "banner": "https://static.wikia.nocookie.net/ensemble-stars/images/4/4a/Tori_Feature_Scout_2.png/revision/latest/scale-to-width-down/220?cb=20220916174637",
