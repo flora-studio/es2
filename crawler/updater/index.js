@@ -3,8 +3,8 @@ const fs = require('fs')
 const BASE_URL = 'https://ensemble-stars.fandom.com'
 
 // TODO 每次记得替换
-const ScoutUrl = 'https://ensemble-stars.fandom.com/wiki/Category:TAILS_Scout:_Group_B'
-const ScoutSeries = 60.2
+const ScoutUrl = 'https://ensemble-stars.fandom.com/wiki/Category:TAILS_Scout:_Group_E'
+const ScoutSeries = 62.1
 
 const scout = {
   type: '',
@@ -29,7 +29,7 @@ c.queue({
       const $ = res.$
       // 卡池基础数据
       scout.name = $('#firstHeading').text().trim()
-      scout.type = scout.name.indexOf('Feature') > 0 ? 'feature' : 'event'
+      scout.type = 'anniversary' // scout.name.indexOf('Feature') > 0 ? 'feature' : 'event'
       const bannerUrl = $($('table img')[0]).attr('src')
       scout.banner = bannerUrl?.replace('scale-to-width-down/410', 'scale-to-width-down/220') || ''
       // 新卡的数据
@@ -41,7 +41,7 @@ c.queue({
           id: urlMatch[1],
           star: 0,
           name: urlMatch[2],
-          img: (img.attr('data-src') || img.attr('src'))?.replace('scale-to-width-down/144', 'scale-to-width-down/200') || '',
+          img: (img.attr('data-src') || img.attr('src'))?.replace('scale-to-width-down/115', 'scale-to-width-down/200') || '',
           series: scout.series,
           type: scout.type
         })

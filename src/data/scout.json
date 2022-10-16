@@ -860,6 +860,27 @@
   "anniversary": [
     {
       "type": "anniversary",
+      "banner": "https://static.wikia.nocookie.net/ensemble-stars/images/a/aa/TAILS_Scout_Group_E_Banner.png/revision/latest/scale-to-width-down/380?cb=20221011190036",
+      "name": "TAILS Scout: Group E",
+      "cg": "https://i0.wp.com/news.qoo-app.com/wp-content/uploads/2022/09/ogp-tails.jpg",
+      "series": 62.1
+    },
+    {
+      "type": "anniversary",
+      "banner": "https://static.wikia.nocookie.net/ensemble-stars/images/2/2d/TAILS_Scout_Group_D_Banner.png/revision/latest/scale-to-width-down/380?cb=20221007222901",
+      "name": "TAILS Scout: Group D",
+      "cg": "https://i0.wp.com/news.qoo-app.com/wp-content/uploads/2022/09/ogp-tails.jpg",
+      "series": 61.2
+    },
+    {
+      "type": "anniversary",
+      "banner": "https://static.wikia.nocookie.net/ensemble-stars/images/e/e6/TAILS_Scout_Group_C_Banner.png/revision/latest/scale-to-width-down/380?cb=20221007222843",
+      "name": "TAILS Scout: Group C",
+      "cg": "https://i0.wp.com/news.qoo-app.com/wp-content/uploads/2022/09/ogp-tails.jpg",
+      "series": 61.1
+    },
+    {
+      "type": "anniversary",
       "banner": "https://static.wikia.nocookie.net/ensemble-stars/images/0/0b/TAILS_Scout_Group_B_Banner.png/revision/latest/scale-to-width-down/380?cb=20220924145728",
       "name": "TAILS Scout: Group B",
       "cg": "https://i0.wp.com/news.qoo-app.com/wp-content/uploads/2022/09/ogp-tails.jpg",
