@@ -792,7 +792,7 @@
       "id": "Practicing",
       "star": 3,
       "name": "練習風景",
-      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/8/82/%28Practice%29_Kohaku_Oukawa_M.png/revision/latest/scale-to-width-down/200?cb=20200412144001",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/a/a8/%28Practice%29_Hokuto_Hidaka_M.png/revision/latest/scale-to-width-down/200?cb=20200412144001",
       "series": 0,
       "type": "normal"
     },
@@ -1803,6 +1803,14 @@
       "img": "https://cdn.gamerch.com/resize/eyJidWNrZXQiOiJnYW1lcmNoLWltZy1jb250ZW50cyIsImtleSI6Indpa2lcLzEwMDdcL2VudHJ5XC9BV082M05weC5wbmciLCJlZGl0cyI6eyJ3ZWJwIjp7InF1YWxpdHkiOjg1fSwidG9Gb3JtYXQiOiJ3ZWJwIn19",
       "series": 55,
       "type": "event"
+    },
+    {
+      "id": "hiiro_61.3_limited",
+      "star": 3,
+      "name": "如梦缤纷",
+      "img": "https://wx2.sinaimg.cn/mw2000/007kqdvOgy1h7787pmoo5j309l0bzmz0.jpg",
+      "series": 61.3,
+      "type": "limited"
     }
   ],
   "Aira_Shiratori": [
@@ -1996,7 +2004,7 @@
       "id": "Practicing",
       "star": 3,
       "name": "練習風景",
-      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/a/aa/%28Practicing%29_Mayoi_Ayase_M.png/revision/latest/scale-to-width-down/200?cb=20200412145427",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/0/06/%28Practice%29_Mayoi_Ayase_M.png/revision/latest/scale-to-width-down/200?cb=20200412145427",
       "series": 0,
       "type": "normal"
     },
@@ -2047,6 +2055,14 @@
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/f/f4/%28Courage_and_Surprise%29_Mayoi_Ayase_B.png/revision/latest/scale-to-width-down/200?cb=20221001201802",
       "series": 60.2,
       "type": "anniversary"
+    },
+    {
+      "id": "mayoi_61.3_limited",
+      "star": 5,
+      "name": "迷梦魅影",
+      "img": "https://wx4.sinaimg.cn/mw2000/007kqdvOgy1h7787p5he2j309j0bwq4s.jpg",
+      "series": 61.3,
+      "type": "limited"
     }
   ],
   "Tatsumi_Kazehaya": [
@@ -3511,6 +3527,14 @@
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/6/67/%28Adventure_and_Surprise%29_Kohaku_Oukawa_M.png/revision/latest/scale-to-width-down/200?cb=20221011210842",
       "series": 61.2,
       "type": "anniversary"
+    },
+    {
+      "id": "kohaku_61.3_limited",
+      "star": 3,
+      "name": "绮梦余音",
+      "img": "https://wx3.sinaimg.cn/mw2000/007kqdvOgy1h7787pgf9nj309j0bw75y.jpg",
+      "series": 61.3,
+      "type": "limited"
     }
   ],
   "Niki_Shiina": [
@@ -3625,6 +3649,14 @@
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/a/a7/%28Cycle_of_Delicacy%29_Niki_Shiina_M.png/revision/latest/scale-to-width-down/200?cb=20220917220408",
       "series": 60,
       "type": "feature"
+    },
+    {
+      "id": "niki_61.3_limited",
+      "star": 4,
+      "name": "甜梦乐园",
+      "img": "https://wx3.sinaimg.cn/mw2000/007kqdvOgy1h7787t8quij309i0bz405.jpg",
+      "series": 61.3,
+      "type": "limited"
     }
   ],
   "Rei_Sakuma": [
