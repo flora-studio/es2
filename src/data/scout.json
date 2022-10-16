@@ -2,6 +2,13 @@
   "event": [
     {
       "type": "event",
+      "banner": "https://cdn.gamerch.com/resize/eyJidWNrZXQiOiJnYW1lcmNoLWltZy1jb250ZW50cyIsImtleSI6Indpa2lcLzEwMDdcL2VudHJ5XC9zSXJQd3FxSy5wbmciLCJlZGl0cyI6eyJ3ZWJwIjp7InF1YWxpdHkiOjg1fSwidG9Gb3JtYXQiOiJ3ZWJwIn19",
+      "name": "PORTRAIT - Look back -",
+      "cg": "https://imglf4.lf127.net/img/292466095ffb70ad/MmRPcXNQMnYyVzNxc293VzREUEZQL01hbmI5S1NmRzJsTHRHblJaSFlPND0.jpg?imageView&thumbnail=1680x0&quality=96&stripmeta=0&type=jpg",
+      "series": 62
+    },
+    {
+      "type": "event",
       "banner": "https://static.wikia.nocookie.net/ensemble-stars/images/6/6f/Chill_Yellow_Banner.png/revision/latest/scale-to-width-down/220?cb=20220929205554",
       "name": "Chill Yellow",
       "cg": "https://wx4.sinaimg.cn/mw2000/cb479696ly1h6noay5icej21ds0n0e81.jpg",
@@ -429,6 +436,13 @@
     }
   ],
   "feature": [
+    {
+      "type": "feature",
+      "banner": "https://static.wikia.nocookie.net/ensemble-stars/images/3/3c/Rinne_Feature_Scout_2.png/revision/latest/scale-to-width-down/300?cb=20221010215526",
+      "name": "Rinne Feature Scout 2",
+      "cg": "https://wx1.sinaimg.cn/mw2000/006AsNLely1h705qo9ttwj31qc0u0q69.jpg",
+      "series": 62
+    },
     {
       "type": "feature",
       "banner": "https://static.wikia.nocookie.net/ensemble-stars/images/d/df/Rei_Feature_Scout_2.png/revision/latest/scale-to-width-down/220?cb=20220927200351",

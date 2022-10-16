@@ -127,6 +127,14 @@
       "img": "https://cdn.gamerch.com/resize/eyJidWNrZXQiOiJnYW1lcmNoLWltZy1jb250ZW50cyIsImtleSI6Indpa2lcLzEwMDdcL2VudHJ5XC9CMHl4TmRoQi5wbmciLCJlZGl0cyI6eyJ3ZWJwIjp7InF1YWxpdHkiOjg1fSwidG9Gb3JtYXQiOiJ3ZWJwIn19",
       "series": 60,
       "type": "event"
+    },
+    {
+      "id": "shinobu_62_feature",
+      "star": 3,
+      "name": "労いカップ",
+      "img": "https://cdn.gamerch.com/resize/eyJidWNrZXQiOiJnYW1lcmNoLWltZy1jb250ZW50cyIsImtleSI6Indpa2lcLzEwMDdcL2VudHJ5XC8wUmg0YllWRi5wbmciLCJlZGl0cyI6eyJ3ZWJwIjp7InF1YWxpdHkiOjg1fSwidG9Gb3JtYXQiOiJ3ZWJwIn19",
+      "series": 62,
+      "type": "feature"
     }
   ],
   "Tomoya_Mashiro": [
@@ -1063,6 +1071,14 @@
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/3/30/%28One_Step_and_Surprise%29_Makoto_Yuuki_B.png/revision/latest/scale-to-width-down/200?cb=20221001201142",
       "series": 60.2,
       "type": "anniversary"
+    },
+    {
+      "id": "makoto_62_event",
+      "star": 5,
+      "name": "幼いPORTRAIT",
+      "img": "https://cdn.gamerch.com/resize/eyJidWNrZXQiOiJnYW1lcmNoLWltZy1jb250ZW50cyIsImtleSI6Indpa2lcLzEwMDdcL2VudHJ5XC9VaTJUMGpJSi5wbmciLCJlZGl0cyI6eyJ3ZWJwIjp7InF1YWxpdHkiOjg1fSwidG9Gb3JtYXQiOiJ3ZWJwIn19",
+      "series": 62,
+      "type": "event"
     }
   ],
   "Mao_Isara": [
@@ -2121,6 +2137,14 @@
       "img": "https://cdn.gamerch.com/resize/eyJidWNrZXQiOiJnYW1lcmNoLWltZy1jb250ZW50cyIsImtleSI6Indpa2lcLzEwMDdcL2VudHJ5XC9BWG1xSmZDTS5wbmciLCJlZGl0cyI6eyJ3ZWJwIjp7InF1YWxpdHkiOjg1fSwidG9Gb3JtYXQiOiJ3ZWJwIn19",
       "series": 54,
       "type": "event"
+    },
+    {
+      "id": "tatsumi_62_feature",
+      "star": 4,
+      "name": "見えざるもの",
+      "img": "https://cdn.gamerch.com/resize/eyJidWNrZXQiOiJnYW1lcmNoLWltZy1jb250ZW50cyIsImtleSI6Indpa2lcLzEwMDdcL2VudHJ5XC9BM1JlWThrNy5wbmciLCJlZGl0cyI6eyJ3ZWJwIjp7InF1YWxpdHkiOjg1fSwidG9Gb3JtYXQiOiJ3ZWJwIn19",
+      "series": 62,
+      "type": "feature"
     }
   ],
   "Nagisa_Ran": [
@@ -3195,6 +3219,14 @@
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/3/32/%28Reversal_and_Surprise%29_Rinne_Amagi_B.png/revision/latest/scale-to-width-down/200?cb=20220924205452",
       "series": 60.1,
       "type": "anniversary"
+    },
+    {
+      "id": "rinne_62_feature",
+      "star": 5,
+      "name": "心躍る街明かり",
+      "img": "https://cdn.gamerch.com/resize/eyJidWNrZXQiOiJnYW1lcmNoLWltZy1jb250ZW50cyIsImtleSI6Indpa2lcLzEwMDdcL2VudHJ5XC91TUtpNmxydS5wbmciLCJlZGl0cyI6eyJ3ZWJwIjp7InF1YWxpdHkiOjg1fSwidG9Gb3JtYXQiOiJ3ZWJwIn19",
+      "series": 62,
+      "type": "feature"
     }
   ],
   "HiMERU": [
@@ -4056,7 +4088,7 @@
       "id": "Practicing",
       "star": 3,
       "name": "練習風景",
-      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/c/ce/%28Practicing%29_Nazuna_Nito_M.png/revision/latest/scale-to-width-down/200?cb=20200412150007",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/0/03/%28Practice%29_Nazuna_Nito_M.png/revision/latest/scale-to-width-down/200?cb=20200412150007",
       "series": 0,
       "type": "normal"
     },
@@ -5099,6 +5131,14 @@
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/a/ac/%28Headway_and_Surprise%29_Izumi_Sena_B.png/revision/latest/scale-to-width-down/200?cb=20220924205356",
       "series": 60.1,
       "type": "anniversary"
+    },
+    {
+      "id": "izumi_62_event",
+      "star": 4,
+      "name": "潔いPORTRAIT",
+      "img": "https://cdn.gamerch.com/resize/eyJidWNrZXQiOiJnYW1lcmNoLWltZy1jb250ZW50cyIsImtleSI6Indpa2lcLzEwMDdcL2VudHJ5XC9Md2xSaTNsMS5wbmciLCJlZGl0cyI6eyJ3ZWJwIjp7InF1YWxpdHkiOjg1fSwidG9Gb3JtYXQiOiJ3ZWJwIn19",
+      "series": 62,
+      "type": "event"
     }
   ],
   "Ritsu_Sakuma": [
@@ -5319,6 +5359,14 @@
       "img": "https://wx2.sinaimg.cn/mw2000/007kqdvOgy1h56h2yilosj30et0il48i.jpg",
       "series": 58,
       "type": "limited"
+    },
+    {
+      "id": "arashi_62_event",
+      "star": 4,
+      "name": "淡いPORTRAIT",
+      "img": "https://cdn.gamerch.com/resize/eyJidWNrZXQiOiJnYW1lcmNoLWltZy1jb250ZW50cyIsImtleSI6Indpa2lcLzEwMDdcL2VudHJ5XC9tb1lWVG5FTy5wbmciLCJlZGl0cyI6eyJ3ZWJwIjp7InF1YWxpdHkiOjg1fSwidG9Gb3JtYXQiOiJ3ZWJwIn19",
+      "series": 62,
+      "type": "event"
     }
   ],
   "Natsume_Sakasaki": [
@@ -5790,6 +5838,16 @@
       "name": "楽しげに舞う炎",
       "img": "https://cdn.gamerch.com/resize/eyJidWNrZXQiOiJnYW1lcmNoLWltZy1jb250ZW50cyIsImtleSI6Indpa2lcLzEwMDdcL2VudHJ5XC82SG5ya3JnRC5wbmciLCJlZGl0cyI6eyJ3ZWJwIjp7InF1YWxpdHkiOjg1fSwidG9Gb3JtYXQiOiJ3ZWJwIn19",
       "series": 59,
+      "type": "event"
+    }
+  ],
+  "Akiomi_Kunugi": [
+    {
+      "id": "akiomi_62_event",
+      "star": 3,
+      "name": "懐かしいPORTRAIT",
+      "img": "https://cdn.gamerch.com/resize/eyJidWNrZXQiOiJnYW1lcmNoLWltZy1jb250ZW50cyIsImtleSI6Indpa2lcLzEwMDdcL2VudHJ5XC95MWw1S1B0QS5wbmciLCJlZGl0cyI6eyJ3ZWJwIjp7InF1YWxpdHkiOjg1fSwidG9Gb3JtYXQiOiJ3ZWJwIn19",
+      "series": 62,
       "type": "event"
     }
   ]
