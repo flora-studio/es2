@@ -1445,6 +1445,14 @@
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/4/4a/%28Taste_of_a_New_Dish%29_Kanata_Shinkai_M.png/revision/latest/scale-to-width-down/200?cb=20220930090133",
       "series": 61,
       "type": "feature"
+    },
+    {
+      "id": "Mr._Doctor",
+      "star": 3,
+      "name": "おいしゃさん",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/0/0a/%28Mr._Doctor%29_Kanata_Shinkai_M.png/revision/latest/scale-to-width-down/200?cb=20221031035647",
+      "series": 63,
+      "type": "feature"
     }
   ],
   "Tetora_Nagumo": [
@@ -1940,6 +1948,14 @@
       "name": "反省と復習",
       "img": "https://cdn.gamerch.com/resize/eyJidWNrZXQiOiJnYW1lcmNoLWltZy1jb250ZW50cyIsImtleSI6Indpa2lcLzEwMDdcL2VudHJ5XC9qTDdRcjhLYS5wbmciLCJlZGl0cyI6eyJ3ZWJwIjp7InF1YWxpdHkiOjg1fSwidG9Gb3JtYXQiOiJ3ZWJwIn19",
       "series": 55,
+      "type": "event"
+    },
+    {
+      "id": "Promoting_Doll",
+      "star": 3,
+      "name": "宣伝ドール",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/5/50/%28Promoting_Doll%29_Aira_Shiratori_M.png/revision/latest/scale-to-width-down/200?cb=20221031195257",
+      "series": 63,
       "type": "event"
     }
   ],
@@ -3901,6 +3917,14 @@
       "img": "https://cdn.gamerch.com/resize/eyJidWNrZXQiOiJnYW1lcmNoLWltZy1jb250ZW50cyIsImtleSI6Indpa2lcLzEwMDdcL2VudHJ5XC9LSWJPd3YyWi5wbmciLCJlZGl0cyI6eyJ3ZWJwIjp7InF1YWxpdHkiOjg1fSwidG9Gb3JtYXQiOiJ3ZWJwIn19",
       "series": 58,
       "type": "event"
+    },
+    {
+      "id": "Swinging_Day",
+      "star": 4,
+      "name": "スイングな一日",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/f/ff/%28Swinging_Day%29_Kaoru_Hakaze_M.png/revision/latest/scale-to-width-down/200?cb=20221031035707",
+      "series": 63,
+      "type": "feature"
     }
   ],
   "Koga_Oogami": [
@@ -4145,6 +4169,14 @@
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/a/ac/%28Culmination_and_Surprise%29_Adonis_Otogari_B.png/revision/latest/scale-to-width-down/200?cb=20221007230512",
       "series": 61.1,
       "type": "anniversary"
+    },
+    {
+      "id": "Doll_and_Memories",
+      "star": 5,
+      "name": "ドールと思い出",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/f/ff/%28Doll_and_Memories%29_Adonis_Otogari_M.png/revision/latest/scale-to-width-down/200?cb=20221031195228",
+      "series": 63,
+      "type": "event"
     }
   ],
   "Nazuna_Nito": [
@@ -4389,6 +4421,14 @@
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/f/f2/%28Inquisitively_Hungry%29_Mitsuru_Tenma_M.png/revision/latest/scale-to-width-down/200?cb=20220531170018",
       "series": 53,
       "type": "event"
+    },
+    {
+      "id": "Inheriting_Doll",
+      "star": 3,
+      "name": "継承ドール",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/e/e5/%28Inheriting_Doll%29_Mitsuru_Tenma_M.png/revision/latest/scale-to-width-down/200?cb=20221031195242",
+      "series": 63,
+      "type": "event"
     }
   ],
   "Hajime_Shino": [
@@ -4519,6 +4559,14 @@
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/c/c4/%28Relaxation_and_Surprise%29_Hajime_Shino_B.png/revision/latest/scale-to-width-down/200?cb=20220924205432",
       "series": 60.1,
       "type": "anniversary"
+    },
+    {
+      "id": "Doll_and_Attachment",
+      "star": 4,
+      "name": "ドールと愛着",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/0/0b/%28Doll_and_Attachment%29_Hajime_Shino_M.png/revision/latest/scale-to-width-down/200?cb=20221031195207",
+      "series": 63,
+      "type": "event"
     }
   ],
   "Keito_Hasumi": [
@@ -5845,6 +5893,14 @@
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/9/9c/%28Happy_Surprise%29_Sora_Harukawa_B.png/revision/latest/scale-to-width-down/200?cb=20220508063932",
       "series": 51.2,
       "type": "anniversary"
+    },
+    {
+      "id": "Gentle_Interactions",
+      "star": 5,
+      "name": "そっと触れあい",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/e/ee/%28Gentle_Interactions%29_Sora_Harukawa_M.png/revision/latest/scale-to-width-down/200?cb=20221031035632",
+      "series": 63,
+      "type": "feature"
     }
   ],
   "Madara_Mikejima": [

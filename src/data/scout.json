@@ -2,6 +2,13 @@
   "event": [
     {
       "type": "event",
+      "banner": "https://static.wikia.nocookie.net/ensemble-stars/images/b/b3/Dolly_Knight_Banner.png/revision/latest/scale-to-width-down/220?cb=20221031195300",
+      "name": "Dolly Knight",
+      "cg": "https://static.wikia.nocookie.net/ensemble-stars/images/d/d7/%28Doll_and_Memories%29_Adonis_Otogari_CG2.png/revision/latest/scale-to-width-down/1000?cb=20221031195216",
+      "series": 63
+    },
+    {
+      "type": "event",
       "banner": "https://cdn.gamerch.com/resize/eyJidWNrZXQiOiJnYW1lcmNoLWltZy1jb250ZW50cyIsImtleSI6Indpa2lcLzEwMDdcL2VudHJ5XC9zSXJQd3FxSy5wbmciLCJlZGl0cyI6eyJ3ZWJwIjp7InF1YWxpdHkiOjg1fSwidG9Gb3JtYXQiOiJ3ZWJwIn19",
       "name": "PORTRAIT - Look back -",
       "cg": "https://imglf4.lf127.net/img/292466095ffb70ad/MmRPcXNQMnYyVzNxc293VzREUEZQL01hbmI5S1NmRzJsTHRHblJaSFlPND0.jpg?imageView&thumbnail=1680x0&quality=96&stripmeta=0&type=jpg",
@@ -436,6 +443,13 @@
     }
   ],
   "feature": [
+    {
+      "type": "feature",
+      "banner": "https://static.wikia.nocookie.net/ensemble-stars/images/1/10/Sora_Feature_Scout_2.png/revision/latest/scale-to-width-down/220?cb=20221026190632",
+      "name": "Sora Feature Scout 2",
+      "cg": "https://static.wikia.nocookie.net/ensemble-stars/images/3/34/%28Gentle_Interactions%29_Sora_Harukawa_CG2.png/revision/latest/scale-to-width-down/1000?cb=20221031035620",
+      "series": 63
+    },
     {
       "type": "feature",
       "banner": "https://static.wikia.nocookie.net/ensemble-stars/images/3/3c/Rinne_Feature_Scout_2.png/revision/latest/scale-to-width-down/300?cb=20221010215526",
