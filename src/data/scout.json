@@ -2,6 +2,13 @@
   "event": [
     {
       "type": "event",
+      "banner": "https://static.wikia.nocookie.net/ensemble-stars/images/e/ec/BLEND%2B_Banner.png/revision/latest/scale-to-width-down/220?cb=20221118162906",
+      "name": "BLEND+",
+      "cg": "https://static.wikia.nocookie.net/ensemble-stars/images/4/44/%28Specialty_Blend%29_Shu_Itsuki_CG2.png/revision/latest/scale-to-width-down/1000?cb=20221118215900",
+      "series": 64
+    },
+    {
+      "type": "event",
       "banner": "https://static.wikia.nocookie.net/ensemble-stars/images/b/b3/Dolly_Knight_Banner.png/revision/latest/scale-to-width-down/220?cb=20221031195300",
       "name": "Dolly Knight",
       "cg": "https://static.wikia.nocookie.net/ensemble-stars/images/d/d7/%28Doll_and_Memories%29_Adonis_Otogari_CG2.png/revision/latest/scale-to-width-down/1000?cb=20221031195216",
@@ -443,6 +450,13 @@
     }
   ],
   "feature": [
+    {
+      "type": "feature",
+      "banner": "https://static.wikia.nocookie.net/ensemble-stars/images/1/16/Nagisa_Feature_Scout_2.png/revision/latest/scale-to-width-down/220?cb=20221118162918",
+      "name": "Nagisa Feature Scout 2",
+      "cg": "https://static.wikia.nocookie.net/ensemble-stars/images/e/ee/%28Unexperienced_and_Unexplored_Discoveries%29_Nagisa_Ran_CG2.png/revision/latest/scale-to-width-down/1000?cb=20221118220004",
+      "series": 64
+    },
     {
       "type": "feature",
       "banner": "https://static.wikia.nocookie.net/ensemble-stars/images/1/10/Sora_Feature_Scout_2.png/revision/latest/scale-to-width-down/220?cb=20221026190632",

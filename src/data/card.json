@@ -1331,6 +1331,14 @@
       "img": "https://cdn.gamerch.com/resize/eyJidWNrZXQiOiJnYW1lcmNoLWltZy1jb250ZW50cyIsImtleSI6Indpa2lcLzEwMDdcL2VudHJ5XC9aRHRMaFpwMy5wbmciLCJlZGl0cyI6eyJ3ZWJwIjp7InF1YWxpdHkiOjg1fSwidG9Gb3JtYXQiOiJ3ZWJwIn19",
       "series": 58,
       "type": "event"
+    },
+    {
+      "id": "Substitute_Attendant",
+      "star": 4,
+      "name": "代理お世話係",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/f/f5/%28Substitute_Attendant%29_Chiaki_Morisawa_M.png/revision/latest/scale-to-width-down/200?cb=20221118215953",
+      "series": 64,
+      "type": "feature"
     }
   ],
   "Kanata_Shinkai": [
@@ -2323,6 +2331,14 @@
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/1/1b/%28Destiny_and_Surprise%29_Nagisa_Ran_M.png/revision/latest/scale-to-width-down/200?cb=20221011210917",
       "series": 61.2,
       "type": "anniversary"
+    },
+    {
+      "id": "Unexperienced_and_Unexplored_Discoveries",
+      "star": 5,
+      "name": "未体験と新発見",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/a/aa/%28Unexperienced_and_Unexplored_Discoveries%29_Nagisa_Ran_M.png/revision/latest/scale-to-width-down/200?cb=20221118220018",
+      "series": 64,
+      "type": "feature"
     }
   ],
   "Hiyori_Tomoe": [
@@ -2795,6 +2811,14 @@
       "img": "https://cdn.gamerch.com/resize/eyJidWNrZXQiOiJnYW1lcmNoLWltZy1jb250ZW50cyIsImtleSI6Indpa2lcLzEwMDdcL2VudHJ5XC83ZEdoWWV4bC5wbmciLCJlZGl0cyI6eyJ3ZWJwIjp7InF1YWxpdHkiOjg1fSwidG9Gb3JtYXQiOiJ3ZWJwIn19",
       "series": 55,
       "type": "feature"
+    },
+    {
+      "id": "Specialty_Blend",
+      "star": 5,
+      "name": "こだわりブレンド",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/2/2c/%28Specialty_Blend%29_Shu_Itsuki_B.png/revision/latest/scale-to-width-down/200?cb=20221118215855",
+      "series": 64,
+      "type": "event"
     }
   ],
   "Mika_Kagehira": [
@@ -3177,6 +3201,14 @@
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/4/46/%28Exploration_and_Surprise%29_Yuta_Aoi_M.png/revision/latest/scale-to-width-down/200?cb=20221011210934",
       "series": 62.1,
       "type": "anniversary"
+    },
+    {
+      "id": "Easygoing_Blend",
+      "star": 4,
+      "name": "気軽なブレンド",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/b/bf/%28Easygoing_Blend%29_Yuta_Aoi_B.png/revision/latest/scale-to-width-down/200?cb=20221118215744",
+      "series": 64,
+      "type": "event"
     }
   ],
   "Rinne_Amagi": [
@@ -4819,6 +4851,14 @@
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/9/99/%28Impact_and_Surprise%29_Kuro_Kiryu_M.png/revision/latest/scale-to-width-down/200?cb=20221011211004",
       "series": 62.1,
       "type": "anniversary"
+    },
+    {
+      "id": "Study_Game",
+      "star": 3,
+      "name": "勉強遊戯",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/9/95/%28Study_Game%29_Kuro_Kiryu_M.png/revision/latest/scale-to-width-down/200?cb=20221118215930",
+      "series": 64,
+      "type": "feature"
     }
   ],
   "Souma_Kanzaki": [
