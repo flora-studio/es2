@@ -1225,6 +1225,14 @@
       "img": "https://cdn.gamerch.com/resize/eyJidWNrZXQiOiJnYW1lcmNoLWltZy1jb250ZW50cyIsImtleSI6Indpa2lcLzEwMDdcL2VudHJ5XC9vblVDcjA4Ti5wbmciLCJlZGl0cyI6eyJ3ZWJwIjp7InF1YWxpdHkiOjg1fSwidG9Gb3JtYXQiOiJ3ZWJwIn19",
       "series": 59,
       "type": "feature"
+    },
+    {
+      "id": "Instrument%27s_Timbre",
+      "star": 3,
+      "name": "Mao_Isara",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/4/46/%28Instrument%27s_Timbre%29_Mao_Isara_M.png/revision/latest/scale-to-width-down/200?cb=20221203003235",
+      "series": 65,
+      "type": "feature"
     }
   ],
   "Chiaki_Morisawa": [
@@ -1607,6 +1615,14 @@
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/b/b6/%28Aspiration_and_Surprise%29_Tetora_Nagumo_B.png/revision/latest/scale-to-width-down/200?cb=20221007230417",
       "series": 61.1,
       "type": "anniversary"
+    },
+    {
+      "id": "tetora_65_event",
+      "star": 3,
+      "name": "一雫の宝石",
+      "img": "https://cdn.gamerch.com/resize/eyJidWNrZXQiOiJnYW1lcmNoLWltZy1jb250ZW50cyIsImtleSI6Indpa2lcLzEwMDdcL2VudHJ5XC81YXZIZ2JDei5wbmciLCJlZGl0cyI6eyJ3ZWJwIjp7InF1YWxpdHkiOjg1fSwidG9Gb3JtYXQiOiJ3ZWJwIn19",
+      "series": 65,
+      "type": "event"
     }
   ],
   "Midori_Takamine": [
@@ -3867,6 +3883,14 @@
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/0/07/%28Surprise_to_the_Future%29_Rei_Sakuma_M.png/revision/latest/scale-to-width-down/200?cb=20221011211037",
       "series": 61.2,
       "type": "anniversary"
+    },
+    {
+      "id": "rei_65_event",
+      "star": 3,
+      "name": "大粒の宝石",
+      "img": "https://cdn.gamerch.com/resize/eyJidWNrZXQiOiJnYW1lcmNoLWltZy1jb250ZW50cyIsImtleSI6Indpa2lcLzEwMDdcL2VudHJ5XC9Kb3FpWUthSy5wbmciLCJlZGl0cyI6eyJ3ZWJwIjp7InF1YWxpdHkiOjg1fSwidG9Gb3JtYXQiOiJ3ZWJwIn19",
+      "series": 65,
+      "type": "event"
     }
   ],
   "Kaoru_Hakaze": [
@@ -4363,6 +4387,14 @@
       "img": "https://cdn.gamerch.com/resize/eyJidWNrZXQiOiJnYW1lcmNoLWltZy1jb250ZW50cyIsImtleSI6Indpa2lcLzEwMDdcL2VudHJ5XC9FcXluZ1JnWS5wbmciLCJlZGl0cyI6eyJ3ZWJwIjp7InF1YWxpdHkiOjg1fSwidG9Gb3JtYXQiOiJ3ZWJwIn19",
       "series": 57,
       "type": "event"
+    },
+    {
+      "id": "Gamer_Friend",
+      "star": 4,
+      "name": "Nazuna_Nito",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/c/cc/%28Gamer_Friend%29_Nazuna_Nito_M.png/revision/latest/scale-to-width-down/200?cb=20221203003225",
+      "series": 65,
+      "type": "feature"
     }
   ],
   "Mitsuru_Tenma": [
@@ -4891,6 +4923,14 @@
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/9/95/%28Study_Game%29_Kuro_Kiryu_M.png/revision/latest/scale-to-width-down/200?cb=20221118215930",
       "series": 64,
       "type": "feature"
+    },
+    {
+      "id": "kuro_65_event",
+      "star": 5,
+      "name": "欲望の宝石商",
+      "img": "https://cdn.gamerch.com/resize/eyJidWNrZXQiOiJnYW1lcmNoLWltZy1jb250ZW50cyIsImtleSI6Indpa2lcLzEwMDdcL2VudHJ5XC91RW1qUEZONi5wbmciLCJlZGl0cyI6eyJ3ZWJwIjp7InF1YWxpdHkiOjg1fSwidG9Gb3JtYXQiOiJ3ZWJwIn19",
+      "series": 65,
+      "type": "event"
     }
   ],
   "Souma_Kanzaki": [
@@ -5493,6 +5533,14 @@
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/8/86/%28Awakening_Surprise%29_Ritsu_Sakuma_B.png/revision/latest/scale-to-width-down/200?cb=20221007230435",
       "series": 61.1,
       "type": "anniversary"
+    },
+    {
+      "id": "ritsu_65_event",
+      "star": 4,
+      "name": "誘惑の宝石商",
+      "img": "https://cdn.gamerch.com/resize/eyJidWNrZXQiOiJnYW1lcmNoLWltZy1jb250ZW50cyIsImtleSI6Indpa2lcLzEwMDdcL2VudHJ5XC82SnpXSlNSMy5wbmciLCJlZGl0cyI6eyJ3ZWJwIjp7InF1YWxpdHkiOjg1fSwidG9Gb3JtYXQiOiJ3ZWJwIn19",
+      "series": 65,
+      "type": "event"
     }
   ],
   "Arashi_Narukami": [
@@ -5623,6 +5671,14 @@
       "img": "https://cdn.gamerch.com/resize/eyJidWNrZXQiOiJnYW1lcmNoLWltZy1jb250ZW50cyIsImtleSI6Indpa2lcLzEwMDdcL2VudHJ5XC9tb1lWVG5FTy5wbmciLCJlZGl0cyI6eyJ3ZWJwIjp7InF1YWxpdHkiOjg1fSwidG9Gb3JtYXQiOiJ3ZWJwIn19",
       "series": 62,
       "type": "event"
+    },
+    {
+      "id": "Flower_with_a_Charming_Fragrance",
+      "star": 5,
+      "name": "Arashi_Narukami",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/1/1d/%28Flower_with_a_Charming_Fragrance%29_Arashi_Narukami_M.png/revision/latest/scale-to-width-down/200?cb=20221203003210",
+      "series": 65,
+      "type": "feature"
     }
   ],
   "Natsume_Sakasaki": [

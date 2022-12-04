@@ -2,6 +2,13 @@
   "event": [
     {
       "type": "event",
+      "banner": "https://static.wikia.nocookie.net/ensemble-stars/images/5/53/Secret_Jeweller_Banner.png/revision/latest/scale-to-width-down/300?cb=20221203003250",
+      "name": "秘密の宝石商",
+      "cg": "https://docimg5.docs.qq.com/image/AgAABS1DDua5LbVzeD5CQq1No8lDOSi2.png",
+      "series": 65
+    },
+    {
+      "type": "event",
       "banner": "https://static.wikia.nocookie.net/ensemble-stars/images/e/ec/BLEND%2B_Banner.png/revision/latest/scale-to-width-down/220?cb=20221118162906",
       "name": "BLEND+",
       "cg": "https://static.wikia.nocookie.net/ensemble-stars/images/4/44/%28Specialty_Blend%29_Shu_Itsuki_CG2.png/revision/latest/scale-to-width-down/1000?cb=20221118215900",
@@ -450,6 +457,13 @@
     }
   ],
   "feature": [
+    {
+      "type": "feature",
+      "banner": "https://static.wikia.nocookie.net/ensemble-stars/images/9/98/Arashi_Feature_Scout_2.png/revision/latest/scale-to-width-down/220?cb=20221125182654",
+      "name": "Arashi Feature Scout 2",
+      "cg": "https://docimg7.docs.qq.com/image/AgAABS1DDubq8LlojAlPQbJa_zb33dMg.jpeg",
+      "series": 65
+    },
     {
       "type": "feature",
       "banner": "https://static.wikia.nocookie.net/ensemble-stars/images/1/16/Nagisa_Feature_Scout_2.png/revision/latest/scale-to-width-down/220?cb=20221118162918",
