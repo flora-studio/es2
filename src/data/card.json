@@ -257,6 +257,14 @@
       "img": "https://cdn.gamerch.com/resize/eyJidWNrZXQiOiJnYW1lcmNoLWltZy1jb250ZW50cyIsImtleSI6Indpa2lcLzEwMDdcL2VudHJ5XC94eDNxWWhIMi5wbmciLCJlZGl0cyI6eyJ3ZWJwIjp7InF1YWxpdHkiOjg1fSwidG9Gb3JtYXQiOiJ3ZWJwIn19",
       "series": 57,
       "type": "event"
+    },
+    {
+      "id": "tomoya_65.1_limited",
+      "star": 3,
+      "name": "瑰色之颂",
+      "img": "https://docimg3.docs.qq.com/image/AgAABS1DDuY-Sb9vBtdNhqxEfUGrz4c0.png",
+      "series": 65.1,
+      "type": "limited"
     }
   ],
   "Eichi_Tenshouin": [
@@ -493,6 +501,14 @@
       "img": "https://cdn.gamerch.com/resize/eyJidWNrZXQiOiJnYW1lcmNoLWltZy1jb250ZW50cyIsImtleSI6Indpa2lcLzEwMDdcL2VudHJ5XC9pWFFwSUpjZi5wbmciLCJlZGl0cyI6eyJ3ZWJwIjp7InF1YWxpdHkiOjg1fSwidG9Gb3JtYXQiOiJ3ZWJwIn19",
       "series": 57,
       "type": "event"
+    },
+    {
+      "id": "wataru_65.1_limited",
+      "star": 5,
+      "name": "瑰色之颂",
+      "img": "https://docimg3.docs.qq.com/image/AgAABS1DDuZ3weBrezVC86fvdzY9gTVO.png",
+      "series": 65.1,
+      "type": "limited"
     }
   ],
   "Tori_Himemiya": [
@@ -2819,6 +2835,14 @@
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/2/2c/%28Specialty_Blend%29_Shu_Itsuki_B.png/revision/latest/scale-to-width-down/200?cb=20221118215855",
       "series": 64,
       "type": "event"
+    },
+    {
+      "id": "shu_65.1_limited",
+      "star": 3,
+      "name": "华美之颂",
+      "img": "https://docimg4.docs.qq.com/image/AgAABS1DDuangNxyTrtO1K-d2LA8Ld6T.png",
+      "series": 65.1,
+      "type": "limited"
     }
   ],
   "Mika_Kagehira": [
@@ -4721,6 +4745,14 @@
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/f/f3/%28Chill_Spot%29_Keito_Hasumi_M.png/revision/latest/scale-to-width-down/200?cb=20220929205512",
       "series": 61,
       "type": "event"
+    },
+    {
+      "id": "keito_65.1_limited",
+      "star": 4,
+      "name": "清雅之颂",
+      "img": "https://docimg2.docs.qq.com/image/AgAABS1DDub2XBjt40NN7rfJyER1JSGH.png",
+      "series": 65.1,
+      "type": "limited"
     }
   ],
   "Kuro_Kiryu": [
