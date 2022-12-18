@@ -265,6 +265,14 @@
       "img": "https://docimg3.docs.qq.com/image/AgAABS1DDuY-Sb9vBtdNhqxEfUGrz4c0.png",
       "series": 65.1,
       "type": "limited"
+    },
+    {
+      "id": "tomoya_66_event",
+      "star": 5,
+      "name": "情熱に火を付けて",
+      "img": "https://cdn.gamerch.com/resize/eyJidWNrZXQiOiJnYW1lcmNoLWltZy1jb250ZW50cyIsImtleSI6Indpa2lcLzEwMDdcL2VudHJ5XC9LdlJBRGFVQi5wbmciLCJlZGl0cyI6eyJ3ZWJwIjp7InF1YWxpdHkiOjg1fSwidG9Gb3JtYXQiOiJ3ZWJwIn19",
+      "series": 66,
+      "type": "event"
     }
   ],
   "Eichi_Tenshouin": [
@@ -395,6 +403,14 @@
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/7/77/%28Rejoicing_and_Surprise%29_Eichi_Tenshouin_M.png/revision/latest/scale-to-width-down/200?cb=20221011211021",
       "series": 62.1,
       "type": "anniversary"
+    },
+    {
+      "id": "eichi_66_feature",
+      "star": 4,
+      "name": "深夜の作業",
+      "img": "https://cdn.gamerch.com/resize/eyJidWNrZXQiOiJnYW1lcmNoLWltZy1jb250ZW50cyIsImtleSI6Indpa2lcLzEwMDdcL2VudHJ5XC9QVkVjTFFMUy5wbmciLCJlZGl0cyI6eyJ3ZWJwIjp7InF1YWxpdHkiOjg1fSwidG9Gb3JtYXQiOiJ3ZWJwIn19",
+      "series": 66,
+      "type": "feature"
     }
   ],
   "Wataru_Hibiki": [
@@ -509,6 +525,14 @@
       "img": "https://docimg3.docs.qq.com/image/AgAABS1DDuZ3weBrezVC86fvdzY9gTVO.png",
       "series": 65.1,
       "type": "limited"
+    },
+    {
+      "id": "wataru_66_feature",
+      "star": 5,
+      "name": "縛られない存在",
+      "img": "https://cdn.gamerch.com/resize/eyJidWNrZXQiOiJnYW1lcmNoLWltZy1jb250ZW50cyIsImtleSI6Indpa2lcLzEwMDdcL2VudHJ5XC9mYm1GMjMyQi5wbmciLCJlZGl0cyI6eyJ3ZWJwIjp7InF1YWxpdHkiOjg1fSwidG9Gb3JtYXQiOiJ3ZWJwIn19",
+      "series": 66,
+      "type": "feature"
     }
   ],
   "Tori_Himemiya": [
@@ -2615,6 +2639,14 @@
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/1/1e/%28Planning_and_Surprise%29_Ibara_Saegusa_B.png/revision/latest/scale-to-width-down/200?cb=20221001201839",
       "series": 60.2,
       "type": "anniversary"
+    },
+    {
+      "id": "ibara_66_event",
+      "star": 4,
+      "name": "気概に付く火",
+      "img": "https://cdn.gamerch.com/resize/eyJidWNrZXQiOiJnYW1lcmNoLWltZy1jb250ZW50cyIsImtleSI6Indpa2lcLzEwMDdcL2VudHJ5XC9hSElnMkNqdy5wbmciLCJlZGl0cyI6eyJ3ZWJwIjp7InF1YWxpdHkiOjg1fSwidG9Gb3JtYXQiOiJ3ZWJwIn19",
+      "series": 66,
+      "type": "event"
     }
   ],
   "Jun_Sazanami": [
@@ -6028,6 +6060,14 @@
       "name": "そっと触れあい",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/e/ee/%28Gentle_Interactions%29_Sora_Harukawa_M.png/revision/latest/scale-to-width-down/200?cb=20221031035632",
       "series": 63,
+      "type": "feature"
+    },
+    {
+      "id": "sora_66_feature",
+      "star": 3,
+      "name": "創造する遊び",
+      "img": "https://cdn.gamerch.com/resize/eyJidWNrZXQiOiJnYW1lcmNoLWltZy1jb250ZW50cyIsImtleSI6Indpa2lcLzEwMDdcL2VudHJ5XC95SmNJTHRzcy5wbmciLCJlZGl0cyI6eyJ3ZWJwIjp7InF1YWxpdHkiOjg1fSwidG9Gb3JtYXQiOiJ3ZWJwIn19",
+      "series": 66,
       "type": "feature"
     }
   ],

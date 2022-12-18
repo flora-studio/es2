@@ -2,6 +2,13 @@
   "event": [
     {
       "type": "event",
+      "banner": "https://cdn.gamerch.com/resize/eyJidWNrZXQiOiJnYW1lcmNoLWltZy1jb250ZW50cyIsImtleSI6Indpa2lcLzEwMDdcL2VudHJ5XC9TSmhoY3lPdC5wbmciLCJlZGl0cyI6eyJ3ZWJwIjp7InF1YWxpdHkiOjg1fSwidG9Gb3JtYXQiOiJ3ZWJwIn19",
+      "name": "Flambé！",
+      "cg": "https://imglf4.lf127.net/img/e18966316bac8f22/R1RxUVhMTUN2WXp5eEdYcVdNekF4djFvTzk5OGZmbksrZENzdzRmOHErST0.jpg?imageView&thumbnail=1680x0&quality=96&stripmeta=0&type=jpg",
+      "series": 66
+    },
+    {
+      "type": "event",
       "banner": "https://static.wikia.nocookie.net/ensemble-stars/images/5/53/Secret_Jeweller_Banner.png/revision/latest/scale-to-width-down/300?cb=20221203003250",
       "name": "秘密の宝石商",
       "cg": "https://docimg5.docs.qq.com/image/AgAABS1DDua5LbVzeD5CQq1No8lDOSi2.png",
@@ -457,6 +464,13 @@
     }
   ],
   "feature": [
+    {
+      "type": "feature",
+      "banner": "https://static.wikia.nocookie.net/ensemble-stars/images/c/ce/Wataru_Feature_Scout_2.png/revision/latest/scale-to-width-down/300?cb=20221212211623",
+      "name": "Wataru Feature Scout 2",
+      "cg": "https://imglf4.lf127.net/img/f125c8561aab3202/NGtML0pUMkFKSzZOTHFsWmdyMWNKOWVPMG1BYjV4VEFhc2N5ODRpVHZTWT0.jpg?imageView&thumbnail=1680x0&quality=96&stripmeta=0&type=jpg",
+      "series": 66
+    },
     {
       "type": "feature",
       "banner": "https://static.wikia.nocookie.net/ensemble-stars/images/9/98/Arashi_Feature_Scout_2.png/revision/latest/scale-to-width-down/220?cb=20221125182654",
