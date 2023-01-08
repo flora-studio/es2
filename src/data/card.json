@@ -2265,6 +2265,14 @@
       "img": "https://cdn.gamerch.com/resize/eyJidWNrZXQiOiJnYW1lcmNoLWltZy1jb250ZW50cyIsImtleSI6Indpa2lcLzEwMDdcL2VudHJ5XC9BM1JlWThrNy5wbmciLCJlZGl0cyI6eyJ3ZWJwIjp7InF1YWxpdHkiOjg1fSwidG9Gb3JtYXQiOiJ3ZWJwIn19",
       "series": 62,
       "type": "feature"
+    },
+    {
+      "id": "School_Morning",
+      "star": 3,
+      "name": "登校の朝",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/9/96/%28School_Morning%29_Tatsumi_Kazehaya_M.png/revision/latest/scale-to-width-down/200?cb=20230102093545",
+      "series": 67,
+      "type": "feature"
     }
   ],
   "Nagisa_Ran": [
@@ -3021,6 +3029,14 @@
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/a/a6/%28Idealistic_Surprise%29_Mika_Kagehira_B.png/revision/latest/scale-to-width-down/200?cb=20221007230530",
       "series": 61.1,
       "type": "anniversary"
+    },
+    {
+      "id": "Stitched_Heart",
+      "star": 5,
+      "name": "縫い留めた心",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/d/d7/%28Stitched_Heart%29_Mika_Kagehira_M.png/revision/latest/scale-to-width-down/200?cb=20230102093732",
+      "series": 67,
+      "type": "feature"
     }
   ],
   "Hinata_Aoi": [
@@ -3533,6 +3549,14 @@
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/3/38/%28Secrets_and_Surprise%29_HiMERU_B.png/revision/latest/scale-to-width-down/200?cb=20221001201910",
       "series": 60.2,
       "type": "anniversary"
+    },
+    {
+      "id": "Lucky_Bunny",
+      "star": 5,
+      "name": "ラッキーバニー",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/0/05/%28Lucky_Bunny%29_HiMERU_M.png/revision/latest/scale-to-width-down/200?cb=20230103023258",
+      "series": 67,
+      "type": "event"
     }
   ],
   "Kohaku_Oukawa": [
@@ -3777,6 +3801,14 @@
       "img": "https://docimg7.docs.qq.com/image/AgAABS1DDuYrHRFFswJIpJCjQy4OMCyP.jpeg",
       "series": 61.3,
       "type": "limited"
+    },
+    {
+      "id": "Chaperone_Bunny",
+      "star": 3,
+      "name": "付き添いバニー",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/f/f4/%28Chaperone_Bunny%29_Niki_Shiina_M.png/revision/latest/scale-to-width-down/200?cb=20230103023213",
+      "series": 67,
+      "type": "event"
     }
   ],
   "Rei_Sakuma": [
@@ -3923,6 +3955,14 @@
       "img": "https://cdn.gamerch.com/resize/eyJidWNrZXQiOiJnYW1lcmNoLWltZy1jb250ZW50cyIsImtleSI6Indpa2lcLzEwMDdcL2VudHJ5XC9Kb3FpWUthSy5wbmciLCJlZGl0cyI6eyJ3ZWJwIjp7InF1YWxpdHkiOjg1fSwidG9Gb3JtYXQiOiJ3ZWJwIn19",
       "series": 65,
       "type": "event"
+    },
+    {
+      "id": "Inquiring_Bunny",
+      "star": 4,
+      "name": "問いかけバニー",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/a/a0/%28Inquiring_Bunny%29_Rei_Sakuma_M.png/revision/latest/scale-to-width-down/200?cb=20230103023229",
+      "series": 67,
+      "type": "event"
     }
   ],
   "Kaoru_Hakaze": [
@@ -4037,6 +4077,14 @@
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/f/ff/%28Swinging_Day%29_Kaoru_Hakaze_M.png/revision/latest/scale-to-width-down/200?cb=20221031035707",
       "series": 63,
       "type": "feature"
+    },
+    {
+      "id": "Leftover_Bunny",
+      "star": 3,
+      "name": "お零れバニー",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/6/60/%28Leftover_Bunny%29_Kaoru_Hakaze_M.png/revision/latest/scale-to-width-down/200?cb=20230103023241",
+      "series": 67,
+      "type": "event"
     }
   ],
   "Koga_Oogami": [
@@ -5337,6 +5385,14 @@
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/3/32/%28Harmony_and_Surprise%29_Leo_Tsukinaga_M.png/revision/latest/scale-to-width-down/200?cb=20221011210949",
       "series": 61.2,
       "type": "anniversary"
+    },
+    {
+      "id": "Sincere_Song",
+      "star": 4,
+      "name": "偽りのない歌",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/e/e2/%28Sincere_Song%29_Leo_Tsukinaga_M.png/revision/latest/scale-to-width-down/200?cb=20230102093710",
+      "series": 67,
+      "type": "feature"
     }
   ],
   "Izumi_Sena": [
