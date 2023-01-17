@@ -4085,6 +4085,14 @@
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/6/60/%28Leftover_Bunny%29_Kaoru_Hakaze_M.png/revision/latest/scale-to-width-down/200?cb=20230103023241",
       "series": 67,
       "type": "event"
+    },
+    {
+      "id": "kaoru_67.1_limited",
+      "star": 3,
+      "name": "狐面春风",
+      "img": "https://docimg9.docs.qq.com/image/AgAABS1DDuZjLdMc46dHUK-jp0Hd3QkN.jpeg",
+      "series": 67.1,
+      "type": "limited"
     }
   ],
   "Koga_Oogami": [
@@ -4475,6 +4483,14 @@
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/c/cc/%28Gamer_Friend%29_Nazuna_Nito_M.png/revision/latest/scale-to-width-down/200?cb=20221203003225",
       "series": 65,
       "type": "feature"
+    },
+    {
+      "id": "nazuna_67.1_limited",
+      "star": 4,
+      "name": "兔挽春月",
+      "img": "https://docimg1.docs.qq.com/image/AgAABS1DDuZnlKG06c1C7b_T3glTyQxk.jpeg",
+      "series": 67.1,
+      "type": "limited"
     }
   ],
   "Mitsuru_Tenma": [
@@ -5125,6 +5141,14 @@
       "img": "https://cdn.gamerch.com/resize/eyJidWNrZXQiOiJnYW1lcmNoLWltZy1jb250ZW50cyIsImtleSI6Indpa2lcLzEwMDdcL2VudHJ5XC9UT01USWs3ay5wbmciLCJlZGl0cyI6eyJ3ZWJwIjp7InF1YWxpdHkiOjg1fSwidG9Gb3JtYXQiOiJ3ZWJwIn19",
       "series": 58,
       "type": "feature"
+    },
+    {
+      "id": "souma_67.1_limited",
+      "star": 3,
+      "name": "马踏春行",
+      "img": "https://docimg5.docs.qq.com/image/AgAABS1DDuaqMPgQv2tHLLrja6AWAIP0.jpeg",
+      "series": 67.1,
+      "type": "limited"
     }
   ],
   "Tsukasa_Suou": [
@@ -5515,6 +5539,14 @@
       "img": "https://cdn.gamerch.com/resize/eyJidWNrZXQiOiJnYW1lcmNoLWltZy1jb250ZW50cyIsImtleSI6Indpa2lcLzEwMDdcL2VudHJ5XC9Md2xSaTNsMS5wbmciLCJlZGl0cyI6eyJ3ZWJwIjp7InF1YWxpdHkiOjg1fSwidG9Gb3JtYXQiOiJ3ZWJwIn19",
       "series": 62,
       "type": "event"
+    },
+    {
+      "id": "izumi_67.1_limited",
+      "star": 5,
+      "name": "鹿鸣春野",
+      "img": "https://docimg5.docs.qq.com/image/AgAABS1DDuavHcKUWgZO07GEuepjpwsl.jpeg",
+      "series": 67.1,
+      "type": "limited"
     }
   ],
   "Ritsu_Sakuma": [
