@@ -2,6 +2,13 @@
   "event": [
     {
       "type": "event",
+      "banner": "https://static.wikia.nocookie.net/ensemble-stars/images/3/3b/Fair_Waltz_Banner.png/revision/latest/scale-to-width-down/220?cb=20230204230657",
+      "name": "Fair Waltz",
+      "cg": "https://docimg2.docs.qq.com/image/AgAABS1DDuaM43jC1U5D_ISU5bBWJfvF.png",
+      "series": 69
+    },
+    {
+      "type": "event",
       "banner": "https://static.wikia.nocookie.net/ensemble-stars/images/f/f8/Stormcloud_FUMBLE_Banner.png/revision/latest/scale-to-width-down/220?cb=20230115031703",
       "name": "Stormcloud FUMBLE",
       "cg": "https://static.wikia.nocookie.net/ensemble-stars/images/6/67/%28Unlucky_Bunny%29_Aira_Shiratori_CG2.png/revision/latest/scale-to-width-down/1000?cb=20230115021406",
@@ -478,6 +485,13 @@
     }
   ],
   "feature": [
+    {
+      "type": "feature",
+      "banner": "https://static.wikia.nocookie.net/ensemble-stars/images/4/42/Hiyori_Feature_Scout_2.png/revision/latest/scale-to-width-down/220?cb=20230125205606",
+      "name": "Hiyori Feature Scout 2",
+      "cg": "https://docimg9.docs.qq.com/image/AgAABS1DDub6LwpK8shMxoCmg1ac4__J.png",
+      "series": 69
+    },
     {
       "type": "feature",
       "banner": "https://static.wikia.nocookie.net/ensemble-stars/images/b/b5/Keito_Feature_Scout_2.png/revision/latest/scale-to-width-down/220?cb=20230115021420",

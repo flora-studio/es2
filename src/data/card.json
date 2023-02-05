@@ -419,6 +419,14 @@
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/a/ae/%28Positive_Bunny%29_Eichi_Tenshouin_M.png/revision/latest/scale-to-width-down/200?cb=20230115021404",
       "series": 68,
       "type": "event"
+    },
+    {
+      "id": "Waltz_Expectation",
+      "star": 5,
+      "name": "Eichi_Tenshouin",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/3/3c/%28Waltz_Expectation%29_Eichi_Tenshouin_M.png/revision/latest/scale-to-width-down/200?cb=20230205034749",
+      "series": 69,
+      "type": "event"
     }
   ],
   "Wataru_Hibiki": [
@@ -793,6 +801,14 @@
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/6/60/%28Handed-Down_Recipe%29_Yuzuru_Fushimi_M.png/revision/latest/scale-to-width-down/150?cb=20230115020420",
       "series": 68,
       "type": "feature"
+    },
+    {
+      "id": "Waltz_Assistance",
+      "star": 3,
+      "name": "Yuzuru_Fushimi",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/7/71/%28Waltz_Assistance%29_Yuzuru_Fushimi_M.png/revision/latest/scale-to-width-down/200?cb=20230205034626",
+      "series": 69,
+      "type": "event"
     }
   ],
   "Hokuto_Hidaka": [
@@ -1907,6 +1923,14 @@
       "img": "https://docimg7.docs.qq.com/image/AgAABS1DDuZgToeXiYJCSquM7USaoz9f.jpeg",
       "series": 61.3,
       "type": "limited"
+    },
+    {
+      "id": "Waltz_Request",
+      "star": 4,
+      "name": "Hiiro_Amagi",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/d/d4/%28Waltz_Request%29_Hiiro_Amagi_M.png/revision/latest/scale-to-width-down/200?cb=20230205035006",
+      "series": 69,
+      "type": "event"
     }
   ],
   "Aira_Shiratori": [
@@ -2557,6 +2581,14 @@
       "img": "https://cdn.gamerch.com/resize/eyJidWNrZXQiOiJnYW1lcmNoLWltZy1jb250ZW50cyIsImtleSI6Indpa2lcLzEwMDdcL2VudHJ5XC8yS3B0Zml5Zy5wbmciLCJlZGl0cyI6eyJ3ZWJwIjp7InF1YWxpdHkiOjg1fSwidG9Gb3JtYXQiOiJ3ZWJwIn19",
       "series": 54,
       "type": "event"
+    },
+    {
+      "id": "Sunspot%27s_Gaze",
+      "star": 5,
+      "name": "Hiyori_Tomoe",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/8/88/%28Sunspot%27s_Gaze%29_Hiyori_Tomoe_M.png/revision/latest/scale-to-width-down/150?cb=20230201193622",
+      "series": 69,
+      "type": "feature"
     }
   ],
   "Ibara_Saegusa": [
@@ -2809,6 +2841,14 @@
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/6/6a/%28Courage_and_Surprise%29_Jun_Sazanami_M.png/revision/latest/scale-to-width-down/200?cb=20221011210859",
       "series": 62.1,
       "type": "anniversary"
+    },
+    {
+      "id": "A_Kindred_Spirit%27s_Passion",
+      "star": 4,
+      "name": "Jun_Sazanami",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/1/14/%28A_Kindred_Spirit%27s_Passion%29_Jun_Sazanami_M.png/revision/latest/scale-to-width-down/150?cb=20230201193550",
+      "series": 69,
+      "type": "feature"
     }
   ],
   "Shu_Itsuki": [
@@ -2931,6 +2971,14 @@
       "img": "https://docimg4.docs.qq.com/image/AgAABS1DDuangNxyTrtO1K-d2LA8Ld6T.png",
       "series": 65.1,
       "type": "limited"
+    },
+    {
+      "id": "Reminiscing_on_Travels",
+      "star": 3,
+      "name": "Shu_Itsuki",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/9/95/%28Reminiscing_on_Travels%29_Shu_Itsuki_M.png/revision/latest/scale-to-width-down/150?cb=20230201193606",
+      "series": 69,
+      "type": "feature"
     }
   ],
   "Mika_Kagehira": [
@@ -4384,6 +4432,14 @@
       "name": "ドールと思い出",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/f/ff/%28Doll_and_Memories%29_Adonis_Otogari_M.png/revision/latest/scale-to-width-down/200?cb=20221031195228",
       "series": 63,
+      "type": "event"
+    },
+    {
+      "id": "Waltz_Participation",
+      "star": 3,
+      "name": "Adonis_Otogari",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/1/1b/%28Waltz_Participation%29_Adonis_Otogari_M.png/revision/latest/scale-to-width-down/200?cb=20230205034813",
+      "series": 69,
       "type": "event"
     }
   ],
