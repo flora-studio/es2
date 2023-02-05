@@ -2,6 +2,13 @@
   "event": [
     {
       "type": "event",
+      "banner": "https://static.wikia.nocookie.net/ensemble-stars/images/f/f8/Stormcloud_FUMBLE_Banner.png/revision/latest/scale-to-width-down/220?cb=20230115031703",
+      "name": "Stormcloud FUMBLE",
+      "cg": "https://static.wikia.nocookie.net/ensemble-stars/images/6/67/%28Unlucky_Bunny%29_Aira_Shiratori_CG2.png/revision/latest/scale-to-width-down/1000?cb=20230115021406",
+      "series": 68
+    },
+    {
+      "type": "event",
       "banner": "https://static.wikia.nocookie.net/ensemble-stars/images/6/61/Super_Lucky_SCRAMBLE_Banner.png/revision/latest/scale-to-width-down/220?cb=20230107032242",
       "name": "Super Lucky SCRAMBLE",
       "cg": "https://static.wikia.nocookie.net/ensemble-stars/images/f/f3/%28Lucky_Bunny%29_HiMERU_CG2.png/revision/latest/scale-to-width-down/1000?cb=20230103023248",
@@ -471,6 +478,13 @@
     }
   ],
   "feature": [
+    {
+      "type": "feature",
+      "banner": "https://static.wikia.nocookie.net/ensemble-stars/images/b/b5/Keito_Feature_Scout_2.png/revision/latest/scale-to-width-down/220?cb=20230115021420",
+      "name": "Keito Feature Scout 2",
+      "cg": "https://static.wikia.nocookie.net/ensemble-stars/images/2/24/%28Sincere_Kindness%29_Keito_Hasumi_CG2.png/revision/latest/scale-to-width-down/1000?cb=20230115020423",
+      "series": 68
+    },
     {
       "type": "feature",
       "banner": "https://static.wikia.nocookie.net/ensemble-stars/images/6/62/Mika_Feature_Scout_2.png/revision/latest/scale-to-width-down/220?cb=20221231021525",

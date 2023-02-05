@@ -411,6 +411,14 @@
       "img": "https://cdn.gamerch.com/resize/eyJidWNrZXQiOiJnYW1lcmNoLWltZy1jb250ZW50cyIsImtleSI6Indpa2lcLzEwMDdcL2VudHJ5XC9QVkVjTFFMUy5wbmciLCJlZGl0cyI6eyJ3ZWJwIjp7InF1YWxpdHkiOjg1fSwidG9Gb3JtYXQiOiJ3ZWJwIn19",
       "series": 66,
       "type": "feature"
+    },
+    {
+      "id": "Positive_Bunny",
+      "star": 3,
+      "name": "前向きバニー",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/a/ae/%28Positive_Bunny%29_Eichi_Tenshouin_M.png/revision/latest/scale-to-width-down/200?cb=20230115021404",
+      "series": 68,
+      "type": "event"
     }
   ],
   "Wataru_Hibiki": [
@@ -655,6 +663,14 @@
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/a/a9/%28An_Inspiration_for_Someone_Out_There%29_Tori_Himemiya_M.png/revision/latest/scale-to-width-down/200?cb=20220917220347",
       "series": 60,
       "type": "feature"
+    },
+    {
+      "id": "Lounging_Bunny",
+      "star": 4,
+      "name": "暇つぶしバニー",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/4/49/%28Lounging_Bunny%29_Tori_Himemiya_M.png/revision/latest/scale-to-width-down/200?cb=20230115021357",
+      "series": 68,
+      "type": "event"
     }
   ],
   "Yuzuru_Fushimi": [
@@ -769,6 +785,14 @@
       "img": "https://cdn.gamerch.com/resize/eyJidWNrZXQiOiJnYW1lcmNoLWltZy1jb250ZW50cyIsImtleSI6Indpa2lcLzEwMDdcL2VudHJ5XC92NWRXckFrUS5wbmciLCJlZGl0cyI6eyJ3ZWJwIjp7InF1YWxpdHkiOjg1fSwidG9Gb3JtYXQiOiJ3ZWJwIn19",
       "series": 55,
       "type": "event"
+    },
+    {
+      "id": "Handed-Down_Recipe",
+      "star": 3,
+      "name": "伝わる料理",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/6/60/%28Handed-Down_Recipe%29_Yuzuru_Fushimi_M.png/revision/latest/scale-to-width-down/150?cb=20230115020420",
+      "series": 68,
+      "type": "feature"
     }
   ],
   "Hokuto_Hidaka": [
@@ -2020,6 +2044,14 @@
       "name": "宣伝ドール",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/5/50/%28Promoting_Doll%29_Aira_Shiratori_M.png/revision/latest/scale-to-width-down/200?cb=20221031195257",
       "series": 63,
+      "type": "event"
+    },
+    {
+      "id": "Unlucky_Bunny",
+      "star": 5,
+      "name": "アンラッキーバニー",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/d/d9/%28Unlucky_Bunny%29_Aira_Shiratori_M.png/revision/latest/scale-to-width-down/200?cb=20230115021414",
+      "series": 68,
       "type": "event"
     }
   ],
@@ -3679,6 +3711,14 @@
       "img": "https://docimg7.docs.qq.com/image/AgAABS1DDuZrH1Mu9fBKF4mZnreq4vab.jpeg",
       "series": 61.3,
       "type": "limited"
+    },
+    {
+      "id": "Ensnared_Bunny",
+      "star": 3,
+      "name": "巻き込まれバニー",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/5/56/%28Ensnared_Bunny%29_Kohaku_Oukawa_M.png/revision/latest/scale-to-width-down/200?cb=20230115021346",
+      "series": 68,
+      "type": "event"
     }
   ],
   "Niki_Shiina": [
@@ -4881,6 +4921,14 @@
       "img": "https://docimg2.docs.qq.com/image/AgAABS1DDub2XBjt40NN7rfJyER1JSGH.png",
       "series": 65.1,
       "type": "limited"
+    },
+    {
+      "id": "Sincere_Kindness",
+      "star": 5,
+      "name": "生真面目な優しさ",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/8/8b/%28Sincere_Kindness%29_Keito_Hasumi_M.png/revision/latest/scale-to-width-down/150?cb=20230115020431",
+      "series": 68,
+      "type": "feature"
     }
   ],
   "Kuro_Kiryu": [
@@ -6035,6 +6083,14 @@
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/a/ae/%28Engagement_and_Surprise%29_Tsumugi_Aoba_B.png/revision/latest/scale-to-width-down/200?cb=20220924205338",
       "series": 60.1,
       "type": "anniversary"
+    },
+    {
+      "id": "The_Restaurant%27s_Transformation",
+      "star": 4,
+      "name": "移ろう店の姿",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/6/68/%28The_Restaurant%27s_Transformation%29_Tsumugi_Aoba_M.png/revision/latest/scale-to-width-down/150?cb=20230115020443",
+      "series": 68,
+      "type": "feature"
     }
   ],
   "Sora_Harukawa": [
