@@ -12,7 +12,8 @@ export default defineConfig(({ mode }) => ({
         main: resolve(__dirname, 'index.html'),
         // admin: resolve(__dirname, 'admin/index.html')
       }
-    }
+    },
+    cssTarget: 'chrome61'
   },
   base: mode === 'root' ? '/' : '/es2/'
 }))
