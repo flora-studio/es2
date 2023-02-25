@@ -931,6 +931,14 @@
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/9/9f/%28Conviction_and_Surprise%29_Hokuto_Hidaka_B.png/revision/latest/scale-to-width-down/200?cb=20221001201607",
       "series": 60.2,
       "type": "anniversary"
+    },
+    {
+      "id": "Confident_Monster",
+      "star": 4,
+      "name": "自信家モンスター",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/4/42/%28Confident_Monster%29_Hokuto_Hidaka_M.png/revision/latest/scale-to-width-down/200?cb=20230217021753",
+      "series": 70,
+      "type": "event"
     }
   ],
   "Subaru_Akehoshi": [
@@ -1166,6 +1174,14 @@
       "name": "幼いPORTRAIT",
       "img": "https://cdn.gamerch.com/resize/eyJidWNrZXQiOiJnYW1lcmNoLWltZy1jb250ZW50cyIsImtleSI6Indpa2lcLzEwMDdcL2VudHJ5XC9VaTJUMGpJSi5wbmciLCJlZGl0cyI6eyJ3ZWJwIjp7InF1YWxpdHkiOjg1fSwidG9Gb3JtYXQiOiJ3ZWJwIn19",
       "series": 62,
+      "type": "event"
+    },
+    {
+      "id": "Delicate_Monster",
+      "star": 3,
+      "name": "繊細モンスター",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/b/bf/%28Delicate_Monster%29_Makoto_Yuuki_M.png/revision/latest/scale-to-width-down/200?cb=20230217021801",
+      "series": 70,
       "type": "event"
     }
   ],
@@ -2329,6 +2345,14 @@
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/9/96/%28School_Morning%29_Tatsumi_Kazehaya_M.png/revision/latest/scale-to-width-down/200?cb=20230102093545",
       "series": 67,
       "type": "feature"
+    },
+    {
+      "id": "The_Warmth_of_a_Refreshing_Breeze",
+      "star": 5,
+      "name": "爽やかな風の温もり",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/b/bd/%28The_Warmth_of_a_Refreshing_Breeze%29_Tatsumi_Kazehaya_M.png/revision/latest/scale-to-width-down/200?cb=20230219183819",
+      "series": 70,
+      "type": "feature"
     }
   ],
   "Nagisa_Ran": [
@@ -2979,6 +3003,14 @@
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/9/95/%28Reminiscing_on_Travels%29_Shu_Itsuki_M.png/revision/latest/scale-to-width-down/150?cb=20230201193606",
       "series": 69,
       "type": "feature"
+    },
+    {
+      "id": "Artistic_Monster",
+      "star": 3,
+      "name": "芸術的モンスター",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/b/b1/%28Artistic_Monster%29_Shu_Itsuki_M.png/revision/latest/scale-to-width-down/200?cb=20230217021728",
+      "series": 70,
+      "type": "event"
     }
   ],
   "Mika_Kagehira": [
@@ -3515,6 +3547,14 @@
       "img": "https://cdn.gamerch.com/resize/eyJidWNrZXQiOiJnYW1lcmNoLWltZy1jb250ZW50cyIsImtleSI6Indpa2lcLzEwMDdcL2VudHJ5XC91TUtpNmxydS5wbmciLCJlZGl0cyI6eyJ3ZWJwIjp7InF1YWxpdHkiOjg1fSwidG9Gb3JtYXQiOiJ3ZWJwIn19",
       "series": 62,
       "type": "feature"
+    },
+    {
+      "id": "Gambling_Monster",
+      "star": 3,
+      "name": "運試しモンスター",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/0/01/%28Gambling_Monster%29_Rinne_Amagi_M.png/revision/latest/scale-to-width-down/200?cb=20230217021810",
+      "series": 70,
+      "type": "event"
     }
   ],
   "HiMERU": [
@@ -5521,6 +5561,14 @@
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/e/e2/%28Sincere_Song%29_Leo_Tsukinaga_M.png/revision/latest/scale-to-width-down/200?cb=20230102093710",
       "series": 67,
       "type": "feature"
+    },
+    {
+      "id": "A_Concert_In_Any_Place",
+      "star": 3,
+      "name": "どこでも演奏会",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/1/1e/%28A_Concert_In_Any_Place%29_Leo_Tsukinaga_M.png/revision/latest/scale-to-width-down/200?cb=20230219183755",
+      "series": 70,
+      "type": "feature"
     }
   ],
   "Izumi_Sena": [
@@ -5764,6 +5812,14 @@
       "name": "誘惑の宝石商",
       "img": "https://cdn.gamerch.com/resize/eyJidWNrZXQiOiJnYW1lcmNoLWltZy1jb250ZW50cyIsImtleSI6Indpa2lcLzEwMDdcL2VudHJ5XC82SnpXSlNSMy5wbmciLCJlZGl0cyI6eyJ3ZWJwIjp7InF1YWxpdHkiOjg1fSwidG9Gb3JtYXQiOiJ3ZWJwIn19",
       "series": 65,
+      "type": "event"
+    },
+    {
+      "id": "Clever_Monster",
+      "star": 5,
+      "name": "巧妙なモンスター",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/7/7e/%28Clever_Monster%29_Ritsu_Sakuma_M.png/revision/latest/scale-to-width-down/200?cb=20230217021740",
+      "series": 70,
       "type": "event"
     }
   ],
@@ -6024,6 +6080,14 @@
       "name": "映像チェック",
       "img": "https://cdn.gamerch.com/resize/eyJidWNrZXQiOiJnYW1lcmNoLWltZy1jb250ZW50cyIsImtleSI6Indpa2lcLzEwMDdcL2VudHJ5XC9NUDlHV1lNWi5wbmciLCJlZGl0cyI6eyJ3ZWJwIjp7InF1YWxpdHkiOjg1fSwidG9Gb3JtYXQiOiJ3ZWJwIn19",
       "series": 54,
+      "type": "feature"
+    },
+    {
+      "id": "Compromise_is_Also_Friendship",
+      "star": 4,
+      "name": "妥協も友情",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/f/f4/%28Compromise_is_Also_Friendship%29_Natsume_Sakasaki_M.png/revision/latest/scale-to-width-down/200?cb=20230219183807",
+      "series": 70,
       "type": "feature"
     }
   ],
