@@ -2,6 +2,13 @@
   "event": [
     {
       "type": "event",
+      "banner": "https://static.wikia.nocookie.net/ensemble-stars/images/6/69/Blush_Flash_Banner.png/revision/latest/scale-to-width-down/220?cb=20230303065711",
+      "name": "Blush Flash",
+      "cg": "https://static.wikia.nocookie.net/ensemble-stars/images/d/d4/%28Feelings_of_Frustration%29_Shinobu_Sengoku_CG2.png/revision/latest/scale-to-width-down/1000?cb=20230303075948",
+      "series": 71
+    },
+    {
+      "type": "event",
       "banner": "https://static.wikia.nocookie.net/ensemble-stars/images/b/b7/CRAFTMONSTER_Banner.png/revision/latest/scale-to-width-down/220?cb=20230214201653",
       "name": "CRAFTMONSTER (Scout)",
       "cg": "https://static.wikia.nocookie.net/ensemble-stars/images/2/2f/%28Clever_Monster%29_Ritsu_Sakuma_CG2.png/revision/latest/scale-to-width-down/1000?cb=20230217021731",
@@ -135,7 +142,7 @@
     },
     {
       "type": "event",
-      "banner": "https://static.wikia.nocookie.net/ensemble-stars/images/6/66/Band_BB_Banner.png/revision/latest/scale-to-width-down/410?cb=20220503225634",
+      "banner": "https://static.wikia.nocookie.net/ensemble-stars/images/6/67/Band_BB_%28Scout%29_Banner.png/revision/latest/scale-to-width-down/220?cb=20220503225634",
       "name": "Band BB",
       "cg": "https://wx1.sinaimg.cn/mw2000/007kqdvOgy1h1u2ptt87mj31hg0qrn7k.jpg",
       "series": 51
@@ -303,14 +310,14 @@
     },
     {
       "type": "event",
-      "banner": "https://static.wikia.nocookie.net/ensemble-stars/images/8/8b/Pretty_5_Banner.png/revision/latest/scale-to-width-down/220?cb=20210430053236",
+      "banner": "https://static.wikia.nocookie.net/ensemble-stars/images/3/3c/Pretty_5_%28Scout%29_Banner.png/revision/latest/scale-to-width-down/220?cb=20210430053236",
       "name": "Pretty 5",
       "cg": "https://static.wikia.nocookie.net/ensemble-stars/images/c/c0/%28Student_of_Glimmering%2C_Dappled_Sunlight%29_Arashi_Narukami_CG2.png/revision/latest/scale-to-width-down/1000?cb=20210430055016",
       "series": 27
     },
     {
       "type": "event",
-      "banner": "https://static.wikia.nocookie.net/ensemble-stars/images/7/79/ASOBI_Club_Banner.png/revision/latest/scale-to-width-down/220?cb=20210415064658",
+      "banner": "https://static.wikia.nocookie.net/ensemble-stars/images/6/63/ASOBI_Club_%28Scout%29_Banner.png/revision/latest/scale-to-width-down/220?cb=20210415064658",
       "name": "ASOBI Club",
       "cg": "https://static.wikia.nocookie.net/ensemble-stars/images/8/8c/%28Always_a_Child_at_Heart%29_Shinobu_Sengoku_CG2.png/revision/latest/scale-to-width-down/1000?cb=20210415070146",
       "series": 26
@@ -492,6 +499,13 @@
     }
   ],
   "feature": [
+    {
+      "type": "feature",
+      "banner": "https://static.wikia.nocookie.net/ensemble-stars/images/3/3b/Souma_Feature_Scout_2.png/revision/latest/scale-to-width-down/220?cb=20230303220303",
+      "name": "Souma Feature Scout 2",
+      "cg": "https://static.wikia.nocookie.net/ensemble-stars/images/6/66/%28Cloudless_Posture%29_Souma_Kanzaki_CG2.png/revision/latest/scale-to-width-down/1000?cb=20230303200752",
+      "series": 71
+    },
     {
       "type": "feature",
       "banner": "https://static.wikia.nocookie.net/ensemble-stars/images/f/f4/Tatsumi_Feature_Scout_2.png/revision/latest/scale-to-width-down/220?cb=20230213053823",
@@ -1170,7 +1184,7 @@
   "limited": [
     {
       "type": "limited",
-      "banner": "https://static.wikia.nocookie.net/ensemble-stars/images/6/64/Jump_%E2%98%86_To_the_Brilliant_Future_Banner.png/revision/latest/scale-to-width-down/220?cb=20210423093502",
+      "banner": "https://static.wikia.nocookie.net/ensemble-stars/images/b/b5/Leap_%E2%98%86_Into_The_Future_Banner.png/revision/latest/scale-to-width-down/220?cb=20210423093502",
       "name": "Jump ☆ To the Brilliant Future",
       "series": 9,
       "cg": "https://static.wikia.nocookie.net/ensemble-stars/images/f/f2/%28Leaping_Radiance%29_Chiaki_Morisawa_CG2.png/revision/latest/scale-to-width-down/1000?cb=20210423093759"
@@ -1212,28 +1226,28 @@
     },
     {
       "type": "limited",
-      "banner": "https://wx2.sinaimg.cn/mw2000/007kqdvOgy1h777twxhkuj306402sdgo.jpg",
+      "banner": "https://static.wikia.nocookie.net/ensemble-stars/images/2/25/A_Gift_to_Spring_Breeze_Banner.png/revision/latest/scale-to-width-down/220?cb=20220609032237",
       "name": "A Gift to Spring Breeze",
       "series": 31,
       "cg": "https://static.wikia.nocookie.net/ensemble-stars/images/a/a2/%28Spring_Scenery_of_Prosperity%29_Eichi_Tenshouin_CG2.png/revision/latest/scale-to-width-down/1000?cb=20220205141135"
     },
     {
       "type": "limited",
-      "banner": "https://wx4.sinaimg.cn/mw2000/007kqdvOgy1h777ux265cj308g03n74t.jpg",
+      "banner": "https://static.wikia.nocookie.net/ensemble-stars/images/6/64/Shards_of_Time_Black_Banner.png/revision/latest/scale-to-width-down/220?cb=20220609032026",
       "name": "光影碎片 Black篇",
       "series": 50,
       "cg": "https://wx4.sinaimg.cn/mw2000/0080HaGfly1h118xo06dij319u0ko47p.jpg"
     },
     {
       "type": "limited",
-      "banner": "https://wx3.sinaimg.cn/mw2000/007kqdvOgy1h35i5jm3d4j30fj06ptav.jpg",
+      "banner": "https://static.wikia.nocookie.net/ensemble-stars/images/7/77/Shards_of_Time_White_Banner.png/revision/latest/scale-to-width-down/220?cb=20220911042049",
       "name": "光影碎片 White篇",
       "series": 53,
       "cg": "https://wx4.sinaimg.cn/mw2000/0080HaGfly1h2ysnr4hhaj319u0ko128.jpg"
     },
     {
       "type": "limited",
-      "banner": "https://wx4.sinaimg.cn/mw2000/007kqdvOgy1h56h2z9ocjj30c7058gom.jpg",
+      "banner": "https://static.wikia.nocookie.net/ensemble-stars/images/2/21/Fairy_Tales_in_a_Dream_Banner.png/revision/latest/scale-to-width-down/220?cb=20220817094609",
       "name": "梦中的童话",
       "series": 58,
       "cg": "https://wx4.sinaimg.cn/mw2000/0080HaGfly1h4vuq62sw2j31uo0u01br.jpg"

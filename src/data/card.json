@@ -135,6 +135,14 @@
       "img": "https://cdn.gamerch.com/resize/eyJidWNrZXQiOiJnYW1lcmNoLWltZy1jb250ZW50cyIsImtleSI6Indpa2lcLzEwMDdcL2VudHJ5XC8wUmg0YllWRi5wbmciLCJlZGl0cyI6eyJ3ZWJwIjp7InF1YWxpdHkiOjg1fSwidG9Gb3JtYXQiOiJ3ZWJwIn19",
       "series": 62,
       "type": "feature"
+    },
+    {
+      "id": "Feelings_of_Frustration",
+      "star": 5,
+      "name": "もどかしい想い",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/b/ba/%28Feelings_of_Frustration%29_Shinobu_Sengoku_M.png/revision/latest/scale-to-width-down/200?cb=20230303080020",
+      "series": 71,
+      "type": "event"
     }
   ],
   "Tomoya_Mashiro": [
@@ -174,7 +182,7 @@
       "id": "Yellow_and_Black_Guide",
       "star": 4,
       "name": "黄黒の案内者",
-      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/0/0e/%28Yellow_and_Black_Guide%29_Tomoya_Mashiro_M.png/revision/latest/scale-to-width-down/200?cb=20201231063617",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/f/fa/%28Yellow-Black_Usher%29_Tomoya_Mashiro_M.png/revision/latest/scale-to-width-down/200?cb=20201231063617",
       "series": 19,
       "type": "event"
     },
@@ -498,7 +506,7 @@
       "id": "Humans_and_Animals",
       "star": 3,
       "name": "人と生きもの",
-      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/2/20/%28Humans_and_Animals%29_Wataru_Hibiki_M.png/revision/latest/scale-to-width-down/200?cb=20201226070744",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/9/91/%28Human_and_Animal%29_Wataru_Hibiki_M.png/revision/latest/scale-to-width-down/200?cb=20201226070744",
       "series": 19,
       "type": "feature"
     },
@@ -549,6 +557,14 @@
       "img": "https://cdn.gamerch.com/resize/eyJidWNrZXQiOiJnYW1lcmNoLWltZy1jb250ZW50cyIsImtleSI6Indpa2lcLzEwMDdcL2VudHJ5XC9mYm1GMjMyQi5wbmciLCJlZGl0cyI6eyJ3ZWJwIjp7InF1YWxpdHkiOjg1fSwidG9Gb3JtYXQiOiJ3ZWJwIn19",
       "series": 66,
       "type": "feature"
+    },
+    {
+      "id": "Feelings_in_Complete_Control",
+      "star": 3,
+      "name": "想い自由自在",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/f/fe/%28Feelings_in_Complete_Control%29_Wataru_Hibiki_M.png/revision/latest/scale-to-width-down/200?cb=20230303075718",
+      "series": 71,
+      "type": "event"
     }
   ],
   "Tori_Himemiya": [
@@ -2750,7 +2766,7 @@
       "id": "Striped_Hyena%27s_Hunt",
       "star": 5,
       "name": "シマハイエナの狩り",
-      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/9/9f/%28Striped_Hyena%27s_Hunt%29_Jun_Sazanami_M.png/revision/latest/scale-to-width-down/200?cb=20200702234253",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/8/8d/%28Hunting_Hyena%29_Jun_Sazanami_M.png/revision/latest/scale-to-width-down/200?cb=20200702234253",
       "series": 7,
       "type": "event"
     },
@@ -3409,6 +3425,14 @@
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/b/bf/%28Easygoing_Blend%29_Yuta_Aoi_B.png/revision/latest/scale-to-width-down/200?cb=20221118215744",
       "series": 64,
       "type": "event"
+    },
+    {
+      "id": "Discomfort_and_Identity",
+      "star": 3,
+      "name": "違和感とらしさ",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/c/ca/%28Discomfort_and_Identity%29_Yuta_Aoi_M.png/revision/latest/scale-to-width-down/200?cb=20230303200844",
+      "series": 71,
+      "type": "feature"
     }
   ],
   "Rinne_Amagi": [
@@ -3586,7 +3610,7 @@
       "id": "Backhanded_Kindness",
       "star": 4,
       "name": "親切の裏表",
-      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/3/30/%28Backhanded_Kindness%29_HiMERU_M.png/revision/latest/scale-to-width-down/200?cb=20201226070737",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/5/52/%28Ambiguous_Thoughtfulness%29_HiMERU_M.png/revision/latest/scale-to-width-down/200?cb=20201226070737",
       "series": 19,
       "type": "feature"
     },
@@ -4024,7 +4048,7 @@
       "id": "Jet_Black_Ox_Spirit",
       "star": 3,
       "name": "漆黒の丑使い",
-      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/c/c0/%28Jet_Black_Ox_Spirit%29_Rei_Sakuma_M.png/revision/latest/scale-to-width-down/200?cb=20201231063612",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/d/d1/%28Pitch-Black_Ox_Envoy%29_Rei_Sakuma_M.png/revision/latest/scale-to-width-down/200?cb=20201231063612",
       "series": 19,
       "type": "event"
     },
@@ -4481,6 +4505,14 @@
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/1/1b/%28Waltz_Participation%29_Adonis_Otogari_M.png/revision/latest/scale-to-width-down/200?cb=20230205034813",
       "series": 69,
       "type": "event"
+    },
+    {
+      "id": "Delicious_and_Healthy",
+      "star": 4,
+      "name": "美味しく健康",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/5/55/%28Delicious_and_Healthy%29_Adonis_Otogari_M.png/revision/latest/scale-to-width-down/200?cb=20230303200828",
+      "series": 71,
+      "type": "feature"
     }
   ],
   "Nazuna_Nito": [
@@ -4748,6 +4780,14 @@
       "name": "継承ドール",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/e/e5/%28Inheriting_Doll%29_Mitsuru_Tenma_M.png/revision/latest/scale-to-width-down/200?cb=20221031195242",
       "series": 63,
+      "type": "event"
+    },
+    {
+      "id": "Feelings_Kept_Close_to_Heart",
+      "star": 3,
+      "name": "想いとっておき",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/e/e8/%28Feelings_Kept_Close_to_Heart%29_Mitsuru_Tenma_M.png/revision/latest/scale-to-width-down/200?cb=20230303075916",
+      "series": 71,
       "type": "event"
     }
   ],
@@ -5096,7 +5136,7 @@
       "id": "Crimson_and_Black_Ox_Spirit",
       "star": 3,
       "name": "朱黒の丑使い",
-      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/c/c0/%28Crimson_and_Black_Ox_Spirit%29_Kuro_Kiryu_M.png/revision/latest/scale-to-width-down/200?cb=20201231063600",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/2/26/%28Crimson_Blood_and_the_Moon%29_Kuro_Kiryu_M.png/revision/latest/scale-to-width-down/200?cb=20211101031221",
       "series": 19,
       "type": "event"
     },
@@ -5178,7 +5218,7 @@
       "id": "An_Oath_to_the_Gods_of_Heaven_and_Earth",
       "star": 5,
       "name": "天地神明の誓い",
-      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/d/d1/%28An_Oath_to_the_Gods_of_Heaven_and_Earth%29_Souma_Kanzaki_M.png/revision/latest/scale-to-width-down/200?cb=20200828235707",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/c/c3/%28The_Oath_of_Gods%29_Souma_Kanzaki_M.png/revision/latest/scale-to-width-down/200?cb=20200828235707",
       "series": 11,
       "type": "feature"
     },
@@ -5293,6 +5333,14 @@
       "img": "https://docimg5.docs.qq.com/image/AgAABS1DDuaqMPgQv2tHLLrja6AWAIP0.jpeg",
       "series": 67.1,
       "type": "limited"
+    },
+    {
+      "id": "Cloudless_Posture",
+      "star": 5,
+      "name": "曇りなき姿勢",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/1/1a/%28Cloudless_Posture%29_Souma_Kanzaki_M.png/revision/latest/scale-to-width-down/200?cb=20230303200806",
+      "series": 71,
+      "type": "feature"
     }
   ],
   "Tsukasa_Suou": [
@@ -5308,7 +5356,7 @@
       "id": "In_Order_to_Become_a_King",
       "star": 5,
       "name": "王に至るため",
-      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/b/b0/%28In_Order_to_Become_a_King%29_Tsukasa_Suou_M.png/revision/latest/scale-to-width-down/200?cb=20201030215738",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/e/e1/%28The_Road_to_King%29_Tsukasa_Suou_M.png/revision/latest/scale-to-width-down/200?cb=20201030215738",
       "series": 15,
       "type": "feature"
     },
@@ -6333,6 +6381,14 @@
       "img": "https://cdn.gamerch.com/resize/eyJidWNrZXQiOiJnYW1lcmNoLWltZy1jb250ZW50cyIsImtleSI6Indpa2lcLzEwMDdcL2VudHJ5XC95SmNJTHRzcy5wbmciLCJlZGl0cyI6eyJ3ZWJwIjp7InF1YWxpdHkiOjg1fSwidG9Gb3JtYXQiOiJ3ZWJwIn19",
       "series": 66,
       "type": "feature"
+    },
+    {
+      "id": "Feelings_of_Unfamiliarity",
+      "star": 4,
+      "name": "慣れない想い",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/7/71/%28Feelings_of_Unfamiliarity%29_Sora_Harukawa_M.png/revision/latest/scale-to-width-down/200?cb=20230303080205",
+      "series": 71,
+      "type": "event"
     }
   ],
   "Madara_Mikejima": [
