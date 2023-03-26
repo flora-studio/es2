@@ -1,12 +1,18 @@
 <template>
-  <es-button @click="show = true">版本&答疑</es-button>
+  <es-button @click="show = true">关于我们</es-button>
   <es-dialog v-model:show="show" top="4rem">
     <div class="inner">
       <a href="#" /><!-- 处理焦点的问题 -->
       <h3>最近更新</h3>
+      <p>2023/03/26 更新日服最新池</p>
       <p>2023/03/12 更新日服最新池</p>
       <p>2023/02/25 更新日服最新池</p>
-      <p>2023/02/05 更新日服最新池</p>
+      <h3>关于我们</h3>
+      <p>FloraStudio 专注于游戏、二次元等领域的创作与分析。欢迎关注我们：</p>
+      <p>Bilibili: <a href="https://space.bilibili.com/688429881" target="_blank" referrerpolicy="no-referrer">@FloraStudio</a>
+        &nbsp;/&nbsp;微博: <a href="https://weibo.com/u/6714705016" target="_blank" referrerpolicy="no-referrer">@芙露拉_FloraStudio</a>
+        &nbsp;/&nbsp;公众号: <a href="https://mp.weixin.qq.com/s?srcid=0219sLdXtFaq6BqBLxfFwRqL&scene=23&mid=2247483832&sn=20c5774f3c5bffa7f801e93492c901a0&idx=1&__biz=MzUyNzkzOTA0MQ%3D%3D" target="_blank" referrerpolicy="no-referrer">芙露拉ACG研究社</a></p>
+      <p>如果你喜欢我们的抽卡模拟器，也欢迎<a href="https://afdian.net/a/florastudio" target="_blank" referrerpolicy="no-referrer">支持我们</a>，鼓励我们对网页持续维护和更新。</p>
       <h3>常见问题</h3>
       <p>Q: 会继续更新吗？</p>
       <p>A: 会根据 Wiki 数据继续更新。</p>
@@ -20,11 +26,6 @@
       <p>A: 可以通过各手机浏览器的【添加到桌面】功能，获得类似 APP 的体验。</p>
       <h3>关于抽卡模拟器</h3>
       <p>抽卡模拟器项目仅供个人学习与娱乐用途。所有游戏素材版权属于乐元素官方，卡池数据和图片主要来自偶像梦幻祭英文、日文 Wiki，感谢维护者们的辛勤付出。若官方/Wiki 人员认为有任何不妥之处，请联系我们，我们将立即处理。</p>
-      <h3>关于我们</h3>
-      <p>FloraStudio 专注于游戏、二次元等领域的创作与分析。欢迎关注我们：</p>
-      <p>Bilibili: <a href="https://space.bilibili.com/688429881" target="_blank" referrerpolicy="no-referrer">@FloraStudio</a>
-        &nbsp;/&nbsp;微博: <a href="https://weibo.com/u/6714705016" target="_blank" referrerpolicy="no-referrer">@芙露拉_FloraStudio</a>
-        &nbsp;/&nbsp;公众号: <a href="https://mp.weixin.qq.com/s?srcid=0219sLdXtFaq6BqBLxfFwRqL&scene=23&mid=2247483832&sn=20c5774f3c5bffa7f801e93492c901a0&idx=1&__biz=MzUyNzkzOTA0MQ%3D%3D" target="_blank" referrerpolicy="no-referrer">芙露拉ACG研究社</a></p>
     </div>
   </es-dialog>
 </template>
@@ -34,7 +35,7 @@ import EsButton from './common/EsButton.vue'
 import EsDialog from './common/EsDialog.vue'
 
 // 每次更新时要 +1
-const versionCode = 3
+const versionCode = 4
 let initialShow = false
 try {
   const savedVersion = Number(localStorage.getItem('update_log_ver') || '0')
