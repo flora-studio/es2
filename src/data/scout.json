@@ -2,6 +2,13 @@
   "event": [
     {
       "type": "event",
+      "banner": "https://static.wikia.nocookie.net/ensemble-stars/images/7/7a/Our_Destination_Together_Banner.png/revision/latest/scale-to-width-down/220?cb=20230317080914",
+      "name": "Our Destination Together",
+      "cg": "https://static.wikia.nocookie.net/ensemble-stars/images/f/fa/%28Our_Destination_With_A_Sparkling_Friend%29_Yuzuru_Fushimi_CG2.png/revision/latest/scale-to-width-down/1000?cb=20230317091451",
+      "series": 72
+    },
+    {
+      "type": "event",
       "banner": "https://static.wikia.nocookie.net/ensemble-stars/images/6/69/Blush_Flash_Banner.png/revision/latest/scale-to-width-down/220?cb=20230303065711",
       "name": "Blush Flash",
       "cg": "https://static.wikia.nocookie.net/ensemble-stars/images/d/d4/%28Feelings_of_Frustration%29_Shinobu_Sengoku_CG2.png/revision/latest/scale-to-width-down/1000?cb=20230303075948",
@@ -499,6 +506,13 @@
     }
   ],
   "feature": [
+    {
+      "type": "feature",
+      "banner": "https://static.wikia.nocookie.net/ensemble-stars/images/f/f0/Mitsuru_Feature_Scout_2.png/revision/latest/scale-to-width-down/220?cb=20230324131155",
+      "name": "Mitsuru Feature Scout 2",
+      "cg": "https://static.wikia.nocookie.net/ensemble-stars/images/7/7d/%28Shine_As_Brightly_As_You_Are%29_Mitsuru_Tenma_CG2.png/revision/latest/scale-to-width-down/1000?cb=20230315232918",
+      "series": 72
+    },
     {
       "type": "feature",
       "banner": "https://static.wikia.nocookie.net/ensemble-stars/images/3/3b/Souma_Feature_Scout_2.png/revision/latest/scale-to-width-down/220?cb=20230303220303",

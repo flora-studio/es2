@@ -565,6 +565,14 @@
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/f/fe/%28Feelings_in_Complete_Control%29_Wataru_Hibiki_M.png/revision/latest/scale-to-width-down/200?cb=20230303075718",
       "series": 71,
       "type": "event"
+    },
+    {
+      "id": "A_Shining_Coin",
+      "star": 3,
+      "name": "輝く一枚",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/6/6b/%28A_Shining_Coin%29_Wataru_Hibiki_M.png/revision/latest/scale-to-width-down/200?cb=20230315232914",
+      "series": 72,
+      "type": "feature"
     }
   ],
   "Tori_Himemiya": [
@@ -824,6 +832,14 @@
       "name": "Yuzuru_Fushimi",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/7/71/%28Waltz_Assistance%29_Yuzuru_Fushimi_M.png/revision/latest/scale-to-width-down/200?cb=20230205034626",
       "series": 69,
+      "type": "event"
+    },
+    {
+      "id": "Our_Destination_With_A_Sparkling_Friend",
+      "star": 5,
+      "name": "輝く友と進む先",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/f/f4/%28Our_Destination_With_A_Sparkling_Friend%29_Yuzuru_Fushimi_M.png/revision/latest/scale-to-width-down/200?cb=20230317091536",
+      "series": 72,
       "type": "event"
     }
   ],
@@ -1719,6 +1735,14 @@
       "img": "https://cdn.gamerch.com/resize/eyJidWNrZXQiOiJnYW1lcmNoLWltZy1jb250ZW50cyIsImtleSI6Indpa2lcLzEwMDdcL2VudHJ5XC81YXZIZ2JDei5wbmciLCJlZGl0cyI6eyJ3ZWJwIjp7InF1YWxpdHkiOjg1fSwidG9Gb3JtYXQiOiJ3ZWJwIn19",
       "series": 65,
       "type": "event"
+    },
+    {
+      "id": "What_I_Like",
+      "star": 4,
+      "name": "気に入ったもの",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/2/2d/%28What_I_Like%29_Tetora_Nagumo_M.png/revision/latest/scale-to-width-down/200?cb=20230315232940",
+      "series": 72,
+      "type": "feature"
     }
   ],
   "Midori_Takamine": [
@@ -2231,6 +2255,14 @@
       "img": "https://docimg6.docs.qq.com/image/AgAABS1DDub7xfeUPv1M4Jx20CoKNUpU.jpeg",
       "series": 61.3,
       "type": "limited"
+    },
+    {
+      "id": "Our_Destination_From_The_Other_Side",
+      "star": 3,
+      "name": "裏側から進む先",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/3/32/%28Our_Destination_From_The_Other_Side%29_Mayoi_Ayase_M.png/revision/latest/scale-to-width-down/200?cb=20230317091434",
+      "series": 72,
+      "type": "event"
     }
   ],
   "Tatsumi_Kazehaya": [
@@ -3165,6 +3197,14 @@
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/d/d7/%28Stitched_Heart%29_Mika_Kagehira_M.png/revision/latest/scale-to-width-down/200?cb=20230102093732",
       "series": 67,
       "type": "feature"
+    },
+    {
+      "id": "Gradually_To_Our_Destination",
+      "star": 3,
+      "name": "緩やかに進む先",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/2/2e/%28Gradually_To_Our_Destination%29_Mika_Kagehira_M.png/revision/latest/scale-to-width-down/200?cb=20230317091311",
+      "series": 72,
+      "type": "event"
     }
   ],
   "Hinata_Aoi": [
@@ -4375,6 +4415,14 @@
       "img": "https://cdn.gamerch.com/resize/eyJidWNrZXQiOiJnYW1lcmNoLWltZy1jb250ZW50cyIsImtleSI6Indpa2lcLzEwMDdcL2VudHJ5XC9LMFB2ZWJHYi5wbmciLCJlZGl0cyI6eyJ3ZWJwIjp7InF1YWxpdHkiOjg1fSwidG9Gb3JtYXQiOiJ3ZWJwIn19",
       "series": 60,
       "type": "event"
+    },
+    {
+      "id": "Our_Destination_To_Our_Ideals",
+      "star": 4,
+      "name": "理想へ進む先",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/a/a3/%28Our_Destination_To_Our_Ideals%29_Koga_Oogami_M.png/revision/latest/scale-to-width-down/200?cb=20230317091448",
+      "series": 72,
+      "type": "event"
     }
   ],
   "Adonis_Otogari": [
@@ -4789,6 +4837,14 @@
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/e/e8/%28Feelings_Kept_Close_to_Heart%29_Mitsuru_Tenma_M.png/revision/latest/scale-to-width-down/200?cb=20230303075916",
       "series": 71,
       "type": "event"
+    },
+    {
+      "id": "Shine_As_Brightly_As_You_Are",
+      "star": 5,
+      "name": "ありのまま光って",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/2/27/%28Shine_As_Brightly_As_You_Are%29_Mitsuru_Tenma_M.png/revision/latest/scale-to-width-down/200?cb=20230315232928",
+      "series": 72,
+      "type": "feature"
     }
   ],
   "Hajime_Shino": [
@@ -6007,6 +6063,14 @@
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/1/1d/%28Flower_with_a_Charming_Fragrance%29_Arashi_Narukami_M.png/revision/latest/scale-to-width-down/200?cb=20221203003210",
       "series": 65,
       "type": "feature"
+    },
+    {
+      "id": "Beautifully_To_Our_Destination",
+      "star": 3,
+      "name": "華麗に進む先",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/2/27/%28Beautifully_To_Our_Destination%29_Arashi_Narukami_M.png/revision/latest/scale-to-width-down/200?cb=20230317091301",
+      "series": 72,
+      "type": "event"
     }
   ],
   "Natsume_Sakasaki": [

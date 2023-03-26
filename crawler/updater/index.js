@@ -3,8 +3,8 @@ const fs = require('fs')
 const BASE_URL = 'https://ensemble-stars.fandom.com'
 
 // TODO 每次记得替换
-const ScoutUrl = 'https://ensemble-stars.fandom.com/wiki/Category:Souma_Feature_Scout_2'
-const ScoutSeries = 71
+const ScoutUrl = 'https://ensemble-stars.fandom.com/wiki/Category:Our_Destination_Together'
+const ScoutSeries = 72
 
 const scout = {
   type: '',
@@ -41,7 +41,7 @@ c.queue({
           id: urlMatch[1],
           star: 0,
           name: urlMatch[2],
-          img: (img.attr('data-src') || img.attr('src'))?.replace('scale-to-width-down/150', 'scale-to-width-down/200') || '',
+          img: (img.attr('data-src') || img.attr('src'))?.replace('scale-to-width-down/115', 'scale-to-width-down/200') || '',
           series: scout.series,
           type: scout.type
         })
