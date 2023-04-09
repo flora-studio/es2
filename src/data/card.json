@@ -143,6 +143,14 @@
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/b/ba/%28Feelings_of_Frustration%29_Shinobu_Sengoku_M.png/revision/latest/scale-to-width-down/200?cb=20230303080020",
       "series": 71,
       "type": "event"
+    },
+    {
+      "id": "shinobu_73.1_limited",
+      "star": 4,
+      "name": "林间奇遇",
+      "img": "https://docimg4.docs.qq.com/image/AgAABS1DDuY2SLNdm3lJg5hxpvctUfQ9.png",
+      "series": 73.1,
+      "type": "limited"
     }
   ],
   "Tomoya_Mashiro": [
@@ -320,7 +328,7 @@
       "id": "Presenting_a_New_Creation",
       "star": 4,
       "name": "新作披露会",
-      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/d/d1/%28Presenting_a_New_Creation%29_Eichi_Tenshouin_M.png/revision/latest/scale-to-width-down/200?cb=20210126061806",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/b/be/%28New_Blend_Release%29_Eichi_Tenshouin_M.png/revision/latest/scale-to-width-down/200?cb=20210126061806",
       "series": 21,
       "type": "feature"
     },
@@ -1109,6 +1117,14 @@
       "img": "https://cdn.gamerch.com/resize/eyJidWNrZXQiOiJnYW1lcmNoLWltZy1jb250ZW50cyIsImtleSI6Indpa2lcLzEwMDdcL2VudHJ5XC9qTDlIRVdGbS5wbmciLCJlZGl0cyI6eyJ3ZWJwIjp7InF1YWxpdHkiOjg1fSwidG9Gb3JtYXQiOiJ3ZWJwIn19",
       "series": 57,
       "type": "event"
+    },
+    {
+      "id": "subaru_73.1_limited",
+      "star": 5,
+      "name": "激流奇遇",
+      "img": "https://docimg1.docs.qq.com/image/AgAABS1DDubLEYbJgC5BZKrWPlJQC5GT.png",
+      "series": 73.1,
+      "type": "limited"
     }
   ],
   "Makoto_Yuuki": [
@@ -1570,7 +1586,7 @@
       "id": "Naive_Prince",
       "star": 3,
       "name": "じゅんしんおうじさま",
-      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/4/44/%28Naive_Prince%29_Kanata_Shinkai_M.png/revision/latest/scale-to-width-down/200?cb=20210130132450",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/3/34/%28Unpretentious_Prince%29_Kanata_Shinkai_M.png/revision/latest/scale-to-width-down/200?cb=20210130132450",
       "series": 21,
       "type": "event"
     },
@@ -1621,6 +1637,14 @@
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/0/0a/%28Mr._Doctor%29_Kanata_Shinkai_M.png/revision/latest/scale-to-width-down/200?cb=20221031035647",
       "series": 63,
       "type": "feature"
+    },
+    {
+      "id": "kanata_73.1_limited",
+      "star": 3,
+      "name": "水中奇遇",
+      "img": "https://docimg5.docs.qq.com/image/AgAABS1DDuaKMv3OCQlKmKCZukzj7auJ.png",
+      "series": 73.1,
+      "type": "limited"
     }
   ],
   "Tetora_Nagumo": [
@@ -3651,6 +3675,14 @@
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/0/01/%28Gambling_Monster%29_Rinne_Amagi_M.png/revision/latest/scale-to-width-down/200?cb=20230217021810",
       "series": 70,
       "type": "event"
+    },
+    {
+      "id": "rinne_73.1_limited",
+      "star": 3,
+      "name": "营地奇遇",
+      "img": "https://docimg7.docs.qq.com/image/AgAABS1DDubnL9L3CDBCtLvMhyO8v7YZ.png",
+      "series": 73.1,
+      "type": "limited"
     }
   ],
   "HiMERU": [
@@ -4404,7 +4436,7 @@
       "id": "Impressions_and_Reality",
       "star": 3,
       "name": "外見と中身",
-      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/d/d6/%28Impressions_and_Reality%29_Koga_Oogami_M.png/revision/latest/scale-to-width-down/200?cb=20210126061800",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/6/6b/%28Impression_and_Reality%29_Koga_Oogami_M.png/revision/latest/scale-to-width-down/200?cb=20210126061800",
       "series": 21,
       "type": "feature"
     },
@@ -4608,7 +4640,7 @@
       "id": "Guiding_the_Path_to_the_Future",
       "star": 5,
       "name": "未来の道案内",
-      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/c/c9/%28Guiding_the_Path_to_the_Future%29_Nazuna_Nito_M.png/revision/latest/scale-to-width-down/200?cb=20210126061754",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/a/a3/%28Guide_to_the_Future%29_Nazuna_Nito_M.png/revision/latest/scale-to-width-down/200?cb=20210126061754",
       "series": 21,
       "type": "feature"
     },
