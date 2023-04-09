@@ -281,6 +281,14 @@
       "img": "https://cdn.gamerch.com/resize/eyJidWNrZXQiOiJnYW1lcmNoLWltZy1jb250ZW50cyIsImtleSI6Indpa2lcLzEwMDdcL2VudHJ5XC9LdlJBRGFVQi5wbmciLCJlZGl0cyI6eyJ3ZWJwIjp7InF1YWxpdHkiOjg1fSwidG9Gb3JtYXQiOiJ3ZWJwIn19",
       "series": 66,
       "type": "event"
+    },
+    {
+      "id": "Scorpio%27s_Archenemy",
+      "star": 4,
+      "name": "スコルピオの宿敵",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/7/71/%28Scorpio%27s_Archenemy%29_Tomoya_Mashiro_M.png/revision/latest/scale-to-width-down/200?cb=20230403000944",
+      "series": 73,
+      "type": "event"
     }
   ],
   "Eichi_Tenshouin": [
@@ -703,6 +711,14 @@
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/4/49/%28Lounging_Bunny%29_Tori_Himemiya_M.png/revision/latest/scale-to-width-down/200?cb=20230115021357",
       "series": 68,
       "type": "event"
+    },
+    {
+      "id": "Pretty_Activities",
+      "star": 3,
+      "name": "プリティ活動",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/a/a1/%28Pretty_Activities%29_Tori_Himemiya_M.png/revision/latest/scale-to-width-down/200?cb=20230328183115",
+      "series": 73,
+      "type": "feature"
     }
   ],
   "Yuzuru_Fushimi": [
@@ -1475,6 +1491,14 @@
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/f/f5/%28Substitute_Attendant%29_Chiaki_Morisawa_M.png/revision/latest/scale-to-width-down/200?cb=20221118215953",
       "series": 64,
       "type": "feature"
+    },
+    {
+      "id": "Scorpio%27s_Nemesis",
+      "star": 3,
+      "name": "スコルピオの天敵",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/b/b3/%28Scorpio%27s_Nemesis%29_Chiaki_Morisawa_M.png/revision/latest/scale-to-width-down/200?cb=20230403001000",
+      "series": 73,
+      "type": "event"
     }
   ],
   "Kanata_Shinkai": [
@@ -1986,6 +2010,14 @@
       "name": "Hiiro_Amagi",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/d/d4/%28Waltz_Request%29_Hiiro_Amagi_M.png/revision/latest/scale-to-width-down/200?cb=20230205035006",
       "series": 69,
+      "type": "event"
+    },
+    {
+      "id": "Scorpio%27s_Henchman",
+      "star": 3,
+      "name": "スコルピオの手下",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/f/f9/%28Scorpio%27s_Henchman%29_Hiiro_Amagi_M.png/revision/latest/scale-to-width-down/200?cb=20230403000952",
+      "series": 73,
       "type": "event"
     }
   ],
@@ -4285,6 +4317,14 @@
       "img": "https://docimg9.docs.qq.com/image/AgAABS1DDuZjLdMc46dHUK-jp0Hd3QkN.jpeg",
       "series": 67.1,
       "type": "limited"
+    },
+    {
+      "id": "Scorpio%27s_Supervillain",
+      "star": 5,
+      "name": "スコルピオの怪人",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/e/eb/%28Scorpio%27s_Supervillain%29_Kaoru_Hakaze_M.png/revision/latest/scale-to-width-down/200?cb=20230403001010",
+      "series": 73,
+      "type": "event"
     }
   ],
   "Koga_Oogami": [
@@ -5543,6 +5583,14 @@
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/e/e5/%28Initiation_and_Surprise%29_Tsukasa_Suou_B.png/revision/latest/scale-to-width-down/200?cb=20220924205414",
       "series": 60.1,
       "type": "anniversary"
+    },
+    {
+      "id": "English_Time",
+      "star": 4,
+      "name": "英語時間",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/b/b6/%28English_Time%29_Tsukasa_Suou_M.png/revision/latest/scale-to-width-down/200?cb=20230328183007",
+      "series": 73,
+      "type": "feature"
     }
   ],
   "Leo_Tsukinaga": [
@@ -5672,6 +5720,14 @@
       "name": "どこでも演奏会",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/1/1e/%28A_Concert_In_Any_Place%29_Leo_Tsukinaga_M.png/revision/latest/scale-to-width-down/200?cb=20230219183755",
       "series": 70,
+      "type": "feature"
+    },
+    {
+      "id": "A_Bundle_of_Pure_Tone",
+      "star": 5,
+      "name": "純粋な音色の束",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/8/8f/%28A_Bundle_of_Pure_Tone%29_Leo_Tsukinaga_M.png/revision/latest/scale-to-width-down/200?cb=20230328182955",
+      "series": 73,
       "type": "feature"
     }
   ],
