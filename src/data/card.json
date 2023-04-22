@@ -368,7 +368,7 @@
       "id": "Absolute_Prince",
       "star": 3,
       "name": "純然王子さま",
-      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/1/18/%28Absolute_Prince%29_Eichi_Tenshouin_M.png/revision/latest/scale-to-width-down/200?cb=20210130132441",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/b/b4/%28Pristine_Prince%29_Eichi_Tenshouin_M.png/revision/latest/scale-to-width-down/200?cb=20210130132441",
       "series": 21,
       "type": "event"
     },
@@ -589,6 +589,14 @@
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/6/6b/%28A_Shining_Coin%29_Wataru_Hibiki_M.png/revision/latest/scale-to-width-down/200?cb=20230315232914",
       "series": 72,
       "type": "feature"
+    },
+    {
+      "id": "Eccentric_Scenario",
+      "star": 4,
+      "name": "風変わりな脚本",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/5/56/%28Eccentric_Scenario%29_Wataru_Hibiki_M.png/revision/latest/scale-to-width-down/200?cb=20230417033144",
+      "series": 74,
+      "type": "event"
     }
   ],
   "Tori_Himemiya": [
@@ -846,7 +854,7 @@
       "id": "Handed-Down_Recipe",
       "star": 3,
       "name": "伝わる料理",
-      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/6/60/%28Handed-Down_Recipe%29_Yuzuru_Fushimi_M.png/revision/latest/scale-to-width-down/150?cb=20230115020420",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/6/60/%28Handed-Down_Recipe%29_Yuzuru_Fushimi_M.png/revision/latest/scale-to-width-down/200?cb=20230115020420",
       "series": 68,
       "type": "feature"
     },
@@ -1905,6 +1913,14 @@
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/a/a5/%28Wish_and_Surprise%29_Midori_Takamine_M.png/revision/latest/scale-to-width-down/200?cb=20221011211053",
       "series": 61.2,
       "type": "anniversary"
+    },
+    {
+      "id": "Desperately_Trying_To_Compliment",
+      "star": 4,
+      "name": "苦肉の褒め言葉",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/b/bf/%28Desperately_Trying_To_Compliment%29_Midori_Takamine_M.png/revision/latest/scale-to-width-down/200?cb=20230411213804",
+      "series": 74,
+      "type": "feature"
     }
   ],
   "Hiiro_Amagi": [
@@ -2268,7 +2284,7 @@
       "id": "A_Gathering_of_Novices",
       "star": 3,
       "name": "初級親睦会",
-      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/e/ec/%28A_Gathering_of_Novices%29_Mayoi_Ayase_M.png/revision/latest/scale-to-width-down/200?cb=20210212032502",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/e/e6/%28Junior_Social_Mixer%29_Mayoi_Ayase_M.png/revision/latest/scale-to-width-down/200?cb=20210212032502",
       "series": 22,
       "type": "feature"
     },
@@ -2552,7 +2568,7 @@
       "id": "The_One_Who_Transcends_Time",
       "star": 5,
       "name": "時を越え知る者",
-      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/5/5a/%28The_One_Who_Transcends_Time%29_Nagisa_Ran_M.png/revision/latest/scale-to-width-down/150?cb=20220502024712",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/5/5a/%28The_One_Who_Transcends_Time%29_Nagisa_Ran_M.png/revision/latest/scale-to-width-down/200?cb=20220502024712",
       "series": 51,
       "type": "feature"
     },
@@ -2714,9 +2730,17 @@
       "id": "Sunspot%27s_Gaze",
       "star": 5,
       "name": "Hiyori_Tomoe",
-      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/8/88/%28Sunspot%27s_Gaze%29_Hiyori_Tomoe_M.png/revision/latest/scale-to-width-down/150?cb=20230201193622",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/8/88/%28Sunspot%27s_Gaze%29_Hiyori_Tomoe_M.png/revision/latest/scale-to-width-down/200?cb=20230201193622",
       "series": 69,
       "type": "feature"
+    },
+    {
+      "id": "Eccentric_Occasion",
+      "star": 4,
+      "name": "風変わりな催事",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/d/db/%28Eccentric_Occasion%29_Hiyori_Tomoe_M.png/revision/latest/scale-to-width-down/200?cb=20230417033131",
+      "series": 74,
+      "type": "event"
     }
   ],
   "Ibara_Saegusa": [
@@ -2812,7 +2836,7 @@
       "id": "One_Can_of_Gratitude",
       "star": 3,
       "name": "お礼の一本",
-      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/d/df/%28One_Can_of_Gratitude%29_Ibara_Saegusa_M.png/revision/latest/scale-to-width-down/150?cb=20220502030112",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/d/df/%28One_Can_of_Gratitude%29_Ibara_Saegusa_M.png/revision/latest/scale-to-width-down/200?cb=20220502030112",
       "series": 51,
       "type": "feature"
     },
@@ -2974,7 +2998,7 @@
       "id": "A_Kindred_Spirit%27s_Passion",
       "star": 4,
       "name": "Jun_Sazanami",
-      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/1/14/%28A_Kindred_Spirit%27s_Passion%29_Jun_Sazanami_M.png/revision/latest/scale-to-width-down/150?cb=20230201193550",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/1/14/%28A_Kindred_Spirit%27s_Passion%29_Jun_Sazanami_M.png/revision/latest/scale-to-width-down/200?cb=20230201193550",
       "series": 69,
       "type": "feature"
     }
@@ -3104,7 +3128,7 @@
       "id": "Reminiscing_on_Travels",
       "star": 3,
       "name": "Shu_Itsuki",
-      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/9/95/%28Reminiscing_on_Travels%29_Shu_Itsuki_M.png/revision/latest/scale-to-width-down/150?cb=20230201193606",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/9/95/%28Reminiscing_on_Travels%29_Shu_Itsuki_M.png/revision/latest/scale-to-width-down/200?cb=20230201193606",
       "series": 69,
       "type": "feature"
     },
@@ -4065,6 +4089,14 @@
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/f/f4/%28Chaperone_Bunny%29_Niki_Shiina_M.png/revision/latest/scale-to-width-down/200?cb=20230103023213",
       "series": 67,
       "type": "event"
+    },
+    {
+      "id": "A_Dish_That_Fills_You_Up",
+      "star": 5,
+      "name": "満腹になる料理",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/3/3c/%28A_Dish_That_Fills_You_Up%29_Niki_Shiina_M.png/revision/latest/scale-to-width-down/200?cb=20230411213751",
+      "series": 74,
+      "type": "feature"
     }
   ],
   "Rei_Sakuma": [
@@ -4168,7 +4200,7 @@
       "id": "A_New_Face",
       "star": 3,
       "name": "新しい顔",
-      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/a/a9/%28A_New_Face%29_Rei_Sakuma_M.png/revision/latest/scale-to-width-down/150?cb=20220407205441",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/a/a9/%28A_New_Face%29_Rei_Sakuma_M.png/revision/latest/scale-to-width-down/200?cb=20220407205441",
       "series": 49,
       "type": "feature"
     },
@@ -4306,7 +4338,7 @@
       "id": "Summer_Breeze_that_Affirms_Expectations",
       "star": 5,
       "name": "期待に応える薫風",
-      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/d/d7/%28Summer_Breeze_that_Affirms_Expectations%29_Kaoru_Hakaze_M.png/revision/latest/scale-to-width-down/150?cb=20220228001530",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/d/d7/%28Summer_Breeze_that_Affirms_Expectations%29_Kaoru_Hakaze_M.png/revision/latest/scale-to-width-down/200?cb=20220228001530",
       "series": 47,
       "type": "feature"
     },
@@ -5190,7 +5222,7 @@
       "id": "Sincere_Kindness",
       "star": 5,
       "name": "生真面目な優しさ",
-      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/8/8b/%28Sincere_Kindness%29_Keito_Hasumi_M.png/revision/latest/scale-to-width-down/150?cb=20230115020431",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/8/8b/%28Sincere_Kindness%29_Keito_Hasumi_M.png/revision/latest/scale-to-width-down/200?cb=20230115020431",
       "series": 68,
       "type": "feature"
     }
@@ -5339,6 +5371,14 @@
       "img": "https://cdn.gamerch.com/resize/eyJidWNrZXQiOiJnYW1lcmNoLWltZy1jb250ZW50cyIsImtleSI6Indpa2lcLzEwMDdcL2VudHJ5XC91RW1qUEZONi5wbmciLCJlZGl0cyI6eyJ3ZWJwIjp7InF1YWxpdHkiOjg1fSwidG9Gb3JtYXQiOiJ3ZWJwIn19",
       "series": 65,
       "type": "event"
+    },
+    {
+      "id": "Promise_Between_Men",
+      "star": 3,
+      "name": "男同士の約束",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/4/49/%28Promise_Between_Men%29_Kuro_Kiryu_M.png/revision/latest/scale-to-width-down/200?cb=20230411213814",
+      "series": 74,
+      "type": "feature"
     }
   ],
   "Souma_Kanzaki": [
@@ -5856,7 +5896,7 @@
       "id": "Comforting_Waters",
       "star": 4,
       "name": "水の居心地",
-      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/4/46/%28Comforting_Waters%29_Izumi_Sena_M.png/revision/latest/scale-to-width-down/150?cb=20220407205408",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/4/46/%28Comforting_Waters%29_Izumi_Sena_M.png/revision/latest/scale-to-width-down/200?cb=20220407205408",
       "series": 49,
       "type": "feature"
     },
@@ -5970,7 +6010,7 @@
       "id": "Music_Room_for_One",
       "star": 3,
       "name": "ひとりの音楽室",
-      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/7/75/%28Music_Room_for_One%29_Ritsu_Sakuma_M.png/revision/latest/scale-to-width-down/150?cb=20220228001535",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/7/75/%28Music_Room_for_One%29_Ritsu_Sakuma_M.png/revision/latest/scale-to-width-down/200?cb=20220228001535",
       "series": 47,
       "type": "feature"
     },
@@ -5978,7 +6018,7 @@
       "id": "He_Who_Awakens_From_His_Slumber",
       "star": 5,
       "name": "眠りから覚める者",
-      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/0/0e/%28He_Who_Awakens_From_His_Slumber%29_Ritsu_Sakuma_M.png/revision/latest/scale-to-width-down/150?cb=20220407205312",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/0/0e/%28He_Who_Awakens_From_His_Slumber%29_Ritsu_Sakuma_M.png/revision/latest/scale-to-width-down/200?cb=20220407205312",
       "series": 49,
       "type": "feature"
     },
@@ -6108,7 +6148,7 @@
       "id": "Time_for_Hobbies",
       "star": 4,
       "name": "趣味の時間",
-      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/7/77/%28Time_for_Hobbies%29_Arashi_Narukami_M.png/revision/latest/scale-to-width-down/150?cb=20220228001533",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/7/77/%28Time_for_Hobbies%29_Arashi_Narukami_M.png/revision/latest/scale-to-width-down/200?cb=20220228001533",
       "series": 47,
       "type": "feature"
     },
@@ -6289,6 +6329,14 @@
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/f/f4/%28Compromise_is_Also_Friendship%29_Natsume_Sakasaki_M.png/revision/latest/scale-to-width-down/200?cb=20230219183807",
       "series": 70,
       "type": "feature"
+    },
+    {
+      "id": "Eccentric_Ensemble",
+      "star": 5,
+      "name": "風変わりな配役",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/a/a0/%28Eccentric_Ensemble%29_Natsume_Sakasaki_M.png/revision/latest/scale-to-width-down/200?cb=20230417033119",
+      "series": 74,
+      "type": "event"
     }
   ],
   "Tsumugi_Aoba": [
@@ -6392,7 +6440,7 @@
       "id": "Welcome_Home_Gift",
       "star": 4,
       "name": "帰宅のご褒美",
-      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/c/cd/%28Welcome_Home_Gift%29_Tsumugi_Aoba_M.png/revision/latest/scale-to-width-down/150?cb=20220502025923",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/c/cd/%28Welcome_Home_Gift%29_Tsumugi_Aoba_M.png/revision/latest/scale-to-width-down/200?cb=20220502025923",
       "series": 51,
       "type": "feature"
     },
@@ -6408,9 +6456,17 @@
       "id": "The_Restaurant%27s_Transformation",
       "star": 4,
       "name": "移ろう店の姿",
-      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/6/68/%28The_Restaurant%27s_Transformation%29_Tsumugi_Aoba_M.png/revision/latest/scale-to-width-down/150?cb=20230115020443",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/6/68/%28The_Restaurant%27s_Transformation%29_Tsumugi_Aoba_M.png/revision/latest/scale-to-width-down/200?cb=20230115020443",
       "series": 68,
       "type": "feature"
+    },
+    {
+      "id": "Eccentric_Duty",
+      "star": 5,
+      "name": "風変わりな役儀",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/7/76/%28Eccentric_Duty%29_Tsumugi_Aoba_M.png/revision/latest/scale-to-width-down/200?cb=20230417033106",
+      "series": 74,
+      "type": "event"
     }
   ],
   "Sora_Harukawa": [
