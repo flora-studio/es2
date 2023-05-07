@@ -2,6 +2,13 @@
   "event": [
     {
       "type": "event",
+      "banner": "https://static.wikia.nocookie.net/ensemble-stars/images/d/d1/Cross_%C3%97_Mark_Banner.png/revision/latest/scale-to-width-down/220?cb=20230503210411",
+      "name": "Cross × Mark",
+      "cg": "https://static.wikia.nocookie.net/ensemble-stars/images/4/45/%28%C3%97%C3%97%C3%97_Pretty%29_Nazuna_Nito_CG2.png/revision/latest/scale-to-width-down/1000?cb=20230503205946",
+      "series": 75
+    },
+    {
+      "type": "event",
       "banner": "https://static.wikia.nocookie.net/ensemble-stars/images/1/19/The_Eccentric_Fine_Banner.png/revision/latest/scale-to-width-down/220?cb=20230417033359",
       "name": "The Eccentric Fine",
       "cg": "https://static.wikia.nocookie.net/ensemble-stars/images/9/9b/%28Eccentric_Ensemble%29_Natsume_Sakasaki_CG2.png/revision/latest/scale-to-width-down/1000?cb=20230417033056",
@@ -520,6 +527,13 @@
     }
   ],
   "feature": [
+    {
+      "type": "feature",
+      "banner": "https://static.wikia.nocookie.net/ensemble-stars/images/8/83/Hiiro_Feature_Scout_2.png/revision/latest/scale-to-width-down/220?cb=20230429024428",
+      "name": "Hiiro Feature Scout 2",
+      "cg": "https://static.wikia.nocookie.net/ensemble-stars/images/8/8c/%28The_Way_to_Find_Brilliance%29_Hiiro_Amagi_CG2.png/revision/latest/scale-to-width-down/1000?cb=20230429024833",
+      "series": 75
+    },
     {
       "type": "feature",
       "banner": "https://static.wikia.nocookie.net/ensemble-stars/images/f/fc/Niki_Feature_Scout_2.png/revision/latest/scale-to-width-down/220?cb=20230411213817",

@@ -1255,6 +1255,14 @@
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/b/bf/%28Delicate_Monster%29_Makoto_Yuuki_M.png/revision/latest/scale-to-width-down/200?cb=20230217021801",
       "series": 70,
       "type": "event"
+    },
+    {
+      "id": "Work_That_Makes_the_Most_of_Yourself",
+      "star": 3,
+      "name": "自分を活かす仕事",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/a/a4/%28Work_That_Makes_the_Most_of_Yourself%29_Makoto_Yuuki_M.png/revision/latest/scale-to-width-down/200?cb=20230429025556",
+      "series": 75,
+      "type": "feature"
     }
   ],
   "Mao_Isara": [
@@ -2059,6 +2067,14 @@
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/f/f9/%28Scorpio%27s_Henchman%29_Hiiro_Amagi_M.png/revision/latest/scale-to-width-down/200?cb=20230403000952",
       "series": 73,
       "type": "event"
+    },
+    {
+      "id": "The_Way_to_Find_Brilliance",
+      "star": 5,
+      "name": "輝きの見つけかた",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/5/59/%28The_Way_to_Find_Brilliance%29_Hiiro_Amagi_M.png/revision/latest/scale-to-width-down/200?cb=20230429024725",
+      "series": 75,
+      "type": "feature"
     }
   ],
   "Aira_Shiratori": [
@@ -2334,6 +2350,14 @@
       "name": "裏側から進む先",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/3/32/%28Our_Destination_From_The_Other_Side%29_Mayoi_Ayase_M.png/revision/latest/scale-to-width-down/200?cb=20230317091434",
       "series": 72,
+      "type": "event"
+    },
+    {
+      "id": "%C3%97%C3%97%C3%97_Friend",
+      "star": 4,
+      "name": "×××・フレンド",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/4/40/%28%C3%97%C3%97%C3%97_Friend%29_Mayoi_Ayase_M.png/revision/latest/scale-to-width-down/200?cb=20230503214053",
+      "series": 75,
       "type": "event"
     }
   ],
@@ -3285,6 +3309,14 @@
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/2/2e/%28Gradually_To_Our_Destination%29_Mika_Kagehira_M.png/revision/latest/scale-to-width-down/200?cb=20230317091311",
       "series": 72,
       "type": "event"
+    },
+    {
+      "id": "%C3%97%C3%97%C3%97_Create",
+      "star": 3,
+      "name": "×××・クリエイト",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/3/3c/%28%C3%97%C3%97%C3%97_Create%29_Mika_Kagehira_M.png/revision/latest/scale-to-width-down/200?cb=20230503215255",
+      "series": 75,
+      "type": "event"
     }
   ],
   "Hinata_Aoi": [
@@ -3959,6 +3991,14 @@
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/5/56/%28Ensnared_Bunny%29_Kohaku_Oukawa_M.png/revision/latest/scale-to-width-down/200?cb=20230115021346",
       "series": 68,
       "type": "event"
+    },
+    {
+      "id": "One_Step_Into_the_World",
+      "star": 4,
+      "name": "世界への一歩",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/4/47/%28One_Step_Into_the_World%29_Kohaku_Oukawa_M.png/revision/latest/scale-to-width-down/200?cb=20230429025414",
+      "series": 75,
+      "type": "feature"
     }
   ],
   "Niki_Shiina": [
@@ -4811,6 +4851,14 @@
       "img": "https://docimg1.docs.qq.com/image/AgAABS1DDuZnlKG06c1C7b_T3glTyQxk.jpeg",
       "series": 67.1,
       "type": "limited"
+    },
+    {
+      "id": "%C3%97%C3%97%C3%97_Pretty",
+      "star": 5,
+      "name": "×××・プリティ",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/a/a8/%28%C3%97%C3%97%C3%97_Pretty%29_Nazuna_Nito_M.png/revision/latest/scale-to-width-down/200?cb=20230503212618",
+      "series": 75,
+      "type": "event"
     }
   ],
   "Mitsuru_Tenma": [
@@ -6198,6 +6246,14 @@
       "name": "華麗に進む先",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/2/27/%28Beautifully_To_Our_Destination%29_Arashi_Narukami_M.png/revision/latest/scale-to-width-down/200?cb=20230317091301",
       "series": 72,
+      "type": "event"
+    },
+    {
+      "id": "%C3%97%C3%97%C3%97_Runway",
+      "star": 3,
+      "name": "×××・ランウェイ",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/d/d2/%28%C3%97%C3%97%C3%97_Runway%29_Arashi_Narukami_M.png/revision/latest/scale-to-width-down/200?cb=20230503220256",
+      "series": 75,
       "type": "event"
     }
   ],
