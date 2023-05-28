@@ -151,6 +151,14 @@
       "img": "https://docimg4.docs.qq.com/image/AgAABS1DDuY2SLNdm3lJg5hxpvctUfQ9.png",
       "series": 73.1,
       "type": "limited"
+    },
+    {
+      "id": "A_Melody_Played_by_the_Sound_of_Rain",
+      "star": 5,
+      "name": "雨音弾く調べ",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/c/ca/%28A_Melody_Played_by_the_Sound_of_Rain%29_Shinobu_Sengoku_M.png/revision/latest/scale-to-width-down/200?cb=20230521014401",
+      "series": 76,
+      "type": "feature"
     }
   ],
   "Tomoya_Mashiro": [
@@ -735,6 +743,22 @@
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/a/a1/%28Pretty_Activities%29_Tori_Himemiya_M.png/revision/latest/scale-to-width-down/200?cb=20230328183115",
       "series": 73,
       "type": "feature"
+    },
+    {
+      "id": "Best_Blend",
+      "star": 4,
+      "name": "ベスト・ブレンド",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/5/59/%28Best_Blend%29_Tori_Himemiya_M.png/revision/latest/scale-to-width-down/200?cb=20230521014414",
+      "series": 76,
+      "type": "feature"
+    },
+    {
+      "id": "Learning_Culture_Through_Manga",
+      "star": 3,
+      "name": "漫画から知る文化",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/a/a4/%28Learning_Culture_Through_Manga%29_Tori_Himemiya_M.png/revision/latest/scale-to-width-down/200?cb=20230522220623",
+      "series": 76,
+      "type": "event"
     }
   ],
   "Yuzuru_Fushimi": [
@@ -1393,6 +1417,14 @@
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/4/46/%28Instrument%27s_Timbre%29_Mao_Isara_M.png/revision/latest/scale-to-width-down/200?cb=20221203003235",
       "series": 65,
       "type": "feature"
+    },
+    {
+      "id": "Manga_That_Brings_Memories",
+      "star": 5,
+      "name": "漫画との思い出",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/f/f4/%28Manga_That_Brings_Memories%29_Mao_Isara_M.png/revision/latest/scale-to-width-down/200?cb=20230522220638",
+      "series": 76,
+      "type": "event"
     }
   ],
   "Chiaki_Morisawa": [
@@ -1929,6 +1961,14 @@
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/b/bf/%28Desperately_Trying_To_Compliment%29_Midori_Takamine_M.png/revision/latest/scale-to-width-down/200?cb=20230411213804",
       "series": 74,
       "type": "feature"
+    },
+    {
+      "id": "Finding_Enthusiasm_Through_Manga",
+      "star": 3,
+      "name": "漫画にもらう元気",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/c/c5/%28Finding_Enthusiasm_Through_Manga%29_Midori_Takamine_M.png/revision/latest/scale-to-width-down/200?cb=20230522220613",
+      "series": 76,
+      "type": "event"
     }
   ],
   "Hiiro_Amagi": [
@@ -2497,6 +2537,14 @@
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/b/bd/%28The_Warmth_of_a_Refreshing_Breeze%29_Tatsumi_Kazehaya_M.png/revision/latest/scale-to-width-down/200?cb=20230219183819",
       "series": 70,
       "type": "feature"
+    },
+    {
+      "id": "A_Day_to_Look_Forward_To",
+      "star": 3,
+      "name": "楽しみになる日",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/0/0f/%28A_Day_to_Look_Forward_To%29_Tatsumi_Kazehaya_M.png/revision/latest/scale-to-width-down/200?cb=20230521014348",
+      "series": 76,
+      "type": "feature"
     }
   ],
   "Nagisa_Ran": [
@@ -3025,6 +3073,14 @@
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/1/14/%28A_Kindred_Spirit%27s_Passion%29_Jun_Sazanami_M.png/revision/latest/scale-to-width-down/200?cb=20230201193550",
       "series": 69,
       "type": "feature"
+    },
+    {
+      "id": "Feeling_Spirit_Through_Manga",
+      "star": 3,
+      "name": "漫画で感じる意気",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/3/3d/%28Feeling_Spirit_Through_Manga%29_Jun_Sazanami_M.png/revision/latest/scale-to-width-down/200?cb=20230522220604",
+      "series": 76,
+      "type": "event"
     }
   ],
   "Shu_Itsuki": [
@@ -5273,6 +5329,14 @@
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/8/8b/%28Sincere_Kindness%29_Keito_Hasumi_M.png/revision/latest/scale-to-width-down/200?cb=20230115020431",
       "series": 68,
       "type": "feature"
+    },
+    {
+      "id": "Manga_That_Gives_Courage",
+      "star": 4,
+      "name": "漫画がくれる鋭気",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/9/99/%28Manga_That_Gives_Courage%29_Keito_Hasumi_M.png/revision/latest/scale-to-width-down/200?cb=20230522220651",
+      "series": 76,
+      "type": "event"
     }
   ],
   "Kuro_Kiryu": [

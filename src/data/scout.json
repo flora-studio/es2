@@ -2,6 +2,13 @@
   "event": [
     {
       "type": "event",
+      "banner": "https://static.wikia.nocookie.net/ensemble-stars/images/9/9f/Manga_Club_%28Scout%29_Banner.png/revision/latest/scale-to-width-down/220?cb=20230522220659",
+      "name": "Manga Club (Scout)",
+      "cg": "https://static.wikia.nocookie.net/ensemble-stars/images/3/3c/%28Manga_That_Brings_Memories%29_Mao_Isara_CG2.png/revision/latest/scale-to-width-down/1000?cb=20230522220627",
+      "series": 76
+    },
+    {
+      "type": "event",
       "banner": "https://static.wikia.nocookie.net/ensemble-stars/images/d/d1/Cross_%C3%97_Mark_Banner.png/revision/latest/scale-to-width-down/220?cb=20230503210411",
       "name": "Cross × Mark",
       "cg": "https://static.wikia.nocookie.net/ensemble-stars/images/4/45/%28%C3%97%C3%97%C3%97_Pretty%29_Nazuna_Nito_CG2.png/revision/latest/scale-to-width-down/1000?cb=20230503205946",
@@ -527,6 +534,13 @@
     }
   ],
   "feature": [
+    {
+      "type": "feature",
+      "banner": "https://static.wikia.nocookie.net/ensemble-stars/images/9/99/Shinobu_Feature_Scout_2.png/revision/latest/scale-to-width-down/220?cb=20230521014420",
+      "name": "Shinobu Feature Scout 2",
+      "cg": "https://static.wikia.nocookie.net/ensemble-stars/images/5/54/%28A_Melody_Played_by_the_Sound_of_Rain%29_Shinobu_Sengoku_CG2.png/revision/latest/scale-to-width-down/1000?cb=20230521014351",
+      "series": 76
+    },
     {
       "type": "feature",
       "banner": "https://static.wikia.nocookie.net/ensemble-stars/images/8/83/Hiiro_Feature_Scout_2.png/revision/latest/scale-to-width-down/220?cb=20230429024428",
