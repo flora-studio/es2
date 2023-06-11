@@ -2,6 +2,13 @@
   "event": [
     {
       "type": "event",
+      "banner": "https://static.wikia.nocookie.net/ensemble-stars/images/f/fd/BIBLION_%28Scout%29_Banner.png/revision/latest/scale-to-width-down/220?cb=20230530223624",
+      "name": "BIBLION (Scout)",
+      "cg": "https://static.wikia.nocookie.net/ensemble-stars/images/d/df/%28BIBLION_of_Writing%29_Tsukasa_Suou_CG2.png/revision/latest/scale-to-width-down/1000?cb=20230608000230",
+      "series": 77
+    },
+    {
+      "type": "event",
       "banner": "https://static.wikia.nocookie.net/ensemble-stars/images/9/9f/Manga_Club_%28Scout%29_Banner.png/revision/latest/scale-to-width-down/220?cb=20230522220659",
       "name": "Manga Club (Scout)",
       "cg": "https://static.wikia.nocookie.net/ensemble-stars/images/3/3c/%28Manga_That_Brings_Memories%29_Mao_Isara_CG2.png/revision/latest/scale-to-width-down/1000?cb=20230522220627",
@@ -534,6 +541,13 @@
     }
   ],
   "feature": [
+    {
+      "type": "feature",
+      "banner": "https://static.wikia.nocookie.net/ensemble-stars/images/3/3a/Koga_Feature_Scout_2.png/revision/latest/scale-to-width-down/220?cb=20230531034141",
+      "name": "Koga Feature Scout 2",
+      "cg": "https://static.wikia.nocookie.net/ensemble-stars/images/e/e0/%28Never-Changing_Three_Chords%29_Koga_Oogami_CG2.png/revision/latest/scale-to-width-down/1000?cb=20230531034130",
+      "series": 77
+    },
     {
       "type": "feature",
       "banner": "https://static.wikia.nocookie.net/ensemble-stars/images/9/99/Shinobu_Feature_Scout_2.png/revision/latest/scale-to-width-down/220?cb=20230521014420",

@@ -2675,6 +2675,14 @@
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/a/aa/%28Unexperienced_and_Unexplored_Discoveries%29_Nagisa_Ran_M.png/revision/latest/scale-to-width-down/200?cb=20221118220018",
       "series": 64,
       "type": "feature"
+    },
+    {
+      "id": "BIBLION_of_Perusing",
+      "star": 3,
+      "name": "熟読ビブリオン",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/4/46/%28BIBLION_of_Perusing%29_Nagisa_Ran_M.png/revision/latest/scale-to-width-down/200?cb=20230608000207",
+      "series": 77,
+      "type": "event"
     }
   ],
   "Hiyori_Tomoe": [
@@ -3373,6 +3381,14 @@
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/3/3c/%28%C3%97%C3%97%C3%97_Create%29_Mika_Kagehira_M.png/revision/latest/scale-to-width-down/200?cb=20230503215255",
       "series": 75,
       "type": "event"
+    },
+    {
+      "id": "Taking_Time_to_Reflect",
+      "star": 4,
+      "name": "心留める時間",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/2/2e/%28Taking_Time_to_Reflect%29_Mika_Kagehira_M.png/revision/latest/scale-to-width-down/200?cb=20230531034127",
+      "series": 77,
+      "type": "feature"
     }
   ],
   "Hinata_Aoi": [
@@ -4485,6 +4501,14 @@
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/e/eb/%28Scorpio%27s_Supervillain%29_Kaoru_Hakaze_M.png/revision/latest/scale-to-width-down/200?cb=20230403001010",
       "series": 73,
       "type": "event"
+    },
+    {
+      "id": "BIBLION_of_Polishing",
+      "star": 4,
+      "name": "推敲ビブリオン",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/a/ac/%28BIBLION_of_Polishing%29_Kaoru_Hakaze_M.png/revision/latest/scale-to-width-down/200?cb=20230608000218",
+      "series": 77,
+      "type": "event"
     }
   ],
   "Koga_Oogami": [
@@ -4623,6 +4647,14 @@
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/a/a3/%28Our_Destination_To_Our_Ideals%29_Koga_Oogami_M.png/revision/latest/scale-to-width-down/200?cb=20230317091448",
       "series": 72,
       "type": "event"
+    },
+    {
+      "id": "Never-Changing_Three_Chords",
+      "star": 5,
+      "name": "不変のスリー・コード",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/e/ed/%28Never-Changing_Three_Chords%29_Koga_Oogami_M.png/revision/latest/scale-to-width-down/200?cb=20230531034139",
+      "series": 77,
+      "type": "feature"
     }
   ],
   "Adonis_Otogari": [
@@ -5190,6 +5222,14 @@
       "name": "ドールと愛着",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/0/0b/%28Doll_and_Attachment%29_Hajime_Shino_M.png/revision/latest/scale-to-width-down/200?cb=20221031195207",
       "series": 63,
+      "type": "event"
+    },
+    {
+      "id": "BIBLION_of_Publishing",
+      "star": 3,
+      "name": "添削ビブリオン",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/7/7c/%28BIBLION_of_Publishing%29_Hajime_Shino_M.png/revision/latest/scale-to-width-down/200?cb=20230608000227",
+      "series": 77,
       "type": "event"
     }
   ],
@@ -5775,6 +5815,14 @@
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/b/b6/%28English_Time%29_Tsukasa_Suou_M.png/revision/latest/scale-to-width-down/200?cb=20230328183007",
       "series": 73,
       "type": "feature"
+    },
+    {
+      "id": "BIBLION_of_Writing",
+      "star": 5,
+      "name": "執筆ビブリオン",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/1/1c/%28BIBLION_of_Writing%29_Tsukasa_Suou_M.png/revision/latest/scale-to-width-down/200?cb=20230608000239",
+      "series": 77,
+      "type": "event"
     }
   ],
   "Leo_Tsukinaga": [
@@ -6587,6 +6635,22 @@
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/7/76/%28Eccentric_Duty%29_Tsumugi_Aoba_M.png/revision/latest/scale-to-width-down/200?cb=20230417033106",
       "series": 74,
       "type": "event"
+    },
+    {
+      "id": "BIBLION_of_Interpreting",
+      "star": 3,
+      "name": "解釈ビブリオン",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/6/6e/%28BIBLION_of_Interpreting%29_Tsumugi_Aoba_M.png/revision/latest/scale-to-width-down/200?cb=20230608000159",
+      "series": 77,
+      "type": "event"
+    },
+    {
+      "id": "Around_the_Hot_Pot_at_the_Dinner_Table",
+      "star": 3,
+      "name": "鍋囲む食卓",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/2/23/%28Around_the_Hot_Pot_at_the_Dinner_Table%29_Tsumugi_Aoba_M.png/revision/latest/scale-to-width-down/200?cb=20230531034115",
+      "series": 77,
+      "type": "feature"
     }
   ],
   "Sora_Harukawa": [
