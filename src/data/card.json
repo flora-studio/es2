@@ -459,6 +459,14 @@
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/3/3c/%28Waltz_Expectation%29_Eichi_Tenshouin_M.png/revision/latest/scale-to-width-down/200?cb=20230205034749",
       "series": 69,
       "type": "event"
+    },
+    {
+      "id": "eichi_77.1_limited",
+      "star": 4,
+      "name": "优雅夜曲",
+      "img": "https://imglf4.lf127.net/img/ebb5674510850054/cVViT08vMlVDZVREZk5wNWdPMjM1c1N2b3BzRTZUYVRHTDZiWVMxTktuTT0.jpg",
+      "series": 77.1,
+      "type": "limited"
     }
   ],
   "Wataru_Hibiki": [
@@ -759,6 +767,14 @@
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/a/a4/%28Learning_Culture_Through_Manga%29_Tori_Himemiya_M.png/revision/latest/scale-to-width-down/200?cb=20230522220623",
       "series": 76,
       "type": "event"
+    },
+    {
+      "id": "tori_77.1_limited",
+      "star": 5,
+      "name": "黑羽夜曲",
+      "img": "https://imglf4.lf127.net/img/5040f6d1bc613959/cVViT08vMlVDZVREZk5wNWdPMjM1a25MVTJ0SUtyK0ZGLytZc2oxTmNIdz0.jpg",
+      "series": 77.1,
+      "type": "limited"
     }
   ],
   "Yuzuru_Fushimi": [
@@ -1287,6 +1303,14 @@
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/a/a4/%28Work_That_Makes_the_Most_of_Yourself%29_Makoto_Yuuki_M.png/revision/latest/scale-to-width-down/200?cb=20230429025556",
       "series": 75,
       "type": "feature"
+    },
+    {
+      "id": "makoto_77.1_limited",
+      "star": 3,
+      "name": "协助夜曲",
+      "img": "https://imglf3.lf127.net/img/66eb2874f69ea5de/cVViT08vMlVDZVREZk5wNWdPMjM1azJkWlhRL0J1Z2JZY1FCdlU2aE1Gbz0.jpg",
+      "series": 77.1,
+      "type": "limited"
     }
   ],
   "Mao_Isara": [
