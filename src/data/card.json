@@ -913,6 +913,14 @@
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/f/f4/%28Our_Destination_With_A_Sparkling_Friend%29_Yuzuru_Fushimi_M.png/revision/latest/scale-to-width-down/200?cb=20230317091536",
       "series": 72,
       "type": "event"
+    },
+    {
+      "id": "Somnolent_Flower_Shrouded_in_Secrecy",
+      "star": 5,
+      "name": "秘密めく眠花",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/c/c1/%28Somnolent_Flower_Shrouded_in_Secrecy%29_Yuzuru_Fushimi_M.png/revision/latest/scale-to-width-down/200?cb=20230629015716",
+      "series": 79,
+      "type": "feature"
     }
   ],
   "Hokuto_Hidaka": [
@@ -1173,6 +1181,22 @@
       "img": "https://docimg1.docs.qq.com/image/AgAABS1DDubLEYbJgC5BZKrWPlJQC5GT.png",
       "series": 73.1,
       "type": "limited"
+    },
+    {
+      "id": "Music_Beside_One_Another",
+      "star": 4,
+      "name": "隣に並ぶ音",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/3/38/%28Music_Beside_One_Another%29_Subaru_Akehoshi_M.png/revision/latest/scale-to-width-down/200?cb=20230620192029",
+      "series": 78,
+      "type": "feature"
+    },
+    {
+      "id": "Observation_SUMMER",
+      "star": 3,
+      "name": "観察SUMMER",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/4/4f/%28Observation_SUMMER%29_Subaru_Akehoshi_M.png/revision/latest/scale-to-width-down/200?cb=20230701002738",
+      "series": 79,
+      "type": "event"
     }
   ],
   "Makoto_Yuuki": [
@@ -1717,6 +1741,14 @@
       "img": "https://docimg5.docs.qq.com/image/AgAABS1DDuaKMv3OCQlKmKCZukzj7auJ.png",
       "series": 73.1,
       "type": "limited"
+    },
+    {
+      "id": "Raindrop-covered_Stroll",
+      "star": 3,
+      "name": "あまだれるみちゆき",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/1/14/%28Raindrop-covered_Stroll%29_Kanata_Shinkai_M.png/revision/latest/scale-to-width-down/200?cb=20230620235004",
+      "series": 78,
+      "type": "event"
     }
   ],
   "Tetora_Nagumo": [
@@ -2285,6 +2317,14 @@
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/d/d9/%28Unlucky_Bunny%29_Aira_Shiratori_M.png/revision/latest/scale-to-width-down/200?cb=20230115021414",
       "series": 68,
       "type": "event"
+    },
+    {
+      "id": "Method_of_How_Love_is_Spread",
+      "star": 5,
+      "name": "愛が伝わる方法",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/3/36/%28Method_of_How_Love_is_Spread%29_Aira_Shiratori_M.png/revision/latest/scale-to-width-down/200?cb=20230620192017",
+      "series": 78,
+      "type": "feature"
     }
   ],
   "Mayoi_Ayase": [
@@ -2974,6 +3014,14 @@
       "name": "気概に付く火",
       "img": "https://cdn.gamerch.com/resize/eyJidWNrZXQiOiJnYW1lcmNoLWltZy1jb250ZW50cyIsImtleSI6Indpa2lcLzEwMDdcL2VudHJ5XC9hSElnMkNqdy5wbmciLCJlZGl0cyI6eyJ3ZWJwIjp7InF1YWxpdHkiOjg1fSwidG9Gb3JtYXQiOiJ3ZWJwIn19",
       "series": 66,
+      "type": "event"
+    },
+    {
+      "id": "Raindrop-covered_Exhibition",
+      "star": 3,
+      "name": "雨垂れる展観",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/a/a2/%28Raindrop-covered_Exhibition%29_Ibara_Saegusa_M.png/revision/latest/scale-to-width-down/200?cb=20230620234940",
+      "series": 78,
       "type": "event"
     }
   ],
@@ -3957,6 +4005,14 @@
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/0/05/%28Lucky_Bunny%29_HiMERU_M.png/revision/latest/scale-to-width-down/200?cb=20230103023258",
       "series": 67,
       "type": "event"
+    },
+    {
+      "id": "Raindrop-covered_Townscape",
+      "star": 4,
+      "name": "雨垂れる町並み",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/7/74/%28Raindrop-covered_Townscape%29_HiMERU_M.png/revision/latest/scale-to-width-down/200?cb=20230620235017",
+      "series": 78,
+      "type": "event"
     }
   ],
   "Kohaku_Oukawa": [
@@ -4233,6 +4289,14 @@
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/3/3c/%28A_Dish_That_Fills_You_Up%29_Niki_Shiina_M.png/revision/latest/scale-to-width-down/200?cb=20230411213751",
       "series": 74,
       "type": "feature"
+    },
+    {
+      "id": "Cooperation_SUMMER",
+      "star": 4,
+      "name": "協力SUMMER",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/3/33/%28Cooperation_SUMMER%29_Niki_Shiina_M.png/revision/latest/scale-to-width-down/200?cb=20230701002717",
+      "series": 79,
+      "type": "event"
     }
   ],
   "Rei_Sakuma": [
@@ -4387,6 +4451,14 @@
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/a/a0/%28Inquiring_Bunny%29_Rei_Sakuma_M.png/revision/latest/scale-to-width-down/200?cb=20230103023229",
       "series": 67,
       "type": "event"
+    },
+    {
+      "id": "Assistant%27s_Job",
+      "star": 3,
+      "name": "補佐役の仕事",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/4/4d/%28Assistant%27s_Job%29_Rei_Sakuma_M.png/revision/latest/scale-to-width-down/200?cb=20230620192005",
+      "series": 78,
+      "type": "feature"
     }
   ],
   "Kaoru_Hakaze": [
@@ -5555,6 +5627,14 @@
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/4/49/%28Promise_Between_Men%29_Kuro_Kiryu_M.png/revision/latest/scale-to-width-down/200?cb=20230411213814",
       "series": 74,
       "type": "feature"
+    },
+    {
+      "id": "Helping_Hand_SUMMER",
+      "star": 3,
+      "name": "手助けSUMMER",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/3/3c/%28Helping_Hand_SUMMER%29_Kuro_Kiryu_M.png/revision/latest/scale-to-width-down/200?cb=20230701002728",
+      "series": 79,
+      "type": "event"
     }
   ],
   "Souma_Kanzaki": [
@@ -5685,6 +5765,14 @@
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/1/1a/%28Cloudless_Posture%29_Souma_Kanzaki_M.png/revision/latest/scale-to-width-down/200?cb=20230303200806",
       "series": 71,
       "type": "feature"
+    },
+    {
+      "id": "Raindrop-covered_Show_Window",
+      "star": 5,
+      "name": "雨垂れる飾り窓",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/1/1a/%28Raindrop-covered_Show_Window%29_Souma_Kanzaki_M.png/revision/latest/scale-to-width-down/200?cb=20230620234953",
+      "series": 78,
+      "type": "event"
     }
   ],
   "Tsukasa_Suou": [
@@ -6115,6 +6203,14 @@
       "img": "https://docimg5.docs.qq.com/image/AgAABS1DDuavHcKUWgZO07GEuepjpwsl.jpeg",
       "series": 67.1,
       "type": "limited"
+    },
+    {
+      "id": "Graduation_Surprise",
+      "star": 3,
+      "name": "卒業サプライズ",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/0/00/%28Graduation_Surprise%29_Izumi_Sena_M.png/revision/latest/scale-to-width-down/200?cb=20230629015704",
+      "series": 79,
+      "type": "feature"
     }
   ],
   "Ritsu_Sakuma": [
@@ -6237,6 +6333,14 @@
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/7/7e/%28Clever_Monster%29_Ritsu_Sakuma_M.png/revision/latest/scale-to-width-down/200?cb=20230217021740",
       "series": 70,
       "type": "event"
+    },
+    {
+      "id": "A_Word_To_My_Anija",
+      "star": 4,
+      "name": "兄者への伝言",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/d/dd/%28A_Word_To_My_Anija%29_Ritsu_Sakuma_M.png/revision/latest/scale-to-width-down/200?cb=20230629015657",
+      "series": 79,
+      "type": "feature"
     }
   ],
   "Arashi_Narukami": [
@@ -6804,6 +6908,14 @@
       "name": "慣れない想い",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/7/71/%28Feelings_of_Unfamiliarity%29_Sora_Harukawa_M.png/revision/latest/scale-to-width-down/200?cb=20230303080205",
       "series": 71,
+      "type": "event"
+    },
+    {
+      "id": "Challenge_SUMMER",
+      "star": 5,
+      "name": "挑戦SUMMER",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/2/2f/%28Challenge_SUMMER%29_Sora_Harukawa_M.png/revision/latest/scale-to-width-down/200?cb=20230701002706",
+      "series": 79,
       "type": "event"
     }
   ],
