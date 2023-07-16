@@ -13,6 +13,8 @@
         &nbsp;/&nbsp;微博: <a href="https://weibo.com/u/6714705016" target="_blank" referrerpolicy="no-referrer">@芙露拉_FloraStudio</a>
         &nbsp;/&nbsp;公众号: <a href="https://mp.weixin.qq.com/s?srcid=0219sLdXtFaq6BqBLxfFwRqL&scene=23&mid=2247483832&sn=20c5774f3c5bffa7f801e93492c901a0&idx=1&__biz=MzUyNzkzOTA0MQ%3D%3D" target="_blank" referrerpolicy="no-referrer">芙露拉ACG研究社</a></p>
       <p>如果你喜欢我们的抽卡模拟器，也欢迎<a href="https://afdian.net/a/florastudio" target="_blank" referrerpolicy="no-referrer">支持我们</a>，鼓励我们对网页持续维护和更新。</p>
+      <p>感谢以下用户为我们发电：</p>
+      <p class="afd-item"><img src="https://pic1.afdiancdn.com/default/avatar/avatar-orange.png?imageView2/1/w/40/h/40" />无诫律反。</p>
       <h3>常见问题</h3>
       <p>Q: 会继续更新吗？</p>
       <p>A: 会根据 Wiki 数据继续更新。</p>
@@ -66,5 +68,15 @@ h3 {
 p {
   font-size: 1.5rem;
   margin: 1rem 0;
+}
+
+.afd-item {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.afd-item img {
+  border-radius: 999px;
 }
 </style>
