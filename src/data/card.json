@@ -2325,6 +2325,14 @@
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/3/36/%28Method_of_How_Love_is_Spread%29_Aira_Shiratori_M.png/revision/latest/scale-to-width-down/200?cb=20230620192017",
       "series": 78,
       "type": "feature"
+    },
+    {
+      "id": "Paddle_Ceasing_the_Rain",
+      "star": 3,
+      "name": "Aira_Shiratori",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/d/d7/%28Paddle_Ceasing_the_Rain%29_Aira_Shiratori_M.png/revision/latest/scale-to-width-down/200?cb=20230715194636",
+      "series": 80,
+      "type": "event"
     }
   ],
   "Mayoi_Ayase": [
@@ -3299,6 +3307,14 @@
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/b/b1/%28Artistic_Monster%29_Shu_Itsuki_M.png/revision/latest/scale-to-width-down/200?cb=20230217021728",
       "series": 70,
       "type": "event"
+    },
+    {
+      "id": "Paddle_Leaving_Ripples_in_the_Water",
+      "star": 4,
+      "name": "Shu_Itsuki",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/e/ee/%28Paddle_Leaving_Ripples_in_the_Water%29_Shu_Itsuki_M.png/revision/latest/scale-to-width-down/200?cb=20230715194921",
+      "series": 80,
+      "type": "event"
     }
   ],
   "Mika_Kagehira": [
@@ -3591,6 +3607,14 @@
       "img": "https://cdn.gamerch.com/resize/eyJidWNrZXQiOiJnYW1lcmNoLWltZy1jb250ZW50cyIsImtleSI6Indpa2lcLzEwMDdcL2VudHJ5XC9OZGt5TGxFby5wbmciLCJlZGl0cyI6eyJ3ZWJwIjp7InF1YWxpdHkiOjg1fSwidG9Gb3JtYXQiOiJ3ZWJwIn19",
       "series": 60,
       "type": "event"
+    },
+    {
+      "id": "Nearly_Identical",
+      "star": 4,
+      "name": "ニアリーイコール",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/6/62/%28Nearly_Identical%29_Hinata_Aoi_M.png/revision/latest/scale-to-width-down/200?cb=20230715195038",
+      "series": 80,
+      "type": "feature"
     }
   ],
   "Yuta_Aoi": [
@@ -4751,6 +4775,14 @@
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/e/ed/%28Never-Changing_Three_Chords%29_Koga_Oogami_M.png/revision/latest/scale-to-width-down/200?cb=20230531034139",
       "series": 77,
       "type": "feature"
+    },
+    {
+      "id": "Forced_to_Play",
+      "star": 3,
+      "name": "遊戯は道連れ",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/8/80/%28Forced_to_Play%29_Koga_Oogami_M.png/revision/latest/scale-to-width-down/200?cb=20230715195217",
+      "series": 80,
+      "type": "feature"
     }
   ],
   "Adonis_Otogari": [
@@ -4888,6 +4920,14 @@
       "name": "美味しく健康",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/5/55/%28Delicious_and_Healthy%29_Adonis_Otogari_M.png/revision/latest/scale-to-width-down/200?cb=20230303200828",
       "series": 71,
+      "type": "feature"
+    },
+    {
+      "id": "Blazing_Feelings",
+      "star": 5,
+      "name": "燃えあがる思い",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/0/0c/%28Blazing_Feelings%29_Adonis_Otogari_M.png/revision/latest/scale-to-width-down/200?cb=20230715194958",
+      "series": 80,
       "type": "feature"
     }
   ],
@@ -5773,6 +5813,14 @@
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/1/1a/%28Raindrop-covered_Show_Window%29_Souma_Kanzaki_M.png/revision/latest/scale-to-width-down/200?cb=20230620234953",
       "series": 78,
       "type": "event"
+    },
+    {
+      "id": "Paddle_Shedding_a_Drop_of_Water",
+      "star": 3,
+      "name": "Souma_Kanzaki",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/b/b5/%28Paddle_Shedding_a_Drop_of_Water%29_Souma_Kanzaki_M.png/revision/latest/scale-to-width-down/200?cb=20230715194647",
+      "series": 80,
+      "type": "event"
     }
   ],
   "Tsukasa_Suou": [
@@ -6211,6 +6259,14 @@
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/0/00/%28Graduation_Surprise%29_Izumi_Sena_M.png/revision/latest/scale-to-width-down/200?cb=20230629015704",
       "series": 79,
       "type": "feature"
+    },
+    {
+      "id": "Evening_Glow_Paddle",
+      "star": 5,
+      "name": "Izumi_Sena",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/8/8f/%28Evening_Glow_Paddle%29_Izumi_Sena_M.png/revision/latest/scale-to-width-down/200?cb=20230715194842",
+      "series": 80,
+      "type": "event"
     }
   ],
   "Ritsu_Sakuma": [

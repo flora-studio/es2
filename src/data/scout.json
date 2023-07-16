@@ -2,6 +2,13 @@
   "event": [
     {
       "type": "event",
+      "banner": "https://static.wikia.nocookie.net/ensemble-stars/images/b/b3/Evening_Shower%27s_Paddle_Banner.png/revision/latest/scale-to-width-down/220?cb=20230715194605",
+      "name": "Evening Shower's Paddle",
+      "cg": "https://static.wikia.nocookie.net/ensemble-stars/images/b/be/%28Evening_Glow_Paddle%29_Izumi_Sena_CG2.png/revision/latest/scale-to-width-down/1000?cb=20230715192304",
+      "series": 80
+    },
+    {
+      "type": "event",
       "banner": "https://static.wikia.nocookie.net/ensemble-stars/images/b/ba/Suntan_SUMMER_Banner.png/revision/latest/scale-to-width-down/220?cb=20230630233810",
       "name": "Suntan SUMMER",
       "cg": "https://static.wikia.nocookie.net/ensemble-stars/images/4/41/%28Challenge_SUMMER%29_Sora_Harukawa_CG2.png/revision/latest/scale-to-width-down/1000?cb=20230701002657",
@@ -555,6 +562,13 @@
     }
   ],
   "feature": [
+    {
+      "type": "feature",
+      "banner": "https://static.wikia.nocookie.net/ensemble-stars/images/2/2f/Adonis_Feature_Scout_2.png/revision/latest/scale-to-width-down/220?cb=20230715194546",
+      "name": "Adonis Feature Scout 2",
+      "cg": "https://static.wikia.nocookie.net/ensemble-stars/images/7/7f/%28Blazing_Feelings%29_Adonis_Otogari_CG2.png/revision/latest/scale-to-width-down/1000?cb=20230715192251",
+      "series": 80
+    },
     {
       "type": "feature",
       "banner": "https://static.wikia.nocookie.net/ensemble-stars/images/5/58/Yuzuru_Feature_Scout_2.png/revision/latest/scale-to-width-down/220?cb=20230629015735",

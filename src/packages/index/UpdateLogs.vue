@@ -4,9 +4,9 @@
     <div class="inner">
       <a href="#" /><!-- 处理焦点的问题 -->
       <h3>最近更新</h3>
+      <p>2023/07/16 更新日服最新池</p>
       <p>2023/07/03 更新日服最新池</p>
       <p>2023/06/11 更新日服最新池、国服限定池</p>
-      <p>2023/05/28 更新日服最新池</p>
       <h3>关于我们</h3>
       <p>FloraStudio 专注于游戏、二次元等领域的创作与分析。欢迎关注我们：</p>
       <p>Bilibili: <a href="https://space.bilibili.com/688429881" target="_blank" referrerpolicy="no-referrer">@FloraStudio</a>
