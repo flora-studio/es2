@@ -3071,6 +3071,14 @@
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/6/6a/%28A_Vexing_Worry%29_Ibara_Saegusa_M.png/revision/latest/scale-to-width-down/200?cb=20230727051510",
       "series": 81,
       "type": "feature"
+    },
+    {
+      "id": "ibara_80.1_limited",
+      "star": 4,
+      "name": "指挥乐章",
+      "img": "https://imglf5.lf127.net/img/add7705e21c03553/cVViT08vMlVDZVM4VzNZZ1lIcEZmclI4aHpkVTY3ek5tV1A4bXdXb0dKYz0.jpg",
+      "series": 80.1,
+      "type": "limited"
     }
   ],
   "Jun_Sazanami": [
@@ -3209,6 +3217,14 @@
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/3/3d/%28Feeling_Spirit_Through_Manga%29_Jun_Sazanami_M.png/revision/latest/scale-to-width-down/200?cb=20230522220604",
       "series": 76,
       "type": "event"
+    },
+    {
+      "id": "jun_80.1_limited",
+      "star": 3,
+      "name": "协奏乐章",
+      "img": "https://imglf5.lf127.net/img/102a9d5dc20d4c8d/cVViT08vMlVDZVM4VzNZZ1lIcEZmakZSRmkya3RnVlpQYzRiZW01MGFOQT0.jpg",
+      "series": 80.1,
+      "type": "limited"
     }
   ],
   "Shu_Itsuki": [
@@ -4215,6 +4231,14 @@
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/4/47/%28One_Step_Into_the_World%29_Kohaku_Oukawa_M.png/revision/latest/scale-to-width-down/200?cb=20230429025414",
       "series": 75,
       "type": "feature"
+    },
+    {
+      "id": "kohaku_80.1_limited",
+      "star": 5,
+      "name": "白羽乐章",
+      "img": "https://imglf5.lf127.net/img/06e1f11cddaccd35/cVViT08vMlVDZVM4VzNZZ1lIcEZmczBFNjNwVXQra1lIMHJ2WlZLY3Bydz0.jpg",
+      "series": 80.1,
+      "type": "limited"
     }
   ],
   "Niki_Shiina": [
