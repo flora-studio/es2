@@ -305,6 +305,14 @@
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/7/71/%28Scorpio%27s_Archenemy%29_Tomoya_Mashiro_M.png/revision/latest/scale-to-width-down/200?cb=20230403000944",
       "series": 73,
       "type": "event"
+    },
+    {
+      "id": "White_Night_Illusion",
+      "star": 3,
+      "name": "白夜の幻",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/b/b9/%28White_Night_Illusion%29_Tomoya_Mashiro_M.png/revision/latest/scale-to-width-down/200?cb=20230802000342",
+      "series": 81,
+      "type": "event"
     }
   ],
   "Eichi_Tenshouin": [
@@ -1335,6 +1343,14 @@
       "img": "https://imglf3.lf127.net/img/66eb2874f69ea5de/cVViT08vMlVDZVREZk5wNWdPMjM1azJkWlhRL0J1Z2JZY1FCdlU2aE1Gbz0.jpg",
       "series": 77.1,
       "type": "limited"
+    },
+    {
+      "id": "Glimmering_Piece",
+      "star": 5,
+      "name": "煌めく一欠片",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/c/ce/%28Glimmering_Piece%29_Makoto_Yuuki_M.png/revision/latest/scale-to-width-down/200?cb=20230727051520",
+      "series": 81,
+      "type": "feature"
     }
   ],
   "Mao_Isara": [
@@ -2171,6 +2187,14 @@
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/5/59/%28The_Way_to_Find_Brilliance%29_Hiiro_Amagi_M.png/revision/latest/scale-to-width-down/200?cb=20230429024725",
       "series": 75,
       "type": "feature"
+    },
+    {
+      "id": "State_of_the_Mind",
+      "star": 3,
+      "name": "心の在りかた",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/5/50/%28State_of_the_Mind%29_Hiiro_Amagi_M.png/revision/latest/scale-to-width-down/200?cb=20230727051527",
+      "series": 81,
+      "type": "feature"
     }
   ],
   "Aira_Shiratori": [
@@ -2470,6 +2494,14 @@
       "name": "×××・フレンド",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/4/40/%28%C3%97%C3%97%C3%97_Friend%29_Mayoi_Ayase_M.png/revision/latest/scale-to-width-down/200?cb=20230503214053",
       "series": 75,
+      "type": "event"
+    },
+    {
+      "id": "Early_Night_Illusion",
+      "star": 5,
+      "name": "宵夜の幻",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/4/45/%28Early_Night_Illusion%29_Mayoi_Ayase_M.png/revision/latest/scale-to-width-down/200?cb=20230802000230",
+      "series": 81,
       "type": "event"
     }
   ],
@@ -3031,6 +3063,14 @@
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/a/a2/%28Raindrop-covered_Exhibition%29_Ibara_Saegusa_M.png/revision/latest/scale-to-width-down/200?cb=20230620234940",
       "series": 78,
       "type": "event"
+    },
+    {
+      "id": "A_Vexing_Worry",
+      "star": 4,
+      "name": "歯がゆい悩み",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/6/6a/%28A_Vexing_Worry%29_Ibara_Saegusa_M.png/revision/latest/scale-to-width-down/200?cb=20230727051510",
+      "series": 81,
+      "type": "feature"
     }
   ],
   "Jun_Sazanami": [
@@ -6397,6 +6437,14 @@
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/d/dd/%28A_Word_To_My_Anija%29_Ritsu_Sakuma_M.png/revision/latest/scale-to-width-down/200?cb=20230629015657",
       "series": 79,
       "type": "feature"
+    },
+    {
+      "id": "Moonlit_Night_Illusion",
+      "star": 3,
+      "name": "朧夜の幻",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/7/7c/%28Moonlit_Night_Illusion%29_Ritsu_Sakuma_M.png/revision/latest/scale-to-width-down/200?cb=20230802000324",
+      "series": 81,
+      "type": "event"
     }
   ],
   "Arashi_Narukami": [
@@ -6835,6 +6883,14 @@
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/2/23/%28Around_the_Hot_Pot_at_the_Dinner_Table%29_Tsumugi_Aoba_M.png/revision/latest/scale-to-width-down/200?cb=20230531034115",
       "series": 77,
       "type": "feature"
+    },
+    {
+      "id": "Late_Night_Illusion",
+      "star": 4,
+      "name": "暮夜の幻",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/b/bc/%28Late_Night_Illusion%29_Tsumugi_Aoba_M.png/revision/latest/scale-to-width-down/200?cb=20230802000315",
+      "series": 81,
+      "type": "event"
     }
   ],
   "Sora_Harukawa": [

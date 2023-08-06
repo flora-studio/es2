@@ -3,8 +3,8 @@ const fs = require('fs')
 const BASE_URL = 'https://ensemble-stars.fandom.com'
 
 // TODO 每次记得替换
-const ScoutUrl = 'https://ensemble-stars.fandom.com/wiki/Category:Evening_Shower%27s_Paddle'
-const ScoutSeries = 80
+const ScoutUrl = 'https://ensemble-stars.fandom.com/wiki/Category:Illusory_Noctilucence'
+const ScoutSeries = 81
 
 const scout = {
   type: '',
