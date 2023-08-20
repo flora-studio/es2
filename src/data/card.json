@@ -475,6 +475,14 @@
       "img": "https://imglf4.lf127.net/img/ebb5674510850054/cVViT08vMlVDZVREZk5wNWdPMjM1c1N2b3BzRTZUYVRHTDZiWVMxTktuTT0.jpg",
       "series": 77.1,
       "type": "limited"
+    },
+    {
+      "id": "Incognito_Warrior",
+      "star": 3,
+      "name": "お忍び戦士",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/9/9b/%28Incognito_Warrior%29_Eichi_Tenshouin_M.png/revision/latest/scale-to-width-down/200?cb=20230819160640",
+      "series": 82,
+      "type": "event"
     }
   ],
   "Wataru_Hibiki": [
@@ -1765,6 +1773,14 @@
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/1/14/%28Raindrop-covered_Stroll%29_Kanata_Shinkai_M.png/revision/latest/scale-to-width-down/200?cb=20230620235004",
       "series": 78,
       "type": "event"
+    },
+    {
+      "id": "%22Strange%22_Fish",
+      "star": 3,
+      "name": "『へん』なおさかな",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/1/16/%28%22Strange%22_Fish%29_Kanata_Shinkai_M.png/revision/latest/scale-to-width-down/200?cb=20230812002743",
+      "series": 82,
+      "type": "feature"
     }
   ],
   "Tetora_Nagumo": [
@@ -1910,6 +1926,14 @@
       "name": "気に入ったもの",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/2/2d/%28What_I_Like%29_Tetora_Nagumo_M.png/revision/latest/scale-to-width-down/200?cb=20230315232940",
       "series": 72,
+      "type": "feature"
+    },
+    {
+      "id": "The_Other_Side_of_the_Goal",
+      "star": 5,
+      "name": "着地点の向こう側",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/6/65/%28The_Other_Side_of_the_Goal%29_Tetora_Nagumo_M.png/revision/latest/scale-to-width-down/200?cb=20230812002649",
+      "series": 82,
       "type": "feature"
     }
   ],
@@ -5147,6 +5171,14 @@
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/a/a8/%28%C3%97%C3%97%C3%97_Pretty%29_Nazuna_Nito_M.png/revision/latest/scale-to-width-down/200?cb=20230503212618",
       "series": 75,
       "type": "event"
+    },
+    {
+      "id": "Reliable_Ally",
+      "star": 3,
+      "name": "頼れる味方",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/0/05/%28Reliable_Ally%29_Nazuna_Nito_M.png/revision/latest/scale-to-width-down/200?cb=20230819160816",
+      "series": 82,
+      "type": "event"
     }
   ],
   "Mitsuru_Tenma": [
@@ -5431,6 +5463,14 @@
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/7/7c/%28BIBLION_of_Publishing%29_Hajime_Shino_M.png/revision/latest/scale-to-width-down/200?cb=20230608000227",
       "series": 77,
       "type": "event"
+    },
+    {
+      "id": "A_Feast_for_One_Day",
+      "star": 4,
+      "name": "ある日のご馳走",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/c/c1/%28A_Feast_for_One_Day%29_Hajime_Shino_M.png/revision/latest/scale-to-width-down/200?cb=20230812002647",
+      "series": 82,
+      "type": "feature"
     }
   ],
   "Keito_Hasumi": [
@@ -5738,6 +5778,14 @@
       "name": "手助けSUMMER",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/3/3c/%28Helping_Hand_SUMMER%29_Kuro_Kiryu_M.png/revision/latest/scale-to-width-down/200?cb=20230701002728",
       "series": 79,
+      "type": "event"
+    },
+    {
+      "id": "The_Tailor%27s_Soul",
+      "star": 4,
+      "name": "仕立て屋の魂",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/5/52/%28The_Tailor%27s_Soul%29_Kuro_Kiryu_M.png/revision/latest/scale-to-width-down/200?cb=20230819160608",
+      "series": 82,
       "type": "event"
     }
   ],
@@ -6185,6 +6233,14 @@
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/8/8f/%28A_Bundle_of_Pure_Tone%29_Leo_Tsukinaga_M.png/revision/latest/scale-to-width-down/200?cb=20230328182955",
       "series": 73,
       "type": "feature"
+    },
+    {
+      "id": "Entry_to_the_Demon_King%27s_Castle",
+      "star": 5,
+      "name": "魔王城への入場",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/3/35/%28Entry_to_the_Demon_King%27s_Castle%29_Leo_Tsukinaga_M.png/revision/latest/scale-to-width-down/200?cb=20230819160558",
+      "series": 82,
+      "type": "event"
     }
   ],
   "Izumi_Sena": [

@@ -2,6 +2,13 @@
   "event": [
     {
       "type": "event",
+      "banner": "https://static.wikia.nocookie.net/ensemble-stars/images/9/9d/Knight_Killers_Banner.png/revision/latest/scale-to-width-down/220?cb=20230819172018",
+      "name": "Knight Killers (Scout)",
+      "cg": "https://static.wikia.nocookie.net/ensemble-stars/images/5/5c/%28Entry_to_the_Demon_King%27s_Castle%29_Leo_Tsukinaga_CG2.png/revision/latest/scale-to-width-down/1000?cb=20230819161834",
+      "series": 82
+    },
+    {
+      "type": "event",
       "banner": "https://static.wikia.nocookie.net/ensemble-stars/images/b/b9/Illusory_Noctilucence_Banner.png/revision/latest/scale-to-width-down/220?cb=20230801061125",
       "name": "Illusory Noctilucence",
       "cg": "https://static.wikia.nocookie.net/ensemble-stars/images/0/07/%28Early_Night_Illusion%29_Mayoi_Ayase_CG2.png/revision/latest/scale-to-width-down/1000?cb=20230802000221",
@@ -569,6 +576,13 @@
     }
   ],
   "feature": [
+    {
+      "type": "feature",
+      "banner": "https://static.wikia.nocookie.net/ensemble-stars/images/9/9d/Tetora_Feature_Scout_2.png/revision/latest/scale-to-width-down/220?cb=20230812004158",
+      "name": "Tetora Feature Scout 2",
+      "cg": "https://static.wikia.nocookie.net/ensemble-stars/images/a/af/%28The_Other_Side_of_the_Goal%29_Tetora_Nagumo_CG2.png/revision/latest/scale-to-width-down/1000?cb=20230812003224",
+      "series": 82
+    },
     {
       "type": "feature",
       "banner": "https://static.wikia.nocookie.net/ensemble-stars/images/c/cb/Makoto_Feature_Scout_2.png/revision/latest/scale-to-width-down/220?cb=20230726000614",
