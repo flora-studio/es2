@@ -41,7 +41,7 @@ c.queue({
           id: urlMatch[1],
           star: 0,
           name: urlMatch[2],
-          img: (img.attr('data-src') || img.attr('src'))?.replace('scale-to-width-down/144', 'scale-to-width-down/200') || '',
+          img: (img.attr('data-src') || img.attr('src'))?.replace(/scale-to-width-down\/(144|150)/, 'scale-to-width-down/200') || '',
           series: scout.series,
           type: scout.type
         })
@@ -66,7 +66,7 @@ function fetchCard(url, card) {
         card.star = $($('[data-item-name=card-rarity]')[0]).text().length
         if (card.star === 5) {
           // 五星卡取 cg 作为卡池 cg
-          const cg = $($('#Card_CGs').parent().parent().next().find('img')[1])
+          const cg = $($('#Card_CGs').parent().next().find('img')[1])
           scout.cg = (cg.attr('data-src') || cg.attr('src'))?.replace('scale-to-width-down/260', 'scale-to-width-down/1000') || ''
         }
         done()
@@ -81,13 +81,24 @@ c.on('drain', () => {
   console.log('卡片数据:')
   console.log(JSON.stringify(cards, null, 2))
   console.log('注意核对卡池类型和期数')
-  // 写文件（注意这里不考虑重复问题，要自行检查下）
+  // 写文件
   const scoutsDb = require('../../src/data/scout.json')
-  scoutsDb[scout.type].unshift(scout)
+  const existScout = scoutsDb[scout.type].find(item => item.series === scout.series)
+  if (existScout) {
+    Object.assign(existScout, scout)
+  } else {
+    scoutsDb[scout.type].unshift(scout)
+  }
   fs.writeFileSync('../../src/data/scout.json', JSON.stringify(scoutsDb, null, 2))
   const cardsDb = require('../../src/data/card.json')
   Object.keys(cards).forEach(chara => {
-    cardsDb[chara].push(cards[chara])
+    const card = cards[chara]
+    const existCard = cardsDb[chara].find(item => item.type === card.type && item.series === card.series)
+    if (existCard) {
+      Object.assign(existCard, card)
+    } else {
+      cardsDb[chara].push(cards[chara])
+    }
   })
   fs.writeFileSync('../../src/data/card.json', JSON.stringify(cardsDb, null, 2))
 })

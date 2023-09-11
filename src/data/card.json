@@ -89,10 +89,10 @@
       "type": "feature"
     },
     {
-      "id": "Sphere_of_Knowledge",
+      "id": "Knowledgeable_Sphere",
       "star": 3,
       "name": "知識のスフィア",
-      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/9/9c/%28Sphere_of_Knowledge%29_Shinobu_Sengoku_M.png/revision/latest/scale-to-width-down/200?cb=20210629081215",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/3/37/%28Knowledgeable_Sphere%29_Shinobu_Sengoku_M.png/revision/latest/scale-to-width-down/200?cb=20210629081215",
       "series": 31,
       "type": "event"
     },
@@ -559,10 +559,10 @@
       "type": "feature"
     },
     {
-      "id": "Flower-Filled_Stage",
+      "id": "Stage_of_Blooms",
       "star": 3,
       "name": "花の舞台",
-      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/7/7b/%28Flower-Filled_Stage%29_Wataru_Hibiki_M.png/revision/latest/scale-to-width-down/200?cb=20210530234314",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/e/e8/%28Stage_of_Blooms%29_Wataru_Hibiki_M.png/revision/latest/scale-to-width-down/200?cb=20210530234314",
       "series": 29,
       "type": "event"
     },
@@ -689,10 +689,10 @@
       "type": "normal"
     },
     {
-      "id": "Light_Red_Ox_Envoy",
+      "id": "Light-Red_Ox_Envoy",
       "star": 3,
       "name": "淡赤の丑使い",
-      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/b/b7/%28Light_Red_Ox_Envoy%29_Tori_Himemiya_M.png/revision/latest/scale-to-width-down/200?cb=20210117040412",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/8/81/%28Light-Red_Ox_Envoy%29_Tori_Himemiya_M.png/revision/latest/scale-to-width-down/200?cb=20210117040412",
       "series": 20,
       "type": "event"
     },
@@ -795,7 +795,7 @@
   ],
   "Yuzuru_Fushimi": [
     {
-      "id": "Red-Flamed_Judge",
+      "id": "Burning-Red_Judge",
       "star": 5,
       "name": "赤炎の審判",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/4/4f/%28Burning-Red_Judge%29_Yuzuru_Fushimi_M.png/revision/latest/scale-to-width-down/200?cb=20210117040417",
@@ -867,10 +867,10 @@
       "type": "feature"
     },
     {
-      "id": "A_Moment_to_Rest",
+      "id": "A_Brief_Intermission",
       "star": 3,
       "name": "仕事の合間",
-      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/7/7e/%28A_Brief_Internmission%29_Yuzuru_Fushimi_M.png/revision/latest/scale-to-width-down/200?cb=20210525082320",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/3/30/%28A_Brief_Intermission%29_Yuzuru_Fushimi_M.png/revision/latest/scale-to-width-down/200?cb=20210525082320",
       "series": 29,
       "type": "feature"
     },
@@ -1013,18 +1013,18 @@
       "type": "normal"
     },
     {
-      "id": "Student%27s_Duty",
+      "id": "Duty_of_the_Student",
       "star": 3,
       "name": "学生の本分",
-      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/f/ff/%28Duty_of_the_Student%29_Hokuto_Hidaka_B.png/revision/latest/scale-to-width-down/200?cb=20210320233914",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/c/c1/%28Duty_of_the_Student%29_Hokuto_Hidaka_M.png/revision/latest/scale-to-width-down/200?cb=20201125080840",
       "series": 17,
       "type": "feature"
     },
     {
-      "id": "Flower%27s_Resolution",
+      "id": "Determination_of_Blooms",
       "star": 3,
       "name": "花の覚悟",
-      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/4/4f/%28Flower%27s_Resolution%29_Hokuto_Hidaka_M.png/revision/latest/scale-to-width-down/200?cb=20210530234322",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/9/9d/%28Determination_of_Blooms%29_Hokuto_Hidaka_M.png/revision/latest/scale-to-width-down/200?cb=20210530234322",
       "series": 29,
       "type": "event"
     },
@@ -1127,10 +1127,10 @@
       "type": "anniversary"
     },
     {
-      "id": "Movie_Marathon",
+      "id": "Film_Appreciation_Party",
       "star": 4,
       "name": "映画鑑賞会",
-      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/c/ca/%28Movie_Marathon%29_Subaru_Akehoshi_M.png/revision/latest/scale-to-width-down/200?cb=20210725094612",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/8/85/%28Film_Appreciation_Party%29_Subaru_Akehoshi_M.png/revision/latest/scale-to-width-down/200?cb=20210725094612",
       "series": 33,
       "type": "feature"
     },
@@ -1313,10 +1313,10 @@
       "type": "feature"
     },
     {
-      "id": "Tactics_Breaker",
+      "id": "Strategies_Breaker",
       "star": 3,
       "name": "作戦ブレイカー",
-      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/8/86/%28Tactics_Breaker%29_Makoto_Yuuki_M.png/revision/latest/scale-to-width-down/200?cb=20210714132750",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/1/10/%28Strategies_Breaker%29_Makoto_Yuuki_M.png/revision/latest/scale-to-width-down/200?cb=20210714132750",
       "series": 32,
       "type": "event"
     },
@@ -1533,10 +1533,10 @@
       "type": "event"
     },
     {
-      "id": "Ray_of_Hope",
+      "id": "The_Beam_of_Hope",
       "star": 5,
       "name": "希望の光",
-      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/3/32/%28Ray_of_Hope%29_Chiaki_Morisawa_M.png/revision/latest/scale-to-width-down/200?cb=20210725094557",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/b/bd/%28The_Beam_of_Hope%29_Chiaki_Morisawa_M.png/revision/latest/scale-to-width-down/200?cb=20210725094557",
       "series": 33,
       "type": "feature"
     },
@@ -1597,10 +1597,10 @@
       "type": "feature"
     },
     {
-      "id": "Dark_Red_Ox_Envoy",
+      "id": "Dark-Red_Ox_Envoy",
       "star": 3,
       "name": "濃赤の丑使い",
-      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/3/30/%28Dark_Red_Ox_Envoy%29_Chiaki_Morisawa_M.png/revision/latest/scale-to-width-down/200?cb=20210117040407",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/0/05/%28Dark-Red_Ox_Envoy%29_Chiaki_Morisawa_M.png/revision/latest/scale-to-width-down/200?cb=20210117040407",
       "series": 20,
       "type": "event"
     },
@@ -1857,10 +1857,10 @@
       "type": "event"
     },
     {
-      "id": "Sphere_of_Eternity",
+      "id": "Time-Honored_Sphere",
       "star": 4,
       "name": "悠久のスフィア",
-      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/8/8f/%28Sphere_of_Eternity%29_Tetora_Nagumo_M.png/revision/latest/scale-to-width-down/200?cb=20210629081224",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/1/1b/%28Time-Honored_Sphere%29_Tetora_Nagumo_M.png/revision/latest/scale-to-width-down/200?cb=20210629081224",
       "series": 31,
       "type": "event"
     },
@@ -1900,7 +1900,7 @@
       "id": "Muscle_Talk",
       "star": 3,
       "name": "筋肉談義",
-      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/4/41/%28Muscle_Talk%29_Tetora_Nagumo_M.png/revision/latest/scale-to-width-down/200?cb=20210710141017",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/7/7a/%28Muscle_Chat%29_Tetora_Nagumo_M.png/revision/latest/scale-to-width-down/200?cb=20210710141017",
       "series": 32,
       "type": "feature"
     },
@@ -2255,10 +2255,10 @@
       "type": "event"
     },
     {
-      "id": "Blossoming_Loveliness",
+      "id": "Budding_Loveliness",
       "star": 5,
       "name": "発展途上の愛らしさ",
-      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/8/84/%28Blossoming_Loveliness%29_Aira_Shiratori_M.png/revision/latest/scale-to-width-down/200?cb=20210610113555",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/c/c8/%28Budding_Loveliness%29_Aira_Shiratori_M.png/revision/latest/scale-to-width-down/200?cb=20210610113555",
       "series": 30,
       "type": "feature"
     },
@@ -2417,7 +2417,7 @@
       "type": "event"
     },
     {
-      "id": "Coward_Hiding_in_the_Corner",
+      "id": "Timid_Heart_in_the_Dark",
       "star": 5,
       "name": "部屋の隅の臆病な",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/c/cc/%28Timid_Heart_in_the_Dark%29_Mayoi_Ayase_M.png/revision/latest/scale-to-width-down/200?cb=20210525082344",
@@ -2441,7 +2441,7 @@
       "type": "anniversary"
     },
     {
-      "id": "Ideal_Diorama",
+      "id": "The_Dreamy_Diorama",
       "star": 4,
       "name": "夢のジオラマ",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/e/e4/%28The_Dreamy_Diorama%29_Mayoi_Ayase_M.png/revision/latest/scale-to-width-down/200?cb=20201125080831",
@@ -2457,10 +2457,10 @@
       "type": "anniversary"
     },
     {
-      "id": "Hideout_Breaker",
+      "id": "Hideouts_Breaker",
       "star": 4,
       "name": "潜伏ブレイカー",
-      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/9/9e/%28Hideout_Breaker%29_Mayoi_Ayase_M.png/revision/latest/scale-to-width-down/200?cb=20210714132746",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/1/15/%28Hideouts_Breaker%29_Mayoi_Ayase_M.png/revision/latest/scale-to-width-down/200?cb=20210714132746",
       "series": 32,
       "type": "event"
     },
@@ -2587,7 +2587,7 @@
       "type": "anniversary"
     },
     {
-      "id": "Red-Fuming_Prophet",
+      "id": "Fuming-Red_Prophet",
       "star": 4,
       "name": "赤煙の予言者",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/3/30/%28Fuming-Red_Prophet%29_Tatsumi_Kazehaya_M.png/revision/latest/scale-to-width-down/200?cb=20210117040421",
@@ -3285,7 +3285,7 @@
       "type": "normal"
     },
     {
-      "id": "Uncompromisable_Outfit",
+      "id": "Unyielding_Perfection",
       "star": 5,
       "name": "妥協なき一着",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/c/c7/%28Unyielding_Perfection%29_Shu_Itsuki_M.png/revision/latest/scale-to-width-down/200?cb=20201125080844",
@@ -3471,7 +3471,7 @@
       "type": "anniversary"
     },
     {
-      "id": "Cleaning_Up",
+      "id": "Covering_Up",
       "star": 4,
       "name": "後片付け",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/1/12/%28Covering_Up%29_Mika_Kagehira_M.png/revision/latest/scale-to-width-down/200?cb=20210525082332",
@@ -3617,10 +3617,10 @@
       "type": "anniversary"
     },
     {
-      "id": "As_Both_an_Older_and_Younger_Brother",
+      "id": "As_the_Little_Brother",
       "star": 4,
       "name": "兄で弟で",
-      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/f/fa/%28As_Both_an_Older_and_Younger_Brother%29_Hinata_Aoi_M.png/revision/latest/scale-to-width-down/200?cb=20210610113551",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/6/6b/%28As_the_Little_Brother%29_Hinata_Aoi_M.png/revision/latest/scale-to-width-down/200?cb=20210610113551",
       "series": 30,
       "type": "feature"
     },
@@ -3869,7 +3869,7 @@
       "type": "normal"
     },
     {
-      "id": "An_Outsider%27s_Value",
+      "id": "The_Value_of_Outsiders",
       "star": 5,
       "name": "はぐれものの価値",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/a/a1/%28The_Value_of_Outsiders%29_Rinne_Amagi_M.png/revision/latest/scale-to-width-down/200?cb=20201212090938",
@@ -4477,10 +4477,10 @@
       "type": "feature"
     },
     {
-      "id": "Making_a_Plan_Blossom",
+      "id": "Prosper_Bloom_Season",
       "star": 4,
       "name": "ひと花咲かせて",
-      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/2/28/%28Making_a_Plan_Blossom%29_Rei_Sakuma_M.png/revision/latest/scale-to-width-down/200?cb=20210530234342",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/f/fc/%28Prosper_Bloom_Season%29_Rei_Sakuma_M.png/revision/latest/scale-to-width-down/200?cb=20210530234342",
       "series": 29,
       "type": "event"
     },
@@ -4666,7 +4666,7 @@
       "id": "Conversation_Topics",
       "star": 3,
       "name": "トークの話題",
-      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/8/85/%28Conversation_Topics%29_Kaoru_Hakaze_M.png/revision/latest/scale-to-width-down/200?cb=20210710141008",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/c/ca/%28Reflective_Discussion%29_Kaoru_Hakaze_M.png/revision/latest/scale-to-width-down/200?cb=20210710141008",
       "series": 32,
       "type": "feature"
     },
@@ -4939,7 +4939,7 @@
       "type": "anniversary"
     },
     {
-      "id": "Gentle_Pride_in_Your_Strength",
+      "id": "The_Gentleness_of_Strength",
       "star": 4,
       "name": "力自慢の優しさ",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/2/20/%28The_Gentleness_of_Strength%29_Adonis_Otogari_M.png/revision/latest/scale-to-width-down/200?cb=20201212090942",
@@ -4982,7 +4982,7 @@
       "id": "Newly_Sprouting_Skater",
       "star": 3,
       "name": "若葉スケーター",
-      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/a/a5/%28Newly_Sprouting_Skater%29_Adonis_Otogari_M.png/revision/latest/scale-to-width-down/200?cb=20210516105429",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/2/25/%28Novice_Skater%29_Adonis_Otogari_M.png/revision/latest/scale-to-width-down/200?cb=20210516105429",
       "series": 28,
       "type": "event"
     },
@@ -5061,10 +5061,10 @@
       "type": "feature"
     },
     {
-      "id": "Sphere_of_Azure_Mystery",
+      "id": "Mysterious_Azure_Sphere",
       "star": 5,
       "name": "蒼き神秘のスフィア",
-      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/9/90/%28Sphere_of_Azure_Mystery%29_Nazuna_Nito_M.png/revision/latest/scale-to-width-down/200?cb=20210629081228",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/7/72/%28Mysterious_Azure_Sphere%29_Nazuna_Nito_M.png/revision/latest/scale-to-width-down/200?cb=20210629081228",
       "series": 31,
       "type": "event"
     },
@@ -5125,10 +5125,10 @@
       "type": "event"
     },
     {
-      "id": "Peaceful_Gathering",
+      "id": "A_Peaceful_Gathering",
       "star": 3,
       "name": "穏やかな集会",
-      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/e/ef/%28Peaceful_Gathering%29_Nazuna_Nito_M.png/revision/latest/scale-to-width-down/200?cb=20210610113547",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/8/88/%28A_Peaceful_Gathering%29_Nazuna_Nito_M.png/revision/latest/scale-to-width-down/200?cb=20210610113547",
       "series": 30,
       "type": "feature"
     },
@@ -5287,10 +5287,10 @@
       "type": "feature"
     },
     {
-      "id": "Sphere_of_Antiquity",
+      "id": "Antique_Sphere",
       "star": 3,
       "name": "太古のスフィア",
-      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/5/5d/%28Sphere_of_Antiquity%29_Mitsuru_Tenma_M.png/revision/latest/scale-to-width-down/200?cb=20210629081219",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/a/a8/%28Antique_Sphere%29_Mitsuru_Tenma_M.png/revision/latest/scale-to-width-down/200?cb=20210629081219",
       "series": 31,
       "type": "event"
     },
@@ -5433,10 +5433,10 @@
       "type": "event"
     },
     {
-      "id": "Quiet_Library",
+      "id": "The_Quiet_Library",
       "star": 3,
       "name": "静かな図書室",
-      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/a/a1/%28Quiet_Library%29_Hajime_Shino_M.png/revision/latest/scale-to-width-down/200?cb=20210610113543",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/5/5f/%28The_Quiet_Library%29_Hajime_Shino_M.png/revision/latest/scale-to-width-down/200?cb=20210610113543",
       "series": 30,
       "type": "feature"
     },
@@ -5531,7 +5531,7 @@
       "type": "anniversary"
     },
     {
-      "id": "Irreplaceable_Glasses",
+      "id": "Unique_Glasses",
       "star": 4,
       "name": "無二の眼鏡",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/4/41/%28Unique_Glasses%29_Keito_Hasumi_M.png/revision/latest/scale-to-width-down/200?cb=20200925232026",
@@ -6349,15 +6349,15 @@
       "type": "event"
     },
     {
-      "id": "The_Essence_of_Beauty",
+      "id": "To_The_Essence_of_Beauty",
       "star": 3,
       "name": "美の真髄へ",
-      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/1/18/%28The_Essence_of_Beauty%29_Izumi_Sena_M.png/revision/latest/scale-to-width-down/200?cb=20200925232138",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/f/f2/%28To_The_Essence_of_Beauty%29_Izumi_Sena_M.png/revision/latest/scale-to-width-down/200?cb=20200925232138",
       "series": 13,
       "type": "feature"
     },
     {
-      "id": "Indoor_Ocean",
+      "id": "The_Enclosed_Ocean",
       "star": 3,
       "name": "屋内の海",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/9/9e/%28The_Enclosed_Ocean%29_Izumi_Sena_M.png/revision/latest/scale-to-width-down/200?cb=20210525082354",
@@ -6569,7 +6569,7 @@
   ],
   "Arashi_Narukami": [
     {
-      "id": "The_Best_Self_I_Can_Be",
+      "id": "My_Best_Self",
       "star": 5,
       "name": "最高の自分",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/8/82/%28My_Best_Self%29_Arashi_Narukami_M.png/revision/latest/scale-to-width-down/200?cb=20200925231958",
@@ -6641,10 +6641,10 @@
       "type": "event"
     },
     {
-      "id": "Self-improvement",
+      "id": "Self-Improvement",
       "star": 3,
       "name": "自分磨き",
-      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/3/3b/%28Self-improvement%29_Arashi_Narukami_M.png/revision/latest/scale-to-width-down/200?cb=20201125080836",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/c/c6/%28Self-Improvement%29_Arashi_Narukami_M.png/revision/latest/scale-to-width-down/200?cb=20201125080836",
       "series": 17,
       "type": "feature"
     },
@@ -6877,10 +6877,10 @@
       "type": "feature"
     },
     {
-      "id": "Painting_Blooming_Flowers",
+      "id": "Painting_Thriving_Blooms",
       "star": 5,
       "name": "咲く花を描いて",
-      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/8/81/%28Painting_Blooming_Flowers%29_Tsumugi_Aoba_M.png/revision/latest/scale-to-width-down/200?cb=20210530234402",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/6/60/%28Painting_Thriving_Blooms%29_Tsumugi_Aoba_M.png/revision/latest/scale-to-width-down/200?cb=20210530234402",
       "series": 29,
       "type": "event"
     },
@@ -6933,7 +6933,7 @@
       "type": "event"
     },
     {
-      "id": "Brothers%27_Suggestion",
+      "id": "Suggestions_from_Brothers",
       "star": 3,
       "name": "兄弟の提案",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/d/d3/%28Suggestions_from_Brothers%29_Tsumugi_Aoba_M.png/revision/latest/scale-to-width-down/200?cb=20200925232214",
@@ -7034,7 +7034,7 @@
       "id": "Donning_the_Overlapping_Colors_of_Myself",
       "star": 5,
       "name": "重ねて纏う自分",
-      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/a/a0/%28Donning_the_Overlapping_Colors_of_Myself%29_Sora_Harukawa_M.png/revision/latest/scale-to-width-down/200?cb=20210710141011",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/e/ef/%28Radiant_Hues_of_Me%29_Sora_Harukawa_M.png/revision/latest/scale-to-width-down/200?cb=20210710141011",
       "series": 32,
       "type": "feature"
     },
@@ -7233,10 +7233,10 @@
       "type": "event"
     },
     {
-      "id": "A_Later_Follow_Up",
+      "id": "A_Later_Follow-Up",
       "star": 3,
       "name": "後の様子見",
-      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/8/85/%28A_Later_Follow_Up%29_Madara_Mikejima_M.png/revision/latest/scale-to-width-down/200?cb=20201212090929",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/a/a2/%28A_Later_Follow-Up%29_Madara_Mikejima_M.png/revision/latest/scale-to-width-down/200?cb=20201212090929",
       "series": 18,
       "type": "feature"
     },

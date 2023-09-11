@@ -368,7 +368,7 @@
       "type": "event",
       "banner": "https://static.wikia.nocookie.net/ensemble-stars/images/9/95/GemSphere_Banner.png/revision/latest/scale-to-width-down/220?cb=20210629081610",
       "name": "GemSphere",
-      "cg": "https://static.wikia.nocookie.net/ensemble-stars/images/5/5a/%28Sphere_of_Azure_Mystery%29_Nazuna_Nito_CG2.png/revision/latest/scale-to-width-down/1000?cb=20210629081244",
+      "cg": "https://static.wikia.nocookie.net/ensemble-stars/images/1/18/%28Mysterious_Azure_Sphere%29_Nazuna_Nito_CG2.png/revision/latest/scale-to-width-down/1000?cb=20210629081244",
       "series": 31
     },
     {
@@ -382,12 +382,12 @@
       "type": "event",
       "banner": "https://static.wikia.nocookie.net/ensemble-stars/images/c/cc/Burning_Azaleas_Banner.png/revision/latest/scale-to-width-down/220?cb=20210530233028",
       "name": "Burning Azaleas",
-      "cg": "https://static.wikia.nocookie.net/ensemble-stars/images/9/93/%28Painting_Blooming_Flowers%29_Tsumugi_Aoba_CG2.png/revision/latest/scale-to-width-down/1000?cb=20210530234351",
+      "cg": "https://static.wikia.nocookie.net/ensemble-stars/images/3/3b/%28Painting_Thriving_Blooms%29_Tsumugi_Aoba_CG2.png/revision/latest/scale-to-width-down/1000?cb=20210530234351",
       "series": 29
     },
     {
       "type": "event",
-      "banner": "https://static.wikia.nocookie.net/ensemble-stars/images/0/0b/Budding_Spring%E2%86%92Ride_ON%21_Banner.png/revision/latest/scale-to-width-down/220?cb=20210516103724",
+      "banner": "https://static.wikia.nocookie.net/ensemble-stars/images/0/0b/Budding_Spring%E2%86%92Ride_ON%21_Banner.png/revision/latest/scale-to-width-down/220?cb=20230325020616",
       "name": "Budding Spring→Ride ON!",
       "cg": "https://static.wikia.nocookie.net/ensemble-stars/images/b/bc/%28Rookie_Skater%29_Tsukasa_Suou_CG2.png/revision/latest/scale-to-width-down/1000?cb=20210516105434",
       "series": 28
@@ -445,7 +445,7 @@
       "type": "event",
       "banner": "https://static.wikia.nocookie.net/ensemble-stars/images/3/37/Ushimairi_%28Part_Two%29_Banner.png/revision/latest/scale-to-width-down/220?cb=20210117034511",
       "name": "Ushimairi (Part Two)",
-      "cg": "https://static.wikia.nocookie.net/ensemble-stars/images/d/d2/%28Red-Flamed_Judge%29_Yuzuru_Fushimi_CG2.png/revision/latest/scale-to-width-down/1000?cb=20210117163602",
+      "cg": "https://static.wikia.nocookie.net/ensemble-stars/images/6/6c/%28Burning-Red_Judge%29_Yuzuru_Fushimi_CG2.png/revision/latest/scale-to-width-down/1000?cb=20210117163602",
       "series": 20
     },
     {
@@ -923,14 +923,14 @@
       "type": "feature",
       "banner": "https://static.wikia.nocookie.net/ensemble-stars/images/7/7b/Chiaki_Feature_Scout.png/revision/latest/scale-to-width-down/220?cb=20210725064949",
       "name": "Chiaki Feature Scout",
-      "cg": "https://static.wikia.nocookie.net/ensemble-stars/images/d/dc/%28Ray_of_Hope%29_Chiaki_Morisawa_CG2.png/revision/latest/scale-to-width-down/1000?cb=20210725094640",
+      "cg": "https://static.wikia.nocookie.net/ensemble-stars/images/6/6c/%28The_Beam_of_Hope%29_Chiaki_Morisawa_CG2.png/revision/latest/scale-to-width-down/261?cb=20210725094640",
       "series": 33
     },
     {
       "type": "feature",
       "banner": "https://static.wikia.nocookie.net/ensemble-stars/images/e/e3/Sora_Feature_Scout.png/revision/latest/scale-to-width-down/220?cb=20210710120941",
       "name": "Sora Feature Scout",
-      "cg": "https://static.wikia.nocookie.net/ensemble-stars/images/3/39/%28Donning_the_Overlapping_Colors_of_Myself%29_Sora_Harukawa_CG2.png/revision/latest/scale-to-width-down/1000?cb=20210710141422",
+      "cg": "https://static.wikia.nocookie.net/ensemble-stars/images/8/8e/%28Radiant_Hues_of_Me%29_Sora_Harukawa_CG2.png/revision/latest/scale-to-width-down/1000?cb=20210710141422",
       "series": 32
     },
     {
@@ -944,14 +944,14 @@
       "type": "feature",
       "banner": "https://static.wikia.nocookie.net/ensemble-stars/images/5/54/Aira_Feature_Scout.png/revision/latest/scale-to-width-down/220?cb=20210610113135",
       "name": "Aira Feature Scout",
-      "cg": "https://static.wikia.nocookie.net/ensemble-stars/images/5/5b/%28Blossoming_Loveliness%29_Aira_Shiratori_CG2.png/revision/latest/scale-to-width-down/1000?cb=20210610113535",
+      "cg": "https://static.wikia.nocookie.net/ensemble-stars/images/a/a0/%28Budding_Loveliness%29_Aira_Shiratori_CG2.png/revision/latest/scale-to-width-down/1000?cb=20210610113535",
       "series": 30
     },
     {
       "type": "feature",
       "banner": "https://static.wikia.nocookie.net/ensemble-stars/images/3/34/Mayoi_Feature_Scout.png/revision/latest/scale-to-width-down/220?cb=20210525081234",
       "name": "Mayoi Feature Scout",
-      "cg": "https://static.wikia.nocookie.net/ensemble-stars/images/e/e7/%28Coward_Hiding_in_the_Corner%29_Mayoi_Ayase_CG2.png/revision/latest/scale-to-width-down/1000?cb=20210525082338",
+      "cg": "https://static.wikia.nocookie.net/ensemble-stars/images/6/68/%28Timid_Heart_in_the_Dark%29_Mayoi_Ayase_CG2.png/revision/latest/scale-to-width-down/1000?cb=20210525082338",
       "series": 29
     },
     {
@@ -1028,14 +1028,14 @@
       "type": "feature",
       "banner": "https://static.wikia.nocookie.net/ensemble-stars/images/2/2a/Rinne_Feature_Scout.png/revision/latest/scale-to-width-down/220?cb=20201212091057",
       "name": "Rinne Feature Scout",
-      "cg": "https://static.wikia.nocookie.net/ensemble-stars/images/d/d1/%28An_Outsider%27s_Value%29_Rinne_Amagi_CG2.png/revision/latest/scale-to-width-down/1000?cb=20201212171209",
+      "cg": "https://static.wikia.nocookie.net/ensemble-stars/images/7/75/%28The_Value_of_Outsiders%29_Rinne_Amagi_CG2.png/revision/latest/scale-to-width-down/1000?cb=20201212171209",
       "series": 18
     },
     {
       "type": "feature",
       "banner": "https://static.wikia.nocookie.net/ensemble-stars/images/3/30/Shu_Feature_Scout.png/revision/latest/scale-to-width-down/220?cb=20201125065720",
       "name": "Shu Feature Scout",
-      "cg": "https://static.wikia.nocookie.net/ensemble-stars/images/2/28/%28Uncompromisable_Outfit%29_Shu_Itsuki_CG2.png/revision/latest/scale-to-width-down/1000?cb=20201127075519",
+      "cg": "https://static.wikia.nocookie.net/ensemble-stars/images/8/88/%28Unyielding_Perfection%29_Shu_Itsuki_CG2.png/revision/latest/scale-to-width-down/1000?cb=20201127075519",
       "series": 17
     },
     {
@@ -1063,7 +1063,7 @@
       "type": "feature",
       "banner": "https://static.wikia.nocookie.net/ensemble-stars/images/b/b8/Arashi_Feature_Scout.png/revision/latest/scale-to-width-down/220?cb=20200925233643",
       "name": "Arashi Feature Scout",
-      "cg": "https://static.wikia.nocookie.net/ensemble-stars/images/7/73/%28The_Best_Self_I_Can_Be%29_Arashi_Narukami_CG2.png/revision/latest/scale-to-width-down/1000?cb=20200925231457",
+      "cg": "https://static.wikia.nocookie.net/ensemble-stars/images/e/ed/%28My_Best_Self%29_Arashi_Narukami_CG2.png/revision/latest/scale-to-width-down/1000?cb=20200925231512",
       "series": 13
     },
     {
