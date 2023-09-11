@@ -3,8 +3,8 @@ const fs = require('fs')
 const BASE_URL = 'https://ensemble-stars.fandom.com'
 
 // TODO 每次记得替换
-const ScoutUrl = 'https://ensemble-stars.fandom.com/wiki/Category:Knight_Killers_(Scout)'
-const ScoutSeries = 82
+const ScoutUrl = 'https://ensemble-stars.fandom.com/wiki/Category:The_Heartbeat_of_the_Sea_%E2%80%93_Look_back_%E2%80%93'
+const ScoutSeries = 83
 
 const scout = {
   type: '',

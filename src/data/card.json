@@ -937,6 +937,14 @@
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/c/c1/%28Somnolent_Flower_Shrouded_in_Secrecy%29_Yuzuru_Fushimi_M.png/revision/latest/scale-to-width-down/200?cb=20230629015716",
       "series": 79,
       "type": "feature"
+    },
+    {
+      "id": "The_Bond_With_King",
+      "star": 4,
+      "name": "キングとの絆",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/9/9b/%28The_Bond_With_King%29_Yuzuru_Fushimi_M.png/revision/latest/scale-to-width-down/200?cb=20230903205521",
+      "series": 83,
+      "type": "feature"
     }
   ],
   "Hokuto_Hidaka": [
@@ -1213,6 +1221,14 @@
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/4/4f/%28Observation_SUMMER%29_Subaru_Akehoshi_M.png/revision/latest/scale-to-width-down/200?cb=20230701002738",
       "series": 79,
       "type": "event"
+    },
+    {
+      "id": "The_Sparkle_We_See_Now",
+      "star": 3,
+      "name": "今見る輝き",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/a/ad/%28The_Sparkle_We_See_Now%29_Subaru_Akehoshi_M.png/revision/latest/scale-to-width-down/200?cb=20230903205530",
+      "series": 83,
+      "type": "feature"
     }
   ],
   "Makoto_Yuuki": [
@@ -1781,6 +1797,14 @@
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/1/16/%28%22Strange%22_Fish%29_Kanata_Shinkai_M.png/revision/latest/scale-to-width-down/200?cb=20230812002743",
       "series": 82,
       "type": "feature"
+    },
+    {
+      "id": "Sea_of_Secrets",
+      "star": 5,
+      "name": "ひみつのうみ",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/3/3b/%28Sea_of_Secrets%29_Kanata_Shinkai_M.png/revision/latest/scale-to-width-down/200?cb=20230903205429",
+      "series": 83,
+      "type": "event"
     }
   ],
   "Tetora_Nagumo": [
@@ -4717,6 +4741,14 @@
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/a/ac/%28BIBLION_of_Polishing%29_Kaoru_Hakaze_M.png/revision/latest/scale-to-width-down/200?cb=20230608000218",
       "series": 77,
       "type": "event"
+    },
+    {
+      "id": "Gentle_Breeze_Rustling_Through_the_Sea",
+      "star": 3,
+      "name": "風そよぐ海",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/1/15/%28Gentle_Breeze_Rustling_Through_the_Sea%29_Kaoru_Hakaze_M.png/revision/latest/scale-to-width-down/200?cb=20230903205405",
+      "series": 83,
+      "type": "event"
     }
   ],
   "Koga_Oogami": [
@@ -5933,6 +5965,14 @@
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/b/b5/%28Paddle_Shedding_a_Drop_of_Water%29_Souma_Kanzaki_M.png/revision/latest/scale-to-width-down/200?cb=20230715194647",
       "series": 80,
       "type": "event"
+    },
+    {
+      "id": "Never-ending_Sea",
+      "star": 4,
+      "name": "果てない海",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/a/ac/%28Never-ending_Sea%29_Souma_Kanzaki_M.png/revision/latest/scale-to-width-down/200?cb=20230903205416",
+      "series": 83,
+      "type": "event"
     }
   ],
   "Tsukasa_Suou": [
@@ -6817,6 +6857,14 @@
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/a/a0/%28Eccentric_Ensemble%29_Natsume_Sakasaki_M.png/revision/latest/scale-to-width-down/200?cb=20230417033119",
       "series": 74,
       "type": "event"
+    },
+    {
+      "id": "Unraveling_Words",
+      "star": 5,
+      "name": "ほどける言の葉",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/b/b7/%28Unraveling_Words%29_Natsume_Sakasaki_M.png/revision/latest/scale-to-width-down/200?cb=20230903205542",
+      "series": 83,
+      "type": "feature"
     }
   ],
   "Tsumugi_Aoba": [
@@ -7247,6 +7295,14 @@
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/f/f0/%28Crashing_In_and_Surprise%29_Madara_Mikejima_B.png/revision/latest/scale-to-width-down/200?cb=20221007230453",
       "series": 61.1,
       "type": "anniversary"
+    },
+    {
+      "id": "Allied_Sea",
+      "star": 4,
+      "name": "味方する海",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/0/0d/%28Allied_Sea%29_Madara_Mikejima_M.png/revision/latest/scale-to-width-down/200?cb=20230903205356",
+      "series": 83,
+      "type": "event"
     }
   ],
   "Akiomi_Kunugi": [
