@@ -100,7 +100,7 @@
     },
     {
       "type": "event",
-      "banner": "https://static.wikia.nocookie.net/ensemble-stars/images/b/b7/CRAFTMONSTER_Banner.png/revision/latest/scale-to-width-down/220?cb=20230214201653",
+      "banner": "https://static.wikia.nocookie.net/ensemble-stars/images/d/d9/CRAFTMONSTER_%28Scout%29_Banner.png/revision/latest/scale-to-width-down/220?cb=20230214201653",
       "name": "CRAFTMONSTER (Scout)",
       "cg": "https://static.wikia.nocookie.net/ensemble-stars/images/2/2f/%28Clever_Monster%29_Ritsu_Sakuma_CG2.png/revision/latest/scale-to-width-down/1000?cb=20230217021731",
       "series": 70
@@ -354,7 +354,7 @@
       "type": "event",
       "banner": "https://static.wikia.nocookie.net/ensemble-stars/images/5/57/Roaring_Sea_Marina_Banner.png/revision/latest/scale-to-width-down/220?cb=20210814132448",
       "name": "Roaring Sea Marina",
-      "cg": "https://static.wikia.nocookie.net/ensemble-stars/images/4/4a/%28Surging_Heart_of_the_Roaring_Waves%29_Izumi_Sena_CG2.png/revision/latest/scale-to-width-down/1000?cb=20210814155326",
+      "cg": "https://static.wikia.nocookie.net/ensemble-stars/images/e/eb/%28Heartbeat_of_Waves%29_Izumi_Sena_CG2.png/revision/latest/scale-to-width-down/1000?cb=20210814155326",
       "series": 34
     },
     {
@@ -382,7 +382,7 @@
       "type": "event",
       "banner": "https://static.wikia.nocookie.net/ensemble-stars/images/d/d7/Ring.A.Bell_Banner.png/revision/latest/scale-to-width-down/220?cb=20210614064412",
       "name": "Ring.A.Bell",
-      "cg": "https://static.wikia.nocookie.net/ensemble-stars/images/c/ce/%28Heartfelt_Bouquet%29_Mao_Isara_CG2.png/revision/latest/scale-to-width-down/1000?cb=20210614073244",
+      "cg": "https://static.wikia.nocookie.net/ensemble-stars/images/e/e2/%28The_Heartful_Bouquet%29_Mao_Isara_CG2.png/revision/latest/scale-to-width-down/1000?cb=20210614073244",
       "series": 30
     },
     {
@@ -506,9 +506,9 @@
     },
     {
       "type": "event",
-      "banner": "https://static.wikia.nocookie.net/ensemble-stars/images/b/b3/Tsukimigatari_Banner.png/revision/latest/scale-to-width-down/220?cb=20200914074118",
-      "name": "Tsukimigatari",
-      "cg": "https://static.wikia.nocookie.net/ensemble-stars/images/d/d2/%28Moon_Viewing_and_Memories%29_Adonis_Otogari_CG2.png/revision/latest/scale-to-width-down/1000?cb=20200915090817",
+      "banner": "https://static.wikia.nocookie.net/ensemble-stars/images/8/87/Tales_of_the_Moon_Banner.png/revision/latest/scale-to-width-down/220?cb=20200914074118",
+      "name": "Tales of the Moon",
+      "cg": "https://static.wikia.nocookie.net/ensemble-stars/images/6/60/%28Moon_and_Memory%29_Adonis_Otogari_CG2.png/revision/latest/scale-to-width-down/1000?cb=20200915090817",
       "series": 12
     },
     {
@@ -951,7 +951,7 @@
       "type": "feature",
       "banner": "https://static.wikia.nocookie.net/ensemble-stars/images/9/9c/Makoto_Feature_Scout.png/revision/latest/scale-to-width-down/220?cb=20210626015545",
       "name": "Makoto Feature Scout",
-      "cg": "https://static.wikia.nocookie.net/ensemble-stars/images/a/a4/%28All_the_Different_Sides_of_Myself%29_Makoto_Yuuki_CG2.png/revision/latest/scale-to-width-down/1000?cb=20210626021558",
+      "cg": "https://static.wikia.nocookie.net/ensemble-stars/images/5/5d/%28Boundless_Versatility%29_Makoto_Yuuki_CG2.png/revision/latest/scale-to-width-down/1000?cb=20210626021558",
       "series": 31
     },
     {
@@ -1140,7 +1140,7 @@
       "type": "feature",
       "banner": "https://static.wikia.nocookie.net/ensemble-stars/images/9/97/Koga_Feature_Scout.png/revision/latest/scale-to-width-down/220?cb=20200510125016",
       "name": "Koga Feature Scout",
-      "cg": "https://static.wikia.nocookie.net/ensemble-stars/images/e/e3/%28Gleaming_Mad_Wolf_Musician%29_Koga_Oogami_CG2.png/revision/latest/scale-to-width-down/1000?cb=20200510181115",
+      "cg": "https://static.wikia.nocookie.net/ensemble-stars/images/8/80/%28Glittering_Rock_Wolf%29_Koga_Oogami_CG2.png/revision/latest/scale-to-width-down/1000?cb=20200510181139",
       "series": 4
     },
     {
