@@ -1367,9 +1367,9 @@
     {
       "type": "limited",
       "banner": "https://static.wikia.nocookie.net/ensemble-stars/images/b/b5/Leap_%E2%98%86_Into_The_Future_Banner.png/revision/latest/scale-to-width-down/220?cb=20210423093502",
-      "name": "Jump ☆ To the Brilliant Future",
+      "name": "Leap ☆ Into The Future",
       "series": 9,
-      "cg": "https://static.wikia.nocookie.net/ensemble-stars/images/f/f2/%28Leaping_Radiance%29_Chiaki_Morisawa_CG2.png/revision/latest/scale-to-width-down/1000?cb=20210423093759"
+      "cg": "https://static.wikia.nocookie.net/ensemble-stars/images/c/c6/%28The_Leaping_Light%29_Chiaki_Morisawa_CG2.png/revision/latest/scale-to-width-down/1000?cb=20210423093759"
     },
     {
       "type": "limited",
@@ -1404,7 +1404,7 @@
       "banner": "https://static.wikia.nocookie.net/ensemble-stars/images/8/8a/Mysterious_Myths_Banner.png/revision/latest/scale-to-width-down/220?cb=20210611165624",
       "name": "Mysterious Myths",
       "series": 13,
-      "cg": "https://static.wikia.nocookie.net/ensemble-stars/images/9/94/%28God_of_Tranquil_Shadows%29_Rei_Sakuma_CG2.png/revision/latest/scale-to-width-down/1000?cb=20210619142300"
+      "cg": "https://static.wikia.nocookie.net/ensemble-stars/images/a/a6/%28Entrancing_Myth%29_Rei_Sakuma_CG2.png/revision/latest/scale-to-width-down/1000?cb=20210619142300"
     },
     {
       "type": "limited",
@@ -1416,65 +1416,65 @@
     {
       "type": "limited",
       "banner": "https://static.wikia.nocookie.net/ensemble-stars/images/6/64/Shards_of_Time_Black_Banner.png/revision/latest/scale-to-width-down/220?cb=20220609032026",
-      "name": "光影碎片 Black篇",
+      "name": "Shards of Time: Black",
       "series": 50,
-      "cg": "https://wx4.sinaimg.cn/mw2000/0080HaGfly1h118xo06dij319u0ko47p.jpg"
+      "cg": "https://static.wikia.nocookie.net/ensemble-stars/images/c/cd/%28Accompanying_Shadow%29_Mika_Kagehira_CG2.png/revision/latest/scale-to-width-down/1000?cb=20220609032002"
     },
     {
       "type": "limited",
       "banner": "https://static.wikia.nocookie.net/ensemble-stars/images/7/77/Shards_of_Time_White_Banner.png/revision/latest/scale-to-width-down/220?cb=20220911042049",
-      "name": "光影碎片 White篇",
+      "name": "Shards of Time: White",
       "series": 53,
-      "cg": "https://wx4.sinaimg.cn/mw2000/0080HaGfly1h2ysnr4hhaj319u0ko128.jpg"
+      "cg": "https://static.wikia.nocookie.net/ensemble-stars/images/5/5b/%28Glistening_Ephemera%29_Koga_Oogami_CG2.png/revision/latest/scale-to-width-down/1000?cb=20220907162824"
     },
     {
       "type": "limited",
       "banner": "https://static.wikia.nocookie.net/ensemble-stars/images/2/21/Fairy_Tales_in_a_Dream_Banner.png/revision/latest/scale-to-width-down/220?cb=20220817094609",
-      "name": "梦中的童话",
+      "name": "Fairy Tales in a Dream",
       "series": 58,
-      "cg": "https://wx4.sinaimg.cn/mw2000/0080HaGfly1h4vuq62sw2j31uo0u01br.jpg"
+      "cg": "https://static.wikia.nocookie.net/ensemble-stars/images/1/10/%28Afternoon_Fairy_Tale%29_Ritsu_Sakuma_CG2.png/revision/latest/scale-to-width-down/1000?cb=20220817094600"
     },
     {
       "type": "limited",
-      "banner": "https://docimg6.docs.qq.com/image/AgAABS1DDuaT3uM0T19OnZD5PlDTzDCP.jpeg",
+      "banner": "https://static.wikia.nocookie.net/ensemble-stars/images/0/0d/Cherished_Cutie_Banner.png/revision/latest/scale-to-width-down/220?cb=20221003084005",
       "name": "Cherished Cutie",
       "series": 61.3,
-      "cg": "https://imglf4.lf127.net/img/bbb5e8e1602ae6c7/MFhIQnFGR0E4MUNpdWRZQmdJR282eXJyZ21SdjRnaGZhWmRDSHlrak9WYz0.jpg?imageView&thumbnail=1680x0&quality=96&stripmeta=0&type=jpg"
+      "cg": "https://static.wikia.nocookie.net/ensemble-stars/images/e/eb/%28Mesmerizing_Fairytale%29_Mayoi_Ayase_CG2.png/revision/latest/scale-to-width-down/1000?cb=20221003083941"
     },
     {
       "type": "limited",
-      "banner": "https://docimg4.docs.qq.com/image/AgAABS1DDubP9iJxzoRNyYRhIl360PxB.png",
-      "name": "惊奇之旅",
+      "banner": "https://static.wikia.nocookie.net/ensemble-stars/images/9/91/Wonderful_Journey_Banner.png/revision/latest/scale-to-width-down/220?cb=20221213154634",
+      "name": "Wonderful Journey",
       "series": 65.1,
-      "cg": "https://imglf5.lf127.net/img/b9fc0f132a0dd66b/NGtML0pUMkFKSzRGNVV0bjlFRkdYUWhmYnV2aWhMQXhEUHFSc2VHZVREZz0.jpg?imageView&thumbnail=1680x0&quality=96&stripmeta=0&type=jpg"
+      "cg": "https://static.wikia.nocookie.net/ensemble-stars/images/4/47/%28An_Ode_Colored_in_Roses%29_Wataru_Hibiki_CG2.png/revision/latest/scale-to-width-down/1000?cb=20221127034951"
     },
     {
       "type": "limited",
-      "banner": "https://docimg3.docs.qq.com/image/AgAABS1DDuZcNQRsrLhOZ7C8x65EkUq0.png",
-      "name": "携春归",
+      "banner": "https://static.wikia.nocookie.net/ensemble-stars/images/6/64/Whisper_of_Spring_Banner.png/revision/latest/scale-to-width-down/220?cb=20230406064507",
+      "name": "Whisper of Spring",
       "series": 67.1,
-      "cg": "https://docimg8.docs.qq.com/image/AgAABS1DDuaAK3SYmfNIMYVwDp674x1o.jpeg"
+      "cg": "https://static.wikia.nocookie.net/ensemble-stars/images/4/42/%28Ballad_of_Spring_Tales%29_Izumi_Sena_CG2.png/revision/latest/scale-to-width-down/1000?cb=20230118030625"
     },
     {
       "type": "limited",
-      "banner": "https://docimg5.docs.qq.com/image/AgAABS1DDubdndilWSVJrLtbn8X13u5q.png",
-      "name": "荒野奇遇",
+      "banner": "https://static.wikia.nocookie.net/ensemble-stars/images/5/52/Unbelievable_Adventure_Banner.png/revision/latest/scale-to-width-down/220?cb=20230409130816",
+      "name": "Unbelievable Adventure",
       "series": 73.1,
-      "cg": "https://docimg9.docs.qq.com/image/AgAABS1DDuYdQFkFUu9FFIjWRll07Atm.jpeg"
+      "cg": "https://static.wikia.nocookie.net/ensemble-stars/images/1/10/%28Breathtaking_Adventure%29_Subaru_Akehoshi_CG2.png/revision/latest/scale-to-width-down/1000?cb=20230409130619"
     },
     {
       "type": "limited",
-      "banner": "https://imglf3.lf127.net/img/744d0a07e1dbae76/cVViT08vMlVDZVREZk5wNWdPMjM1aTNUSVYwclJTM0k5TjFodzJWdVBaUT0.jpg",
-      "name": "Secret Swan 前篇",
+      "banner": "https://static.wikia.nocookie.net/ensemble-stars/images/7/78/Secret_Swan_Part_A_Banner.png/revision/latest/scale-to-width-down/220?cb=20230618035114",
+      "name": "Secret Swan: Part A",
       "series": 77.1,
-      "cg": "https://imglf4.lf127.net/img/1463e78a8535e881/cVViT08vMlVDZVREZk5wNWdPMjM1cnBMWkt4ZHUyVWNmQzJPRllvVkVXND0.jpg"
+      "cg": "https://static.wikia.nocookie.net/ensemble-stars/images/f/f3/%28Nocturne_of_Wings%29_Tori_Himemiya_CG2.png/revision/latest/scale-to-width-down/1000?cb=20230618073049"
     },
     {
       "type": "limited",
-      "banner": "https://imglf5.lf127.net/img/0219e20a5a6c2ccc/cVViT08vMlVDZVM4VzNZZ1lIcEZmbS81TjFZS25Id2YrSFRVY25MbHozRT0.jpg",
-      "name": "Secret Swan 后篇",
+      "banner": "https://static.wikia.nocookie.net/ensemble-stars/images/a/a2/Secret_Swan_Part_B_Banner.png/revision/latest/scale-to-width-down/220?cb=20230831132948",
+      "name": "Secret Swan: Part B",
       "series": 80.1,
-      "cg": "https://imglf3.lf127.net/img/179ebfcab0ca4511/cVViT08vMlVDZVM4VzNZZ1lIcEZmcS91OVlacVlPSVJBUURWL3cyM2NBMD0.jpg"
+      "cg": "https://static.wikia.nocookie.net/ensemble-stars/images/6/61/%28Sonata_of_Wings%29_Kohaku_Oukawa_CG2.png/revision/latest/scale-to-width-down/1000?cb=20230831132929"
     }
   ],
   "normal": [

@@ -97,10 +97,10 @@
       "type": "event"
     },
     {
-      "id": "Nimble_Radiance",
+      "id": "Agile_Light",
       "star": 3,
       "name": "機敏之輝",
-      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/2/29/%28Nimble_Radiance%29_Shinobu_Sengoku.png/revision/latest/scale-to-width-down/200?cb=20210423093605",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/2/24/%28Agile_Light%29_Shinobu_Sengoku.png/revision/latest/scale-to-width-down/200?cb=20210423093605",
       "series": 9,
       "type": "limited"
     },
@@ -145,10 +145,10 @@
       "type": "event"
     },
     {
-      "id": "shinobu_73.1_limited",
+      "id": "Fascinating_Adventure",
       "star": 4,
       "name": "林间奇遇",
-      "img": "https://docimg4.docs.qq.com/image/AgAABS1DDuY2SLNdm3lJg5hxpvctUfQ9.png",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/0/02/%28Fascinating_Adventure%29_Shinobu_Sengoku.png/revision/latest/scale-to-width-down/200?cb=20230409132109",
       "series": 73.1,
       "type": "limited"
     },
@@ -283,10 +283,10 @@
       "type": "event"
     },
     {
-      "id": "tomoya_65.1_limited",
+      "id": "An_Ode_of_Melodies",
       "star": 3,
-      "name": "瑰色之颂",
-      "img": "https://docimg3.docs.qq.com/image/AgAABS1DDuY-Sb9vBtdNhqxEfUGrz4c0.png",
+      "name": "悠扬之颂",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/c/c9/%28An_Ode_of_Melodies%29_Tomoya_Mashiro.png/revision/latest/scale-to-width-down/200?cb=20221127035335",
       "series": 65.1,
       "type": "limited"
     },
@@ -469,10 +469,10 @@
       "type": "event"
     },
     {
-      "id": "eichi_77.1_limited",
+      "id": "Nocturne_of_Elegance",
       "star": 4,
-      "name": "优雅夜曲",
-      "img": "https://imglf4.lf127.net/img/ebb5674510850054/cVViT08vMlVDZVREZk5wNWdPMjM1c1N2b3BzRTZUYVRHTDZiWVMxTktuTT0.jpg",
+      "name": "優雅夜曲",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/b/b4/%28Nocturne_of_Elegance%29_Eichi_Tenshouin.png/revision/latest/scale-to-width-down/200?cb=20230618073044",
       "series": 77.1,
       "type": "limited"
     },
@@ -599,10 +599,10 @@
       "type": "event"
     },
     {
-      "id": "wataru_65.1_limited",
+      "id": "An_Ode_Colored_in_Roses",
       "star": 5,
-      "name": "瑰色之颂",
-      "img": "https://docimg3.docs.qq.com/image/AgAABS1DDuZ3weBrezVC86fvdzY9gTVO.png",
+      "name": "Wataru_Hibiki",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/1/1e/%28An_Ode_Colored_in_Roses%29_Wataru_Hibiki.png/revision/latest/scale-to-width-down/200?cb=20221127035007",
       "series": 65.1,
       "type": "limited"
     },
@@ -793,10 +793,10 @@
       "type": "event"
     },
     {
-      "id": "tori_77.1_limited",
+      "id": "Nocturne_of_Wings",
       "star": 5,
       "name": "黑羽夜曲",
-      "img": "https://imglf4.lf127.net/img/5040f6d1bc613959/cVViT08vMlVDZVREZk5wNWdPMjM1a25MVTJ0SUtyK0ZGLytZc2oxTmNIdz0.jpg",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/e/e7/%28Nocturne_of_Wings%29_Tori_Himemiya.png/revision/latest/scale-to-width-down/200?cb=20230618073224",
       "series": 77.1,
       "type": "limited"
     }
@@ -1207,10 +1207,10 @@
       "type": "event"
     },
     {
-      "id": "subaru_73.1_limited",
+      "id": "Breathtaking_Adventure",
       "star": 5,
       "name": "激流奇遇",
-      "img": "https://docimg1.docs.qq.com/image/AgAABS1DDubLEYbJgC5BZKrWPlJQC5GT.png",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/c/c0/%28Breathtaking_Adventure%29_Subaru_Akehoshi.png/revision/latest/scale-to-width-down/200?cb=20230409132209",
       "series": 73.1,
       "type": "limited"
     },
@@ -1377,10 +1377,10 @@
       "type": "feature"
     },
     {
-      "id": "makoto_77.1_limited",
+      "id": "Nocturne_of_Assistance",
       "star": 3,
-      "name": "协助夜曲",
-      "img": "https://imglf3.lf127.net/img/66eb2874f69ea5de/cVViT08vMlVDZVREZk5wNWdPMjM1azJkWlhRL0J1Z2JZY1FCdlU2aE1Gbz0.jpg",
+      "name": "協助夜曲",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/0/0a/%28Nocturne_of_Assistance%29_Makoto_Yuuki.png/revision/latest/scale-to-width-down/200?cb=20230618073019",
       "series": 77.1,
       "type": "limited"
     },
@@ -1629,10 +1629,10 @@
       "type": "event"
     },
     {
-      "id": "Leaping_Radiance",
+      "id": "The_Leaping_Light",
       "star": 5,
-      "name": "跃动之辉",
-      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/e/e9/%28Leaping_Radiance%29_Chiaki_Morisawa.png/revision/latest/scale-to-width-down/200?cb=20210423093530",
+      "name": "躍動之輝",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/c/c5/%28The_Leaping_Light%29_Chiaki_Morisawa.png/revision/latest/scale-to-width-down/200?cb=20210423093530",
       "series": 9,
       "type": "limited"
     },
@@ -1807,10 +1807,10 @@
       "type": "feature"
     },
     {
-      "id": "kanata_73.1_limited",
+      "id": "Aquatic_Adventure",
       "star": 3,
       "name": "水中奇遇",
-      "img": "https://docimg5.docs.qq.com/image/AgAABS1DDuaKMv3OCQlKmKCZukzj7auJ.png",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/8/85/%28Aquatic_Adventure%29_Kanata_Shinkai.png/revision/latest/scale-to-width-down/200?cb=20230409131939",
       "series": 73.1,
       "type": "limited"
     },
@@ -1945,10 +1945,10 @@
       "type": "event"
     },
     {
-      "id": "Yearning_Radiance",
+      "id": "Promising_Light",
       "star": 4,
-      "name": "憧憬之辉",
-      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/e/e3/%28Yearning_Radiance%29_Tetora_Nagumo.png/revision/latest/scale-to-width-down/200?cb=20210423093549",
+      "name": "憧憬之輝",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/e/e7/%28Promising_Light%29_Tetora_Nagumo.png/revision/latest/scale-to-width-down/200?cb=20210423093549",
       "series": 9,
       "type": "limited"
     },
@@ -2237,10 +2237,10 @@
       "type": "event"
     },
     {
-      "id": "hiiro_61.3_limited",
+      "id": "Colorful_Fairytale",
       "star": 3,
-      "name": "如梦缤纷",
-      "img": "https://docimg7.docs.qq.com/image/AgAABS1DDuZgToeXiYJCSquM7USaoz9f.jpeg",
+      "name": "如夢繽紛",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/a/ac/%28Colorful_Fairytale%29_Hiiro_Amagi.png/revision/latest/scale-to-width-down/200?cb=20221003083117",
       "series": 61.3,
       "type": "limited"
     },
@@ -2553,10 +2553,10 @@
       "type": "anniversary"
     },
     {
-      "id": "mayoi_61.3_limited",
+      "id": "Mesmerizing_Fairytale",
       "star": 5,
-      "name": "迷梦魅影",
-      "img": "https://docimg6.docs.qq.com/image/AgAABS1DDub7xfeUPv1M4Jx20CoKNUpU.jpeg",
+      "name": "迷夢魅影",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/3/3c/%28Mesmerizing_Fairytale%29_Mayoi_Ayase.png/revision/latest/scale-to-width-down/200?cb=20221003083049",
       "series": 61.3,
       "type": "limited"
     },
@@ -2813,10 +2813,10 @@
       "type": "event"
     },
     {
-      "id": "God_of_Perception",
+      "id": "Perspicacious_Myth",
       "star": 4,
       "name": "明察之神",
-      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/7/7e/%28God_of_Perception%29_Nagisa_Ran.png/revision/latest/scale-to-width-down/200?cb=20210917190328",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/9/90/%28Perspicacious_Myth%29_Nagisa_Ran.png/revision/latest/scale-to-width-down/200?cb=20210917190328",
       "series": 13,
       "type": "limited"
     },
@@ -3097,10 +3097,10 @@
       "type": "event"
     },
     {
-      "id": "God_of_Cunning",
+      "id": "Guileful_Myth",
       "star": 3,
       "name": "狡黠之神",
-      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/a/a9/%28God_of_Cunning%29_Ibara_Saegusa.png/revision/latest/scale-to-width-down/200?cb=20210917190323",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/8/81/%28Guileful_Myth%29_Ibara_Saegusa.png/revision/latest/scale-to-width-down/200?cb=20210917190323",
       "series": 13,
       "type": "limited"
     },
@@ -3161,10 +3161,10 @@
       "type": "feature"
     },
     {
-      "id": "ibara_80.1_limited",
+      "id": "Sonata_of_Direction",
       "star": 4,
-      "name": "指挥乐章",
-      "img": "https://imglf5.lf127.net/img/add7705e21c03553/cVViT08vMlVDZVM4VzNZZ1lIcEZmclI4aHpkVTY3ek5tV1A4bXdXb0dKYz0.jpg",
+      "name": "指揮樂章",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/6/69/%28Sonata_of_Direction%29_Ibara_Saegusa.png/revision/latest/scale-to-width-down/200?cb=20230831132310",
       "series": 80.1,
       "type": "limited"
     }
@@ -3307,10 +3307,10 @@
       "type": "event"
     },
     {
-      "id": "jun_80.1_limited",
+      "id": "Sonata_of_Cooperation",
       "star": 3,
-      "name": "协奏乐章",
-      "img": "https://imglf5.lf127.net/img/102a9d5dc20d4c8d/cVViT08vMlVDZVM4VzNZZ1lIcEZmakZSRmkya3RnVlpQYzRiZW01MGFOQT0.jpg",
+      "name": "協奏樂章",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/2/24/%28Sonata_of_Cooperation%29_Jun_Sazanami.png/revision/latest/scale-to-width-down/200?cb=20230831132129",
       "series": 80.1,
       "type": "limited"
     },
@@ -3437,10 +3437,10 @@
       "type": "event"
     },
     {
-      "id": "shu_65.1_limited",
+      "id": "An_Ode_of_Magnificence",
       "star": 3,
       "name": "华美之颂",
-      "img": "https://docimg4.docs.qq.com/image/AgAABS1DDuangNxyTrtO1K-d2LA8Ld6T.png",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/7/7e/%28An_Ode_of_Magnificence%29_Shu_Itsuki.png/revision/latest/scale-to-width-down/200?cb=20221127035208",
       "series": 65.1,
       "type": "limited"
     },
@@ -3575,10 +3575,10 @@
       "type": "event"
     },
     {
-      "id": "mika_50_limited",
+      "id": "Accompanying_Shadow",
       "star": 5,
       "name": "如影随形",
-      "img": "https://wx2.sinaimg.cn/mw2000/007kqdvOgy1h7787aohy0j309m0c0409.jpg",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/4/41/%28Accompanying_Shadow%29_Mika_Kagehira.png/revision/latest/scale-to-width-down/200?cb=20220609031342",
       "series": 50,
       "type": "limited"
     },
@@ -3859,10 +3859,10 @@
       "type": "feature"
     },
     {
-      "id": "Energetic_Radiance",
+      "id": "Energetic_Light",
       "star": 3,
       "name": "活力之輝",
-      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/c/cf/%28Energetic_Radiance%29_Yuta_Aoi.png/revision/latest/scale-to-width-down/200?cb=20210423093647",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/3/3a/%28Energetic_Light%29_Yuta_Aoi.png/revision/latest/scale-to-width-down/200?cb=20210423093647",
       "series": 9,
       "type": "limited"
     },
@@ -4053,10 +4053,10 @@
       "type": "event"
     },
     {
-      "id": "rinne_73.1_limited",
+      "id": "Fun-Filled_Adventure",
       "star": 3,
       "name": "营地奇遇",
-      "img": "https://docimg7.docs.qq.com/image/AgAABS1DDubnL9L3CDBCtLvMhyO8v7YZ.png",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/4/49/%28Fun-Filled_Adventure%29_Rinne_Amagi.png/revision/latest/scale-to-width-down/200?cb=20230409131831",
       "series": 73.1,
       "type": "limited"
     }
@@ -4305,10 +4305,10 @@
       "type": "anniversary"
     },
     {
-      "id": "kohaku_61.3_limited",
+      "id": "Melodious_Fairytale",
       "star": 3,
-      "name": "绮梦余音",
-      "img": "https://docimg7.docs.qq.com/image/AgAABS1DDuZrH1Mu9fBKF4mZnreq4vab.jpeg",
+      "name": "綺夢餘音",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/7/75/%28Melodious_Fairytale%29_Kohaku_Oukawa.png/revision/latest/scale-to-width-down/200?cb=20221003083106",
       "series": 61.3,
       "type": "limited"
     },
@@ -4329,10 +4329,10 @@
       "type": "feature"
     },
     {
-      "id": "kohaku_80.1_limited",
+      "id": "Sonata_of_Wings",
       "star": 5,
-      "name": "白羽乐章",
-      "img": "https://imglf5.lf127.net/img/06e1f11cddaccd35/cVViT08vMlVDZVM4VzNZZ1lIcEZmczBFNjNwVXQra1lIMHJ2WlZLY3Bydz0.jpg",
+      "name": "Kohaku_Oukawa",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/4/4c/%28Sonata_of_Wings%29_Kohaku_Oukawa.png/revision/latest/scale-to-width-down/200?cb=20230831132946",
       "series": 80.1,
       "type": "limited"
     }
@@ -4451,10 +4451,10 @@
       "type": "feature"
     },
     {
-      "id": "niki_61.3_limited",
+      "id": "Alluring_Fairytale",
       "star": 4,
-      "name": "甜梦乐园",
-      "img": "https://docimg7.docs.qq.com/image/AgAABS1DDuYrHRFFswJIpJCjQy4OMCyP.jpeg",
+      "name": "甜夢樂園",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/9/9a/%28Alluring_Fairytale%29_Niki_Shiina.png/revision/latest/scale-to-width-down/200?cb=20221003083057",
       "series": 61.3,
       "type": "limited"
     },
@@ -4573,10 +4573,10 @@
       "type": "event"
     },
     {
-      "id": "God_of_Tranquil_Shadows",
+      "id": "Entrancing_Myth",
       "star": 5,
-      "name": "谧影之神",
-      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/e/ee/%28God_of_Tranquil_Shadows%29_Rei_Sakuma.png/revision/latest/scale-to-width-down/200?cb=20210917190334",
+      "name": "謐影之神",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/a/a4/%28Entrancing_Myth%29_Rei_Sakuma.png/revision/latest/scale-to-width-down/200?cb=20210917190334",
       "series": 13,
       "type": "limited"
     },
@@ -4767,10 +4767,10 @@
       "type": "event"
     },
     {
-      "id": "kaoru_67.1_limited",
+      "id": "Captivating_Spring_Breeze",
       "star": 3,
       "name": "狐面春风",
-      "img": "https://docimg9.docs.qq.com/image/AgAABS1DDuZjLdMc46dHUK-jp0Hd3QkN.jpeg",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/7/7a/%28Captivating_Spring_Breeze%29_Kaoru_Hakaze.png/revision/latest/scale-to-width-down/200?cb=20230118030851",
       "series": 67.1,
       "type": "limited"
     },
@@ -4905,10 +4905,10 @@
       "type": "anniversary"
     },
     {
-      "id": "Koga_53_limited",
+      "id": "Glistening_Ephemera",
       "star": 5,
       "name": "流光瞬息",
-      "img": "https://wx1.sinaimg.cn/mw2000/007kqdvOgy1h35i52tmdrj30dc0gowpy.jpg",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/4/4c/%28Glistening_Ephemera%29_Koga_Oogami.png/revision/latest/scale-to-width-down/200?cb=20220907162544",
       "series": 53,
       "type": "limited"
     },
@@ -5043,10 +5043,10 @@
       "type": "event"
     },
     {
-      "id": "God_of_Wisdom",
+      "id": "Erudite_Myth",
       "star": 3,
       "name": "求知之神",
-      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/6/61/%28God_of_Wisdom%29_Adonis_Otogari.png/revision/latest/scale-to-width-down/200?cb=20210917190340",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/b/b8/%28Erudite_Myth%29_Adonis_Otogari.png/revision/latest/scale-to-width-down/200?cb=20210917190340",
       "series": 13,
       "type": "limited"
     },
@@ -5221,10 +5221,10 @@
       "type": "feature"
     },
     {
-      "id": "Nazuna_53_limited",
+      "id": "Cheerful_Sunshine",
       "star": 3,
       "name": "晴光煦色",
-      "img": "https://wx2.sinaimg.cn/mw2000/007kqdvOgy1h35i52mlh6j30dc0gok1l.jpg",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/b/b3/%28Cheerful_Sunshine%29_Nazuna_Nito.png/revision/latest/scale-to-width-down/200?cb=20220907162556",
       "series": 53,
       "type": "limited"
     },
@@ -5245,10 +5245,10 @@
       "type": "feature"
     },
     {
-      "id": "nazuna_67.1_limited",
+      "id": "Bouncing_Spring_Moon",
       "star": 4,
       "name": "兔挽春月",
-      "img": "https://docimg1.docs.qq.com/image/AgAABS1DDuZnlKG06c1C7b_T3glTyQxk.jpeg",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/7/7b/%28Bouncing_Spring_Moon%29_Nazuna_Nito.png/revision/latest/scale-to-width-down/200?cb=20230118030653",
       "series": 67.1,
       "type": "limited"
     },
@@ -5529,10 +5529,10 @@
       "type": "feature"
     },
     {
-      "id": "hajime_58_limited",
+      "id": "Listening_to_Fairy_Tales",
       "star": 3,
       "name": "聆听童话",
-      "img": "https://wx1.sinaimg.cn/mw2000/007kqdvOgy1h56h2z3q8jj30eu0ikn9s.jpg",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/2/21/%28Listening_to_Fairy_Tales%29_Hajime_Shino.png/revision/latest/scale-to-width-down/200?cb=20220817095007",
       "series": 58,
       "type": "limited"
     },
@@ -5691,10 +5691,10 @@
       "type": "event"
     },
     {
-      "id": "keito_65.1_limited",
+      "id": "An_Ode_of_Elegance",
       "star": 4,
-      "name": "清雅之颂",
-      "img": "https://docimg2.docs.qq.com/image/AgAABS1DDub2XBjt40NN7rfJyER1JSGH.png",
+      "name": "Keito_Hasumi",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/9/9f/%28An_Ode_of_Elegance%29_Keito_Hasumi.png/revision/latest/scale-to-width-down/200?cb=20221127035031",
       "series": 65.1,
       "type": "limited"
     },
@@ -5829,10 +5829,10 @@
       "type": "feature"
     },
     {
-      "id": "Kuro_53_limited",
+      "id": "Brightening_Sight",
       "star": 4,
       "name": "微光渐明",
-      "img": "https://wx4.sinaimg.cn/mw2000/007kqdvOgy1h35i530ub1j30dc0gon8f.jpg",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/5/57/%28Brightening_Sight%29_Kuro_Kiryu.png/revision/latest/scale-to-width-down/200?cb=20220907162547",
       "series": 53,
       "type": "limited"
     },
@@ -5999,10 +5999,10 @@
       "type": "feature"
     },
     {
-      "id": "souma_67.1_limited",
+      "id": "Walk_with_Spring_Steps",
       "star": 3,
       "name": "马踏春行",
-      "img": "https://docimg5.docs.qq.com/image/AgAABS1DDuaqMPgQv2tHLLrja6AWAIP0.jpeg",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/a/a9/%28Walk_with_Spring_Steps%29_Souma_Kanzaki.png/revision/latest/scale-to-width-down/200?cb=20230118031018",
       "series": 67.1,
       "type": "limited"
     },
@@ -6469,10 +6469,10 @@
       "type": "event"
     },
     {
-      "id": "izumi_67.1_limited",
+      "id": "Ballad_of_Spring_Tales",
       "star": 5,
       "name": "鹿鸣春野",
-      "img": "https://docimg5.docs.qq.com/image/AgAABS1DDuavHcKUWgZO07GEuepjpwsl.jpeg",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/b/b6/%28Ballad_of_Spring_Tales%29_Izumi_Sena.png/revision/latest/scale-to-width-down/200?cb=20230118030637",
       "series": 67.1,
       "type": "limited"
     },
@@ -6583,10 +6583,10 @@
       "type": "feature"
     },
     {
-      "id": "ritsu_58_limited",
+      "id": "Afternoon_Fairy_Tale",
       "star": 5,
-      "name": "午后童话",
-      "img": "https://wx3.sinaimg.cn/mw2000/007kqdvOgy1h56h2ya55ej30eu0iik3j.jpg",
+      "name": "午後童話",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/9/9b/%28Afternoon_Fairy_Tale%29_Ritsu_Sakuma.png/revision/latest/scale-to-width-down/200?cb=20220817094958",
       "series": 58,
       "type": "limited"
     },
@@ -6729,10 +6729,10 @@
       "type": "feature"
     },
     {
-      "id": "arashi_50_limited",
+      "id": "Surprising_Satisfaction",
       "star": 3,
       "name": "称心如意",
-      "img": "https://wx1.sinaimg.cn/mw2000/007kqdvOgy1h7787ilspwj309o0c1jt3.jpg",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/d/df/%28Surprising_Satisfaction%29_Arashi_Narukami.png/revision/latest/scale-to-width-down/200?cb=20220609031349",
       "series": 50,
       "type": "limited"
     },
@@ -6745,10 +6745,10 @@
       "type": "anniversary"
     },
     {
-      "id": "arashi_58_limited",
+      "id": "Reversed_Fairy_Tale",
       "star": 4,
       "name": "反转童话",
-      "img": "https://wx2.sinaimg.cn/mw2000/007kqdvOgy1h56h2yilosj30et0il48i.jpg",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/0/08/%28Reversed_Fairy_Tale%29_Arashi_Narukami.png/revision/latest/scale-to-width-down/200?cb=20220817095001",
       "series": 58,
       "type": "limited"
     },
@@ -7021,10 +7021,10 @@
       "type": "event"
     },
     {
-      "id": "tsumugi_50_limited",
+      "id": "Timely_Perfection",
       "star": 4,
-      "name": "适如其分",
-      "img": "https://wx2.sinaimg.cn/mw2000/007kqdvOgy1h7787auugdj309l0c175q.jpg",
+      "name": "適如其分",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/1/1b/%28Timely_Perfection%29_Tsumugi_Aoba.png/revision/latest/scale-to-width-down/200?cb=20220609031346",
       "series": 50,
       "type": "limited"
     },
@@ -7337,10 +7337,10 @@
       "type": "event"
     },
     {
-      "id": "madara_58_limited",
+      "id": "Witnessing_a_Fairy_Tale",
       "star": 3,
       "name": "见证童话",
-      "img": "https://wx4.sinaimg.cn/mw2000/007kqdvOgy1h56h2yugjbj30ev0ikwpi.jpg",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/4/4e/%28Witnessing_a_Fairy_Tale%29_Madara_Mikejima.png/revision/latest/scale-to-width-down/200?cb=20220817095004",
       "series": 58,
       "type": "limited"
     },
