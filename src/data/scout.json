@@ -2,6 +2,13 @@
   "event": [
     {
       "type": "event",
+      "banner": "https://static.wikia.nocookie.net/ensemble-stars/images/7/76/Sports_Survivors_Banner.png/revision/latest/scale-to-width-down/220?cb=20230915120345",
+      "name": "Sports Survivors (Scout)",
+      "cg": "https://static.wikia.nocookie.net/ensemble-stars/images/f/f5/%28Luck-Gathering_Survivor%29_Mitsuru_Tenma_CG2.png/revision/latest/scale-to-width-down/1000?cb=20230918035544",
+      "series": 84
+    },
+    {
+      "type": "event",
       "banner": "https://static.wikia.nocookie.net/ensemble-stars/images/4/4a/The_Heartbeat_of_the_Sea_%E2%80%93_Look_back_%E2%80%93_Banner.png/revision/latest/scale-to-width-down/220?cb=20230903025108",
       "name": "The Heartbeat of the Sea – Look back –",
       "cg": "https://static.wikia.nocookie.net/ensemble-stars/images/f/fb/%28Sea_of_Secrets%29_Kanata_Shinkai_CG2.png/revision/latest/scale-to-width-down/1000?cb=20230903205419",
@@ -583,6 +590,13 @@
     }
   ],
   "feature": [
+    {
+      "type": "feature",
+      "banner": "https://static.wikia.nocookie.net/ensemble-stars/images/3/36/Jun_Feature_Scout_2.png/revision/latest/scale-to-width-down/220?cb=20230917094832",
+      "name": "Jun Feature Scout 2",
+      "cg": "https://static.wikia.nocookie.net/ensemble-stars/images/b/b1/%28Sharpened_Gaze%29_Jun_Sazanami_CG2.png/revision/latest/scale-to-width-down/1000?cb=20230917233351",
+      "series": 84
+    },
     {
       "type": "feature",
       "banner": "https://static.wikia.nocookie.net/ensemble-stars/images/4/41/Natsume_Feature_Scout_2.png/revision/latest/scale-to-width-down/220?cb=20230828044329",

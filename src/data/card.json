@@ -483,6 +483,14 @@
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/9/9b/%28Incognito_Warrior%29_Eichi_Tenshouin_M.png/revision/latest/scale-to-width-down/200?cb=20230819160640",
       "series": 82,
       "type": "event"
+    },
+    {
+      "id": "Benevolence_Survivor",
+      "star": 3,
+      "name": "善行サバイバー",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/7/72/%28Benevolence_Survivor%29_Eichi_Tenshouin_M.png/revision/latest/scale-to-width-down/115?cb=20230918041229",
+      "series": 84,
+      "type": "event"
     }
   ],
   "Wataru_Hibiki": [
@@ -1229,6 +1237,14 @@
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/a/ad/%28The_Sparkle_We_See_Now%29_Subaru_Akehoshi_M.png/revision/latest/scale-to-width-down/200?cb=20230903205530",
       "series": 83,
       "type": "feature"
+    },
+    {
+      "id": "Competition_Survivor",
+      "star": 3,
+      "name": "競争サバイバー",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/7/79/%28Competition_Survivor%29_Subaru_Akehoshi_M.png/revision/latest/scale-to-width-down/115?cb=20230918041311",
+      "series": 84,
+      "type": "event"
     }
   ],
   "Makoto_Yuuki": [
@@ -1374,6 +1390,14 @@
       "name": "煌めく一欠片",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/c/ce/%28Glimmering_Piece%29_Makoto_Yuuki_M.png/revision/latest/scale-to-width-down/200?cb=20230727051520",
       "series": 81,
+      "type": "feature"
+    },
+    {
+      "id": "Approach_Shot",
+      "star": 4,
+      "name": "アプローチショット",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/a/a1/%28Approach_Shot%29_Makoto_Yuuki_M.png/revision/latest/scale-to-width-down/200?cb=20230918021249",
+      "series": 84,
       "type": "feature"
     }
   ],
@@ -1650,6 +1674,14 @@
       "name": "スコルピオの天敵",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/b/b3/%28Scorpio%27s_Nemesis%29_Chiaki_Morisawa_M.png/revision/latest/scale-to-width-down/200?cb=20230403001000",
       "series": 73,
+      "type": "event"
+    },
+    {
+      "id": "Suggestion_Survivor",
+      "star": 4,
+      "name": "提案サバイバー",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/d/d3/%28Suggestion_Survivor%29_Chiaki_Morisawa_M.png/revision/latest/scale-to-width-down/115?cb=20230918040937",
+      "series": 84,
       "type": "event"
     }
   ],
@@ -2973,6 +3005,14 @@
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/d/db/%28Eccentric_Occasion%29_Hiyori_Tomoe_M.png/revision/latest/scale-to-width-down/200?cb=20230417033131",
       "series": 74,
       "type": "event"
+    },
+    {
+      "id": "Balancing_Game",
+      "star": 3,
+      "name": "バランスゲーム",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/9/9c/%28Balancing_Game%29_Hiyori_Tomoe_M.png/revision/latest/scale-to-width-down/200?cb=20230918021205",
+      "series": 84,
+      "type": "feature"
     }
   ],
   "Ibara_Saegusa": [
@@ -3273,6 +3313,14 @@
       "img": "https://imglf5.lf127.net/img/102a9d5dc20d4c8d/cVViT08vMlVDZVM4VzNZZ1lIcEZmakZSRmkya3RnVlpQYzRiZW01MGFOQT0.jpg",
       "series": 80.1,
       "type": "limited"
+    },
+    {
+      "id": "Sharpened_Gaze",
+      "star": 5,
+      "name": "研ぎ澄まされる視線",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/2/2c/%28Sharpened_Gaze%29_Jun_Sazanami_M.png/revision/latest/scale-to-width-down/200?cb=20230917233255",
+      "series": 84,
+      "type": "feature"
     }
   ],
   "Shu_Itsuki": [
@@ -5049,6 +5097,14 @@
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/0/0c/%28Blazing_Feelings%29_Adonis_Otogari_M.png/revision/latest/scale-to-width-down/200?cb=20230715194958",
       "series": 80,
       "type": "feature"
+    },
+    {
+      "id": "Physical_Strength_Survivor",
+      "star": 3,
+      "name": "体力サバイバー",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/f/f6/%28Physical_Strength_Survivor%29_Adonis_Otogari_M.png/revision/latest/scale-to-width-down/115?cb=20230918041353",
+      "series": 84,
+      "type": "event"
     }
   ],
   "Nazuna_Nito": [
@@ -5349,6 +5405,14 @@
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/2/27/%28Shine_As_Brightly_As_You_Are%29_Mitsuru_Tenma_M.png/revision/latest/scale-to-width-down/200?cb=20230315232928",
       "series": 72,
       "type": "feature"
+    },
+    {
+      "id": "Luck-Gathering_Survivor",
+      "star": 5,
+      "name": "運拾うサバイバー",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/a/aa/%28Luck-Gathering_Survivor%29_Mitsuru_Tenma_M.png/revision/latest/scale-to-width-down/115?cb=20230918040845",
+      "series": 84,
+      "type": "event"
     }
   ],
   "Hajime_Shino": [
