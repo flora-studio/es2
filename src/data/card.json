@@ -1245,6 +1245,14 @@
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/7/79/%28Competition_Survivor%29_Subaru_Akehoshi_M.png/revision/latest/scale-to-width-down/115?cb=20230918041311",
       "series": 84,
       "type": "event"
+    },
+    {
+      "id": "Time_of_Wish-Making",
+      "star": 5,
+      "name": "願い込める時間",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/5/5f/%28Time_of_Wish-Making%29_Subaru_Akehoshi_M.png/revision/latest/scale-to-width-down/200?cb=20231006000730",
+      "series": 85,
+      "type": "feature"
     }
   ],
   "Makoto_Yuuki": [
@@ -2121,6 +2129,14 @@
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/4/49/%28Cheering_Up_Through_Manga%29_Midori_Takamine_M.png/revision/latest/scale-to-width-down/200?cb=20230522220613",
       "series": 76,
       "type": "event"
+    },
+    {
+      "id": "An_Unexpected_Private",
+      "star": 3,
+      "name": "予想外プライベート",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/a/a4/%28An_Unexpected_Private%29_Midori_Takamine_M.png/revision/latest/scale-to-width-down/200?cb=20231008232643",
+      "series": 85,
+      "type": "event"
     }
   ],
   "Hiiro_Amagi": [
@@ -2436,6 +2452,14 @@
       "name": "Aira_Shiratori",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/d/d7/%28Paddle_Ceasing_the_Rain%29_Aira_Shiratori_M.png/revision/latest/scale-to-width-down/200?cb=20230715194636",
       "series": 80,
+      "type": "event"
+    },
+    {
+      "id": "Reviewing_in_Private",
+      "star": 4,
+      "name": "見直すプライベート",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/4/49/%28Reviewing_in_Private%29_Aira_Shiratori_M.png/revision/latest/scale-to-width-down/200?cb=20231008232722",
+      "series": 85,
       "type": "event"
     }
   ],
@@ -3167,6 +3191,14 @@
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/6/69/%28Sonata_of_Direction%29_Ibara_Saegusa.png/revision/latest/scale-to-width-down/200?cb=20230831132310",
       "series": 80.1,
       "type": "limited"
+    },
+    {
+      "id": "Passing_Time_in_Private",
+      "star": 5,
+      "name": "過ごすプライベート",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/0/08/%28Passing_Time_in_Private%29_Ibara_Saegusa_M.png/revision/latest/scale-to-width-down/200?cb=20231008232710",
+      "series": 85,
+      "type": "event"
     }
   ],
   "Jun_Sazanami": [
@@ -4189,6 +4221,14 @@
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/7/74/%28Raindrop-covered_Townscape%29_HiMERU_M.png/revision/latest/scale-to-width-down/200?cb=20230620235017",
       "series": 78,
       "type": "event"
+    },
+    {
+      "id": "An_Unfamiliar_Appearance",
+      "star": 3,
+      "name": "落ち着かない姿",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/3/3f/%28An_Unfamiliar_Appearance%29_HiMERU_M.png/revision/latest/scale-to-width-down/200?cb=20231006000708",
+      "series": 85,
+      "type": "feature"
     }
   ],
   "Kohaku_Oukawa": [
@@ -5412,6 +5452,14 @@
       "name": "運拾うサバイバー",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/a/aa/%28Luck-Gathering_Survivor%29_Mitsuru_Tenma_M.png/revision/latest/scale-to-width-down/115?cb=20230918040845",
       "series": 84,
+      "type": "event"
+    },
+    {
+      "id": "Invitation_Private",
+      "star": 3,
+      "name": "お誘いプライベート",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/8/88/%28Invitation_Private%29_Mitsuru_Tenma_M.png/revision/latest/scale-to-width-down/200?cb=20231008232659",
+      "series": 85,
       "type": "event"
     }
   ],
@@ -6783,6 +6831,14 @@
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/d/d2/%28%C3%97%C3%97%C3%97_Runway%29_Arashi_Narukami_M.png/revision/latest/scale-to-width-down/200?cb=20230503220256",
       "series": 75,
       "type": "event"
+    },
+    {
+      "id": "This_Detour_Is_Lemon-Flavored",
+      "star": 4,
+      "name": "寄り道はレモン味",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/6/61/%28This_Detour_Is_Lemon-Flavored%29_Arashi_Narukami_M.png/revision/latest/scale-to-width-down/200?cb=20231006000719",
+      "series": 85,
+      "type": "feature"
     }
   ],
   "Natsume_Sakasaki": [

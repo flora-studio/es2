@@ -2,6 +2,13 @@
   "event": [
     {
       "type": "event",
+      "banner": "https://static.wikia.nocookie.net/ensemble-stars/images/6/6c/Private_Room_Banner.png/revision/latest/scale-to-width-down/220?cb=20231003141840",
+      "name": "Private Room",
+      "cg": "https://static.wikia.nocookie.net/ensemble-stars/images/6/6c/%28Passing_Time_in_Private%29_Ibara_Saegusa_CG2.png/revision/latest/scale-to-width-down/1000?cb=20231008232702",
+      "series": 85
+    },
+    {
+      "type": "event",
       "banner": "https://static.wikia.nocookie.net/ensemble-stars/images/7/76/Sports_Survivors_Banner.png/revision/latest/scale-to-width-down/220?cb=20230915120345",
       "name": "Sports Survivors (Scout)",
       "cg": "https://static.wikia.nocookie.net/ensemble-stars/images/f/f5/%28Luck-Gathering_Survivor%29_Mitsuru_Tenma_CG2.png/revision/latest/scale-to-width-down/1000?cb=20230918035544",
@@ -590,6 +597,13 @@
     }
   ],
   "feature": [
+    {
+      "type": "feature",
+      "banner": "https://static.wikia.nocookie.net/ensemble-stars/images/b/bd/Subaru_Feature_Scout_2.png/revision/latest/scale-to-width-down/220?cb=20231003141841",
+      "name": "Subaru Feature Scout 2",
+      "cg": "https://static.wikia.nocookie.net/ensemble-stars/images/0/03/%28Time_of_Wish-Making%29_Subaru_Akehoshi_CG2.png/revision/latest/scale-to-width-down/1000?cb=20231006000722",
+      "series": 85
+    },
     {
       "type": "feature",
       "banner": "https://static.wikia.nocookie.net/ensemble-stars/images/3/36/Jun_Feature_Scout_2.png/revision/latest/scale-to-width-down/220?cb=20230917094832",
