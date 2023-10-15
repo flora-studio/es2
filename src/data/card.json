@@ -373,10 +373,10 @@
       "type": "normal"
     },
     {
-      "id": "Adults%27_Afternoon",
+      "id": "Afternoon_of_Grown-ups",
       "star": 3,
       "name": "大人の午後",
-      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/8/86/%28Adults%27_Afternoon%29_Eichi_Tenshouin_M.png/revision/latest/scale-to-width-down/200?cb=20200702233127",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/3/3c/%28Afternoon_of_Grown-ups%29_Eichi_Tenshouin_M.png/revision/latest/scale-to-width-down/200?cb=20200702233127",
       "series": 7,
       "type": "feature"
     },
@@ -1289,7 +1289,7 @@
       "type": "anniversary"
     },
     {
-      "id": "The_Start_of_Fondness",
+      "id": "Start_of_Fondness",
       "star": 4,
       "name": "好きの始まり",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/4/4a/%28Start_of_Fondness%29_Makoto_Yuuki_M.png/revision/latest/scale-to-width-down/200?cb=20200702233043",
@@ -1411,7 +1411,7 @@
   ],
   "Mao_Isara": [
     {
-      "id": "Mundane_Specialty",
+      "id": "Everyday_but_Special",
       "star": 5,
       "name": "ありふれた特別",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/3/33/%28Everyday_but_Special%29_Mao_Isara_M.png/revision/latest/scale-to-width-down/200?cb=20200702232916",
@@ -2059,7 +2059,7 @@
       "type": "normal"
     },
     {
-      "id": "Bonds_That_Can_Be_Called_Friendship",
+      "id": "Bonds_Called_Friendship",
       "star": 3,
       "name": "友と呼べる絆",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/2/2d/%28Bonds_Called_Friendship%29_Midori_Takamine_M.png/revision/latest/scale-to-width-down/200?cb=20200626053450",
