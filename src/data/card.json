@@ -321,6 +321,14 @@
       "img": "https://imglf5.lf127.net/img/65a32e8feb19199d/cVViT08vMlVDZVFjRHMwRjB4MEYwNDNXRW9la0dHZnlVdDlNOG5rZk9FVT0.png",
       "series": 85.1,
       "type": "limited"
+    },
+    {
+      "id": "Surreptitious_Hunch",
+      "star": 3,
+      "name": "ひそやかな勘",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/5/5e/%28Surreptitious_Hunch%29_Tomoya_Mashiro_M.png/revision/latest/scale-to-width-down/200?cb=20231022102122",
+      "series": 86,
+      "type": "feature"
     }
   ],
   "Eichi_Tenshouin": [
@@ -1191,10 +1199,10 @@
       "type": "feature"
     },
     {
-      "id": "Brave_Warlord",
+      "id": "Cheerful_Warrior",
       "star": 3,
       "name": "勇む武将",
-      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/c/c2/%28Brave_Warlord%29_Subaru_Akehoshi_M.png/revision/latest/scale-to-width-down/200?cb=20210914141756",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/7/71/%28Cheerful_Warrior%29_Subaru_Akehoshi_M.png/revision/latest/scale-to-width-down/200?cb=20210914141756",
       "series": 36,
       "type": "event"
     },
@@ -1475,10 +1483,10 @@
       "type": "anniversary"
     },
     {
-      "id": "Intelligent_Warlord",
+      "id": "Insightful_Warrior",
       "star": 4,
       "name": "智の武将",
-      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/d/dc/%28Intelligent_Warlord%29_Mao_Isara_M.png/revision/latest/scale-to-width-down/200?cb=20210914141359",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/e/eb/%28Insightful_Warrior%29_Mao_Isara_M.png/revision/latest/scale-to-width-down/200?cb=20210914141359",
       "series": 36,
       "type": "event"
     },
@@ -1861,6 +1869,14 @@
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/3/3b/%28Sea_of_Secrets%29_Kanata_Shinkai_M.png/revision/latest/scale-to-width-down/200?cb=20230903205429",
       "series": 83,
       "type": "event"
+    },
+    {
+      "id": "Sparkling_Shore_Banquet",
+      "star": 4,
+      "name": "かがやくりくのうたげ",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/9/95/%28Sparkling_Shore_Banquet%29_Kanata_Shinkai_M.png/revision/latest/scale-to-width-down/200?cb=20231026025800",
+      "series": 86,
+      "type": "event"
     }
   ],
   "Tetora_Nagumo": [
@@ -2237,10 +2253,10 @@
       "type": "feature"
     },
     {
-      "id": "Young_Warlord",
+      "id": "The_Young_Warrior",
       "star": 3,
       "name": "若き武将",
-      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/a/ab/%28Young_Warlord%29_Hiiro_Amagi_M.png/revision/latest/scale-to-width-down/200?cb=20210914142122",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/f/f3/%28The_Young_Warrior%29_Hiiro_Amagi_M.png/revision/latest/scale-to-width-down/200?cb=20210914142122",
       "series": 36,
       "type": "event"
     },
@@ -2635,10 +2651,10 @@
       "type": "feature"
     },
     {
-      "id": "Moon_Capital_Night",
+      "id": "The_Night_of_Getto",
       "star": 5,
       "name": "月都ナイト",
-      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/8/89/%28Moon_Capital_Night%29_Tatsumi_Kazehaya_M.png/revision/latest/scale-to-width-down/200?cb=20210830134730",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/c/c3/%28The_Night_of_Getto%29_Tatsumi_Kazehaya_B.png/revision/latest/scale-to-width-down/200?cb=20230514170430",
       "series": 35,
       "type": "event"
     },
@@ -3061,6 +3077,14 @@
       "img": "https://imglf3.lf127.net/img/a68080a0f468cfe7/cVViT08vMlVDZVFjRHMwRjB4MEYwK1dlak9KejMydFp6clpqb3QwUDJRVT0.png",
       "series": 85.1,
       "type": "limited"
+    },
+    {
+      "id": "Banquet_to_Receive_Updates",
+      "star": 3,
+      "name": "報せ受け取る宴",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/0/01/%28Banquet_to_Receive_Updates%29_Hiyori_Tomoe_M.png/revision/latest/scale-to-width-down/200?cb=20231026025750",
+      "series": 86,
+      "type": "event"
     }
   ],
   "Ibara_Saegusa": [
@@ -3961,6 +3985,14 @@
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/c/ca/%28Discomfort_and_Identity%29_Yuta_Aoi_M.png/revision/latest/scale-to-width-down/200?cb=20230303200844",
       "series": 71,
       "type": "feature"
+    },
+    {
+      "id": "Banquet_of_Reflecting_Everyday_Life",
+      "star": 3,
+      "name": "映す日常の宴",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/5/5d/%28Banquet_of_Reflecting_Everyday_Life%29_Yuta_Aoi_M.png/revision/latest/scale-to-width-down/200?cb=20231026025748",
+      "series": 86,
+      "type": "event"
     }
   ],
   "Rinne_Amagi": [
@@ -4115,14 +4147,22 @@
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/4/49/%28Fun-Filled_Adventure%29_Rinne_Amagi.png/revision/latest/scale-to-width-down/200?cb=20230409131831",
       "series": 73.1,
       "type": "limited"
+    },
+    {
+      "id": "A_Banquet_in_Which_Good_Fortune_is_Spread",
+      "star": 5,
+      "name": "幸先広がる宴",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/d/d2/%28A_Banquet_in_Which_Good_Fortune_is_Spread%29_Rinne_Amagi_M.png/revision/latest/scale-to-width-down/200?cb=20231026025746",
+      "series": 86,
+      "type": "event"
     }
   ],
   "HiMERU": [
     {
-      "id": "Hidden_Feelings",
+      "id": "Hidden_in_the_Heart",
       "star": 5,
       "name": "胸の内に秘めて",
-      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/3/38/%28Hidden_Feelings%29_HiMERU_M.png/revision/latest/scale-to-width-down/200?cb=20200813223759",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/0/02/%28Hidden_in_the_Heart%29_HiMERU_M.png/revision/latest/scale-to-width-down/200?cb=20200813223759",
       "series": 10,
       "type": "feature"
     },
@@ -4735,7 +4775,7 @@
       "type": "normal"
     },
     {
-      "id": "Asking_a_Favor_of_Someone_Younger",
+      "id": "Turning_to_Juniors",
       "star": 4,
       "name": "年下にお願い",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/9/90/%28Turning_to_Juniors%29_Kaoru_Hakaze_M.png/revision/latest/scale-to-width-down/200?cb=20200813223824",
@@ -4892,7 +4932,7 @@
       "id": "Combative_Rascal",
       "star": 4,
       "name": "好戦的な荒くれ者",
-      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/9/9e/%28Combative_Rascal%29_Koga_Oogami_M.png/revision/latest/scale-to-width-down/200?cb=20200427125002",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/8/88/%28Combative_Spirit%29_Koga_Oogami_B.png/revision/latest/scale-to-width-down/200?cb=20200427080038",
       "series": 0,
       "type": "normal"
     },
@@ -5793,6 +5833,14 @@
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/8/85/%28Ardor_Given_By_Manga%29_Keito_Hasumi_M.png/revision/latest/scale-to-width-down/200?cb=20230522220651",
       "series": 76,
       "type": "event"
+    },
+    {
+      "id": "Nursing_is_a_Measured_Amount",
+      "star": 4,
+      "name": "看病は匙加減",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/b/b1/%28Nursing_is_a_Measured_Amount%29_Keito_Hasumi_M.png/revision/latest/scale-to-width-down/200?cb=20231022102211",
+      "series": 86,
+      "type": "feature"
     }
   ],
   "Kuro_Kiryu": [
@@ -5963,6 +6011,14 @@
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/5/52/%28The_Tailor%27s_Soul%29_Kuro_Kiryu_M.png/revision/latest/scale-to-width-down/200?cb=20230819160608",
       "series": 82,
       "type": "event"
+    },
+    {
+      "id": "Scars_That_Connect_To_Tomorrow",
+      "star": 5,
+      "name": "明日へ繋ぐ瘢痕",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/2/2b/%28Scars_That_Connect_To_Tomorrow%29_Kuro_Kiryu_M.png/revision/latest/scale-to-width-down/200?cb=20231022102150",
+      "series": 86,
+      "type": "feature"
     }
   ],
   "Souma_Kanzaki": [
@@ -5975,10 +6031,10 @@
       "type": "feature"
     },
     {
-      "id": "Valiant_Warlord",
+      "id": "Valiant_Warrior",
       "star": 5,
       "name": "猛き武将",
-      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/4/40/%28Valiant_Warlord%29_Souma_Kanzaki_M.png/revision/latest/scale-to-width-down/200?cb=20210914140524",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/0/0b/%28Valiant_Warrior%29_Souma_Kanzaki_M.png/revision/latest/scale-to-width-down/200?cb=20210914140524",
       "series": 36,
       "type": "event"
     },
@@ -6753,10 +6809,10 @@
       "type": "anniversary"
     },
     {
-      "id": "Moon_Capital_Fan",
+      "id": "The_Fan_of_Getto",
       "star": 4,
       "name": "月都ファン",
-      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/d/d9/%28Moon_Capital_Fan%29_Arashi_Narukami_M.png/revision/latest/scale-to-width-down/200?cb=20210830134830",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/2/2f/%28The_Fan_of_Getto%29_Arashi_Narukami_B.png/revision/latest/scale-to-width-down/200?cb=20220529175055",
       "series": 35,
       "type": "event"
     },

@@ -2,6 +2,13 @@
   "event": [
     {
       "type": "event",
+      "banner": "https://static.wikia.nocookie.net/ensemble-stars/images/9/98/Banquet_Beneath_the_Clouded_Moon_Banner.png/revision/latest/scale-to-width-down/220?cb=20231020020822",
+      "name": "Banquet Beneath the Clouded Moon",
+      "cg": "https://static.wikia.nocookie.net/ensemble-stars/images/1/14/%28A_Banquet_in_Which_Good_Fortune_is_Spread%29_Rinne_Amagi_CG2.png/revision/latest/scale-to-width-down/1000?cb=20231023052227",
+      "series": 86
+    },
+    {
+      "type": "event",
       "banner": "https://static.wikia.nocookie.net/ensemble-stars/images/6/6c/Private_Room_Banner.png/revision/latest/scale-to-width-down/220?cb=20231003141840",
       "name": "Private Room",
       "cg": "https://static.wikia.nocookie.net/ensemble-stars/images/6/6c/%28Passing_Time_in_Private%29_Ibara_Saegusa_CG2.png/revision/latest/scale-to-width-down/1000?cb=20231008232702",
@@ -345,16 +352,16 @@
     },
     {
       "type": "event",
-      "banner": "https://static.wikia.nocookie.net/ensemble-stars/images/6/6b/One-Man_Army_Banner.png/revision/latest/scale-to-width-down/220?cb=20210914230113",
-      "name": "One-Man Army",
-      "cg": "https://static.wikia.nocookie.net/ensemble-stars/images/9/9d/%28Valiant_Warlord%29_Souma_Kanzaki_CG2.png/revision/latest/scale-to-width-down/1000?cb=20210914140948",
+      "banner": "https://static.wikia.nocookie.net/ensemble-stars/images/c/c3/Matchless_Warriors_Banner.png/revision/latest/scale-to-width-down/220?cb=20210914230113",
+      "name": "Matchless Warriors",
+      "cg": "https://static.wikia.nocookie.net/ensemble-stars/images/2/26/%28Valiant_Warrior%29_Souma_Kanzaki_CG2.png/revision/latest/scale-to-width-down/1000?cb=20210914140948",
       "series": 36
     },
     {
       "type": "event",
       "banner": "https://static.wikia.nocookie.net/ensemble-stars/images/8/89/Getto_Spectacle_Banner.png/revision/latest/scale-to-width-down/220?cb=20210830194817",
       "name": "Getto Spectacle",
-      "cg": "https://static.wikia.nocookie.net/ensemble-stars/images/b/b3/%28Moon_Capital_Night%29_Tatsumi_Kazehaya_CG2.png/revision/latest/scale-to-width-down/1000?cb=20210830135055",
+      "cg": "https://static.wikia.nocookie.net/ensemble-stars/images/6/69/%28The_Night_of_Getto%29_Tatsumi_Kazehaya_CG2.png/revision/latest/scale-to-width-down/1000?cb=20210830135055",
       "series": 35
     },
     {
@@ -597,6 +604,13 @@
     }
   ],
   "feature": [
+    {
+      "type": "feature",
+      "banner": "https://static.wikia.nocookie.net/ensemble-stars/images/2/26/Kuro_Feature_Scout_2.png/revision/latest/scale-to-width-down/220?cb=20231020020825",
+      "name": "Kuro Feature Scout 2",
+      "cg": "https://static.wikia.nocookie.net/ensemble-stars/images/a/af/%28Scars_That_Connect_To_Tomorrow%29_Kuro_Kiryu_CG2.png/revision/latest/scale-to-width-down/1000?cb=20231023052207",
+      "series": 86
+    },
     {
       "type": "feature",
       "banner": "https://static.wikia.nocookie.net/ensemble-stars/images/b/bd/Subaru_Feature_Scout_2.png/revision/latest/scale-to-width-down/220?cb=20231003141841",
@@ -1112,7 +1126,7 @@
       "type": "feature",
       "banner": "https://static.wikia.nocookie.net/ensemble-stars/images/6/63/HiMERU_Feature_Scout.png/revision/latest/scale-to-width-down/220?cb=20200810152704",
       "name": "HiMERU Feature Scout",
-      "cg": "https://static.wikia.nocookie.net/ensemble-stars/images/1/14/%28Hidden_Feelings%29_HiMERU_CG2.png/revision/latest/scale-to-width-down/1000?cb=20200810163522",
+      "cg": "https://static.wikia.nocookie.net/ensemble-stars/images/c/c1/%28Hidden_in_the_Heart%29_HiMERU_CG2.png/revision/latest/scale-to-width-down/1000?cb=20200810163522",
       "series": 10
     },
     {
