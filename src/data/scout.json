@@ -352,9 +352,9 @@
     },
     {
       "type": "event",
-      "banner": "https://static.wikia.nocookie.net/ensemble-stars/images/4/49/Fruitful_OCTOBER_Banner.png/revision/latest/scale-to-width-down/220?cb=20210929121834",
-      "name": "Fruitful OCTOBER",
-      "cg": "https://static.wikia.nocookie.net/ensemble-stars/images/6/67/%28Awaiting_the_Day_of_Harvest%29_Yuta_Aoi_CG2.png/revision/latest/scale-to-width-down/1000?cb=20210929122027",
+      "banner": "https://static.wikia.nocookie.net/ensemble-stars/images/4/43/Bountiful_OCTOBER_Banner.png/revision/latest/scale-to-width-down/220?cb=20210929121834",
+      "name": "Bountiful OCTOBER",
+      "cg": "https://static.wikia.nocookie.net/ensemble-stars/images/3/32/%28Anticipating_the_Harvest%29_Yuta_Aoi_CG2.png/revision/latest/scale-to-width-down/1000?cb=20210929122027",
       "series": 37
     },
     {
@@ -373,7 +373,7 @@
     },
     {
       "type": "event",
-      "banner": "https://static.wikia.nocookie.net/ensemble-stars/images/5/57/Roaring_Sea_Marina_Banner.png/revision/latest/scale-to-width-down/220?cb=20210814132448",
+      "banner": "https://static.wikia.nocookie.net/ensemble-stars/images/f/f9/Whispering_Marina_Banner.png/revision/latest/scale-to-width-down/220?cb=20210814132448",
       "name": "Roaring Sea Marina",
       "cg": "https://static.wikia.nocookie.net/ensemble-stars/images/e/eb/%28Heartbeat_of_Waves%29_Izumi_Sena_CG2.png/revision/latest/scale-to-width-down/1000?cb=20210814155326",
       "series": 34
@@ -394,7 +394,7 @@
     },
     {
       "type": "event",
-      "banner": "https://static.wikia.nocookie.net/ensemble-stars/images/9/95/GemSphere_Banner.png/revision/latest/scale-to-width-down/220?cb=20210629081610",
+      "banner": "https://static.wikia.nocookie.net/ensemble-stars/images/3/3f/Gemstone_Sphere_Banner.png/revision/latest/scale-to-width-down/220?cb=20210629081610",
       "name": "GemSphere",
       "cg": "https://static.wikia.nocookie.net/ensemble-stars/images/1/18/%28Mysterious_Azure_Sphere%29_Nazuna_Nito_CG2.png/revision/latest/scale-to-width-down/1000?cb=20210629081244",
       "series": 31
@@ -415,7 +415,7 @@
     },
     {
       "type": "event",
-      "banner": "https://static.wikia.nocookie.net/ensemble-stars/images/0/0b/Budding_Spring%E2%86%92Ride_ON%21_Banner.png/revision/latest/scale-to-width-down/220?cb=20230325020616",
+      "banner": "https://static.wikia.nocookie.net/ensemble-stars/images/0/01/Early_Spring_Ride%E2%86%92ON%21_Banner.png/revision/latest/scale-to-width-down/220?cb=20230325020616",
       "name": "Budding Spring→Ride ON!",
       "cg": "https://static.wikia.nocookie.net/ensemble-stars/images/b/bc/%28Rookie_Skater%29_Tsukasa_Suou_CG2.png/revision/latest/scale-to-width-down/1000?cb=20210516105434",
       "series": 28
@@ -443,14 +443,14 @@
     },
     {
       "type": "event",
-      "banner": "https://static.wikia.nocookie.net/ensemble-stars/images/e/e9/Spring_Bed_Banner.png/revision/latest/scale-to-width-down/220?cb=20210314131015",
+      "banner": "https://static.wikia.nocookie.net/ensemble-stars/images/5/56/Spring_Flower_Bed_Banner.png/revision/latest/scale-to-width-down/220?cb=20210314131015",
       "name": "Spring Bed",
       "cg": "https://static.wikia.nocookie.net/ensemble-stars/images/3/3a/%28Gloriously_Blooming_Spring%29_Subaru_Akehoshi_CG2.png/revision/latest/scale-to-width-down/1000?cb=20210314131426",
       "series": 24
     },
     {
       "type": "event",
-      "banner": "https://static.wikia.nocookie.net/ensemble-stars/images/b/b0/Fake_Phantom_Thieves_Banner.png/revision/latest/scale-to-width-down/220?cb=20210227214233",
+      "banner": "https://static.wikia.nocookie.net/ensemble-stars/images/9/95/Phantom_Thief_FAKE_Banner.png/revision/latest/scale-to-width-down/220?cb=20210227214233",
       "name": "Fake Phantom Thieves",
       "cg": "https://static.wikia.nocookie.net/ensemble-stars/images/6/60/%28Corundum.K%29_Kaoru_Hakaze_CG2.png/revision/latest/scale-to-width-down/1000?cb=20210227230718",
       "series": 23
@@ -464,21 +464,21 @@
     },
     {
       "type": "event",
-      "banner": "https://static.wikia.nocookie.net/ensemble-stars/images/c/cf/White_Lily_Banner.png/revision/latest/scale-to-width-down/220?cb=20210130130811",
+      "banner": "https://static.wikia.nocookie.net/ensemble-stars/images/2/27/White_Lilies_Banner.png/revision/latest/scale-to-width-down/220?cb=20210130130811",
       "name": "White Lily",
       "cg": "https://static.wikia.nocookie.net/ensemble-stars/images/7/76/%28Innocent_Prince%29_Hiiro_Amagi_CG2.png/revision/latest/scale-to-width-down/1000?cb=20210130151528",
       "series": 21
     },
     {
       "type": "event",
-      "banner": "https://static.wikia.nocookie.net/ensemble-stars/images/3/37/Ushimairi_%28Part_Two%29_Banner.png/revision/latest/scale-to-width-down/220?cb=20210117034511",
+      "banner": "https://static.wikia.nocookie.net/ensemble-stars/images/e/e2/The_Legend_of_Ox-Hour_%28Part_B%29_Banner.png/revision/latest/scale-to-width-down/220?cb=20210117034511",
       "name": "Ushimairi (Part Two)",
       "cg": "https://static.wikia.nocookie.net/ensemble-stars/images/6/6c/%28Burning-Red_Judge%29_Yuzuru_Fushimi_CG2.png/revision/latest/scale-to-width-down/1000?cb=20210117163602",
       "series": 20
     },
     {
       "type": "event",
-      "banner": "https://static.wikia.nocookie.net/ensemble-stars/images/c/cd/Ushimairi_%28Part_One%29_Banner.png/revision/latest/scale-to-width-down/220?cb=20210217213209",
+      "banner": "https://static.wikia.nocookie.net/ensemble-stars/images/0/08/The_Legend_of_Ox-Hour_%28Part_A%29_Banner.png/revision/latest/scale-to-width-down/220?cb=20210217213209",
       "name": "Ushimairi (Part One)",
       "cg": "https://static.wikia.nocookie.net/ensemble-stars/images/6/6e/%28Green_and_Black_Gatekeeper%29_Keito_Hasumi_CG2.png/revision/latest/scale-to-width-down/1000?cb=20201231202719",
       "series": 19
@@ -499,7 +499,7 @@
     },
     {
       "type": "event",
-      "banner": "https://static.wikia.nocookie.net/ensemble-stars/images/f/fc/Turn_of_the_Century_Wars_Banner.png/revision/latest/scale-to-width-down/220?cb=20201114145050",
+      "banner": "https://static.wikia.nocookie.net/ensemble-stars/images/1/1a/War_at_the_End_of_Century_Banner.png/revision/latest/scale-to-width-down/220?cb=20201114145050",
       "name": "Turn of the Century Wars",
       "cg": "https://static.wikia.nocookie.net/ensemble-stars/images/1/1a/%28Survival_and_Guts%29_Tetora_Nagumo_CG2.png/revision/latest/scale-to-width-down/1000?cb=20201114170058",
       "series": 16
@@ -513,7 +513,7 @@
     },
     {
       "type": "event",
-      "banner": "https://static.wikia.nocookie.net/ensemble-stars/images/2/2c/Spy_THE_Mission_Banner.png/revision/latest/scale-to-width-down/220?cb=20210217213401",
+      "banner": "https://static.wikia.nocookie.net/ensemble-stars/images/6/65/Mission_of_The_Spy_Banner.png/revision/latest/scale-to-width-down/220?cb=20210217213401",
       "name": "Spy THE Mission",
       "cg": "https://static.wikia.nocookie.net/ensemble-stars/images/2/2d/%28Daring_Spy%29_Eichi_Tenshouin_CG2.png/revision/latest/scale-to-width-down/1000?cb=20201015203458",
       "series": 14
@@ -534,7 +534,7 @@
     },
     {
       "type": "event",
-      "banner": "https://static.wikia.nocookie.net/ensemble-stars/images/d/d7/Flowers_of_the_Wasteland_Banner.png/revision/latest/scale-to-width-down/220?cb=20200830071622",
+      "banner": "https://static.wikia.nocookie.net/ensemble-stars/images/e/e6/Flowers_in_the_Wasteland_Banner.png/revision/latest/scale-to-width-down/220?cb=20200830071622",
       "name": "Flowers of the Wasteland",
       "cg": "https://static.wikia.nocookie.net/ensemble-stars/images/b/b4/%28Dream_of_the_Wasteland%29_Nagisa_Ran_CG2.png/revision/latest/scale-to-width-down/1000?cb=20200830231922",
       "series": 11
@@ -555,14 +555,14 @@
     },
     {
       "type": "event",
-      "banner": "https://static.wikia.nocookie.net/ensemble-stars/images/a/a2/Dollhouse_Banner.png/revision/latest/scale-to-width-down/220?cb=20200714071847",
+      "banner": "https://static.wikia.nocookie.net/ensemble-stars/images/c/c4/Doll_House_Banner.png/revision/latest/scale-to-width-down/220?cb=20200714071847",
       "name": "Dollhouse",
       "cg": "https://static.wikia.nocookie.net/ensemble-stars/images/3/34/%28Fantasy_Dollhouse%29_Midori_Takamine_CG2.png/revision/latest/scale-to-width-down/1000?cb=20200716182253",
       "series": 8
     },
     {
       "type": "event",
-      "banner": "https://static.wikia.nocookie.net/ensemble-stars/images/b/b3/Beast_Survival_Banner.png/revision/latest/scale-to-width-down/220?cb=20200629063727",
+      "banner": "https://static.wikia.nocookie.net/ensemble-stars/images/2/24/Beasts%27_Survival_Banner.png/revision/latest/scale-to-width-down/220?cb=20200629063727",
       "name": "Beast Survival",
       "cg": "https://static.wikia.nocookie.net/ensemble-stars/images/e/e9/%28Striped_Hyena%27s_Hunt%29_Jun_Sazanami_CG2.png/revision/latest/scale-to-width-down/1000?cb=20200701073400",
       "series": 7
@@ -576,7 +576,7 @@
     },
     {
       "type": "event",
-      "banner": "https://static.wikia.nocookie.net/ensemble-stars/images/a/a4/Gingerbread_House_Banner.png/revision/latest/scale-to-width-down/220?cb=20210217213529",
+      "banner": "https://static.wikia.nocookie.net/ensemble-stars/images/0/0c/House_of_Sweets_Banner.png/revision/latest/scale-to-width-down/220?cb=20210217213529",
       "name": "Gingerbread House",
       "cg": "https://static.wikia.nocookie.net/ensemble-stars/images/4/4f/%28Lost_Gretel%29_Hajime_Shino_CG2.png/revision/latest/scale-to-width-down/1000?cb=20200530191310",
       "series": 5
@@ -951,7 +951,7 @@
       "type": "feature",
       "banner": "https://static.wikia.nocookie.net/ensemble-stars/images/5/55/Tetora_Feature_Scout.png/revision/latest/scale-to-width-down/220?cb=20210925172940",
       "name": "Tetora Feature Scout",
-      "cg": "https://static.wikia.nocookie.net/ensemble-stars/images/e/ee/%28Growing_Tiger_Cub%29_Tetora_Nagumo_CG2.png/revision/latest/scale-to-width-down/1000?cb=20210925091034",
+      "cg": "https://static.wikia.nocookie.net/ensemble-stars/images/4/4b/%28Growing_Young_Tiger%29_Tetora_Nagumo_CG2.png/revision/latest/scale-to-width-down/1000?cb=20210925091034",
       "series": 37
     },
     {
