@@ -2,6 +2,13 @@
   "event": [
     {
       "type": "event",
+      "banner": "https://static.wikia.nocookie.net/ensemble-stars/images/7/75/Your_Yorishiro_Banner.png/revision/latest/scale-to-width-down/220?cb=20231102075236",
+      "name": "Your Yorishiro",
+      "cg": "https://static.wikia.nocookie.net/ensemble-stars/images/3/38/%28Yorishiro_That_Steps_Forth%29_Nagisa_Ran_CG2.png/revision/latest/scale-to-width-down/1000?cb=20231102095105",
+      "series": 87
+    },
+    {
+      "type": "event",
       "banner": "https://static.wikia.nocookie.net/ensemble-stars/images/9/98/Banquet_Beneath_the_Clouded_Moon_Banner.png/revision/latest/scale-to-width-down/220?cb=20231020020822",
       "name": "Banquet Beneath the Clouded Moon",
       "cg": "https://static.wikia.nocookie.net/ensemble-stars/images/1/14/%28A_Banquet_in_Which_Good_Fortune_is_Spread%29_Rinne_Amagi_CG2.png/revision/latest/scale-to-width-down/1000?cb=20231023052227",
@@ -604,6 +611,13 @@
     }
   ],
   "feature": [
+    {
+      "type": "feature",
+      "banner": "https://static.wikia.nocookie.net/ensemble-stars/images/a/a8/Tsumugi_Feature_Scout_2.png/revision/latest/scale-to-width-down/220?cb=20231102070042",
+      "name": "Tsumugi Feature Scout 2",
+      "cg": "https://static.wikia.nocookie.net/ensemble-stars/images/f/fe/%28Sweet_Happiness%29_Tsumugi_Aoba_CG2.png/revision/latest/scale-to-width-down/1000?cb=20231102094644",
+      "series": 87
+    },
     {
       "type": "feature",
       "banner": "https://static.wikia.nocookie.net/ensemble-stars/images/2/26/Kuro_Feature_Scout_2.png/revision/latest/scale-to-width-down/220?cb=20231020020825",

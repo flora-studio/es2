@@ -1107,6 +1107,14 @@
       "img": "https://imglf4.lf127.net/img/8a54658c6cd4e4d3/cVViT08vMlVDZVFjRHMwRjB4MEYweWVGRTUvN2dNY3Exa2RUZDlxM0FUbz0.png",
       "series": 85.1,
       "type": "limited"
+    },
+    {
+      "id": "Lovely_Early_Afternoon",
+      "star": 4,
+      "name": "素敵な昼下がり",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/f/f2/%28Lovely_Early_Afternoon%29_Hokuto_Hidaka_M.png/revision/latest/scale-to-width-down/200?cb=20231102073212",
+      "series": 87,
+      "type": "feature"
     }
   ],
   "Subaru_Akehoshi": [
@@ -2031,6 +2039,14 @@
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/6/65/%28The_Other_Side_of_the_Goal%29_Tetora_Nagumo_M.png/revision/latest/scale-to-width-down/200?cb=20230812002649",
       "series": 82,
       "type": "feature"
+    },
+    {
+      "id": "Intertwined_Spare_Time",
+      "star": 3,
+      "name": "絡まる空き時間",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/f/fd/%28Intertwined_Spare_Time%29_Tetora_Nagumo_M.png/revision/latest/scale-to-width-down/200?cb=20231102073303",
+      "series": 87,
+      "type": "feature"
     }
   ],
   "Midori_Takamine": [
@@ -2922,6 +2938,14 @@
       "name": "熟読ビブリオン",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/4/46/%28BIBLION_of_Perusing%29_Nagisa_Ran_M.png/revision/latest/scale-to-width-down/200?cb=20230608000207",
       "series": 77,
+      "type": "event"
+    },
+    {
+      "id": "Yorishiro_That_Steps_Forth",
+      "star": 5,
+      "name": "踏み出す依代",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/3/35/%28Yorishiro_That_Steps_Forth%29_Nagisa_Ran_M.png/revision/latest/scale-to-width-down/200?cb=20231102095213",
+      "series": 87,
       "type": "event"
     }
   ],
@@ -4909,6 +4933,14 @@
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/1/15/%28Gentle_Breeze_Rustling_Through_the_Sea%29_Kaoru_Hakaze_M.png/revision/latest/scale-to-width-down/200?cb=20230903205405",
       "series": 83,
       "type": "event"
+    },
+    {
+      "id": "Yorishiro_That_Entrusts",
+      "star": 3,
+      "name": "託す依代",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/5/5b/%28Yorishiro_That_Entrusts%29_Kaoru_Hakaze_M.png/revision/latest/scale-to-width-down/200?cb=20231102095103",
+      "series": 87,
+      "type": "event"
     }
   ],
   "Koga_Oogami": [
@@ -5216,6 +5248,14 @@
       "name": "体力サバイバー",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/f/f6/%28Physical_Strength_Survivor%29_Adonis_Otogari_M.png/revision/latest/scale-to-width-down/115?cb=20230918041353",
       "series": 84,
+      "type": "event"
+    },
+    {
+      "id": "Yorishiro_That_Believes",
+      "star": 4,
+      "name": "信じる依代",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/d/d2/%28Yorishiro_That_Believes%29_Adonis_Otogari_M.png/revision/latest/scale-to-width-down/200?cb=20231102095046",
+      "series": 87,
       "type": "event"
     }
   ],
@@ -7073,6 +7113,14 @@
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/b/b7/%28Unraveling_Words%29_Natsume_Sakasaki_M.png/revision/latest/scale-to-width-down/200?cb=20230903205542",
       "series": 83,
       "type": "feature"
+    },
+    {
+      "id": "Yorishiro_That_Conveys",
+      "star": 3,
+      "name": "伝う依代",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/7/72/%28Yorishiro_That_Conveys%29_Natsume_Sakasaki_M.png/revision/latest/scale-to-width-down/200?cb=20231102095056",
+      "series": 87,
+      "type": "event"
     }
   ],
   "Tsumugi_Aoba": [
@@ -7227,6 +7275,14 @@
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/b/bc/%28Late_Night_Illusion%29_Tsumugi_Aoba_M.png/revision/latest/scale-to-width-down/200?cb=20230802000315",
       "series": 81,
       "type": "event"
+    },
+    {
+      "id": "Sweet_Happiness",
+      "star": 5,
+      "name": "甘美な幸福",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/2/22/%28Sweet_Happiness%29_Tsumugi_Aoba_M.png/revision/latest/scale-to-width-down/200?cb=20231102073050",
+      "series": 87,
+      "type": "feature"
     }
   ],
   "Sora_Harukawa": [
