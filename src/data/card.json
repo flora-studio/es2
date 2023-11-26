@@ -1723,6 +1723,14 @@
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/d/d3/%28Suggestion_Survivor%29_Chiaki_Morisawa_M.png/revision/latest/scale-to-width-down/115?cb=20230918040937",
       "series": 84,
       "type": "event"
+    },
+    {
+      "id": "Heart_With_a_Wash_of_Color",
+      "star": 5,
+      "name": "彩られる心",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/2/25/%28Heart_With_a_Wash_of_Color%29_Chiaki_Morisawa_M.png/revision/latest/scale-to-width-down/200?cb=20231116163435",
+      "series": 88,
+      "type": "feature"
     }
   ],
   "Kanata_Shinkai": [
@@ -1885,6 +1893,14 @@
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/9/95/%28Sparkling_Shore_Banquet%29_Kanata_Shinkai_M.png/revision/latest/scale-to-width-down/200?cb=20231026025800",
       "series": 86,
       "type": "event"
+    },
+    {
+      "id": "Miracle_on_the_Way_Home",
+      "star": 3,
+      "name": "かえりみちのきせき",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/e/e6/%28Miracle_on_the_Way_Home%29_Kanata_Shinkai_M.png/revision/latest/scale-to-width-down/200?cb=20231116163454",
+      "series": 88,
+      "type": "feature"
     }
   ],
   "Tetora_Nagumo": [
@@ -2047,6 +2063,14 @@
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/f/fd/%28Intertwined_Spare_Time%29_Tetora_Nagumo_M.png/revision/latest/scale-to-width-down/200?cb=20231102073303",
       "series": 87,
       "type": "feature"
+    },
+    {
+      "id": "Made_Service",
+      "star": 3,
+      "name": "メイド・サービス",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/b/b1/%28Made_Service%29_Tetora_Nagumo_M.png/revision/latest/scale-to-width-down/200?cb=20231116210919",
+      "series": 88,
+      "type": "event"
     }
   ],
   "Midori_Takamine": [
@@ -2655,6 +2679,14 @@
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/4/45/%28Early_Night_Illusion%29_Mayoi_Ayase_M.png/revision/latest/scale-to-width-down/200?cb=20230802000230",
       "series": 81,
       "type": "event"
+    },
+    {
+      "id": "Methods_of_Looking_After",
+      "star": 4,
+      "name": "お世話の方法",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/6/66/%28Methods_of_Looking_After%29_Mayoi_Ayase_M.png/revision/latest/scale-to-width-down/200?cb=20231116163446",
+      "series": 88,
+      "type": "feature"
     }
   ],
   "Tatsumi_Kazehaya": [
@@ -3425,6 +3457,14 @@
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/2/2c/%28Sharpened_Gaze%29_Jun_Sazanami_M.png/revision/latest/scale-to-width-down/200?cb=20230917233255",
       "series": 84,
       "type": "feature"
+    },
+    {
+      "id": "Made_Energy",
+      "star": 4,
+      "name": "メイド・エネルギー",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/c/cf/%28Made_Energy%29_Jun_Sazanami_M.png/revision/latest/scale-to-width-down/200?cb=20231116160542",
+      "series": 88,
+      "type": "event"
     }
   ],
   "Shu_Itsuki": [
@@ -4325,6 +4365,14 @@
       "img": "https://imglf4.lf127.net/img/b70576ff69f84bd8/cVViT08vMlVDZVFjRHMwRjB4MEYweEd2S3VwUDY4N2UxZko2Y2xjTmNuMD0.png",
       "series": 85.1,
       "type": "limited"
+    },
+    {
+      "id": "Made_Research",
+      "star": 3,
+      "name": "メイド・リサーチ",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/1/16/%28Made_Research%29_HiMERU_M.png/revision/latest/scale-to-width-down/200?cb=20231116210911",
+      "series": 88,
+      "type": "event"
     }
   ],
   "Kohaku_Oukawa": [
@@ -6967,6 +7015,14 @@
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/6/61/%28This_Detour_Is_Lemon-Flavored%29_Arashi_Narukami_M.png/revision/latest/scale-to-width-down/200?cb=20231006000719",
       "series": 85,
       "type": "feature"
+    },
+    {
+      "id": "Made_Mood",
+      "star": 5,
+      "name": "メイド・ムード",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/7/7e/%28Made_Mood%29_Arashi_Narukami_M.png/revision/latest/scale-to-width-down/200?cb=20231116210903",
+      "series": 88,
+      "type": "event"
     }
   ],
   "Natsume_Sakasaki": [

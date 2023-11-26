@@ -2,6 +2,13 @@
   "event": [
     {
       "type": "event",
+      "banner": "https://static.wikia.nocookie.net/ensemble-stars/images/3/32/Made_Me_Banner.png/revision/latest/scale-to-width-down/220?cb=20231116194238",
+      "name": "Made Me",
+      "cg": "https://static.wikia.nocookie.net/ensemble-stars/images/e/ec/%28Made_Mood%29_Arashi_Narukami_CG2.png/revision/latest/scale-to-width-down/1000?cb=20231116210855",
+      "series": 88
+    },
+    {
+      "type": "event",
       "banner": "https://static.wikia.nocookie.net/ensemble-stars/images/7/75/Your_Yorishiro_Banner.png/revision/latest/scale-to-width-down/220?cb=20231102075236",
       "name": "Your Yorishiro",
       "cg": "https://static.wikia.nocookie.net/ensemble-stars/images/3/38/%28Yorishiro_That_Steps_Forth%29_Nagisa_Ran_CG2.png/revision/latest/scale-to-width-down/1000?cb=20231102095105",
@@ -611,6 +618,13 @@
     }
   ],
   "feature": [
+    {
+      "type": "feature",
+      "banner": "https://static.wikia.nocookie.net/ensemble-stars/images/3/33/Chiaki_Feature_Scout_2.png/revision/latest/scale-to-width-down/220?cb=20231115084158",
+      "name": "Chiaki Feature Scout 2",
+      "cg": "https://static.wikia.nocookie.net/ensemble-stars/images/8/80/%28Heart_With_a_Wash_of_Color%29_Chiaki_Morisawa_CG2.png/revision/latest/scale-to-width-down/1000?cb=20231116163427",
+      "series": 88
+    },
     {
       "type": "feature",
       "banner": "https://static.wikia.nocookie.net/ensemble-stars/images/a/a8/Tsumugi_Feature_Scout_2.png/revision/latest/scale-to-width-down/220?cb=20231102070042",
