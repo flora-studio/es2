@@ -3,8 +3,8 @@ const fs = require('fs')
 const BASE_URL = 'https://ensemble-stars.fandom.com'
 
 // TODO 每次记得替换
-const ScoutUrl = 'https://ensemble-stars.fandom.com/wiki/Category:Chiaki_Feature_Scout_2'
-const ScoutSeries = 88
+const ScoutUrl = 'https://ensemble-stars.fandom.com/wiki/Category:Color_Code'
+const ScoutSeries = 89
 
 const scout = {
   type: '',

@@ -329,6 +329,14 @@
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/5/5e/%28Surreptitious_Hunch%29_Tomoya_Mashiro_M.png/revision/latest/scale-to-width-down/200?cb=20231022102122",
       "series": 86,
       "type": "feature"
+    },
+    {
+      "id": "Color_to_Feel_and_Enjoy",
+      "star": 3,
+      "name": "感じて楽しむ色",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/c/c0/%28Color_to_Feel_and_Enjoy%29_Tomoya_Mashiro_M.png/revision/latest/scale-to-width-down/200?cb=20231202050819",
+      "series": 89,
+      "type": "event"
     }
   ],
   "Eichi_Tenshouin": [
@@ -507,6 +515,14 @@
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/7/72/%28Benevolence_Survivor%29_Eichi_Tenshouin_M.png/revision/latest/scale-to-width-down/115?cb=20230918041229",
       "series": 84,
       "type": "event"
+    },
+    {
+      "id": "A_Play_That_Burns_the_Night_Sky",
+      "star": 5,
+      "name": "夜空焦がす戯れ",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/a/a4/%28A_Play_That_Burns_the_Night_Sky%29_Eichi_Tenshouin_M.png/revision/latest/scale-to-width-down/200?cb=20231202095012",
+      "series": 89,
+      "type": "feature"
     }
   ],
   "Wataru_Hibiki": [
@@ -4665,6 +4681,14 @@
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/3/33/%28Cooperation_SUMMER%29_Niki_Shiina_M.png/revision/latest/scale-to-width-down/200?cb=20230701002717",
       "series": 79,
       "type": "event"
+    },
+    {
+      "id": "A_Personal_Way_of_Seasoning",
+      "star": 3,
+      "name": "味付けは自己流",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/1/10/%28A_Personal_Way_of_Seasoning%29_Niki_Shiina_M.png/revision/latest/scale-to-width-down/200?cb=20231202095214",
+      "series": 89,
+      "type": "feature"
     }
   ],
   "Rei_Sakuma": [
@@ -5775,6 +5799,14 @@
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/c/c1/%28A_Feast_for_One_Day%29_Hajime_Shino_M.png/revision/latest/scale-to-width-down/200?cb=20230812002647",
       "series": 82,
       "type": "feature"
+    },
+    {
+      "id": "Color_That_Can_Make_You_Smile",
+      "star": 5,
+      "name": "笑顔になれる色",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/0/0b/%28Color_That_Can_Make_You_Smile%29_Hajime_Shino_M.png/revision/latest/scale-to-width-down/200?cb=20231202050639",
+      "series": 89,
+      "type": "event"
     }
   ],
   "Keito_Hasumi": [
@@ -6422,6 +6454,14 @@
       "name": "執筆ビブリオン",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/1/1c/%28BIBLION_of_Writing%29_Tsukasa_Suou_M.png/revision/latest/scale-to-width-down/200?cb=20230608000239",
       "series": 77,
+      "type": "event"
+    },
+    {
+      "id": "Profound_Color_That_Takes_Notice_Of",
+      "star": 3,
+      "name": "気付く奥深い色",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/0/05/%28Profound_Color_That_Takes_Notice_Of%29_Tsukasa_Suou_M.png/revision/latest/scale-to-width-down/200?cb=20231202050903",
+      "series": 89,
       "type": "event"
     }
   ],
@@ -7477,6 +7517,14 @@
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/2/2f/%28Challenge_SUMMER%29_Sora_Harukawa_M.png/revision/latest/scale-to-width-down/200?cb=20230701002706",
       "series": 79,
       "type": "event"
+    },
+    {
+      "id": "Color_That_Conveys_Feelings",
+      "star": 4,
+      "name": "気持ちが伝う色",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/1/15/%28Color_That_Conveys_Feelings%29_Sora_Harukawa_M.png/revision/latest/scale-to-width-down/200?cb=20231202050725",
+      "series": 89,
+      "type": "event"
     }
   ],
   "Madara_Mikejima": [
@@ -7623,6 +7671,14 @@
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/0/0d/%28Allied_Sea%29_Madara_Mikejima_M.png/revision/latest/scale-to-width-down/200?cb=20230903205356",
       "series": 83,
       "type": "event"
+    },
+    {
+      "id": "Street_Corner_Treasure_Trove",
+      "star": 4,
+      "name": "街角の堀り出し物",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/4/4a/%28Street_Corner_Treasure_Trove%29_Madara_Mikejima_M.png/revision/latest/scale-to-width-down/200?cb=20231202095109",
+      "series": 89,
+      "type": "feature"
     }
   ],
   "Akiomi_Kunugi": [
