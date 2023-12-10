@@ -3,8 +3,8 @@ const fs = require('fs')
 const BASE_URL = 'https://ensemble-stars.fandom.com'
 
 // TODO 每次记得替换
-const ScoutUrl = 'https://ensemble-stars.fandom.com/wiki/Category:Color_Code'
-const ScoutSeries = 89
+const ScoutUrl = 'https://ensemble-stars.fandom.com/wiki/Category:Leo_Feature_Scout'
+const ScoutSeries = 20
 
 const scout = {
   type: '',

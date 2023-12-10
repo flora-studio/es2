@@ -360,8 +360,8 @@
     {
       "type": "event",
       "banner": "https://static.wikia.nocookie.net/ensemble-stars/images/5/57/Dramatica_%28Scout%29_Banner.png/revision/latest/scale-to-width-down/220?cb=20211015033054",
-      "name": "Dramatica",
-      "cg": "https://static.wikia.nocookie.net/ensemble-stars/images/8/86/%28Wukong_In_My_Own_Style%29_Hokuto_Hidaka_CG2.png/revision/latest/scale-to-width-down/1000?cb=20211014181812",
+      "name": "Dramatica (Scout)",
+      "cg": "https://static.wikia.nocookie.net/ensemble-stars/images/5/5c/%28Free-Spirited_Wukong%29_Hokuto_Hidaka_CG2.png/revision/latest/scale-to-width-down/1000?cb=20211014181812",
       "series": 38
     },
     {
@@ -493,8 +493,8 @@
     {
       "type": "event",
       "banner": "https://static.wikia.nocookie.net/ensemble-stars/images/0/08/The_Legend_of_Ox-Hour_%28Part_A%29_Banner.png/revision/latest/scale-to-width-down/220?cb=20210217213209",
-      "name": "Ushimairi (Part One)",
-      "cg": "https://static.wikia.nocookie.net/ensemble-stars/images/6/6e/%28Green_and_Black_Gatekeeper%29_Keito_Hasumi_CG2.png/revision/latest/scale-to-width-down/1000?cb=20201231202719",
+      "name": "The Legend of Ox-Hour (Part A)",
+      "cg": "https://static.wikia.nocookie.net/ensemble-stars/images/1/13/%28Green-Black_Guardian%29_Keito_Hasumi_CG2.png/revision/latest/scale-to-width-down/1000?cb=20201231202719",
       "series": 19
     },
     {
@@ -972,7 +972,7 @@
       "type": "feature",
       "banner": "https://static.wikia.nocookie.net/ensemble-stars/images/6/6a/Midori_Feature_Scout.png/revision/latest/scale-to-width-down/220?cb=20211012152300",
       "name": "Midori Feature Scout",
-      "cg": "https://static.wikia.nocookie.net/ensemble-stars/images/7/7e/%28Comfortable_Staying_Just_As_I_Am%29_Midori_Takamine_CG2.png/revision/latest/scale-to-width-down/1000?cb=20211010133131",
+      "cg": "https://static.wikia.nocookie.net/ensemble-stars/images/1/1f/%28At_My_Own_Pace%29_Midori_Takamine_CG2.png/revision/latest/scale-to-width-down/1000?cb=20211010133131",
       "series": 38
     },
     {
@@ -1098,7 +1098,7 @@
       "type": "feature",
       "banner": "https://static.wikia.nocookie.net/ensemble-stars/images/2/2f/Leo_Feature_Scout.png/revision/latest/scale-to-width-down/220?cb=20210112232941",
       "name": "Leo Feature Scout",
-      "cg": "https://static.wikia.nocookie.net/ensemble-stars/images/7/7e/%28Prismatic_Colours_Flowing_Forth%29_Leo_Tsukinaga_CG2.png/revision/latest/scale-to-width-down/1000?cb=20210113001747",
+      "cg": "https://static.wikia.nocookie.net/ensemble-stars/images/1/1d/%28Vibrant_Colors%29_Leo_Tsukinaga_CG2.png/revision/latest/scale-to-width-down/1000?cb=20210113001747",
       "series": 20
     },
     {

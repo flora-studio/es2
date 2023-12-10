@@ -195,7 +195,7 @@
       "type": "anniversary"
     },
     {
-      "id": "Yellow_and_Black_Guide",
+      "id": "Yellow-Black_Usher",
       "star": 4,
       "name": "黄黒の案内者",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/f/fa/%28Yellow-Black_Usher%29_Tomoya_Mashiro_M.png/revision/latest/scale-to-width-down/200?cb=20201231063617",
@@ -243,10 +243,10 @@
       "type": "event"
     },
     {
-      "id": "Normal_Wukong",
+      "id": "Universal_Wukong",
       "star": 3,
       "name": "普遍の悟空",
-      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/e/ee/%28Normal_Wukong%29_Tomoya_Mashiro_M.png/revision/latest/scale-to-width-down/200?cb=20211014163811",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/6/6a/%28Universal_Wukong%29_Tomoya_Mashiro_M.png/revision/latest/scale-to-width-down/200?cb=20211014163811",
       "series": 38,
       "type": "event"
     },
@@ -607,10 +607,10 @@
       "type": "event"
     },
     {
-      "id": "Surprising_Wukong",
+      "id": "Wukong_of_Surprises",
       "star": 3,
       "name": "意外な悟空",
-      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/5/5e/%28Surprising_Wukong%29_Wataru_Hibiki_M.png/revision/latest/scale-to-width-down/200?cb=20211014163815",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/d/de/%28Wukong_of_Surprises%29_Wataru_Hibiki_M.png/revision/latest/scale-to-width-down/200?cb=20211014163815",
       "series": 38,
       "type": "event"
     },
@@ -1005,10 +1005,10 @@
       "type": "feature"
     },
     {
-      "id": "Wukong_In_My_Own_Style",
+      "id": "Free-Spirited_Wukong",
       "star": 5,
       "name": "自分流の悟空",
-      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/b/b6/%28Wukong_In_My_Own_Style%29_Hokuto_Hidaka_M.png/revision/latest/scale-to-width-down/200?cb=20211014163820",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/b/bc/%28Free-Spirited_Wukong%29_Hokuto_Hidaka_M.png/revision/latest/scale-to-width-down/200?cb=20211014163820",
       "series": 38,
       "type": "event"
     },
@@ -2099,10 +2099,10 @@
       "type": "event"
     },
     {
-      "id": "Comfortable_Staying_Just_As_I_Am",
+      "id": "At_My_Own_Pace",
       "star": 5,
       "name": "気楽でいられる自分",
-      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/3/3a/%28Comfortable_Staying_Just_As_I_Am%29_Midori_Takamine_M.png/revision/latest/scale-to-width-down/200?cb=20211010133044",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/b/bc/%28At_My_Own_Pace%29_Midori_Takamine_M.png/revision/latest/scale-to-width-down/200?cb=20211010133044",
       "series": 38,
       "type": "feature"
     },
@@ -2877,7 +2877,7 @@
       "type": "anniversary"
     },
     {
-      "id": "Pulse_of_the_Waves",
+      "id": "Pulse_of_the_Sea",
       "star": 4,
       "name": "潮騒の鼓動",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/0/06/%28Pulse_of_the_Sea%29_Nagisa_Ran_M.png/revision/latest/scale-to-width-down/200?cb=20210113000808",
@@ -3225,7 +3225,7 @@
       "type": "normal"
     },
     {
-      "id": "The_Lunch_Gathering",
+      "id": "Team_Lunch",
       "star": 3,
       "name": "合同ランチ",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/e/e8/%28Team_Lunch%29_Ibara_Saegusa_M.png/revision/latest/scale-to-width-down/200?cb=20210113000814",
@@ -4311,10 +4311,10 @@
       "type": "feature"
     },
     {
-      "id": "Likes_and_Circumstances",
+      "id": "Food_Preferences",
       "star": 3,
       "name": "好みと都合",
-      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/4/4b/%28Likes_and_Circumstances%29_HiMERU_M.png/revision/latest/scale-to-width-down/200?cb=20211010134524",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/0/01/%28Food_Preferences%29_HiMERU_M.png/revision/latest/scale-to-width-down/200?cb=20211010134524",
       "series": 38,
       "type": "feature"
     },
@@ -4571,10 +4571,10 @@
       "type": "anniversary"
     },
     {
-      "id": "Food_and_Connoisseurship",
+      "id": "Cate_and_Intuition",
       "star": 4,
       "name": "食と目利き",
-      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/0/05/%28Food_and_Connoisseurship%29_Niki_Shiina_M.png/revision/latest/scale-to-width-down/200?cb=20211010133552",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/e/eb/%28Cate_and_Intuition%29_Niki_Shiina_M.png/revision/latest/scale-to-width-down/200?cb=20211010133552",
       "series": 38,
       "type": "feature"
     },
@@ -4773,7 +4773,7 @@
       "type": "event"
     },
     {
-      "id": "Jet_Black_Ox_Spirit",
+      "id": "Pitch-Black_Ox_Envoy",
       "star": 3,
       "name": "漆黒の丑使い",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/d/d1/%28Pitch-Black_Ox_Envoy%29_Rei_Sakuma_M.png/revision/latest/scale-to-width-down/200?cb=20201231063612",
@@ -5819,7 +5819,7 @@
       "type": "normal"
     },
     {
-      "id": "Green_and_Black_Gatekeeper",
+      "id": "Green-Black_Guardian",
       "star": 5,
       "name": "緑黒の門番",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/4/4f/%28Green-Black_Guardian%29_Keito_Hasumi_M.png/revision/latest/scale-to-width-down/200?cb=20201231063607",
@@ -6029,10 +6029,10 @@
       "type": "feature"
     },
     {
-      "id": "Crimson_and_Black_Ox_Spirit",
+      "id": "Crimson-Black_Ox_Envoy",
       "star": 3,
       "name": "朱黒の丑使い",
-      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/2/26/%28Crimson_Blood_and_the_Moon%29_Kuro_Kiryu_M.png/revision/latest/scale-to-width-down/200?cb=20211101031221",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/2/26/%28Crimson-Black_Ox_Envoy%29_Kuro_Kiryu_M.png/revision/latest/scale-to-width-down/200?cb=20201231063600",
       "series": 19,
       "type": "event"
     },
@@ -6361,7 +6361,7 @@
       "type": "normal"
     },
     {
-      "id": "In_Search_of_the_Cat",
+      "id": "Searching_for_the_Cat",
       "star": 3,
       "name": "猫探し",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/0/06/%28Searching_for_the_Cat%29_Tsukasa_Suou_M.png/revision/latest/scale-to-width-down/200?cb=20210113000755",
@@ -6467,10 +6467,10 @@
   ],
   "Leo_Tsukinaga": [
     {
-      "id": "Prismatic_Colours_Flowing_Forth",
+      "id": "Vibrant_Colors",
       "star": 5,
       "name": "浮かぶ色とりどり",
-      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/f/fb/%28Prismatic_Colours_Flowing_Forth%29_Leo_Tsukinaga_M.png/revision/latest/scale-to-width-down/200?cb=20210113000801",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/2/28/%28Vibrant_Colors%29_Leo_Tsukinaga_M.png/revision/latest/scale-to-width-down/200?cb=20210113000801",
       "series": 20,
       "type": "feature"
     },
