@@ -159,6 +159,14 @@
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/c/ca/%28A_Melody_Played_by_the_Sound_of_Rain%29_Shinobu_Sengoku_M.png/revision/latest/scale-to-width-down/200?cb=20230521014401",
       "series": 76,
       "type": "feature"
+    },
+    {
+      "id": "Growth_ON_AIR",
+      "star": 4,
+      "name": "成長ON AIR",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/a/a9/%28Growth_ON_AIR%29_Shinobu_Sengoku_M.png/revision/latest/scale-to-width-down/200?cb=20231217225508",
+      "series": 90,
+      "type": "feature"
     }
   ],
   "Tomoya_Mashiro": [
@@ -2225,6 +2233,14 @@
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/a/a4/%28An_Unexpected_Private%29_Midori_Takamine_M.png/revision/latest/scale-to-width-down/200?cb=20231008232643",
       "series": 85,
       "type": "event"
+    },
+    {
+      "id": "A_Challenging_Step",
+      "star": 3,
+      "name": "挑戦の一歩",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/c/cd/%28A_Challenging_Step%29_Midori_Takamine_M.png/revision/latest/scale-to-width-down/200?cb=20231217225446",
+      "series": 90,
+      "type": "feature"
     }
   ],
   "Hiiro_Amagi": [
@@ -3156,6 +3172,14 @@
       "name": "報せ受け取る宴",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/0/01/%28Banquet_to_Receive_Updates%29_Hiyori_Tomoe_M.png/revision/latest/scale-to-width-down/200?cb=20231026025750",
       "series": 86,
+      "type": "event"
+    },
+    {
+      "id": "Warmth_Bear",
+      "star": 5,
+      "name": "ぬくもりベア",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/b/bd/%28Warmth_Bear%29_Hiyori_Tomoe_M.png/revision/latest/scale-to-width-down/200?cb=20231217225550",
+      "series": 90,
       "type": "event"
     }
   ],
@@ -4389,6 +4413,14 @@
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/1/16/%28Made_Research%29_HiMERU_M.png/revision/latest/scale-to-width-down/200?cb=20231116210911",
       "series": 88,
       "type": "event"
+    },
+    {
+      "id": "Time_to_Continue_Blossoming",
+      "star": 5,
+      "name": "咲き続ける時間",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/c/c9/%28Time_to_Continue_Blossoming%29_HiMERU_M.png/revision/latest/scale-to-width-down/200?cb=20231217225539",
+      "series": 90,
+      "type": "feature"
     }
   ],
   "Kohaku_Oukawa": [
@@ -5328,6 +5360,14 @@
       "name": "信じる依代",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/d/d2/%28Yorishiro_That_Believes%29_Adonis_Otogari_M.png/revision/latest/scale-to-width-down/200?cb=20231102095046",
       "series": 87,
+      "type": "event"
+    },
+    {
+      "id": "Cozy_Bear",
+      "star": 3,
+      "name": "ほんわりベア",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/3/3b/%28Cozy_Bear%29_Adonis_Otogari_M.png/revision/latest/scale-to-width-down/200?cb=20231217225454",
+      "series": 90,
       "type": "event"
     }
   ],
@@ -6609,6 +6649,14 @@
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/3/35/%28Entry_to_the_Demon_King%27s_Castle%29_Leo_Tsukinaga_M.png/revision/latest/scale-to-width-down/200?cb=20230819160558",
       "series": 82,
       "type": "event"
+    },
+    {
+      "id": "Lively_Bear",
+      "star": 4,
+      "name": "にぎやかベア",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/9/9c/%28Lively_Bear%29_Leo_Tsukinaga_M.png/revision/latest/scale-to-width-down/200?cb=20231217225519",
+      "series": 90,
+      "type": "event"
     }
   ],
   "Izumi_Sena": [
@@ -7379,6 +7427,14 @@
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/2/22/%28Sweet_Happiness%29_Tsumugi_Aoba_M.png/revision/latest/scale-to-width-down/200?cb=20231102073050",
       "series": 87,
       "type": "feature"
+    },
+    {
+      "id": "Relaxed_Bear",
+      "star": 3,
+      "name": "くつろぎベア",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/6/64/%28Relaxed_Bear%29_Tsumugi_Aoba_M.png/revision/latest/scale-to-width-down/200?cb=20231217225527",
+      "series": 90,
+      "type": "event"
     }
   ],
   "Sora_Harukawa": [

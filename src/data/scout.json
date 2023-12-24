@@ -2,6 +2,13 @@
   "event": [
     {
       "type": "event",
+      "banner": "https://static.wikia.nocookie.net/ensemble-stars/images/7/7b/White_Bear_Banner.png/revision/latest/scale-to-width-down/220?cb=20231217224835",
+      "name": "White Bear",
+      "cg": "https://static.wikia.nocookie.net/ensemble-stars/images/f/f3/%28Warmth_Bear%29_Hiyori_Tomoe_CG2.png/revision/latest/scale-to-width-down/1000?cb=20231217225542",
+      "series": 90
+    },
+    {
+      "type": "event",
       "banner": "https://static.wikia.nocookie.net/ensemble-stars/images/9/95/Color_Code_Banner.png/revision/latest/scale-to-width-down/220?cb=20231202041835",
       "name": "Color Code",
       "cg": "https://static.wikia.nocookie.net/ensemble-stars/images/1/1a/%28Color_That_Can_Make_You_Smile%29_Hajime_Shino_CG2.png/revision/latest/scale-to-width-down/1000?cb=20231202042845",
@@ -625,6 +632,13 @@
     }
   ],
   "feature": [
+    {
+      "type": "feature",
+      "banner": "https://static.wikia.nocookie.net/ensemble-stars/images/c/c7/HiMERU_Feature_Scout_2.png/revision/latest/scale-to-width-down/220?cb=20231211234201",
+      "name": "HiMERU Feature Scout 2",
+      "cg": "https://static.wikia.nocookie.net/ensemble-stars/images/2/2c/%28Time_to_Continue_Blossoming%29_HiMERU_CG2.png/revision/latest/scale-to-width-down/1000?cb=20231217225530",
+      "series": 90
+    },
     {
       "type": "feature",
       "banner": "https://static.wikia.nocookie.net/ensemble-stars/images/7/75/Eichi_Feature_Scout_2.png/revision/latest/scale-to-width-down/220?cb=20231202035733",
