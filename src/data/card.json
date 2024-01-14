@@ -2395,6 +2395,14 @@
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/5/50/%28State_of_the_Mind%29_Hiiro_Amagi_M.png/revision/latest/scale-to-width-down/200?cb=20230727051527",
       "series": 81,
       "type": "feature"
+    },
+    {
+      "id": "Breaking_Out_of_the_Gym",
+      "star": 4,
+      "name": "体育館からの脱出",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/5/5e/%28Breaking_Out_of_the_Gym%29_Hiiro_Amagi_M.png/revision/latest/scale-to-width-down/200?cb=20240108193449",
+      "series": 91,
+      "type": "feature"
     }
   ],
   "Aira_Shiratori": [
@@ -2564,6 +2572,14 @@
       "name": "見直すプライベート",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/4/49/%28Reviewing_in_Private%29_Aira_Shiratori_M.png/revision/latest/scale-to-width-down/200?cb=20231008232722",
       "series": 85,
+      "type": "event"
+    },
+    {
+      "id": "Evangelism_of_Ougonten",
+      "star": 3,
+      "name": "伝道の黄金天",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/a/a8/%28Evangelism_of_Ougonten%29_Aira_Shiratori_M.png/revision/latest/scale-to-width-down/200?cb=20240109212730",
+      "series": 91,
       "type": "event"
     }
   ],
@@ -3010,6 +3026,14 @@
       "name": "踏み出す依代",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/3/35/%28Yorishiro_That_Steps_Forth%29_Nagisa_Ran_M.png/revision/latest/scale-to-width-down/200?cb=20231102095213",
       "series": 87,
+      "type": "event"
+    },
+    {
+      "id": "Experience_of_Ougonten",
+      "star": 3,
+      "name": "経験の黄金天",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/d/da/%28Experience_of_Ougonten%29_Nagisa_Ran_M.png/revision/latest/scale-to-width-down/200?cb=20240109212737",
+      "series": 91,
       "type": "event"
     }
   ],
@@ -3813,6 +3837,14 @@
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/2/2e/%28Taking_Time_to_Reflect%29_Mika_Kagehira_M.png/revision/latest/scale-to-width-down/200?cb=20230531034127",
       "series": 77,
       "type": "feature"
+    },
+    {
+      "id": "The_Legendary_Ougonten",
+      "star": 5,
+      "name": "伝説の黄金天",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/c/c7/%28The_Legendary_Ougonten%29_Mika_Kagehira_M.png/revision/latest/scale-to-width-down/200?cb=20240109212759",
+      "series": 91,
+      "type": "event"
     }
   ],
   "Hinata_Aoi": [
@@ -5045,6 +5077,14 @@
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/5/5b/%28Yorishiro_That_Entrusts%29_Kaoru_Hakaze_M.png/revision/latest/scale-to-width-down/200?cb=20231102095103",
       "series": 87,
       "type": "event"
+    },
+    {
+      "id": "Expected_Sign",
+      "star": 5,
+      "name": "期待される証",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/5/5e/%28Expected_Sign%29_Kaoru_Hakaze_M.png/revision/latest/scale-to-width-down/200?cb=20240108193459",
+      "series": 91,
+      "type": "feature"
     }
   ],
   "Koga_Oogami": [
@@ -5685,6 +5725,14 @@
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/8/88/%28Invitation_Private%29_Mitsuru_Tenma_M.png/revision/latest/scale-to-width-down/200?cb=20231008232659",
       "series": 85,
       "type": "event"
+    },
+    {
+      "id": "Observation_of_Ougonten",
+      "star": 4,
+      "name": "観察の黄金天",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/0/0a/%28Observation_of_Ougonten%29_Mitsuru_Tenma_M.png/revision/latest/scale-to-width-down/200?cb=20240109212747",
+      "series": 91,
+      "type": "event"
     }
   ],
   "Hajime_Shino": [
@@ -6000,6 +6048,14 @@
       "name": "看病は匙加減",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/b/b1/%28Nursing_is_a_Measured_Amount%29_Keito_Hasumi_M.png/revision/latest/scale-to-width-down/200?cb=20231022102211",
       "series": 86,
+      "type": "feature"
+    },
+    {
+      "id": "Lecture_Tips",
+      "star": 3,
+      "name": "講義の秘訣",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/5/5a/%28Lecture_Tips%29_Keito_Hasumi_M.png/revision/latest/scale-to-width-down/200?cb=20240108193506",
+      "series": 91,
       "type": "feature"
     }
   ],

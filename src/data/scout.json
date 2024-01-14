@@ -2,6 +2,13 @@
   "event": [
     {
       "type": "event",
+      "banner": "https://static.wikia.nocookie.net/ensemble-stars/images/0/0f/Ougonten_Banner.png/revision/latest/scale-to-width-down/220?cb=20240109102241",
+      "name": "Ougonten",
+      "cg": "https://static.wikia.nocookie.net/ensemble-stars/images/c/cb/%28The_Legendary_Ougonten%29_Mika_Kagehira_CG2.png/revision/latest/scale-to-width-down/1000?cb=20240109212750",
+      "series": 91
+    },
+    {
+      "type": "event",
       "banner": "https://static.wikia.nocookie.net/ensemble-stars/images/7/7b/White_Bear_Banner.png/revision/latest/scale-to-width-down/220?cb=20231217224835",
       "name": "White Bear",
       "cg": "https://static.wikia.nocookie.net/ensemble-stars/images/f/f3/%28Warmth_Bear%29_Hiyori_Tomoe_CG2.png/revision/latest/scale-to-width-down/1000?cb=20231217225542",
@@ -632,6 +639,13 @@
     }
   ],
   "feature": [
+    {
+      "type": "feature",
+      "banner": "https://static.wikia.nocookie.net/ensemble-stars/images/e/e0/Kaoru_Feature_Scout_2.png/revision/latest/scale-to-width-down/220?cb=20240109023927",
+      "name": "Kaoru Feature Scout 2",
+      "cg": "https://static.wikia.nocookie.net/ensemble-stars/images/c/c6/%28Expected_Sign%29_Kaoru_Hakaze_CG2.png/revision/latest/scale-to-width-down/1000?cb=20240108193452",
+      "series": 91
+    },
     {
       "type": "feature",
       "banner": "https://static.wikia.nocookie.net/ensemble-stars/images/c/c7/HiMERU_Feature_Scout_2.png/revision/latest/scale-to-width-down/220?cb=20231211234201",
