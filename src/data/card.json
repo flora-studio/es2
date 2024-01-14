@@ -543,10 +543,10 @@
       "type": "feature"
     },
     {
-      "id": "Light_Illuminating_Winter",
+      "id": "Sunbeams_Illuminating_Winter",
       "star": 5,
       "name": "冬を照らす光",
-      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/2/20/%28Light_Illuminating_Winter%29_Wataru_Hibiki_M.png/revision/latest/scale-to-width-down/200?cb=20211129162916",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/b/b7/%28Sunbeams_Illuminating_Winter%29_Wataru_Hibiki_M.png/revision/latest/scale-to-width-down/200?cb=20211129162916",
       "series": 41,
       "type": "event"
     },
@@ -851,10 +851,10 @@
       "type": "event"
     },
     {
-      "id": "Devoted_Valet",
+      "id": "Devoted_Steward",
       "star": 5,
       "name": "尽くす執務者",
-      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/0/0d/%28Devoted_Valet%29_Yuzuru_Fushimi_M.png/revision/latest/scale-to-width-down/200?cb=20211126204306",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/b/bb/%28Devoted_Steward%29_Yuzuru_Fushimi_M.png/revision/latest/scale-to-width-down/200?cb=20211126204306",
       "series": 41,
       "type": "feature"
     },
@@ -6797,10 +6797,10 @@
       "type": "feature"
     },
     {
-      "id": "Winter_and_Performance",
+      "id": "Performance_in_Winter",
       "star": 3,
       "name": "冬と演出",
-      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/7/70/%28Winter_and_Performance%29_Izumi_Sena_M.png/revision/latest/scale-to-width-down/200?cb=20211129190026",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/7/70/%28Performance_in_Winter%29_Izumi_Sena_M.png/revision/latest/scale-to-width-down/200?cb=20211129190026",
       "series": 41,
       "type": "event"
     },
@@ -7081,10 +7081,10 @@
       "type": "feature"
     },
     {
-      "id": "The_Charms_of_Acting",
+      "id": "The_Charm_of_Acting",
       "star": 3,
       "name": "演技の魅力",
-      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/2/23/%28The_Charms_of_Acting%29_Arashi_Narukami_M.png/revision/latest/scale-to-width-down/200?cb=20211126204256",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/7/75/%28The_Charm_of_Acting%29_Arashi_Narukami_M.png/revision/latest/scale-to-width-down/200?cb=20211126204256",
       "series": 41,
       "type": "feature"
     },
@@ -7681,10 +7681,10 @@
       "type": "anniversary"
     },
     {
-      "id": "Passionate_Gaze_of_Winter",
+      "id": "Warm_Gaze_in_Winter",
       "star": 4,
       "name": "冬の熱視線",
-      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/b/b2/%28Passionate_Gaze_of_Winter%29_Madara_Mikejima_M.png/revision/latest/scale-to-width-down/200?cb=20211129143246",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/6/6d/%28Warm_Gaze_in_Winter%29_Madara_Mikejima_M.png/revision/latest/scale-to-width-down/200?cb=20211129143246",
       "series": 41,
       "type": "event"
     },

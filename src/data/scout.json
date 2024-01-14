@@ -352,9 +352,9 @@
     },
     {
       "type": "event",
-      "banner": "https://static.wikia.nocookie.net/ensemble-stars/images/a/a2/Hot_Winter_Banner.png/revision/latest/scale-to-width-down/220?cb=20211129190034",
-      "name": "Hot Winter",
-      "cg": "https://static.wikia.nocookie.net/ensemble-stars/images/f/f2/%28Light_Illuminating_Winter%29_Wataru_Hibiki_CG2.png/revision/latest/scale-to-width-down/1000?cb=20211129162655",
+      "banner": "https://static.wikia.nocookie.net/ensemble-stars/images/0/0a/HOT_WINTER_Banner.png/revision/latest/scale-to-width-down/220?cb=20211129190034",
+      "name": "HOT WINTER",
+      "cg": "https://static.wikia.nocookie.net/ensemble-stars/images/9/90/%28Sunbeams_Illuminating_Winter%29_Wataru_Hibiki_CG2.png/revision/latest/scale-to-width-down/1000?cb=20211129162655",
       "series": 41
     },
     {
@@ -986,7 +986,7 @@
       "type": "feature",
       "banner": "https://static.wikia.nocookie.net/ensemble-stars/images/7/70/Yuzuru_Feature_Scout.png/revision/latest/scale-to-width-down/220?cb=20211125194131",
       "name": "Yuzuru Feature Scout",
-      "cg": "https://static.wikia.nocookie.net/ensemble-stars/images/9/93/%28Devoted_Valet%29_Yuzuru_Fushimi_CG2.png/revision/latest/scale-to-width-down/1000?cb=20211125184814",
+      "cg": "https://static.wikia.nocookie.net/ensemble-stars/images/d/d3/%28Devoted_Steward%29_Yuzuru_Fushimi_CG2.png/revision/latest/scale-to-width-down/1000?cb=20211125184814",
       "series": 41
     },
     {
