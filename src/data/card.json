@@ -345,6 +345,14 @@
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/c/c0/%28Color_to_Feel_and_Enjoy%29_Tomoya_Mashiro_M.png/revision/latest/scale-to-width-down/200?cb=20231202050819",
       "series": 89,
       "type": "event"
+    },
+    {
+      "id": "Step_Up_Onto_the_Stage",
+      "star": 5,
+      "name": "舞台のステップアップ",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/d/dc/%28Step_Up_Onto_the_Stage%29_Tomoya_Mashiro_M.png/revision/latest/scale-to-width-down/200?cb=20240121182708",
+      "series": 92,
+      "type": "feature"
     }
   ],
   "Eichi_Tenshouin": [
@@ -1463,6 +1471,14 @@
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/a/a1/%28Approach_Shot%29_Makoto_Yuuki_M.png/revision/latest/scale-to-width-down/200?cb=20230918021249",
       "series": 84,
       "type": "feature"
+    },
+    {
+      "id": "Snow_and_Treasure",
+      "star": 4,
+      "name": "雪と宝",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/d/db/%28Snow_and_Treasure%29_Makoto_Yuuki_M.png/revision/latest/scale-to-width-down/200?cb=20240121163954",
+      "series": 92,
+      "type": "event"
     }
   ],
   "Mao_Isara": [
@@ -2881,6 +2897,14 @@
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/0/0f/%28A_Day_to_Look_Forward_To%29_Tatsumi_Kazehaya_M.png/revision/latest/scale-to-width-down/200?cb=20230521014348",
       "series": 76,
       "type": "feature"
+    },
+    {
+      "id": "Crane_and_Treasure",
+      "star": 5,
+      "name": "鶴と宝",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/c/cb/%28Crane_and_Treasure%29_Tatsumi_Kazehaya_M.png/revision/latest/scale-to-width-down/200?cb=20240121163929",
+      "series": 92,
+      "type": "event"
     }
   ],
   "Nagisa_Ran": [
@@ -3529,6 +3553,14 @@
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/c/cf/%28Made_Energy%29_Jun_Sazanami_M.png/revision/latest/scale-to-width-down/200?cb=20231116160542",
       "series": 88,
       "type": "event"
+    },
+    {
+      "id": "Sky_and_Treasure",
+      "star": 3,
+      "name": "空と宝",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/a/ad/%28Sky_and_Treasure%29_Jun_Sazanami_M.png/revision/latest/scale-to-width-down/200?cb=20240121163944",
+      "series": 92,
+      "type": "event"
     }
   ],
   "Shu_Itsuki": [
@@ -4129,6 +4161,14 @@
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/5/5d/%28Banquet_of_Reflecting_Everyday_Life%29_Yuta_Aoi_M.png/revision/latest/scale-to-width-down/200?cb=20231026025748",
       "series": 86,
       "type": "event"
+    },
+    {
+      "id": "Assertion_of_a_Little_Brother",
+      "star": 4,
+      "name": "弟の主張",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/2/2e/%28Assertion_of_a_Little_Brother%29_Yuta_Aoi_M.png/revision/latest/scale-to-width-down/200?cb=20240121182815",
+      "series": 92,
+      "type": "feature"
     }
   ],
   "Rinne_Amagi": [
@@ -4599,6 +4639,14 @@
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/4/4c/%28Sonata_of_Wings%29_Kohaku_Oukawa.png/revision/latest/scale-to-width-down/200?cb=20230831132946",
       "series": 80.1,
       "type": "limited"
+    },
+    {
+      "id": "A_Thrilling_New_Year",
+      "star": 3,
+      "name": "心躍る新春",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/9/9e/%28A_Thrilling_New_Year%29_Kohaku_Oukawa_M.png/revision/latest/scale-to-width-down/200?cb=20240121182910",
+      "series": 92,
+      "type": "feature"
     }
   ],
   "Niki_Shiina": [
@@ -6235,6 +6283,14 @@
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/2/2b/%28Scars_That_Connect_To_Tomorrow%29_Kuro_Kiryu_M.png/revision/latest/scale-to-width-down/200?cb=20231022102150",
       "series": 86,
       "type": "feature"
+    },
+    {
+      "id": "Land_and_Treasure",
+      "star": 3,
+      "name": "大地と宝",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/a/ab/%28Land_and_Treasure%29_Kuro_Kiryu_M.png/revision/latest/scale-to-width-down/200?cb=20240121163937",
+      "series": 92,
+      "type": "event"
     }
   ],
   "Souma_Kanzaki": [

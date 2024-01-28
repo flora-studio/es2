@@ -2,6 +2,13 @@
   "event": [
     {
       "type": "event",
+      "banner": "https://static.wikia.nocookie.net/ensemble-stars/images/1/1d/Housouge_Banner.png/revision/latest/scale-to-width-down/220?cb=20240121165316",
+      "name": "Housouge",
+      "cg": "https://static.wikia.nocookie.net/ensemble-stars/images/4/43/%28Crane_and_Treasure%29_Tatsumi_Kazehaya_CG2.png/revision/latest/scale-to-width-down/1000?cb=20240121163921",
+      "series": 92
+    },
+    {
+      "type": "event",
       "banner": "https://static.wikia.nocookie.net/ensemble-stars/images/0/0f/Ougonten_Banner.png/revision/latest/scale-to-width-down/220?cb=20240109102241",
       "name": "Ougonten",
       "cg": "https://static.wikia.nocookie.net/ensemble-stars/images/c/cb/%28The_Legendary_Ougonten%29_Mika_Kagehira_CG2.png/revision/latest/scale-to-width-down/1000?cb=20240109212750",
@@ -639,6 +646,13 @@
     }
   ],
   "feature": [
+    {
+      "type": "feature",
+      "banner": "https://static.wikia.nocookie.net/ensemble-stars/images/c/c8/Tomoya_Feature_Scout_2.png/revision/latest/scale-to-width-down/220?cb=20240121165315",
+      "name": "Tomoya Feature Scout 2",
+      "cg": "https://static.wikia.nocookie.net/ensemble-stars/images/2/2a/%28Step_Up_Onto_the_Stage%29_Tomoya_Mashiro_CG2.png/revision/latest/scale-to-width-down/1000?cb=20240121174736",
+      "series": 92
+    },
     {
       "type": "feature",
       "banner": "https://static.wikia.nocookie.net/ensemble-stars/images/e/e0/Kaoru_Feature_Scout_2.png/revision/latest/scale-to-width-down/220?cb=20240109023927",
