@@ -539,6 +539,14 @@
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/a/a4/%28A_Play_That_Burns_the_Night_Sky%29_Eichi_Tenshouin_M.png/revision/latest/scale-to-width-down/200?cb=20231202095012",
       "series": 89,
       "type": "feature"
+    },
+    {
+      "id": "Caf%C3%A9_of_Yearning",
+      "star": 3,
+      "name": "慕情喫茶",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/c/ca/%28Caf%C3%A9_of_Yearning%29_Eichi_Tenshouin_M.png/revision/latest/scale-to-width-down/200?cb=20240202230233",
+      "series": 93,
+      "type": "event"
     }
   ],
   "Wataru_Hibiki": [
@@ -685,6 +693,14 @@
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/5/56/%28Eccentric_Scenario%29_Wataru_Hibiki_M.png/revision/latest/scale-to-width-down/200?cb=20230417033144",
       "series": 74,
       "type": "event"
+    },
+    {
+      "id": "Performance_Beyond_Expectations",
+      "star": 3,
+      "name": "予定外の演出",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/e/e1/%28Performance_Beyond_Expectations%29_Wataru_Hibiki_M.png/revision/latest/scale-to-width-down/200?cb=20240203015136",
+      "series": 93,
+      "type": "feature"
     }
   ],
   "Tori_Himemiya": [
@@ -847,6 +863,14 @@
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/e/e7/%28Nocturne_of_Wings%29_Tori_Himemiya.png/revision/latest/scale-to-width-down/200?cb=20230618073224",
       "series": 77.1,
       "type": "limited"
+    },
+    {
+      "id": "Honeymoon_Caf%C3%A9",
+      "star": 5,
+      "name": "蜜月喫茶",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/9/9c/%28Honeymoon_Caf%C3%A9%29_Tori_Himemiya_M.png/revision/latest/scale-to-width-down/200?cb=20240202230013",
+      "series": 93,
+      "type": "event"
     }
   ],
   "Yuzuru_Fushimi": [
@@ -4801,6 +4825,14 @@
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/1/10/%28A_Personal_Way_of_Seasoning%29_Niki_Shiina_M.png/revision/latest/scale-to-width-down/200?cb=20231202095214",
       "series": 89,
       "type": "feature"
+    },
+    {
+      "id": "Feverish_Caf%C3%A9",
+      "star": 4,
+      "name": "微熱喫茶",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/1/1a/%28Feverish_Caf%C3%A9%29_Niki_Shiina_M.png/revision/latest/scale-to-width-down/200?cb=20240202230111",
+      "series": 93,
+      "type": "event"
     }
   ],
   "Rei_Sakuma": [
@@ -5286,6 +5318,14 @@
       "name": "遊戯は道連れ",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/8/80/%28Forced_to_Play%29_Koga_Oogami_M.png/revision/latest/scale-to-width-down/200?cb=20230715195217",
       "series": 80,
+      "type": "feature"
+    },
+    {
+      "id": "My_First_Summit",
+      "star": 4,
+      "name": "はじめてのサミット",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/e/ec/%28My_First_Summit%29_Koga_Oogami_M.png/revision/latest/scale-to-width-down/200?cb=20240203014902",
+      "series": 93,
       "type": "feature"
     }
   ],
@@ -5942,6 +5982,14 @@
       "name": "笑顔になれる色",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/0/0b/%28Color_That_Can_Make_You_Smile%29_Hajime_Shino_M.png/revision/latest/scale-to-width-down/200?cb=20231202050639",
       "series": 89,
+      "type": "event"
+    },
+    {
+      "id": "Caf%C3%A9_of_Purity",
+      "star": 3,
+      "name": "純粋喫茶",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/4/41/%28Caf%C3%A9_of_Purity%29_Hajime_Shino_M.png/revision/latest/scale-to-width-down/200?cb=20240202230435",
+      "series": 93,
       "type": "event"
     }
   ],
@@ -7053,6 +7101,14 @@
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/7/7c/%28Moonlit_Night_Illusion%29_Ritsu_Sakuma_M.png/revision/latest/scale-to-width-down/200?cb=20230802000324",
       "series": 81,
       "type": "event"
+    },
+    {
+      "id": "Rose-colored_Rest",
+      "star": 5,
+      "name": "薔薇色の休息",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/3/31/%28Rose-colored_Rest%29_Ritsu_Sakuma_M.png/revision/latest/scale-to-width-down/200?cb=20240203011831",
+      "series": 93,
+      "type": "feature"
     }
   ],
   "Arashi_Narukami": [

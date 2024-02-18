@@ -2,6 +2,13 @@
   "event": [
     {
       "type": "event",
+      "banner": "https://static.wikia.nocookie.net/ensemble-stars/images/7/76/Koikoi_Love_Caf%C3%A9_Banner.png/revision/latest/scale-to-width-down/220?cb=20240202234933",
+      "name": "Koikoi Love Café",
+      "cg": "https://static.wikia.nocookie.net/ensemble-stars/images/1/1c/%28Honeymoon_Caf%C3%A9%29_Tori_Himemiya_CG2.png/revision/latest/scale-to-width-down/1000?cb=20240203023113",
+      "series": 93
+    },
+    {
+      "type": "event",
       "banner": "https://static.wikia.nocookie.net/ensemble-stars/images/1/1d/Housouge_Banner.png/revision/latest/scale-to-width-down/220?cb=20240121165316",
       "name": "Housouge",
       "cg": "https://static.wikia.nocookie.net/ensemble-stars/images/4/43/%28Crane_and_Treasure%29_Tatsumi_Kazehaya_CG2.png/revision/latest/scale-to-width-down/1000?cb=20240121163921",
@@ -646,6 +653,13 @@
     }
   ],
   "feature": [
+    {
+      "type": "feature",
+      "banner": "https://static.wikia.nocookie.net/ensemble-stars/images/7/75/Ritsu_Feature_Scout_2.png/revision/latest/scale-to-width-down/220?cb=20240126184120",
+      "name": "Ritsu Feature Scout 2",
+      "cg": "https://static.wikia.nocookie.net/ensemble-stars/images/7/71/%28Rose-colored_Rest%29_Ritsu_Sakuma_CG2.png/revision/latest/scale-to-width-down/1000?cb=20240203012353",
+      "series": 93
+    },
     {
       "type": "feature",
       "banner": "https://static.wikia.nocookie.net/ensemble-stars/images/c/c8/Tomoya_Feature_Scout_2.png/revision/latest/scale-to-width-down/220?cb=20240121165315",
