@@ -701,6 +701,14 @@
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/e/e1/%28Performance_Beyond_Expectations%29_Wataru_Hibiki_M.png/revision/latest/scale-to-width-down/200?cb=20240203015136",
       "series": 93,
       "type": "feature"
+    },
+    {
+      "id": "A_Fleeting_Moment_Filled_With_Love",
+      "star": 5,
+      "name": "愛に満ちた刹那",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/0/0b/%28A_Fleeting_Moment_Filled_With_Love%29_Wataru_Hibiki_M.png/revision/latest/scale-to-width-down/200?cb=20240301061116",
+      "series": 95,
+      "type": "event"
     }
   ],
   "Tori_Himemiya": [
@@ -1170,6 +1178,14 @@
       "name": "素敵な昼下がり",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/f/f2/%28Lovely_Early_Afternoon%29_Hokuto_Hidaka_M.png/revision/latest/scale-to-width-down/200?cb=20231102073212",
       "series": 87,
+      "type": "feature"
+    },
+    {
+      "id": "Abyss_Engraved_By_Stars",
+      "star": 5,
+      "name": "星が刻む淵",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/7/7e/%28Abyss_Engraved_By_Stars%29_Hokuto_Hidaka_M.png/revision/latest/scale-to-width-down/200?cb=20240225212333",
+      "series": 95,
       "type": "feature"
     }
   ],
@@ -3731,6 +3747,14 @@
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/e/ee/%28Paddle_Leaving_Ripples_in_the_Water%29_Shu_Itsuki_M.png/revision/latest/scale-to-width-down/200?cb=20230715194921",
       "series": 80,
       "type": "event"
+    },
+    {
+      "id": "A_Fleeting_Moment_of_Perplexment",
+      "star": 3,
+      "name": "Shu_Itsuki",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/4/47/%28A_Fleeting_Moment_of_Perplexment%29_Shu_Itsuk_M.png/revision/latest/scale-to-width-down/200?cb=20240301061122",
+      "series": 95,
+      "type": "event"
     }
   ],
   "Mika_Kagehira": [
@@ -4039,6 +4063,14 @@
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/6/62/%28Nearly_Identical%29_Hinata_Aoi_M.png/revision/latest/scale-to-width-down/200?cb=20230715195038",
       "series": 80,
       "type": "feature"
+    },
+    {
+      "id": "Pop_Star_of_Adventure",
+      "star": 5,
+      "name": "冒険のポップスター",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/c/c9/%28Pop_Star_of_Adventure%29_Hinata_Aoi_M.png/revision/latest/scale-to-width-down/200?cb=20240225045526",
+      "series": 94,
+      "type": "feature"
     }
   ],
   "Yuta_Aoi": [
@@ -4192,6 +4224,14 @@
       "name": "弟の主張",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/2/2e/%28Assertion_of_a_Little_Brother%29_Yuta_Aoi_M.png/revision/latest/scale-to-width-down/200?cb=20240121182815",
       "series": 92,
+      "type": "feature"
+    },
+    {
+      "id": "Weapon_of_My_Own",
+      "star": 3,
+      "name": "自分だけの武器",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/4/4f/%28Weapon_of_My_Own%29_Yuta_Aoi_M.png/revision/latest/scale-to-width-down/200?cb=20240225212347",
+      "series": 95,
       "type": "feature"
     }
   ],
@@ -4995,6 +5035,14 @@
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/4/4d/%28Assistant%27s_Job%29_Rei_Sakuma_M.png/revision/latest/scale-to-width-down/200?cb=20230620192005",
       "series": 78,
       "type": "feature"
+    },
+    {
+      "id": "Scent_That_Leaves_Impressions",
+      "star": 3,
+      "name": "印象誘う香り",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/9/97/%28Scent_That_Leaves_Impressions%29_Rei_Sakuma_M.png/revision/latest/scale-to-width-down/200?cb=20240225063045",
+      "series": 94,
+      "type": "event"
     }
   ],
   "Kaoru_Hakaze": [
@@ -5659,6 +5707,14 @@
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/0/05/%28Reliable_Ally%29_Nazuna_Nito_M.png/revision/latest/scale-to-width-down/200?cb=20230819160816",
       "series": 82,
       "type": "event"
+    },
+    {
+      "id": "Scent_That_Tantalizes_the_Heart",
+      "star": 4,
+      "name": "心くすぐる香り",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/0/0c/%28Scent_That_Tantalizes_the_Heart%29_Nazuna_Nito_M.png/revision/latest/scale-to-width-down/200?cb=20240225062543",
+      "series": 94,
+      "type": "event"
     }
   ],
   "Mitsuru_Tenma": [
@@ -5821,6 +5877,14 @@
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/0/0a/%28Observation_of_Ougonten%29_Mitsuru_Tenma_M.png/revision/latest/scale-to-width-down/200?cb=20240109212747",
       "series": 91,
       "type": "event"
+    },
+    {
+      "id": "Scenery_of_the_First_Visit",
+      "star": 3,
+      "name": "初訪問の景色",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/d/d0/%28Scenery_of_the_First_Visit%29_Mitsuru_Tenma_M.png/revision/latest/scale-to-width-down/200?cb=20240225045533",
+      "series": 94,
+      "type": "feature"
     }
   ],
   "Hajime_Shino": [
@@ -6153,6 +6217,14 @@
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/5/5a/%28Lecture_Tips%29_Keito_Hasumi_M.png/revision/latest/scale-to-width-down/200?cb=20240108193506",
       "series": 91,
       "type": "feature"
+    },
+    {
+      "id": "Scent_That_Takes_Leading_Role",
+      "star": 5,
+      "name": "主役になる香り",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/2/2b/%28Scent_That_Takes_Leading_Role%29_Keito_Hasumi_M.png/revision/latest/scale-to-width-down/200?cb=20240225062948",
+      "series": 94,
+      "type": "event"
     }
   ],
   "Kuro_Kiryu": [
@@ -6339,6 +6411,14 @@
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/a/ab/%28Land_and_Treasure%29_Kuro_Kiryu_M.png/revision/latest/scale-to-width-down/200?cb=20240121163937",
       "series": 92,
       "type": "event"
+    },
+    {
+      "id": "Scent_That_Wafts_Warmth",
+      "star": 3,
+      "name": "温かみ漂う香り",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/a/a8/%28Scent_That_Wafts_Warmth%29_Kuro_Kiryu_M.png/revision/latest/scale-to-width-down/200?cb=20240225063054",
+      "series": 94,
+      "type": "event"
     }
   ],
   "Souma_Kanzaki": [
@@ -6493,6 +6573,14 @@
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/a/ac/%28Never-ending_Sea%29_Souma_Kanzaki_M.png/revision/latest/scale-to-width-down/200?cb=20230903205416",
       "series": 83,
       "type": "event"
+    },
+    {
+      "id": "Fragrant_Memory",
+      "star": 4,
+      "name": "香ばしい記憶",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/5/53/%28Fragrant_Memory%29_Souma_Kanzaki_M.png/revision/latest/scale-to-width-down/200?cb=20240225045516",
+      "series": 94,
+      "type": "feature"
     }
   ],
   "Tsukasa_Suou": [
@@ -6963,6 +7051,14 @@
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/8/8f/%28Evening_Glow_Paddle%29_Izumi_Sena_M.png/revision/latest/scale-to-width-down/200?cb=20230715194842",
       "series": 80,
       "type": "event"
+    },
+    {
+      "id": "Necessary_Sweetness",
+      "star": 4,
+      "name": "必要な甘さ",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/7/7f/%28Necessary_Sweetness%29_Izumi_Sena_M.png/revision/latest/scale-to-width-down/200?cb=20240225212341",
+      "series": 95,
+      "type": "feature"
     }
   ],
   "Ritsu_Sakuma": [
@@ -7109,6 +7205,14 @@
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/3/31/%28Rose-colored_Rest%29_Ritsu_Sakuma_M.png/revision/latest/scale-to-width-down/200?cb=20240203011831",
       "series": 93,
       "type": "feature"
+    },
+    {
+      "id": "A_Fleeting_Moment_of_Surprise",
+      "star": 4,
+      "name": "驚きの刹那",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/1/10/%28A_Fleeting_Moment_of_Surprise%29_Ritsu_Sakuma_M.png/revision/latest/scale-to-width-down/200?cb=20240301054337",
+      "series": 95,
+      "type": "event"
     }
   ],
   "Arashi_Narukami": [
@@ -7432,6 +7536,14 @@
       "name": "伝う依代",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/7/72/%28Yorishiro_That_Conveys%29_Natsume_Sakasaki_M.png/revision/latest/scale-to-width-down/200?cb=20231102095056",
       "series": 87,
+      "type": "event"
+    },
+    {
+      "id": "A_Fleeting_Moment_of_Friendship",
+      "star": 3,
+      "name": "Natsume_Sakasaki",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/7/72/%28A_Fleeting_Moment_of_Friendship%29_Natsume_Sakasaki_M.png/revision/latest/scale-to-width-down/200?cb=20240301061129",
+      "series": 95,
       "type": "event"
     }
   ],

@@ -3,8 +3,8 @@ const fs = require('fs')
 const BASE_URL = 'https://ensemble-stars.fandom.com'
 
 // TODO 每次记得替换
-const ScoutUrl = 'https://ensemble-stars.fandom.com/wiki/Category:Tiger_of_Indomitability'
-const ScoutSeries = 43
+const ScoutUrl = 'https://ensemble-stars.fandom.com/wiki/Category:Fleeting_White'
+const ScoutSeries = 95
 
 const scout = {
   type: '',
@@ -93,6 +93,7 @@ c.on('drain', () => {
   const cardsDb = require('../../src/data/card.json')
   Object.keys(cards).forEach(chara => {
     const card = cards[chara]
+    // todo
     const existCard = cardsDb[chara].find(item => item.type === card.type && item.series === card.series)
     if (existCard) {
       Object.assign(existCard, card)

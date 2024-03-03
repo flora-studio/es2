@@ -2,6 +2,20 @@
   "event": [
     {
       "type": "event",
+      "banner": "https://static.wikia.nocookie.net/ensemble-stars/images/c/c7/Fleeting_White_Banner.png/revision/latest/scale-to-width-down/220?cb=20240301061310",
+      "name": "Fleeting White",
+      "cg": "https://static.wikia.nocookie.net/ensemble-stars/images/9/94/%28A_Fleeting_Moment_Filled_With_Love%29_Wataru_Hibiki_CG2.png/revision/latest/scale-to-width-down/1000?cb=20240301072058",
+      "series": 95
+    },
+    {
+      "type": "event",
+      "banner": "https://static.wikia.nocookie.net/ensemble-stars/images/7/76/Gourmand%27s_Scent_Banner.png/revision/latest/scale-to-width-down/220?cb=20240225055157",
+      "name": "Gourmand's Scent",
+      "cg": "https://static.wikia.nocookie.net/ensemble-stars/images/3/38/%28Scent_That_Takes_Leading_Role%29_Keito_Hasumi_CG2.png/revision/latest/scale-to-width-down/1000?cb=20240225045311",
+      "series": 94
+    },
+    {
+      "type": "event",
       "banner": "https://static.wikia.nocookie.net/ensemble-stars/images/7/76/Koikoi_Love_Caf%C3%A9_Banner.png/revision/latest/scale-to-width-down/220?cb=20240202234933",
       "name": "Koikoi Love Café",
       "cg": "https://static.wikia.nocookie.net/ensemble-stars/images/1/1c/%28Honeymoon_Caf%C3%A9%29_Tori_Himemiya_CG2.png/revision/latest/scale-to-width-down/1000?cb=20240203023113",
@@ -653,6 +667,20 @@
     }
   ],
   "feature": [
+    {
+      "type": "feature",
+      "banner": "https://static.wikia.nocookie.net/ensemble-stars/images/d/d6/Hokuto_Feature_Scout_2.png/revision/latest/scale-to-width-down/220?cb=20240226040957",
+      "name": "Hokuto Feature Scout 2",
+      "cg": "https://static.wikia.nocookie.net/ensemble-stars/images/0/04/%28Abyss_Engraved_By_Stars%29_Hokuto_Hidaka_CG2.png/revision/latest/scale-to-width-down/1000?cb=20240226003034",
+      "series": 95
+    },
+    {
+      "type": "feature",
+      "banner": "https://static.wikia.nocookie.net/ensemble-stars/images/e/e6/Hinata_Feature_Scout_2.png/revision/latest/scale-to-width-down/220?cb=20240225050828",
+      "name": "Hinata Feature Scout 2",
+      "cg": "https://static.wikia.nocookie.net/ensemble-stars/images/0/0c/%28Pop_Star_of_Adventure%29_Hinata_Aoi_CG2.png/revision/latest/scale-to-width-down/1000?cb=20240225045518",
+      "series": 94
+    },
     {
       "type": "feature",
       "banner": "https://static.wikia.nocookie.net/ensemble-stars/images/7/75/Ritsu_Feature_Scout_2.png/revision/latest/scale-to-width-down/220?cb=20240126184120",
