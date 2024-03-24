@@ -353,6 +353,14 @@
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/d/dc/%28Step_Up_Onto_the_Stage%29_Tomoya_Mashiro_M.png/revision/latest/scale-to-width-down/200?cb=20240121182708",
       "series": 92,
       "type": "feature"
+    },
+    {
+      "id": "Push_and_Pull_of_Entertainment",
+      "star": 3,
+      "name": "娯楽の押し引き",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/f/fb/%28Push_and_Pull_of_Entertainment%29_Tomoya_Mashiro_M.png/revision/latest/scale-to-width-down/200?cb=20240315072109",
+      "series": 96,
+      "type": "feature"
     }
   ],
   "Eichi_Tenshouin": [
@@ -1519,6 +1527,14 @@
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/d/db/%28Snow_and_Treasure%29_Makoto_Yuuki_M.png/revision/latest/scale-to-width-down/200?cb=20240121163954",
       "series": 92,
       "type": "event"
+    },
+    {
+      "id": "Enigma_and_Exhibition",
+      "star": 3,
+      "name": "謎と展覧会",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/d/d2/%28Enigma_and_Exhibition%29_Makoto_Yuuki_M.png/revision/latest/scale-to-width-down/200?cb=20240316020650",
+      "series": 96,
+      "type": "event"
     }
   ],
   "Mao_Isara": [
@@ -1657,6 +1673,22 @@
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/8/86/%28Memories_With_Manga%29_Mao_Isara_M.png/revision/latest/scale-to-width-down/200?cb=20230522220638",
       "series": 76,
       "type": "event"
+    },
+    {
+      "id": "Curiosity_and_Exhibition",
+      "star": 3,
+      "name": "興味と展覧会",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/b/b5/%28Curiosity_and_Exhibition%29_Mao_Isara_M.png/revision/latest/scale-to-width-down/200?cb=20240316034815",
+      "series": 96,
+      "type": "event"
+    },
+    {
+      "id": "Sign_of_Accomplishment",
+      "star": 4,
+      "name": "やり遂げた印",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/b/bb/%28Sign_of_Accomplishment%29_Mao_Isara_M.png/revision/latest/scale-to-width-down/200?cb=20240315071642",
+      "series": 96,
+      "type": "feature"
     }
   ],
   "Chiaki_Morisawa": [
@@ -2297,6 +2329,14 @@
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/c/cd/%28A_Challenging_Step%29_Midori_Takamine_M.png/revision/latest/scale-to-width-down/200?cb=20231217225446",
       "series": 90,
       "type": "feature"
+    },
+    {
+      "id": "Discovery_and_Exhibition",
+      "star": 4,
+      "name": "発見と展覧会",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/6/60/%28Discovery_and_Exhibition%29_Midori_Takamine_M.png/revision/latest/scale-to-width-down/200?cb=20240316034806",
+      "series": 96,
+      "type": "event"
     }
   ],
   "Hiiro_Amagi": [
@@ -3755,6 +3795,14 @@
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/4/47/%28A_Fleeting_Moment_of_Perplexment%29_Shu_Itsuk_M.png/revision/latest/scale-to-width-down/200?cb=20240301061122",
       "series": 95,
       "type": "event"
+    },
+    {
+      "id": "Gentle_Melody",
+      "star": 5,
+      "name": "柔らかな調べ",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/9/9f/%28Gentle_Melody%29_Shu_Itsuki_M.png/revision/latest/scale-to-width-down/200?cb=20240310083001",
+      "series": 96,
+      "type": "feature"
     }
   ],
   "Mika_Kagehira": [
@@ -5042,6 +5090,14 @@
       "name": "印象誘う香り",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/9/97/%28Scent_That_Leaves_Impressions%29_Rei_Sakuma_M.png/revision/latest/scale-to-width-down/200?cb=20240225063045",
       "series": 94,
+      "type": "event"
+    },
+    {
+      "id": "Mystery_and_Exhibition",
+      "star": 5,
+      "name": "神秘と展覧会",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/c/c0/%28Mystery_and_Exhibition%29_Rei_Sakuma_M.png/revision/latest/scale-to-width-down/200?cb=20240316034754",
+      "series": 96,
       "type": "event"
     }
   ],

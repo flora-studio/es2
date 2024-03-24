@@ -2,6 +2,13 @@
   "event": [
     {
       "type": "event",
+      "banner": "https://static.wikia.nocookie.net/ensemble-stars/images/4/47/The_Blink_of_the_Eye_and_Exhibition_Banner.png/revision/latest/scale-to-width-down/220?cb=20240316000554",
+      "name": "The Blink of the Eye and Exhibition",
+      "cg": "https://static.wikia.nocookie.net/ensemble-stars/images/5/55/%28Mystery_and_Exhibition%29_Rei_Sakuma_CG2.png/revision/latest/scale-to-width-down/1000?cb=20240317153156",
+      "series": 96
+    },
+    {
+      "type": "event",
       "banner": "https://static.wikia.nocookie.net/ensemble-stars/images/c/c7/Fleeting_White_Banner.png/revision/latest/scale-to-width-down/220?cb=20240301061310",
       "name": "Fleeting White",
       "cg": "https://static.wikia.nocookie.net/ensemble-stars/images/9/94/%28A_Fleeting_Moment_Filled_With_Love%29_Wataru_Hibiki_CG2.png/revision/latest/scale-to-width-down/1000?cb=20240301072058",
@@ -667,6 +674,13 @@
     }
   ],
   "feature": [
+    {
+      "type": "feature",
+      "banner": "https://static.wikia.nocookie.net/ensemble-stars/images/9/98/Shu_Feature_Scout_2.png/revision/latest/scale-to-width-down/220?cb=20240311021704",
+      "name": "Shu Feature Scout 2",
+      "cg": "https://static.wikia.nocookie.net/ensemble-stars/images/1/1d/%28Gentle_Melody%29_Shu_Itsuki_CG2.png/revision/latest/scale-to-width-down/1000?cb=20240310081435",
+      "series": 96
+    },
     {
       "type": "feature",
       "banner": "https://static.wikia.nocookie.net/ensemble-stars/images/d/d6/Hokuto_Feature_Scout_2.png/revision/latest/scale-to-width-down/220?cb=20240226040957",
