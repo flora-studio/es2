@@ -259,10 +259,10 @@
       "type": "event"
     },
     {
-      "id": "Distance_From_the_One_Sitting_Beside_You",
+      "id": "Table_Sharing_and_Gap",
       "star": 3,
       "name": "相席と距離",
-      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/a/af/%28Distance_From_the_One_Sitting_Beside_You%29_Tomoya_Mashiro_M.png/revision/latest/scale-to-width-down/200?cb=20220213085829",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/7/73/%28Table_Sharing_and_Gap%29_Tomoya_Mashiro_M.png/revision/latest/scale-to-width-down/200?cb=20220213085829",
       "series": 46,
       "type": "feature"
     },
@@ -2923,10 +2923,10 @@
       "type": "event"
     },
     {
-      "id": "Unbridled_Sweetness",
+      "id": "Unchecked_Sweetness",
       "star": 4,
       "name": "控えない甘さ",
-      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/1/11/%28Unbridled_Sweetness%29_Tatsumi_Kazehaya_M.png/revision/latest/scale-to-width-down/200?cb=20220218190745",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/a/a8/%28Unchecked_Sweetness%29_Tatsumi_Kazehaya_M.png/revision/latest/scale-to-width-down/200?cb=20220218190745",
       "series": 46,
       "type": "event"
     },
@@ -3029,10 +3029,10 @@
       "type": "anniversary"
     },
     {
-      "id": "Gravekeeping_Reaper",
+      "id": "Grave-Guarding_Reaper",
       "star": 4,
       "name": "墓守の死神",
-      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/9/94/%28Gravekeeping_Reaper%29_Nagisa_Ran_M.png/revision/latest/scale-to-width-down/200?cb=20211215125008",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/c/c4/%28Grave-Guarding_Reaper%29_Nagisa_Ran_B.png/revision/latest/scale-to-width-down/200?cb=20230514165813",
       "series": 42,
       "type": "event"
     },
@@ -4535,10 +4535,10 @@
       "type": "event"
     },
     {
-      "id": "Bitter_Remarks",
+      "id": "Unsweet_Words",
       "star": 5,
       "name": "甘くない言葉",
-      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/1/19/%28Bitter_Remarks%29_HiMERU_M.png/revision/latest/scale-to-width-down/200?cb=20220218190748",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/e/e3/%28Unsweet_Words%29_HiMERU_M.png/revision/latest/scale-to-width-down/200?cb=20220218190748",
       "series": 46,
       "type": "event"
     },
@@ -4697,10 +4697,10 @@
       "type": "event"
     },
     {
-      "id": "Indecipherable_Sweetness",
+      "id": "Enigmatic_Sweetness",
       "star": 3,
       "name": "読めない甘さ",
-      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/e/ef/%28Indecipherable_Sweetness%29_Kohaku_Oukawa_M.png/revision/latest/scale-to-width-down/200?cb=20220218190740",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/8/89/%28Enigmatic_Sweetness%29_Kohaku_Oukawa_M.png/revision/latest/scale-to-width-down/200?cb=20220218190740",
       "series": 46,
       "type": "event"
     },
@@ -4941,10 +4941,10 @@
       "type": "feature"
     },
     {
-      "id": "Reaper_of_Condemnation",
+      "id": "Reaper_of_Judgement",
       "star": 5,
       "name": "断罪の死神",
-      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/3/39/%28Reaper_of_Condemnation%29_Rei_Sakuma_M.png/revision/latest/scale-to-width-down/200?cb=20211215125004",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/8/84/%28Reaper_of_Judgement%29_Rei_Sakuma_B.png/revision/latest/scale-to-width-down/200?cb=20230514170814",
       "series": 42,
       "type": "event"
     },
@@ -5855,10 +5855,10 @@
       "type": "event"
     },
     {
-      "id": "Mysterious_Someone_After_School",
+      "id": "Someone_After_School",
       "star": 3,
       "name": "放課後の誰か",
-      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/3/31/%28Mysterious_Someone_After_School%29_Mitsuru_Tenma_M.png/revision/latest/scale-to-width-down/200?cb=20220126153422",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/b/b6/%28Someone_After_School%29_Mitsuru_Tenma_M.png/revision/latest/scale-to-width-down/200?cb=20220126153422",
       "series": 45,
       "type": "feature"
     },
@@ -5953,10 +5953,10 @@
       "type": "event"
     },
     {
-      "id": "The_Best_Hospitality",
+      "id": "The_Best_Treat",
       "star": 5,
       "name": "最高のおもてなし",
-      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/b/b0/%28The_Best_Hospitality%29_Hajime_Shino_M.png/revision/latest/scale-to-width-down/200?cb=20220126153431",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/8/89/%28The_Best_Treat%29_Hajime_Shino_M.png/revision/latest/scale-to-width-down/200?cb=20220126153431",
       "series": 45,
       "type": "feature"
     },
@@ -6381,10 +6381,10 @@
       "type": "limited"
     },
     {
-      "id": "Toughly_Woven_Threads_of_Youth",
+      "id": "Tough_Threads_of_Youth",
       "star": 5,
       "name": "青春が紡ぐ硬い糸",
-      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/7/79/%28Toughly_Woven_Threads_of_Youth%29_Kuro_Kiryu_M.png/revision/latest/scale-to-width-down/200?cb=20220213085812",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/b/b0/%28Tough_Threads_of_Youth%29_Kuro_Kiryu_M.png/revision/latest/scale-to-width-down/200?cb=20220213085812",
       "series": 46,
       "type": "feature"
     },
@@ -6559,10 +6559,10 @@
       "type": "event"
     },
     {
-      "id": "Deciding_One%27s_Path",
+      "id": "Choosing_the_Path",
       "star": 4,
       "name": "道の選択",
-      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/0/0d/%28Deciding_One%27s_Path%29_Souma_Kanzaki_M.png/revision/latest/scale-to-width-down/200?cb=20220213085822",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/3/3b/%28Choosing_the_Path%29_Souma_Kanzaki_M.png/revision/latest/scale-to-width-down/200?cb=20220213085822",
       "series": 46,
       "type": "feature"
     },
@@ -7815,10 +7815,10 @@
       "type": "anniversary"
     },
     {
-      "id": "A_Sleepover_Close_By",
+      "id": "A_Sleepover_Nearby",
       "star": 4,
       "name": "近場のお泊まり",
-      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/7/73/%28A_Sleepover_Close_By%29_Sora_Harukawa_M.png/revision/latest/scale-to-width-down/200?cb=20220126153426",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/c/c2/%28A_Sleepover_Nearby%29_Sora_Harukawa_M.png/revision/latest/scale-to-width-down/200?cb=20220126153426",
       "series": 45,
       "type": "feature"
     },

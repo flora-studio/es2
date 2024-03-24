@@ -352,9 +352,9 @@
     },
     {
       "type": "event",
-      "banner": "https://static.wikia.nocookie.net/ensemble-stars/images/4/48/Romantic%3F_Date_Banner.png/revision/latest/scale-to-width-down/220?cb=20220218150944",
-      "name": "Romantic? Date",
-      "cg": "https://static.wikia.nocookie.net/ensemble-stars/images/3/36/%28Bitter_Remarks%29_HiMERU_CG2.png/revision/latest/scale-to-width-down/1000?cb=20220218190720",
+      "banner": "https://static.wikia.nocookie.net/ensemble-stars/images/0/0a/Romantic_%28%3F%29_Date_Banner.png/revision/latest/scale-to-width-down/220?cb=20220218150944",
+      "name": "Romantic (?) Date",
+      "cg": "https://static.wikia.nocookie.net/ensemble-stars/images/8/89/%28Unsweet_Words%29_HiMERU_CG2.png/revision/latest/scale-to-width-down/1000?cb=20220218190720",
       "series": 46
     },
     {
@@ -382,7 +382,7 @@
       "type": "event",
       "banner": "https://static.wikia.nocookie.net/ensemble-stars/images/8/8b/La_Mort_Banner.png/revision/latest/scale-to-width-down/220?cb=20211215130610",
       "name": "La Mort",
-      "cg": "https://static.wikia.nocookie.net/ensemble-stars/images/c/cd/%28Reaper_of_Condemnation%29_Rei_Sakuma_CG2.png/revision/latest/scale-to-width-down/1000?cb=20211215122453",
+      "cg": "https://static.wikia.nocookie.net/ensemble-stars/images/b/b2/%28Reaper_of_Judgement%29_Rei_Sakuma_CG2.png/revision/latest/scale-to-width-down/1000?cb=20211215122453",
       "series": 42
     },
     {
@@ -1028,14 +1028,14 @@
       "type": "feature",
       "banner": "https://static.wikia.nocookie.net/ensemble-stars/images/0/0a/Kuro_Feature_Scout.png/revision/latest/scale-to-width-down/220?cb=20220212211919",
       "name": "Kuro Feature Scout",
-      "cg": "https://static.wikia.nocookie.net/ensemble-stars/images/7/76/%28Toughly_Woven_Threads_of_Youth%29_Kuro_Kiryu_CG2.png/revision/latest/scale-to-width-down/1000?cb=20220213090207",
+      "cg": "https://static.wikia.nocookie.net/ensemble-stars/images/5/5e/%28Tough_Threads_of_Youth%29_Kuro_Kiryu_CG2.png/revision/latest/scale-to-width-down/1000?cb=20220213090207",
       "series": 46
     },
     {
       "type": "feature",
       "banner": "https://static.wikia.nocookie.net/ensemble-stars/images/1/18/Hajime_Feature_Scout.png/revision/latest/scale-to-width-down/220?cb=20220125161455",
       "name": "Hajime Feature Scout",
-      "cg": "https://static.wikia.nocookie.net/ensemble-stars/images/3/35/%28The_Best_Hospitality%29_Hajime_Shino_CG2.png/revision/latest/scale-to-width-down/1000?cb=20220127141213",
+      "cg": "https://static.wikia.nocookie.net/ensemble-stars/images/d/da/%28The_Best_Treat%29_Hajime_Shino_CG2.png/revision/latest/scale-to-width-down/1000?cb=20220127141213",
       "series": 45
     },
     {
