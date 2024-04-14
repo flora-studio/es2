@@ -2,6 +2,13 @@
   "event": [
     {
       "type": "event",
+      "banner": "https://static.wikia.nocookie.net/ensemble-stars/images/a/a8/Madara_Feature_Scout_2.png/revision/latest/scale-to-width-down/220?cb=20240403064124",
+      "name": "Madara Feature Scout 2",
+      "cg": "https://static.wikia.nocookie.net/ensemble-stars/images/7/7e/%28Signs_of_Blossoming%29_Madara_Mikejima_CG2.png/revision/latest/scale-to-width-down/1000?cb=20240406095257",
+      "series": 97
+    },
+    {
+      "type": "event",
       "banner": "https://static.wikia.nocookie.net/ensemble-stars/images/4/47/The_Blink_of_the_Eye_and_Exhibition_Banner.png/revision/latest/scale-to-width-down/220?cb=20240316000554",
       "name": "The Blink of the Eye and Exhibition",
       "cg": "https://static.wikia.nocookie.net/ensemble-stars/images/5/55/%28Mystery_and_Exhibition%29_Rei_Sakuma_CG2.png/revision/latest/scale-to-width-down/1000?cb=20240317153156",
@@ -674,6 +681,13 @@
     }
   ],
   "feature": [
+    {
+      "type": "feature",
+      "banner": "https://static.wikia.nocookie.net/ensemble-stars/images/5/5d/Kohaku_Feature_Scout_2.png/revision/latest/scale-to-width-down/220?cb=20240327031942",
+      "name": "Kohaku Feature Scout 2",
+      "cg": "https://static.wikia.nocookie.net/ensemble-stars/images/5/59/%28Heart-pounding_Destinations%29_Kohaku_Oukawa_CG2.png/revision/latest/scale-to-width-down/1000?cb=20240326123027",
+      "series": 97
+    },
     {
       "type": "feature",
       "banner": "https://static.wikia.nocookie.net/ensemble-stars/images/9/98/Shu_Feature_Scout_2.png/revision/latest/scale-to-width-down/220?cb=20240311021704",

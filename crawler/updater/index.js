@@ -3,8 +3,8 @@ const fs = require('fs')
 const BASE_URL = 'https://ensemble-stars.fandom.com'
 
 // TODO 每次记得替换
-const ScoutUrl = 'https://ensemble-stars.fandom.com/wiki/Category:La_Mort'
-const ScoutSeries = 42
+const ScoutUrl = 'https://ensemble-stars.fandom.com/wiki/Category:Kohaku_Feature_Scout_2'
+const ScoutSeries = 97
 
 const scout = {
   type: '',

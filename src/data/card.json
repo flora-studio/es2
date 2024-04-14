@@ -717,6 +717,14 @@
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/0/0b/%28A_Fleeting_Moment_Filled_With_Love%29_Wataru_Hibiki_M.png/revision/latest/scale-to-width-down/200?cb=20240301061116",
       "series": 95,
       "type": "event"
+    },
+    {
+      "id": "Joys_of_Acting",
+      "star": 4,
+      "name": "演技の喜び",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/4/43/%28Joys_of_Acting%29_Wataru_Hibiki_M.png/revision/latest/scale-to-width-down/200?cb=20240405104249",
+      "series": 97,
+      "type": "event"
     }
   ],
   "Tori_Himemiya": [
@@ -1194,6 +1202,14 @@
       "name": "星が刻む淵",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/7/7e/%28Abyss_Engraved_By_Stars%29_Hokuto_Hidaka_M.png/revision/latest/scale-to-width-down/200?cb=20240225212333",
       "series": 95,
+      "type": "feature"
+    },
+    {
+      "id": "The_Role_of_a_Senior",
+      "star": 3,
+      "name": "先輩の役目",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/2/25/%28The_Role_of_a_Senior%29_Hokuto_Hidaka_M.png/revision/latest/scale-to-width-down/200?cb=20240326175404",
+      "series": 97,
       "type": "feature"
     }
   ],
@@ -1843,6 +1859,14 @@
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/2/25/%28Heart_With_a_Wash_of_Color%29_Chiaki_Morisawa_M.png/revision/latest/scale-to-width-down/200?cb=20231116163435",
       "series": 88,
       "type": "feature"
+    },
+    {
+      "id": "A_Stitch_Forward",
+      "star": 3,
+      "name": "Chiaki_Morisawa",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/8/87/%28A_Stitch_Forward%29_Chiaki_Morisawa_M.png/revision/latest/scale-to-width-down/200?cb=20240405144356",
+      "series": 97,
+      "type": "event"
     }
   ],
   "Kanata_Shinkai": [
@@ -2831,6 +2855,14 @@
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/6/66/%28Methods_of_Looking_After%29_Mayoi_Ayase_M.png/revision/latest/scale-to-width-down/200?cb=20231116163446",
       "series": 88,
       "type": "feature"
+    },
+    {
+      "id": "A_Gaze_You_Feel",
+      "star": 3,
+      "name": "Mayoi_Ayase",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/a/af/%28A_Gaze_You_Feel%29_Mayoi_Ayase_M.png/revision/latest/scale-to-width-down/200?cb=20240405144410",
+      "series": 97,
+      "type": "event"
     }
   ],
   "Tatsumi_Kazehaya": [
@@ -4759,6 +4791,14 @@
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/9/9e/%28A_Thrilling_New_Year%29_Kohaku_Oukawa_M.png/revision/latest/scale-to-width-down/200?cb=20240121182910",
       "series": 92,
       "type": "feature"
+    },
+    {
+      "id": "Heart-pounding_Destinations",
+      "star": 5,
+      "name": "胸踊る行き先",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/2/2e/%28Heart-pounding_Destinations%29_Kohaku_Oukawa_M.png/revision/latest/scale-to-width-down/200?cb=20240326140810",
+      "series": 97,
+      "type": "feature"
     }
   ],
   "Niki_Shiina": [
@@ -5940,6 +5980,14 @@
       "name": "初訪問の景色",
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/d/d0/%28Scenery_of_the_First_Visit%29_Mitsuru_Tenma_M.png/revision/latest/scale-to-width-down/200?cb=20240225045533",
       "series": 94,
+      "type": "feature"
+    },
+    {
+      "id": "Joys_of_Growth",
+      "star": 4,
+      "name": "成長する楽しさ",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/1/10/%28Joys_of_Growth%29_Mitsuru_Tenma_M.png/revision/latest/scale-to-width-down/200?cb=20240326143624",
+      "series": 97,
       "type": "feature"
     }
   ],
@@ -8071,6 +8119,14 @@
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/4/4a/%28Street_Corner_Treasure_Trove%29_Madara_Mikejima_M.png/revision/latest/scale-to-width-down/200?cb=20231202095109",
       "series": 89,
       "type": "feature"
+    },
+    {
+      "id": "Signs_of_Blossoming",
+      "star": 5,
+      "name": "花候の気配",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/8/8d/%28Signs_of_Blossoming%29_Madara_Mikejima_M.png/revision/latest/scale-to-width-down/200?cb=20240405144326",
+      "series": 97,
+      "type": "event"
     }
   ],
   "Akiomi_Kunugi": [
