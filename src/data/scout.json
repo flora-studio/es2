@@ -345,16 +345,16 @@
     },
     {
       "type": "event",
-      "banner": "https://static.wikia.nocookie.net/ensemble-stars/images/2/2f/White_Brim_Banner.png/revision/latest/scale-to-width-down/220?cb=20220324034846",
-      "name": "whiteblim",
-      "cg": "https://wx3.sinaimg.cn/large/008dwbdkgy1h0aqt3q93yj31t00u07wi.jpg",
+      "banner": "https://static.wikia.nocookie.net/ensemble-stars/images/e/ed/White_Headdress_Banner.png/revision/latest/scale-to-width-down/220?cb=20220324034846",
+      "name": "White Headdress",
+      "cg": "https://static.wikia.nocookie.net/ensemble-stars/images/3/32/%28White_Headdress%29_Tori_Himemiya_CG2.png/revision/latest/scale-to-width-down/1000?cb=20220324071417",
       "series": 48
     },
     {
       "type": "event",
-      "banner": "https://static.wikia.nocookie.net/ensemble-stars/images/4/4a/Myriad_of_Colors_and_Flowers_Banner.png/revision/latest/scale-to-width-down/220?cb=20220227172903",
-      "name": "Myriad of Colors and Flowers",
-      "cg": "https://static.wikia.nocookie.net/ensemble-stars/images/2/27/%28Mingling_Colors%29_Madara_Mikejima_CG2.png/revision/latest/scale-to-width-down/1000?cb=20220228201129",
+      "banner": "https://static.wikia.nocookie.net/ensemble-stars/images/0/0e/Technicolor_Flowers_Banner.png/revision/latest/scale-to-width-down/220?cb=20220227172903",
+      "name": "Technicolor Flowers",
+      "cg": "https://static.wikia.nocookie.net/ensemble-stars/images/1/18/%28Blended_Colors%29_Madara_Mikejima_CG2.png/revision/latest/scale-to-width-down/1000?cb=20220228201129",
       "series": 47
     },
     {
@@ -401,8 +401,8 @@
     },
     {
       "type": "event",
-      "banner": "https://static.wikia.nocookie.net/ensemble-stars/images/f/f6/Detective_DANCE_%28Decadance%29_Banner.png/revision/latest/scale-to-width-down/220?cb=20211114074542",
-      "name": "Detective DANCE (Decadance)",
+      "banner": "https://static.wikia.nocookie.net/ensemble-stars/images/9/94/Detective_DANCE_Banner.png/revision/latest/scale-to-width-down/220?cb=20211114074542",
+      "name": "Detective DANCE",
       "cg": "https://static.wikia.nocookie.net/ensemble-stars/images/8/8c/%28Dainty_High_School_Detective%29_Mika_Kagehira_CG2.png/revision/latest/scale-to-width-down/1000?cb=20211114184057",
       "series": 40
     },
@@ -1028,14 +1028,14 @@
       "type": "feature",
       "banner": "https://static.wikia.nocookie.net/ensemble-stars/images/e/e8/Keito_Feature_Scout.png/revision/latest/scale-to-width-down/220?cb=20220324035053",
       "name": "Keito Feature Scout",
-      "cg": "https://wx2.sinaimg.cn/large/008dwbdkgy1h0aqsviom1j31t00u07wi.jpg",
+      "cg": "https://static.wikia.nocookie.net/ensemble-stars/images/c/cd/%28Unsullied_Flower_of_Heart%29_Keito_Hasumi_CG2.png/revision/latest/scale-to-width-down/1000?cb=20220324071351",
       "series": 48
     },
     {
       "type": "feature",
       "banner": "https://static.wikia.nocookie.net/ensemble-stars/images/f/f4/Kaoru_Feature_Scout.png/revision/latest/scale-to-width-down/220?cb=20220227170135",
       "name": "Kaoru Feature Scout",
-      "cg": "https://static.wikia.nocookie.net/ensemble-stars/images/9/97/%28Summer_Breeze_that_Affirms_Expectations%29_Kaoru_Hakaze_CG2.png/revision/latest/scale-to-width-down/1000?cb=20220228003123",
+      "cg": "https://static.wikia.nocookie.net/ensemble-stars/images/d/d6/%28Reassuring_Breeze%29_Kaoru_Hakaze_CG2.png/revision/latest/scale-to-width-down/1000?cb=20220228003123",
       "series": 47
     },
     {

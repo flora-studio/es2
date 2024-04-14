@@ -2,9 +2,10 @@ const Crawler = require('crawler')
 const fs = require('fs')
 const BASE_URL = 'https://ensemble-stars.fandom.com'
 
+// https://ensemble-stars.fandom.com/wiki/Story/Global_Excl._Story_(!!)
 // TODO 每次记得替换
-const ScoutUrl = 'https://ensemble-stars.fandom.com/wiki/Category:Kohaku_Feature_Scout_2'
-const ScoutSeries = 97
+const ScoutUrl = 'https://ensemble-stars.fandom.com/wiki/Category:Fleeting_White'
+const ScoutSeries = 95
 
 const scout = {
   type: '',
