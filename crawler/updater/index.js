@@ -4,8 +4,9 @@ const BASE_URL = 'https://ensemble-stars.fandom.com'
 
 // https://ensemble-stars.fandom.com/wiki/Story/Global_Excl._Story_(!!)
 // TODO 每次记得替换
-const ScoutUrl = 'https://ensemble-stars.fandom.com/wiki/Category:Fleeting_White'
-const ScoutSeries = 95
+const ScoutUrl = 'https://ensemble-stars.fandom.com/wiki/Category:Dreamscape_Fairytales'
+const ScoutSeries = 58
+const ScoutType = ['feature', 'event', 'limited'][2]
 
 const scout = {
   type: '',
@@ -30,7 +31,7 @@ c.queue({
       const $ = res.$
       // 卡池基础数据
       scout.name = $('#firstHeading').text().trim()
-      scout.type = scout.name.indexOf('Feature') > 0 ? 'feature' : 'event'
+      scout.type = ScoutType // scout.name.indexOf('Feature') > 0 ? 'feature' : 'event'
       const bannerUrl = $($('table img')[0]).attr('src')
       scout.banner = bannerUrl?.replace('scale-to-width-down/410', 'scale-to-width-down/220') || ''
       // 新卡的数据

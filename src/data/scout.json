@@ -1548,6 +1548,20 @@
   "limited": [
     {
       "type": "limited",
+      "banner": "https://static.wikia.nocookie.net/ensemble-stars/images/d/d2/PULSING_SPRING_Banner.png/revision/latest/scale-to-width-down/220?cb=20240211031318",
+      "name": "PULSING SPRING",
+      "cg": "https://static.wikia.nocookie.net/ensemble-stars/images/9/9d/%28Astral_Echoes_of_Spring%29_Nagisa_Ran_CG2.png/revision/latest/scale-to-width-down/1000?cb=20240213063848",
+      "series": 96.2
+    },
+    {
+      "type": "limited",
+      "banner": "https://static.wikia.nocookie.net/ensemble-stars/images/e/e0/Murmurs_of_Flourishing_Blossoms_Banner.png/revision/latest/scale-to-width-down/220?cb=20240103033351",
+      "name": "Murmurs of Flourishing Blossoms",
+      "cg": "https://static.wikia.nocookie.net/ensemble-stars/images/4/4d/%28Gentle_Blossoming%29_Kaoru_Hakaze_CG2.png/revision/latest/scale-to-width-down/1000?cb=20240103033347",
+      "series": 96.1
+    },
+    {
+      "type": "limited",
       "banner": "https://static.wikia.nocookie.net/ensemble-stars/images/b/b5/Leap_%E2%98%86_Into_The_Future_Banner.png/revision/latest/scale-to-width-down/220?cb=20210423093502",
       "name": "Leap ☆ Into The Future",
       "series": 9,
@@ -1562,24 +1576,24 @@
     },
     {
       "type": "limited",
-      "banner": "https://static.wikia.nocookie.net/ensemble-stars/images/3/36/Song_of_Mermaids_Banner.png/revision/latest/scale-to-width-down/220?cb=20210917185850",
-      "name": "Song of Mermaids",
+      "banner": "https://static.wikia.nocookie.net/ensemble-stars/images/2/2f/Song_of_Mermaid_Banner.png/revision/latest/scale-to-width-down/220?cb=20240209073737",
+      "name": "Song of Mermaid",
       "series": 19,
-      "cg": "https://static.wikia.nocookie.net/ensemble-stars/images/e/ef/%28Song_of_Sunny_Skies%29_Hiyori_Tomoe_CG2.png/revision/latest/scale-to-width-down/1000?cb=20210813181352"
+      "cg": "https://static.wikia.nocookie.net/ensemble-stars/images/2/27/%28Sunlit_Ballad%29_Hiyori_Tomoe_CG2.png/revision/latest/scale-to-width-down/1000?cb=20210813181352"
     },
     {
       "type": "limited",
-      "banner": "https://static.wikia.nocookie.net/ensemble-stars/images/e/e0/Little_Moments_of_the_Interlacing_Years_Banner.png/revision/latest/scale-to-width-down/220?cb=20210310214647",
+      "banner": "https://static.wikia.nocookie.net/ensemble-stars/images/3/30/Little_Moments_of_the_Interlacing_Years.png/revision/latest/scale-to-width-down/220?cb=20210310214647",
       "name": "Little Moments of the Interlacing Years",
       "series": 30,
       "cg": "https://static.wikia.nocookie.net/ensemble-stars/images/4/44/%28Fortune_Shining_Down%29_Rinne_Amagi_CG2.png/revision/latest/scale-to-width-down/1000?cb=20210306233619"
     },
     {
       "type": "limited",
-      "banner": "https://static.wikia.nocookie.net/ensemble-stars/images/9/95/Notre_Rencontre_Banner.png/revision/latest/scale-to-width-down/220?cb=20220105134359",
+      "banner": "https://static.wikia.nocookie.net/ensemble-stars/images/3/3a/Notre_Rencontre.png/revision/latest/scale-to-width-down/220?cb=20240305122307",
       "name": "Notre Rencontre",
       "series": 26,
-      "cg": "https://static.wikia.nocookie.net/ensemble-stars/images/a/aa/%28Flawless_Blessing%29_Hiiro_Amagi_CG2.png/revision/latest/scale-to-width-down/1000?cb=20220105134918"
+      "cg": "https://static.wikia.nocookie.net/ensemble-stars/images/4/4b/%28Pure_Wishes%29_Hiiro_Amagi_CG2.png/revision/latest/scale-to-width-down/261?cb=20220105134918"
     },
     {
       "type": "limited",
@@ -1611,10 +1625,10 @@
     },
     {
       "type": "limited",
-      "banner": "https://static.wikia.nocookie.net/ensemble-stars/images/2/21/Fairy_Tales_in_a_Dream_Banner.png/revision/latest/scale-to-width-down/220?cb=20220817094609",
-      "name": "Fairy Tales in a Dream",
+      "banner": "https://static.wikia.nocookie.net/ensemble-stars/images/c/cd/Dreamscape_Fairytales_Banner.png/revision/latest/scale-to-width-down/220?cb=20240209073307",
+      "name": "Dreamscape Fairytales",
       "series": 58,
-      "cg": "https://static.wikia.nocookie.net/ensemble-stars/images/1/10/%28Afternoon_Fairy_Tale%29_Ritsu_Sakuma_CG2.png/revision/latest/scale-to-width-down/1000?cb=20220817094600"
+      "cg": "https://static.wikia.nocookie.net/ensemble-stars/images/c/c5/%28Teatime_Fairy_Tales%29_Ritsu_Sakuma_CG2.png/revision/latest/scale-to-width-down/1000?cb=20220817094600"
     },
     {
       "type": "limited",
@@ -1660,10 +1674,10 @@
     },
     {
       "type": "limited",
-      "banner": "https://imglf3.lf127.net/img/32f7cf78e011fa38/cVViT08vMlVDZVFjRHMwRjB4MEYweDZPeVpEakRMNlpSNWN3R0JWbEpFYz0.jpg",
-      "name": "第X位侦探",
+      "banner": "https://static.wikia.nocookie.net/ensemble-stars/images/f/f3/The_Xth_Detective_Banner.png/revision/latest/scale-to-width-down/220?cb=20240212030458",
+      "name": "The Xth Detective",
       "series": 85.1,
-      "cg": "https://imglf3.lf127.net/img/c4801a920ac23527/MXpMMCt5dnF2WDgySldvYlVxTVJ6Z1BWTnMraWFGNTFtVjRYRk9INE9ZYz0.jpg"
+      "cg": "https://static.wikia.nocookie.net/ensemble-stars/images/0/08/%28Deductive_Reasoning%29_Tomoya_Mashiro_CG2.png/revision/latest/scale-to-width-down/1000?cb=20231116151436"
     }
   ],
   "normal": [
