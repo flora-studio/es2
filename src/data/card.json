@@ -895,6 +895,14 @@
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/9/9c/%28Honeymoon_Caf%C3%A9%29_Tori_Himemiya_M.png/revision/latest/scale-to-width-down/200?cb=20240202230013",
       "series": 93,
       "type": "event"
+    },
+    {
+      "id": "Unknown_Game",
+      "star": 3,
+      "name": "知らない遊び",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/e/ea/%28Unknown_Game%29_Tori_Himemiya_M.png/revision/latest/scale-to-width-down/200?cb=20240418064420",
+      "series": 98,
+      "type": "feature"
     }
   ],
   "Yuzuru_Fushimi": [
@@ -2717,6 +2725,14 @@
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/a/a8/%28Evangelism_of_Ougonten%29_Aira_Shiratori_M.png/revision/latest/scale-to-width-down/200?cb=20240109212730",
       "series": 91,
       "type": "event"
+    },
+    {
+      "id": "A_Star_That_Connects",
+      "star": 5,
+      "name": "繋いでいく星",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/e/ed/%28A_Star_That_Connects%29_Aira_Shiratori_M.png/revision/latest/scale-to-width-down/200?cb=20240417063429",
+      "series": 98,
+      "type": "event"
     }
   ],
   "Mayoi_Ayase": [
@@ -3041,6 +3057,14 @@
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/c/c5/%28Blossoming_Prayers%29_Tatsumi_Kazehaya.png/revision/latest/scale-to-width-down/200?cb=20240103033331",
       "series": 96.1,
       "type": "limited"
+    },
+    {
+      "id": "A_Pointing_Star",
+      "star": 4,
+      "name": "指し示す星",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/0/02/%28A_Pointing_Star%29_Tatsumi_Kazehaya_M.png/revision/latest/scale-to-width-down/200?cb=20240417063502",
+      "series": 98,
+      "type": "event"
     }
   ],
   "Nagisa_Ran": [
@@ -4353,6 +4377,14 @@
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/4/4f/%28Weapon_of_My_Own%29_Yuta_Aoi_M.png/revision/latest/scale-to-width-down/200?cb=20240225212347",
       "series": 95,
       "type": "feature"
+    },
+    {
+      "id": "Luminous_Vibration",
+      "star": 5,
+      "name": "光明バイブレーション",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/2/25/%28Luminous_Vibration%29_Yuta_Aoi_M.png/revision/latest/scale-to-width-down/200?cb=20240418064401",
+      "series": 98,
+      "type": "feature"
     }
   ],
   "Rinne_Amagi": [
@@ -4677,6 +4709,14 @@
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/c/c9/%28Time_to_Continue_Blossoming%29_HiMERU_M.png/revision/latest/scale-to-width-down/200?cb=20231217225539",
       "series": 90,
       "type": "feature"
+    },
+    {
+      "id": "A_Gradually_Changing_Star",
+      "star": 5,
+      "name": "変わりゆく星",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/2/2e/%28A_Gradually_Changing_Star%29_HiMERU_M.png/revision/latest/scale-to-width-down/200?cb=20240417063445",
+      "series": 98,
+      "type": "event"
     }
   ],
   "Kohaku_Oukawa": [
@@ -4839,6 +4879,14 @@
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/2/2e/%28Heart-pounding_Destinations%29_Kohaku_Oukawa_M.png/revision/latest/scale-to-width-down/200?cb=20240326140810",
       "series": 97,
       "type": "feature"
+    },
+    {
+      "id": "A_Star_That_Finds_Its_Way",
+      "star": 4,
+      "name": "辿り着く星",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/6/63/%28A_Star_That_Finds_Its_Way%29_Kohaku_Oukawa_M.png/revision/latest/scale-to-width-down/200?cb=20240417063517",
+      "series": 98,
+      "type": "event"
     }
   ],
   "Niki_Shiina": [
@@ -5101,10 +5149,10 @@
       "type": "limited"
     },
     {
-      "id": "A_New_Face",
+      "id": "New_Face",
       "star": 3,
       "name": "新しい顔",
-      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/a/a9/%28A_New_Face%29_Rei_Sakuma_M.png/revision/latest/scale-to-width-down/200?cb=20220407205441",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/d/d2/%28New_Face%29_Rei_Sakuma_M.png/revision/latest/scale-to-width-down/200?cb=20220407205441",
       "series": 49,
       "type": "feature"
     },
@@ -7157,10 +7205,10 @@
       "type": "event"
     },
     {
-      "id": "Comforting_Waters",
+      "id": "The_Feeling_of_Water",
       "star": 4,
       "name": "水の居心地",
-      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/4/46/%28Comforting_Waters%29_Izumi_Sena_M.png/revision/latest/scale-to-width-down/200?cb=20220407205408",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/7/7d/%28The_Feeling_of_Water%29_Izumi_Sena_M.png/revision/latest/scale-to-width-down/200?cb=20220407205408",
       "series": 49,
       "type": "feature"
     },
@@ -7303,10 +7351,10 @@
       "type": "feature"
     },
     {
-      "id": "He_Who_Awakens_From_His_Slumber",
+      "id": "Awakening_from_Slumber",
       "star": 5,
       "name": "眠りから覚める者",
-      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/0/0e/%28He_Who_Awakens_From_His_Slumber%29_Ritsu_Sakuma_M.png/revision/latest/scale-to-width-down/200?cb=20220407205312",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/6/6e/%28Awakening_from_Slumber%29_Ritsu_Sakuma_M.png/revision/latest/scale-to-width-down/200?cb=20220407205312",
       "series": 49,
       "type": "feature"
     },
@@ -8029,6 +8077,14 @@
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/1/15/%28Color_That_Conveys_Feelings%29_Sora_Harukawa_M.png/revision/latest/scale-to-width-down/200?cb=20231202050725",
       "series": 89,
       "type": "event"
+    },
+    {
+      "id": "Punch_With_All_Your_Might",
+      "star": 4,
+      "name": "渾身のパンチ",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/7/7c/%28Punch_With_All_Your_Might%29_Sora_Harukawa_M.png/revision/latest/scale-to-width-down/200?cb=20240418064349",
+      "series": 98,
+      "type": "feature"
     }
   ],
   "Madara_Mikejima": [

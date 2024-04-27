@@ -2,6 +2,13 @@
   "event": [
     {
       "type": "event",
+      "banner": "https://static.wikia.nocookie.net/ensemble-stars/images/1/1a/Suits_Buzzing_Around_Alongside_Bees_Banner.png/revision/latest/scale-to-width-down/220?cb=20240417061611",
+      "name": "Suits Buzzing Around Alongside Bees",
+      "cg": "https://static.wikia.nocookie.net/ensemble-stars/images/3/33/%28A_Gradually_Changing_Star%29_HiMERU_CG2.png/revision/latest/scale-to-width-down/1000?cb=20240418145949",
+      "series": 98
+    },
+    {
+      "type": "event",
       "banner": "https://static.wikia.nocookie.net/ensemble-stars/images/a/a8/Madara_Feature_Scout_2.png/revision/latest/scale-to-width-down/220?cb=20240403064124",
       "name": "Madara Feature Scout 2",
       "cg": "https://static.wikia.nocookie.net/ensemble-stars/images/7/7e/%28Signs_of_Blossoming%29_Madara_Mikejima_CG2.png/revision/latest/scale-to-width-down/1000?cb=20240406095257",
@@ -683,6 +690,13 @@
   "feature": [
     {
       "type": "feature",
+      "banner": "https://static.wikia.nocookie.net/ensemble-stars/images/5/54/Yuta_Feature_Scout_2.png/revision/latest/scale-to-width-down/220?cb=20240417055554",
+      "name": "Yuta Feature Scout 2",
+      "cg": "https://static.wikia.nocookie.net/ensemble-stars/images/9/98/%28Luminous_Vibration%29_Yuta_Aoi_CG2.png/revision/latest/scale-to-width-down/1000?cb=20240418070505",
+      "series": 98
+    },
+    {
+      "type": "feature",
       "banner": "https://static.wikia.nocookie.net/ensemble-stars/images/5/5d/Kohaku_Feature_Scout_2.png/revision/latest/scale-to-width-down/220?cb=20240327031942",
       "name": "Kohaku Feature Scout 2",
       "cg": "https://static.wikia.nocookie.net/ensemble-stars/images/5/59/%28Heart-pounding_Destinations%29_Kohaku_Oukawa_CG2.png/revision/latest/scale-to-width-down/1000?cb=20240326123027",
@@ -1021,7 +1035,7 @@
       "type": "feature",
       "banner": "https://static.wikia.nocookie.net/ensemble-stars/images/e/e1/Ritsu_Feature_Scout.png/revision/latest/scale-to-width-down/220?cb=20220406203949",
       "name": "Ritsu Feature Scout",
-      "cg": "https://static.wikia.nocookie.net/ensemble-stars/images/6/68/%28He_Who_Awakens_From_His_Slumber%29_Ritsu_Sakuma_CG2.png/revision/latest/scale-to-width-down/1000?cb=20220407204848",
+      "cg": "https://static.wikia.nocookie.net/ensemble-stars/images/2/26/%28Awakening_from_Slumber%29_Ritsu_Sakuma_CG2.png/revision/latest/scale-to-width-down/1000?cb=20220407204848",
       "series": 49
     },
     {

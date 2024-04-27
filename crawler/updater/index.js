@@ -4,9 +4,9 @@ const BASE_URL = 'https://ensemble-stars.fandom.com'
 
 // https://ensemble-stars.fandom.com/wiki/Story/Global_Excl._Story_(!!)
 // TODO 每次记得替换
-const ScoutUrl = 'https://ensemble-stars.fandom.com/wiki/Category:Dreamscape_Fairytales'
-const ScoutSeries = 58
-const ScoutType = ['feature', 'event', 'limited'][2]
+const ScoutUrl = 'https://ensemble-stars.fandom.com/wiki/Category:Ritsu_Feature_Scout'
+const ScoutSeries = 49
+const ScoutType = ['feature', 'event', 'limited'][0]
 
 const scout = {
   type: '',
