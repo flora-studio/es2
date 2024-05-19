@@ -1219,6 +1219,14 @@
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/2/25/%28The_Role_of_a_Senior%29_Hokuto_Hidaka_M.png/revision/latest/scale-to-width-down/200?cb=20240326175404",
       "series": 97,
       "type": "feature"
+    },
+    {
+      "id": "Contract_EVIL",
+      "star": 5,
+      "name": "契約EVIL",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/3/3a/%28Contract_EVIL%29_Hokuto_Hidaka_M.png/revision/latest/scale-to-width-down/200?cb=20240514091606",
+      "series": 99,
+      "type": "event"
     }
   ],
   "Subaru_Akehoshi": [
@@ -2385,6 +2393,14 @@
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/6/69/%28Blossoming_Remedies%29_Midori_Takamine.png/revision/latest/scale-to-width-down/200?cb=20240103033336",
       "series": 96.1,
       "type": "limited"
+    },
+    {
+      "id": "Found_Individuality",
+      "star": 5,
+      "name": "見つける自分らしさ",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/7/70/%28Found_Individuality%29_Midori_Takamine_M.png/revision/latest/scale-to-width-down/200?cb=20240429131322",
+      "series": 99,
+      "type": "feature"
     }
   ],
   "Hiiro_Amagi": [
@@ -3397,6 +3413,14 @@
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/b/bd/%28Warmth_Bear%29_Hiyori_Tomoe_M.png/revision/latest/scale-to-width-down/200?cb=20231217225550",
       "series": 90,
       "type": "event"
+    },
+    {
+      "id": "Fascinating_Specialty",
+      "star": 4,
+      "name": "魅せるスペシャリティ",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/b/b1/%28Fascinating_Specialty%29_Hiyori_Tomoe_M.png/revision/latest/scale-to-width-down/200?cb=20240428142522",
+      "series": 99,
+      "type": "feature"
     }
   ],
   "Ibara_Saegusa": [
@@ -7421,6 +7445,22 @@
       "img": "https://static.wikia.nocookie.net/ensemble-stars/images/1/10/%28A_Fleeting_Moment_of_Surprise%29_Ritsu_Sakuma_M.png/revision/latest/scale-to-width-down/200?cb=20240301054337",
       "series": 95,
       "type": "event"
+    },
+    {
+      "id": "Balanced_EVIL",
+      "star": 4,
+      "name": "均衡EVIL",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/5/5f/%28Balanced_EVIL%29_Ritsu_Sakuma_M.png/revision/latest/scale-to-width-down/200?cb=20240513234654",
+      "series": 99,
+      "type": "event"
+    },
+    {
+      "id": "Distance_Between_Fellow_Roommates",
+      "star": 3,
+      "name": "同室同士の距離",
+      "img": "https://static.wikia.nocookie.net/ensemble-stars/images/1/13/%28Distance_Between_Fellow_Roommates%29_Ritsu_Sakuma_M.png/revision/latest/scale-to-width-down/200?cb=20240428173946",
+      "series": 99,
+      "type": "feature"
     }
   ],
   "Arashi_Narukami": [

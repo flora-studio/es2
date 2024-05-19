@@ -2,6 +2,13 @@
   "event": [
     {
       "type": "event",
+      "banner": "https://static.wikia.nocookie.net/ensemble-stars/images/b/b0/EVIL_NUM%2B_Banner.png/revision/latest/scale-to-width-down/220?cb=20240504084613",
+      "name": "EVIL NUM+",
+      "cg": "https://static.wikia.nocookie.net/ensemble-stars/images/b/b3/%28Contract_EVIL%29_Hokuto_Hidaka_CG2.png/revision/latest/scale-to-width-down/1000?cb=20240514034144",
+      "series": 99
+    },
+    {
+      "type": "event",
       "banner": "https://static.wikia.nocookie.net/ensemble-stars/images/1/1a/Suits_Buzzing_Around_Alongside_Bees_Banner.png/revision/latest/scale-to-width-down/220?cb=20240417061611",
       "name": "Suits Buzzing Around Alongside Bees",
       "cg": "https://static.wikia.nocookie.net/ensemble-stars/images/3/33/%28A_Gradually_Changing_Star%29_HiMERU_CG2.png/revision/latest/scale-to-width-down/1000?cb=20240418145949",
@@ -688,6 +695,13 @@
     }
   ],
   "feature": [
+    {
+      "type": "feature",
+      "banner": "https://static.wikia.nocookie.net/ensemble-stars/images/6/60/Midori_Feature_Scout_2.png/revision/latest/scale-to-width-down/220?cb=20240428144044",
+      "name": "Midori Feature Scout 2",
+      "cg": "https://static.wikia.nocookie.net/ensemble-stars/images/1/17/%28Found_Individuality%29_Midori_Takamine_CG2.png/revision/latest/scale-to-width-down/1000?cb=20240430104514",
+      "series": 99
+    },
     {
       "type": "feature",
       "banner": "https://static.wikia.nocookie.net/ensemble-stars/images/5/54/Yuta_Feature_Scout_2.png/revision/latest/scale-to-width-down/220?cb=20240417055554",

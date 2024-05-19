@@ -4,8 +4,9 @@ const BASE_URL = 'https://ensemble-stars.fandom.com'
 
 // https://ensemble-stars.fandom.com/wiki/Story/Global_Excl._Story_(!!)
 // TODO 每次记得替换
-const ScoutUrl = 'https://ensemble-stars.fandom.com/wiki/Category:Ritsu_Feature_Scout'
-const ScoutSeries = 49
+// https://static.wikia.nocookie.net/ensemble-stars/images/d/df/%28One_Can_of_Gratitude%29_Ibara_Saegusa_M.png/revision/latest/scale-to-width-down/200?cb=20220502030112
+const ScoutUrl = 'https://ensemble-stars.fandom.com/wiki/Category:Midori_Feature_Scout_2'
+const ScoutSeries = 99
 const ScoutType = ['feature', 'event', 'limited'][0]
 
 const scout = {
